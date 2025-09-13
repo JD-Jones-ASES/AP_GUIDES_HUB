@@ -52,7 +52,7 @@
     {
         "name": "Simulation",
         "definition": "A program modeling real-world systems to study behaviors and predict outcomes—like weather forecasting software simulating atmospheric conditions.",
-        "unit": 1
+        "unit": 3
     },
     {
         "name": "Syntax Error",
@@ -884,94 +884,94 @@
         "definition": "Self-replicating malware spreading between systems—like a cold passing between people.",
         "unit": 5
     },
-   {
-"name": "Round-off Error",
-"definition": "An error occurring when a number is too precise to represent exactly, leading to approximation—like rounding 1/3 to 0.333 in calculations.",
-"unit": 2
-},
-{
-"name": "Computational Artifact",
-"definition": "An object created using computational tools, such as a program, image, or video—like a digitally edited photo shared online.",
-"unit": 1
-},
-{
-"name": "Cryptography",
-"definition": "The art of writing or solving codes to secure information—like designing locks and keys for digital messages.",
-"unit": 5
-},
-{
-"name": "Pixel",
-"definition": "The smallest controllable element of a picture represented on a screen—like a single dot in a pointillist painting.",
-"unit": 2
-},
-{
-"name": "ASCII",
-"definition": "A character encoding standard for text using 7 or 8 bits per character—like a basic alphabet for computers to understand letters and symbols.",
-"unit": 2
-},
-{
-"name": "Unicode",
-"definition": "An international encoding standard for text supporting diverse languages—like an expanded dictionary covering global scripts beyond basic English.",
-"unit": 2
-},
-{
-"name": "RAM (Random Access Memory)",
-"definition": "Volatile memory used for temporary storage of data in active use—like a workbench holding tools currently needed for a project.",
-"unit": 4
-},
-{
-"name": "Secondary Memory",
-"definition": "Non-volatile storage for long-term data retention, such as hard drives—like a library archiving books for future reference.",
-"unit": 4
-},
-{
-"name": "URL (Uniform Resource Locator)",
-"definition": "An address identifying a resource on the web—like a specific coordinate on a map pointing to a location.",
-"unit": 4
-},
-{
-"name": "VPN (Virtual Private Network)",
-"definition": "A technology creating a secure connection over a less secure network—like a shielded cable protecting data in a public wire.",
-"unit": 5
-},
-{
-"name": "Sequential Programming",
-"definition": "A programming paradigm where statements are executed in linear order—like reading a book from beginning to end without jumping pages.",
-"unit": 3
-},
-{
-"name": "Path",
-"definition": "The route data takes through network connections from source to destination—like a pathway through a maze linking start to finish.",
-"unit": 4
-},
-{
-"name": "ISP (Internet Service Provider)",
-"definition": "A company that provides users with access to the internet—like a gateway operator controlling entry to a highway system.",
-"unit": 4
-},
-{
-"name": "Decryption",
-"definition": "The process of converting encoded data back to its original form using a key—like opening a locked safe with the correct combination.",
-"unit": 5
-},
-{
-"name": "Bug",
-"definition": "An unintended error or flaw in software causing malfunctions—like a loose screw disrupting a machine's operation.",
-"unit": 1
-},
-{
-"name": "RGB",
-"definition": "A color model combining red, green, and blue light to produce a spectrum of colors—like blending primary colors in a paint set for art.",
-"unit": 2
-},
-{
-"name": "Certificate",
-"definition": "A digital credential verifying the authenticity of a website or entity—like a passport confirming identity for international travel.",
-"unit": 5
-},
-{
-"name": "DNS Spoofing",
-"definition": "A cyber attack where false DNS responses redirect users to malicious sites—like tampering with signposts to lead travelers astray.",
-"unit": 5
-}
+    {
+        "name": "Round-off Error",
+        "definition": "An error occurring when a number is too precise to represent exactly, leading to approximation—like rounding 1/3 to 0.333 in calculations.",
+        "unit": 2
+    },
+    {
+        "name": "Computational Artifact",
+        "definition": "An object created using computational tools, such as a program, image, or video—like a digitally edited photo shared online.",
+        "unit": 1
+    },
+    {
+        "name": "Cryptography",
+        "definition": "The art of writing or solving codes to secure information—like designing locks and keys for digital messages.",
+        "unit": 5
+    },
+    {
+        "name": "Pixel",
+        "definition": "The smallest controllable element of a picture represented on a screen—like a single dot in a pointillist painting.",
+        "unit": 2
+    },
+    {
+        "name": "ASCII",
+        "definition": "A character encoding standard for text using 7 or 8 bits per character—like a basic alphabet for computers to understand letters and symbols.",
+        "unit": 2
+    },
+    {
+        "name": "Unicode",
+        "definition": "An international encoding standard for text supporting diverse languages—like an expanded dictionary covering global scripts beyond basic English.",
+        "unit": 2
+    },
+    {
+        "name": "RAM (Random Access Memory)",
+        "definition": "Volatile memory used for temporary storage of data in active use—like a workbench holding tools currently needed for a project.",
+        "unit": 4
+    },
+    {
+        "name": "Secondary Memory",
+        "definition": "Non-volatile storage for long-term data retention, such as hard drives—like a library archiving books for future reference.",
+        "unit": 4
+    },
+    {
+        "name": "URL (Uniform Resource Locator)",
+        "definition": "An address identifying a resource on the web—like a specific coordinate on a map pointing to a location.",
+        "unit": 4
+    },
+    {
+        "name": "VPN (Virtual Private Network)",
+        "definition": "A technology creating a secure connection over a less secure network—like a shielded cable protecting data in a public wire.",
+        "unit": 5
+    },
+    {
+        "name": "Sequential Programming",
+        "definition": "A programming paradigm where statements are executed in linear order—like reading a book from beginning to end without jumping pages.",
+        "unit": 3
+    },
+    {
+        "name": "Path",
+        "definition": "The route data takes through network connections from source to destination—like a pathway through a maze linking start to finish.",
+        "unit": 4
+    },
+    {
+        "name": "ISP (Internet Service Provider)",
+        "definition": "A company that provides users with access to the internet—like a gateway operator controlling entry to a highway system.",
+        "unit": 4
+    },
+    {
+        "name": "Decryption",
+        "definition": "The process of converting encoded data back to its original form using a key—like opening a locked safe with the correct combination.",
+        "unit": 5
+    },
+    {
+        "name": "Bug",
+        "definition": "An unintended error or flaw in software causing malfunctions—like a loose screw disrupting a machine's operation.",
+        "unit": 1
+    },
+    {
+        "name": "RGB",
+        "definition": "A color model combining red, green, and blue light to produce a spectrum of colors—like blending primary colors in a paint set for art.",
+        "unit": 2
+    },
+    {
+        "name": "Certificate",
+        "definition": "A digital credential verifying the authenticity of a website or entity—like a passport confirming identity for international travel.",
+        "unit": 5
+    },
+    {
+        "name": "DNS Spoofing",
+        "definition": "A cyber attack where false DNS responses redirect users to malicious sites—like tampering with signposts to lead travelers astray.",
+        "unit": 5
+    }
 ]

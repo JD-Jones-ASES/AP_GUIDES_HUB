@@ -421,7 +421,7 @@
   },
   {
     "name": "Biodiversity",
-    "definition": "Variety of life; genetic/species/ecosystem levels, hotspots like rainforests, provides ecosystem services, threatened by HABITAT loss (habitat, alien species, pollution, overpopulation, overexploitation).",
+    "definition": "Variety of life; genetic/species/ecosystem levels, hotspots like rainforests, provides ecosystem services, threatened by HIPPO (habitat destruction, invasive species, pollution, population growth, overexploitation).",
     "unit": 8
   },
   {
@@ -430,248 +430,248 @@
     "unit": 8
   },
   {
-"name": "Electronegativity",
-"definition": "The tendency of an atom to attract a shared pair of electrons towards itself, crucial for determining bond polarity in molecules like water.",
-"unit": 1
-},
-{
-"name": "Polar Covalent Bond",
-"definition": "A type of covalent bond where electrons are unequally shared due to differences in electronegativity, resulting in partial charges, as in H2O.",
-"unit": 1
-},
-{
-"name": "Hydrogen Bond",
-"definition": "Weak electrostatic attraction between a hydrogen atom bonded to N, O, or F and another electronegative atom, responsible for water's unique properties and DNA base pairing.",
-"unit": 1
-},
-{
-"name": "Cohesion",
-"definition": "The attraction between molecules of the same substance, enabling water transport in plants via xylem.",
-"unit": 1
-},
-{
-"name": "Adhesion",
-"definition": "The attraction between different substances, such as water and plant cell walls, contributing to capillary action.",
-"unit": 1
-},
-{
-"name": "Surface Tension",
-"definition": "The property of a liquid's surface to resist external force due to cohesive forces, allowing insects to walk on water.",
-"unit": 1
-},
-{
-"name": "Specific Heat",
-"definition": "The heat required to raise the temperature of 1g of a substance by 1°C, high in water for temperature stability in organisms.",
-"unit": 1
-},
-{
-"name": "Heat of Vaporization",
-"definition": "The energy required to change 1g of liquid to gas, high in water facilitating cooling through sweat.",
-"unit": 1
-},
-{
-"name": "Evaporative Cooling",
-"definition": "The process where the surface cools as high-energy molecules evaporate, regulating body temperature in animals.",
-"unit": 1
-},
-{
-"name": "Hydrophobic",
-"definition": "Substances that repel water, like nonpolar lipids, forming structures like cell membranes.",
-"unit": 1
-},
-{
-"name": "Monomer",
-"definition": "Small molecules that link to form polymers, such as glucose for starch or amino acids for proteins.",
-"unit": 1
-},
-{
-"name": "Polymer",
-"definition": "Large molecules made of repeating monomer units, including polysaccharides, proteins, and nucleic acids.",
-"unit": 1
-},
-{
-"name": "Dehydration Synthesis",
-"definition": "The process of joining monomers by removing water, forming covalent bonds in macromolecules.",
-"unit": 1
-},
-{
-"name": "Hydrolysis",
-"definition": "The breakdown of polymers into monomers by adding water, catalyzed by enzymes in digestion.",
-"unit": 1
-},
-{
-"name": "Trace Elements",
-"definition": "Elements needed in minute amounts, such as iron for hemoglobin or iodine for thyroid hormones.",
-"unit": 1
-},
-{
-"name": "Endomembrane System",
-"definition": "A group of organelles including ER, Golgi, lysosomes, and vesicles that work together to modify, package, and transport proteins and lipids.",
-"unit": 2
-},
-{
-"name": "Cell Wall",
-"definition": "Rigid layer outside the plasma membrane in plants, fungi, and bacteria, providing support and protection, made of cellulose in plants.",
-"unit": 2
-},
-{
-"name": "Plasmodesmata",
-"definition": "Channels between plant cells allowing transport and communication, analogous to gap junctions in animals.",
-"unit": 2
-},
-{
-"name": "Gap Junctions",
-"definition": "Connections between animal cells for direct communication and transfer of small molecules.",
-"unit": 2
-},
-{
-"name": "Osmosis",
-"definition": "Passive diffusion of water across a selectively permeable membrane from low to high solute concentration.",
-"unit": 2
-},
-{
-"name": "Facilitated Diffusion",
-"definition": "Passive transport of molecules across membranes via carrier or channel proteins, without energy input.",
-"unit": 2
-},
-{
-"name": "Tonicity",
-"definition": "The ability of a solution to cause a cell to gain or lose water, described as hypertonic, hypotonic, or isotonic.",
-"unit": 2
-},
-{
-"name": "Chemiosmosis",
-"definition": "Process where proton gradient across membrane drives ATP synthesis, in both photosynthesis and respiration.",
-"unit": 3
-},
-{
-"name": "ATP Synthase",
-"definition": "Enzyme that synthesizes ATP from ADP and Pi using proton flow through it.",
-"unit": 3
-},
-{
-"name": "Oxidative Phosphorylation",
-"definition": "Production of ATP using energy from electron transfer in the ETC, coupled with chemiosmosis.",
-"unit": 3
-},
-{
-"name": "Pyruvate Oxidation",
-"definition": "Conversion of pyruvate to acetyl-CoA in mitochondria, releasing CO2 and producing NADH.",
-"unit": 3
-},
-{
-"name": "RuBisCO",
-"definition": "Enzyme that catalyzes carbon fixation in Calvin cycle, the most abundant protein on Earth.",
-"unit": 3
-},
-{
-"name": "Photorespiration",
-"definition": "Process where RuBisCO fixes O2 instead of CO2, wasting energy in hot conditions.",
-"unit": 3
-},
-{
-"name": "Apoptosis",
-"definition": "Programmed cell death essential for development and eliminating damaged cells, regulated by signaling pathways.",
-"unit": 4
-},
-{
-"name": "Cyclin",
-"definition": "Proteins that regulate the cell cycle by activating cyclin-dependent kinases (CDKs), levels fluctuate throughout the cycle.",
-"unit": 4
-},
-{
-"name": "Allele",
-"definition": "Alternative versions of a gene that occupy the same locus on homologous chromosomes, determining traits.",
-"unit": 5
-},
-{
-"name": "Genotype",
-"definition": "The genetic makeup of an organism, such as homozygous or heterozygous for a trait.",
-"unit": 5
-},
-{
-"name": "Phenotype",
-"definition": "The observable physical or biochemical characteristics of an organism, influenced by genotype and environment.",
-"unit": 5
-},
-{
-"name": "Testcross",
-"definition": "Breeding an organism of unknown genotype with a homozygous recessive to determine the unknown genotype.",
-"unit": 5
-},
-{
-"name": "Pedigree",
-"definition": "A diagram showing the inheritance of a trait through generations, used to analyze genetic patterns.",
-"unit": 5
-},
-{
-"name": "Central Dogma",
-"definition": "The flow of genetic information from DNA to RNA to protein, central to molecular biology.",
-"unit": 6
-},
-{
-"name": "Promoter",
-"definition": "DNA sequence where RNA polymerase binds to initiate transcription.",
-"unit": 6
-},
-{
-"name": "Transcription Factor",
-"definition": "Proteins that bind to DNA to regulate transcription by promoting or blocking RNA polymerase.",
-"unit": 6
-},
-{
-"name": "RNA Splicing",
-"definition": "Process removing introns and joining exons in eukaryotic pre-mRNA to form mature mRNA.",
-"unit": 6
-},
-{
-"name": "Mutagen",
-"definition": "Agents like radiation or chemicals that cause mutations by altering DNA structure.",
-"unit": 6
-},
-{
-"name": "Fitness",
-"definition": "The ability of an organism to survive and reproduce in its environment, measured relative to others.",
-"unit": 7
-},
-{
-"name": "Adaptive Radiation",
-"definition": "Diversification of a group into multiple species adapted to different niches, like Darwin's finches.",
-"unit": 7
-},
-{
-"name": "Convergent Evolution",
-"definition": "Independent evolution of similar traits in unrelated species due to similar environments, like wings in bats and birds.",
-"unit": 7
-},
-{
-"name": "Endosymbiosis",
-"definition": "Theory that mitochondria and chloroplasts originated from engulfed prokaryotes, supported by their own DNA.",
-"unit": 7
-},
-{
-"name": "Density-Dependent Factors",
-"definition": "Limiting factors whose effects intensify with population density, like competition or disease.",
-"unit": 8
-},
-{
-"name": "Keystone Species",
-"definition": "Species with disproportionate impact on community structure, like sea otters controlling kelp forests.",
-"unit": 8
-},
-{
-"name": "Invasive Species",
-"definition": "Non-native species that disrupt ecosystems, often outcompeting natives due to lack of predators.",
-"unit": 8
-},
-{
-"name": "Gross Primary Productivity",
-"definition": "Total energy captured by photosynthesis in an ecosystem before respiration losses.",
-"unit": 8
-},
-{
-"name": "Net Primary Productivity",
-"definition": "Energy available to consumers after producers deduct respiration costs from GPP.",
-"unit": 8
-}
+    "name": "Electronegativity",
+    "definition": "The tendency of an atom to attract a shared pair of electrons towards itself, crucial for determining bond polarity in molecules like water.",
+    "unit": 1
+  },
+  {
+    "name": "Polar Covalent Bond",
+    "definition": "A type of covalent bond where electrons are unequally shared due to differences in electronegativity, resulting in partial charges, as in H2O.",
+    "unit": 1
+  },
+  {
+    "name": "Hydrogen Bond",
+    "definition": "Weak electrostatic attraction between a hydrogen atom bonded to N, O, or F and another electronegative atom, responsible for water's unique properties and DNA base pairing.",
+    "unit": 1
+  },
+  {
+    "name": "Cohesion",
+    "definition": "The attraction between molecules of the same substance, enabling water transport in plants via xylem.",
+    "unit": 1
+  },
+  {
+    "name": "Adhesion",
+    "definition": "The attraction between different substances, such as water and plant cell walls, contributing to capillary action.",
+    "unit": 1
+  },
+  {
+    "name": "Surface Tension",
+    "definition": "The property of a liquid's surface to resist external force due to cohesive forces, allowing insects to walk on water.",
+    "unit": 1
+  },
+  {
+    "name": "Specific Heat",
+    "definition": "The heat required to raise the temperature of 1g of a substance by 1°C, high in water for temperature stability in organisms.",
+    "unit": 1
+  },
+  {
+    "name": "Heat of Vaporization",
+    "definition": "The energy required to change 1g of liquid to gas, high in water facilitating cooling through sweat.",
+    "unit": 1
+  },
+  {
+    "name": "Evaporative Cooling",
+    "definition": "The process where the surface cools as high-energy molecules evaporate, regulating body temperature in animals.",
+    "unit": 1
+  },
+  {
+    "name": "Hydrophobic",
+    "definition": "Substances that repel water, like nonpolar lipids, forming structures like cell membranes.",
+    "unit": 1
+  },
+  {
+    "name": "Monomer",
+    "definition": "Small molecules that link to form polymers, such as glucose for starch or amino acids for proteins.",
+    "unit": 1
+  },
+  {
+    "name": "Polymer",
+    "definition": "Large molecules made of repeating monomer units, including polysaccharides, proteins, and nucleic acids.",
+    "unit": 1
+  },
+  {
+    "name": "Dehydration Synthesis",
+    "definition": "The process of joining monomers by removing water, forming covalent bonds in macromolecules.",
+    "unit": 1
+  },
+  {
+    "name": "Hydrolysis",
+    "definition": "The breakdown of polymers into monomers by adding water, catalyzed by enzymes in digestion.",
+    "unit": 1
+  },
+  {
+    "name": "Trace Elements",
+    "definition": "Elements needed in minute amounts, such as iron for hemoglobin or iodine for thyroid hormones.",
+    "unit": 1
+  },
+  {
+    "name": "Endomembrane System",
+    "definition": "A group of organelles including ER, Golgi, lysosomes, and vesicles that work together to modify, package, and transport proteins and lipids.",
+    "unit": 2
+  },
+  {
+    "name": "Cell Wall",
+    "definition": "Rigid layer outside the plasma membrane in plants, fungi, and bacteria, providing support and protection, made of cellulose in plants.",
+    "unit": 2
+  },
+  {
+    "name": "Plasmodesmata",
+    "definition": "Channels between plant cells allowing transport and communication, analogous to gap junctions in animals.",
+    "unit": 2
+  },
+  {
+    "name": "Gap Junctions",
+    "definition": "Connections between animal cells for direct communication and transfer of small molecules.",
+    "unit": 2
+  },
+  {
+    "name": "Osmosis",
+    "definition": "Passive diffusion of water across a selectively permeable membrane from low to high solute concentration.",
+    "unit": 2
+  },
+  {
+    "name": "Facilitated Diffusion",
+    "definition": "Passive transport of molecules across membranes via carrier or channel proteins, without energy input.",
+    "unit": 2
+  },
+  {
+    "name": "Tonicity",
+    "definition": "The ability of a solution to cause a cell to gain or lose water, described as hypertonic, hypotonic, or isotonic.",
+    "unit": 2
+  },
+  {
+    "name": "Chemiosmosis",
+    "definition": "Process where proton gradient across membrane drives ATP synthesis, in both photosynthesis and respiration.",
+    "unit": 3
+  },
+  {
+    "name": "ATP Synthase",
+    "definition": "Enzyme that synthesizes ATP from ADP and Pi using proton flow through it.",
+    "unit": 3
+  },
+  {
+    "name": "Oxidative Phosphorylation",
+    "definition": "Production of ATP using energy from electron transfer in the ETC, coupled with chemiosmosis.",
+    "unit": 3
+  },
+  {
+    "name": "Pyruvate Oxidation",
+    "definition": "Conversion of pyruvate to acetyl-CoA in mitochondria, releasing CO2 and producing NADH.",
+    "unit": 3
+  },
+  {
+    "name": "RuBisCO",
+    "definition": "Enzyme that catalyzes carbon fixation in Calvin cycle, the most abundant protein on Earth.",
+    "unit": 3
+  },
+  {
+    "name": "Photorespiration",
+    "definition": "Process where RuBisCO fixes O2 instead of CO2, wasting energy in hot conditions.",
+    "unit": 3
+  },
+  {
+    "name": "Apoptosis",
+    "definition": "Programmed cell death essential for development and eliminating damaged cells, regulated by signaling pathways.",
+    "unit": 4
+  },
+  {
+    "name": "Cyclin",
+    "definition": "Proteins that regulate the cell cycle by activating cyclin-dependent kinases (CDKs), levels fluctuate throughout the cycle.",
+    "unit": 4
+  },
+  {
+    "name": "Allele",
+    "definition": "Alternative versions of a gene that occupy the same locus on homologous chromosomes, determining traits.",
+    "unit": 5
+  },
+  {
+    "name": "Genotype",
+    "definition": "The genetic makeup of an organism, such as homozygous or heterozygous for a trait.",
+    "unit": 5
+  },
+  {
+    "name": "Phenotype",
+    "definition": "The observable physical or biochemical characteristics of an organism, influenced by genotype and environment.",
+    "unit": 5
+  },
+  {
+    "name": "Testcross",
+    "definition": "Breeding an organism of unknown genotype with a homozygous recessive to determine the unknown genotype.",
+    "unit": 5
+  },
+  {
+    "name": "Pedigree",
+    "definition": "A diagram showing the inheritance of a trait through generations, used to analyze genetic patterns.",
+    "unit": 5
+  },
+  {
+    "name": "Central Dogma",
+    "definition": "The flow of genetic information from DNA to RNA to protein, central to molecular biology.",
+    "unit": 6
+  },
+  {
+    "name": "Promoter",
+    "definition": "DNA sequence where RNA polymerase binds to initiate transcription.",
+    "unit": 6
+  },
+  {
+    "name": "Transcription Factor",
+    "definition": "Proteins that bind to DNA to regulate transcription by promoting or blocking RNA polymerase.",
+    "unit": 6
+  },
+  {
+    "name": "RNA Splicing",
+    "definition": "Process removing introns and joining exons in eukaryotic pre-mRNA to form mature mRNA.",
+    "unit": 6
+  },
+  {
+    "name": "Mutagen",
+    "definition": "Agents like radiation or chemicals that cause mutations by altering DNA structure.",
+    "unit": 6
+  },
+  {
+    "name": "Fitness",
+    "definition": "The ability of an organism to survive and reproduce in its environment, measured relative to others.",
+    "unit": 7
+  },
+  {
+    "name": "Adaptive Radiation",
+    "definition": "Diversification of a group into multiple species adapted to different niches, like Darwin's finches.",
+    "unit": 7
+  },
+  {
+    "name": "Convergent Evolution",
+    "definition": "Independent evolution of similar traits in unrelated species due to similar environments, like wings in bats and birds.",
+    "unit": 7
+  },
+  {
+    "name": "Endosymbiosis",
+    "definition": "Theory that mitochondria and chloroplasts originated from engulfed prokaryotes, supported by their own DNA.",
+    "unit": 2
+  },
+  {
+    "name": "Density-Dependent Factors",
+    "definition": "Limiting factors whose effects intensify with population density, like competition or disease.",
+    "unit": 8
+  },
+  {
+    "name": "Keystone Species",
+    "definition": "Species with disproportionate impact on community structure, like sea otters controlling kelp forests.",
+    "unit": 8
+  },
+  {
+    "name": "Invasive Species",
+    "definition": "Non-native species that disrupt ecosystems, often outcompeting natives due to lack of predators.",
+    "unit": 8
+  },
+  {
+    "name": "Gross Primary Productivity",
+    "definition": "Total energy captured by photosynthesis in an ecosystem before respiration losses.",
+    "unit": 8
+  },
+  {
+    "name": "Net Primary Productivity",
+    "definition": "Energy available to consumers after producers deduct respiration costs from GPP.",
+    "unit": 8
+  }
 ]

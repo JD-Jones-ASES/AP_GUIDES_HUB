@@ -56,7 +56,7 @@
   },
   {
     "name": "Differentiability",
-    "definition": "A function is differentiable at a point if its derivative exists there, implying continuity but with a smooth graph (no corners or cusps), such as polynomials being differentiable everywhere.",
+    "definition": "A function is differentiable at a point if its derivative exists there, which implies continuity at that point but requires the graph to be smooth with no corners or cusps; for example, polynomials are differentiable everywhere in their domain.",
     "unit": 2
   },
   {
@@ -206,12 +206,12 @@
   },
   {
     "name": "Integration by Parts",
-    "definition": "∫ u dv = uv - ∫ v du, derived from product rule, useful for products like ∫ x e^x dx.",
+    "definition": "(BC) ∫ u dv = uv - ∫ v du, derived from the product rule, useful for integrating products of functions like ∫ x e^x dx.",
     "unit": 6
   },
   {
     "name": "Partial Fractions",
-    "definition": "(BC) Decomposition of rational functions into sums of simpler fractions for integration, like 1/(x(x+1)) = A/x + B/(x+1).",
+    "definition": "(BC) The decomposition of rational functions into sums of simpler fractions to facilitate integration, for example expressing 1/(x(x+1)) as A/x + B/(x+1).",
     "unit": 6
   },
   {
@@ -276,8 +276,8 @@
   },
   {
     "name": "Average Value Theorem for Integrals",
-    "definition": "If f is continuous on [a, b], there exists c where f(c) = (1/(b-a)) ∫_a^b f(x) dx, the mean value.",
-    "unit": 8
+    "definition": "If f is continuous on [a, b], there exists c where f(c) = (1/(b-a)) ∫_a^b f(x) dx, also known as the Mean Value Theorem for Integrals.",
+    "unit": 6
   },
   {
     "name": "Parametric Equations",
@@ -405,123 +405,123 @@
     "unit": 10
   },
   {
-"name": "Vertical Asymptote",
-"definition": "A vertical line x = a where the function approaches positive or negative infinity as x approaches a, associated with infinite discontinuities.",
-"unit": 1
-},
-{
-"name": "Horizontal Asymptote",
-"definition": "A horizontal line y = b that the function approaches as x approaches positive or negative infinity, determined by limits at infinity.",
-"unit": 1
-},
-{
-"name": "End Behavior",
-"definition": "Describes how a function behaves as x approaches positive or negative infinity, often indicated by horizontal asymptotes or polynomial degrees.",
-"unit": 1
-},
-{
-"name": "Indeterminate Form",
-"definition": "Expressions like 0/0, ∞/∞, 0·∞, ∞-∞, 1^∞, 0^0, or ∞^0 that require additional techniques like algebraic manipulation or L'Hôpital's Rule to evaluate the limit.",
-"unit": 1
-},
-{
-"name": "Special Trigonometric Limits",
-"definition": "Fundamental limits including lim_{x→0} sin(x)/x = 1, lim_{x→0} (1 - cos(x))/x = 0, and lim_{x→0} (1 - cos(x))/x^2 = 1/2, essential for trigonometric functions.",
-"unit": 1
-},
-{
-"name": "Secant Line",
-"definition": "A straight line connecting two points on a curve, with its slope representing the average rate of change over the interval.",
-"unit": 2
-},
-{
-"name": "Logarithmic Differentiation",
-"definition": "A method involving taking the natural logarithm of both sides to differentiate complex functions, particularly useful for products, quotients, or variable exponents.",
-"unit": 3
-},
-{
-"name": "Rolle's Theorem",
-"definition": "A corollary of the Mean Value Theorem stating that if f is continuous on [a, b], differentiable on (a, b), and f(a) = f(b), then there exists c in (a, b) such that f'(c) = 0.",
-"unit": 5
-},
-{
-"name": "Inflection Point",
-"definition": "A point where the graph changes concavity, occurring where the second derivative changes sign.",
-"unit": 5
-},
-{
-"name": "Absolute Maximum",
-"definition": "The largest value a function attains on a given interval, guaranteed by the Extreme Value Theorem for continuous functions on closed intervals.",
-"unit": 5
-},
-{
-"name": "Absolute Minimum",
-"definition": "The smallest value a function attains on a given interval, guaranteed by the Extreme Value Theorem for continuous functions on closed intervals.",
-"unit": 5
-},
-{
-"name": "Midpoint Rule",
-"definition": "A Riemann sum approximation for definite integrals using the function value at the midpoint of each subinterval.",
-"unit": 6
-},
-{
-"name": "Trapezoidal Rule",
-"definition": "An approximation for definite integrals using trapezoids, calculated as the average of left and right Riemann sums for improved accuracy.",
-"unit": 6
-},
-{
-"name": "Constant of Integration",
-"definition": "The arbitrary constant C added when finding an indefinite integral, representing the family of antiderivatives.",
-"unit": 6
-},
-{
-"name": "Net Change Theorem",
-"definition": "The definite integral of a rate of change over an interval equals the net change in the quantity, a direct application of the Fundamental Theorem of Calculus.",
-"unit": 6
-},
-{
-"name": "Initial Value Problem",
-"definition": "A differential equation together with one or more initial conditions used to find a particular solution.",
-"unit": 7
-},
-{
-"name": "General Solution",
-"definition": "The complete set of solutions to a differential equation, usually including an arbitrary constant.",
-"unit": 7
-},
-{
-"name": "Particular Solution",
-"definition": "A specific solution to a differential equation obtained by applying initial conditions to the general solution.",
-"unit": 7
-},
-{
-"name": "Volume by Cross-Sections",
-"definition": "The volume of a solid formed by known cross-sectional areas perpendicular to an axis, given by the integral of the cross-sectional area function.",
-"unit": 8
-},
-{
-"name": "Tangent to Polar Curve",
-"definition": "(BC) The slope of the tangent line to a polar curve r = f(θ) is given by dy/dx = (dr/dθ sin θ + r cos θ) / (dr/dθ cos θ - r sin θ).",
-"unit": 9
-},
-{
-"name": "Arc Length in Polar Coordinates",
-"definition": "(BC) The length of a polar curve r = f(θ) from θ = α to β is ∫_α^β sqrt(r² + (dr/dθ)²) dθ.",
-"unit": 9
-},
-{
-"name": "Interval of Convergence",
-"definition": "(BC) The interval of x-values for which a power series converges, determined by the radius of convergence and endpoint tests.",
-"unit": 10
-},
-{
-"name": "Taylor Polynomial",
-"definition": "(BC) A polynomial approximation of a function f(x) around a point a, using the first n terms of its Taylor series.",
-"unit": 10
-},
-{
-"name": "Telescoping Series",
-"definition": "(BC) A series where most terms in the partial sums cancel out, leaving a simplified expression for the sum.",
-"unit": 10
-}
+    "name": "Vertical Asymptote",
+    "definition": "A vertical line x = a where the function approaches positive or negative infinity as x approaches a, associated with infinite discontinuities.",
+    "unit": 1
+  },
+  {
+    "name": "Horizontal Asymptote",
+    "definition": "A horizontal line y = b that the function approaches as x approaches positive or negative infinity, determined by limits at infinity.",
+    "unit": 1
+  },
+  {
+    "name": "End Behavior",
+    "definition": "Describes how a function behaves as x approaches positive or negative infinity, often indicated by horizontal asymptotes or polynomial degrees.",
+    "unit": 1
+  },
+  {
+    "name": "Indeterminate Form",
+    "definition": "Expressions like 0/0, ∞/∞, 0·∞, ∞-∞, 1^∞, 0^0, or ∞^0 that require additional techniques like algebraic manipulation or L'Hôpital's Rule to evaluate the limit.",
+    "unit": 1
+  },
+  {
+    "name": "Special Trigonometric Limits",
+    "definition": "Fundamental limits including lim_{x→0} sin(x)/x = 1 and lim_{x→0} (1 - cos(x))/x^2 = 1/2, essential for deriving trigonometric derivatives and evaluating related limits.",
+    "unit": 1
+  },
+  {
+    "name": "Secant Line",
+    "definition": "A straight line connecting two points on a curve, with its slope representing the average rate of change over the interval.",
+    "unit": 2
+  },
+  {
+    "name": "Logarithmic Differentiation",
+    "definition": "A method involving taking the natural logarithm of both sides to differentiate complex functions, particularly useful for products, quotients, or variable exponents.",
+    "unit": 3
+  },
+  {
+    "name": "Rolle's Theorem",
+    "definition": "A corollary of the Mean Value Theorem stating that if f is continuous on [a, b], differentiable on (a, b), and f(a) = f(b), then there exists c in (a, b) such that f'(c) = 0.",
+    "unit": 5
+  },
+  {
+    "name": "Inflection Point",
+    "definition": "A point where the graph changes concavity, occurring where the second derivative changes sign.",
+    "unit": 5
+  },
+  {
+    "name": "Absolute Maximum",
+    "definition": "The largest value a function attains on a given interval, guaranteed by the Extreme Value Theorem for continuous functions on closed intervals.",
+    "unit": 5
+  },
+  {
+    "name": "Absolute Minimum",
+    "definition": "The smallest value a function attains on a given interval, guaranteed by the Extreme Value Theorem for continuous functions on closed intervals.",
+    "unit": 5
+  },
+  {
+    "name": "Midpoint Rule",
+    "definition": "A Riemann sum approximation for definite integrals using the function value at the midpoint of each subinterval.",
+    "unit": 6
+  },
+  {
+    "name": "Trapezoidal Rule",
+    "definition": "An approximation for definite integrals using trapezoids, calculated as the average of left and right Riemann sums for improved accuracy.",
+    "unit": 6
+  },
+  {
+    "name": "Constant of Integration",
+    "definition": "The arbitrary constant C added when finding an indefinite integral, representing the family of antiderivatives.",
+    "unit": 6
+  },
+  {
+    "name": "Net Change Theorem",
+    "definition": "The definite integral of a rate of change over an interval equals the net change in the quantity, a direct application of the Fundamental Theorem of Calculus.",
+    "unit": 6
+  },
+  {
+    "name": "Initial Value Problem",
+    "definition": "A differential equation together with one or more initial conditions used to find a particular solution.",
+    "unit": 7
+  },
+  {
+    "name": "General Solution",
+    "definition": "The complete set of solutions to a differential equation, usually including an arbitrary constant.",
+    "unit": 7
+  },
+  {
+    "name": "Particular Solution",
+    "definition": "A specific solution to a differential equation obtained by applying initial conditions to the general solution.",
+    "unit": 7
+  },
+  {
+    "name": "Volume by Cross-Sections",
+    "definition": "The volume of a solid formed by known cross-sectional areas perpendicular to an axis, given by the integral of the cross-sectional area function.",
+    "unit": 8
+  },
+  {
+    "name": "Tangent to Polar Curve",
+    "definition": "(BC) The slope of the tangent line to a polar curve r = f(θ) is given by dy/dx = (dr/dθ sin θ + r cos θ) / (dr/dθ cos θ - r sin θ).",
+    "unit": 9
+  },
+  {
+    "name": "Arc Length in Polar Coordinates",
+    "definition": "(BC) The length of a polar curve r = f(θ) from θ = α to β is ∫_α^β sqrt(r² + (dr/dθ)²) dθ.",
+    "unit": 9
+  },
+  {
+    "name": "Interval of Convergence",
+    "definition": "(BC) The interval of x-values for which a power series converges, determined by the radius of convergence and endpoint tests.",
+    "unit": 10
+  },
+  {
+    "name": "Taylor Polynomial",
+    "definition": "(BC) A polynomial approximation of a function f(x) around a point a, using the first n terms of its Taylor series.",
+    "unit": 10
+  },
+  {
+    "name": "Telescoping Series",
+    "definition": "(BC) A series where most terms in the partial sums cancel out, leaving a simplified expression for the sum.",
+    "unit": 10
+  }
 ]

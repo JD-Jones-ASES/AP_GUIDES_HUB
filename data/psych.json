@@ -485,268 +485,268 @@
     "unit": 5
   },
   {
-"name": "Sigmund Freud",
-"definition": "Austrian neurologist and founder of psychoanalysis, who emphasized the role of unconscious conflicts, sexual drives, and early childhood experiences in shaping personality and behavior, as seen in his development of concepts like the id, ego, superego, and psychosexual stages.",
-"unit": 4
-},
-{
-"name": "Carl Jung",
-"definition": "Swiss psychiatrist who founded analytical psychology, introducing concepts like the collective unconscious, archetypes, and introversion/extraversion, diverging from Freud by emphasizing spiritual and mythological influences on the psyche.",
-"unit": 4
-},
-{
-"name": "Carl Rogers",
-"definition": "American psychologist central to humanistic psychology, advocating client-centered therapy with unconditional positive regard, empathy, and congruence to facilitate self-actualization and personal growth.",
-"unit": 4
-},
-{
-"name": "Alfred Adler",
-"definition": "Austrian psychologist who developed individual psychology, focusing on inferiority complexes, striving for superiority, and the importance of social interest and birth order in personality development.",
-"unit": 4
-},
-{
-"name": "Wilhelm Wundt",
-"definition": "German psychologist considered the father of experimental psychology, who established the first psychology lab in 1879 and used introspection to study conscious experience, marking the shift from philosophy to science.",
-"unit": 0
-},
-{
-"name": "Structuralism",
-"definition": "Early school of psychology led by Wundt and Titchener, focusing on breaking down mental processes into basic elements through introspection, like analyzing sensations and feelings to understand the structure of the mind.",
-"unit": 0
-},
-{
-"name": "William James",
-"definition": "American psychologist and philosopher who authored the first psychology textbook and founded functionalism, emphasizing how mental processes help adaptation to the environment, influencing educational psychology.",
-"unit": 0
-},
-{
-"name": "Functionalism",
-"definition": "School of psychology that examines the purpose and function of consciousness and behavior in adapting to one's environment, pioneered by William James, contrasting structuralism by focusing on practical applications.",
-"unit": 0
-},
-{
-"name": "Gestalt Psychology",
-"definition": "Approach emphasizing that the whole experience is greater than the sum of its parts, with principles like figure-ground and grouping laws explaining perception, founded by Wertheimer, Koffka, and Kohler.",
-"unit": 0
-},
-{
-"name": "John B. Watson",
-"definition": "American psychologist who founded behaviorism, emphasizing observable behavior over introspection, famous for Little Albert experiment demonstrating conditioned fear.",
-"unit": 0
-},
-{
-"name": "B.F. Skinner",
-"definition": "American behaviorist who developed operant conditioning principles, using Skinner boxes to study reinforcement, advocating radical behaviorism where environment shapes all behavior.",
-"unit": 3
-},
-{
-"name": "Ivan Pavlov",
-"definition": "Russian physiologist who discovered classical conditioning through dog salivation experiments, laying groundwork for behaviorism by showing associative learning.",
-"unit": 3
-},
-{
-"name": "Jean Piaget",
-"definition": "Swiss psychologist known for theory of cognitive development in children, identifying stages from sensorimotor to formal operational, emphasizing active learning through interaction.",
-"unit": 3
-},
-{
-"name": "Lev Vygotsky",
-"definition": "Russian psychologist whose sociocultural theory stresses social interaction and cultural tools in cognitive development, introducing zone of proximal development and scaffolding.",
-"unit": 3
-},
-{
-"name": "Abraham Maslow",
-"definition": "American humanistic psychologist who proposed hierarchy of needs from physiological to self-actualization, influencing motivation theory and positive psychology.",
-"unit": 4
-},
-{
-"name": "Experimental Method",
-"definition": "Research technique manipulating an independent variable to observe effects on a dependent variable, using random assignment and controls to establish cause-effect, as in drug trials testing efficacy.",
-"unit": 1
-},
-{
-"name": "Independent Variable",
-"definition": "The factor manipulated by researchers in an experiment to determine its effect on the dependent variable, like dosage in a medication study, allowing causal inferences when other variables are controlled.",
-"unit": 1
-},
-{
-"name": "Dependent Variable",
-"definition": "The outcome measured in an experiment to assess the impact of the independent variable, such as symptom reduction in response to treatment, subject to change based on manipulation.",
-"unit": 1
-},
-{
-"name": "Confounding Variable",
-"definition": "An extraneous factor that could influence the dependent variable, potentially skewing results, like participant age in a memory study, controlled through random assignment or matching.",
-"unit": 1
-},
-{
-"name": "Correlational Research",
-"definition": "Method examining relationships between variables without manipulation, using correlation coefficients from -1 to +1, useful for prediction but not causation, as in linking study hours to grades.",
-"unit": 1
-},
-{
-"name": "Endocrine System",
-"definition": "Network of glands secreting hormones into the bloodstream to regulate bodily functions, including the pituitary (master gland), thyroid (metabolism), and adrenals (stress response), interacting with the nervous system for homeostasis.",
-"unit": 1
-},
-{
-"name": "Hormones",
-"definition": "Chemical messengers produced by endocrine glands, influencing growth, mood, and reproduction, like cortisol in stress or insulin in blood sugar, with imbalances causing disorders such as diabetes.",
-"unit": 1
-},
-{
-"name": "Pituitary Gland",
-"definition": "Master gland in the endocrine system controlled by the hypothalamus, releasing hormones that regulate other glands, such as growth hormone for development and oxytocin for social bonding.",
-"unit": 1
-},
-{
-"name": "Sensation",
-"definition": "The process of detecting physical energy from the environment and converting it into neural signals via transduction, forming the raw data for perception, as in light waves stimulating retinal cells for vision.",
-"unit": 1
-},
-{
-"name": "Transduction",
-"definition": "Conversion of sensory stimuli like light or sound into electrical signals by receptor cells, initiating neural processing, essential for all senses, with defects leading to sensory impairments.",
-"unit": 1
-},
-{
-"name": "Difference Threshold",
-"definition": "The smallest detectable change in stimulus intensity, also called just noticeable difference (jnd), governed by Weber's law stating it's proportional to the original intensity, like noticing weight increases.",
-"unit": 1
-},
-{
-"name": "Weber's Law",
-"definition": "Principle that the just noticeable difference is a constant proportion of the stimulus magnitude, explaining why small changes in weak stimuli are more noticeable than in strong ones, applied in marketing for pricing.",
-"unit": 1
-},
-{
-"name": "Signal Detection Theory",
-"definition": "Model predicting how and when we detect weak signals amid noise, considering response bias and sensitivity, used in contexts like radiology where hits, misses, false alarms, and correct rejections occur.",
-"unit": 1
-},
-{
-"name": "Gestalt Principles",
-"definition": "Laws of perceptual organization including proximity, similarity, continuity, closure, and connectedness, explaining how we group elements to form wholes, as in seeing dots as lines based on arrangement.",
-"unit": 2
-},
-{
-"name": "Figure-Ground",
-"definition": "Gestalt principle distinguishing an object (figure) from its surrounding background (ground), reversible in ambiguous images like Rubin's vase, crucial for object recognition in perception.",
-"unit": 2
-},
-{
-"name": "Sensory Memory",
-"definition": "Brief storage of sensory information lasting seconds, with iconic (visual) and echoic (auditory) types, allowing continuity in experience like movie frames appearing fluid.",
-"unit": 2
-},
-{
-"name": "Short-Term Memory",
-"definition": "Temporary holding of information for about 20-30 seconds with capacity of 7±2 items, enhanced by chunking, serving as working memory for tasks like mental arithmetic.",
-"unit": 2
-},
-{
-"name": "Long-Term Memory",
-"definition": "Relatively permanent storage with unlimited capacity, divided into explicit and implicit, accessed via retrieval cues, with strengthening through rehearsal and meaningful associations.",
-"unit": 2
-},
-{
-"name": "Zygote",
-"definition": "Fertilized egg cell from conception to two weeks, undergoing rapid division, implantation, and beginning differentiation, vulnerable to teratogens affecting early development.",
-"unit": 3
-},
-{
-"name": "Embryo",
-"definition": "Developing organism from two weeks to eight weeks post-conception, when major organs form during organogenesis, critical period for structural defects from environmental influences.",
-"unit": 3
-},
-{
-"name": "Fetus",
-"definition": "Prenatal stage from nine weeks to birth, characterized by growth, refinement of organs, and viability around 24 weeks, with sensory development allowing responses to external stimuli.",
-"unit": 3
-},
-{
-"name": "Object Permanence",
-"definition": "Piaget's concept in sensorimotor stage where infants understand objects exist even when out of sight, developing around 8 months, tested by hiding toys.",
-"unit": 3
-},
-{
-"name": "Conservation",
-"definition": "Understanding that quantity remains the same despite changes in shape or appearance, mastered in concrete operational stage, like liquid volume in different glasses.",
-"unit": 3
-},
-{
-"name": "Egocentrism",
-"definition": "Preoperational children's difficulty seeing perspectives other than their own, like assuming others share their view, diminishing with cognitive maturation.",
-"unit": 3
-},
-{
-"name": "Extinction",
-"definition": "Weakening of conditioned response when conditioned stimulus is presented without unconditioned stimulus in classical, or no reinforcement in operant, leading to behavior cessation.",
-"unit": 3
-},
-{
-"name": "Spontaneous Recovery",
-"definition": "Reappearance of extinguished conditioned response after rest period, suggesting learning persists, as in Pavlov's dogs salivating to bell after time.",
-"unit": 3
-},
-{
-"name": "Generalization",
-"definition": "Tendency to respond to stimuli similar to conditioned stimulus, like fearing all dogs after bite from one, adaptive but can lead to phobias.",
-"unit": 3
-},
-{
-"name": "Discrimination",
-"definition": "Learning to distinguish between similar stimuli, responding only to specific one, like salivating to particular tone but not others.",
-"unit": 3
-},
-{
-"name": "Shaping",
-"definition": "Operant technique reinforcing successive approximations toward desired behavior, used in animal training or therapy, like teaching complex skills step-by-step.",
-"unit": 3
-},
-{
-"name": "Deindividuation",
-"definition": "Loss of self-awareness and restraint in group situations, leading to impulsive behavior, as in mobs or online anonymity, due to diffusion of responsibility.",
-"unit": 4
-},
-{
-"name": "Social Loafing",
-"definition": "Tendency to exert less effort in group tasks when individual contributions aren't identified, reduced by accountability, as in tug-of-war experiments.",
-"unit": 4
-},
-{
-"name": "Stereotype",
-"definition": "Generalized belief about a group, often oversimplified, influencing perceptions and leading to prejudice, challenged by counterexamples and contact.",
-"unit": 4
-},
-{
-"name": "Altruism",
-"definition": "Selfless helping behavior benefiting others at personal cost, motivated by empathy or norms, as in bystander intervention when personal responsibility is felt.",
-"unit": 4
-},
-{
-"name": "Obsessive-Compulsive Disorder (OCD)",
-"definition": "Anxiety disorder with unwanted repetitive thoughts (obsessions) and actions (compulsions), like checking locks, treated with CBT and SSRIs to reduce ritualistic behaviors.",
-"unit": 5
-},
-{
-"name": "Post-Traumatic Stress Disorder (PTSD)",
-"definition": "Condition following trauma with flashbacks, avoidance, and hyperarousal, linked to amygdala, treated with exposure therapy, common in veterans or survivors.",
-"unit": 5
-},
-{
-"name": "Dissociative Identity Disorder (DID)",
-"definition": "Formerly multiple personality, involving two or more distinct identities, often from trauma, controversial diagnosis, treated with integration therapy.",
-"unit": 5
-},
-{
-"name": "Systematic Desensitization",
-"definition": "Behavioral therapy gradually exposing patients to anxiety-provoking stimuli while relaxed, based on counterconditioning, effective for phobias like fear of flying.",
-"unit": 5
-},
-{
-"name": "Electroconvulsive Therapy (ECT)",
-"definition": "Biomedical treatment inducing seizures under anesthesia for severe depression, rapid but with memory side effects, used when medications fail.",
-"unit": 5
-}
+    "name": "Sigmund Freud",
+    "definition": "Austrian neurologist and founder of psychoanalysis, who emphasized the role of unconscious conflicts, sexual drives, and early childhood experiences in shaping personality and behavior, as seen in his development of concepts like the id, ego, superego, and psychosexual stages.",
+    "unit": 4
+  },
+  {
+    "name": "Carl Jung",
+    "definition": "Swiss psychiatrist who founded analytical psychology, introducing concepts like the collective unconscious, archetypes, and introversion/extraversion, diverging from Freud by emphasizing spiritual and mythological influences on the psyche.",
+    "unit": 4
+  },
+  {
+    "name": "Carl Rogers",
+    "definition": "American psychologist central to humanistic psychology, advocating client-centered therapy with unconditional positive regard, empathy, and congruence to facilitate self-actualization and personal growth.",
+    "unit": 4
+  },
+  {
+    "name": "Alfred Adler",
+    "definition": "Austrian psychologist who developed individual psychology, focusing on inferiority complexes, striving for superiority, and the importance of social interest and birth order in personality development.",
+    "unit": 4
+  },
+  {
+    "name": "Wilhelm Wundt",
+    "definition": "German psychologist considered the father of experimental psychology, who established the first psychology lab in 1879 and used introspection to study conscious experience, marking the shift from philosophy to science.",
+    "unit": 1
+  },
+  {
+    "name": "Structuralism",
+    "definition": "Early school of psychology led by Wundt and Titchener, focusing on breaking down mental processes into basic elements through introspection, like analyzing sensations and feelings to understand the structure of the mind.",
+    "unit": 1
+  },
+  {
+    "name": "William James",
+    "definition": "American psychologist and philosopher who authored the first psychology textbook and founded functionalism, emphasizing how mental processes help adaptation to the environment, influencing educational psychology.",
+    "unit": 1
+  },
+  {
+    "name": "Functionalism",
+    "definition": "School of psychology that examines the purpose and function of consciousness and behavior in adapting to one's environment, pioneered by William James, contrasting structuralism by focusing on practical applications.",
+    "unit": 1
+  },
+  {
+    "name": "Gestalt Psychology",
+    "definition": "Approach emphasizing that the whole experience is greater than the sum of its parts, with principles like figure-ground and grouping laws explaining perception, founded by Wertheimer, Koffka, and Kohler.",
+    "unit": 2
+  },
+  {
+    "name": "John B. Watson",
+    "definition": "American psychologist who founded behaviorism, emphasizing observable behavior over introspection, famous for Little Albert experiment demonstrating conditioned fear.",
+    "unit": 3
+  },
+  {
+    "name": "B.F. Skinner",
+    "definition": "American behaviorist who developed operant conditioning principles, using Skinner boxes to study reinforcement, advocating radical behaviorism where environment shapes all behavior.",
+    "unit": 3
+  },
+  {
+    "name": "Ivan Pavlov",
+    "definition": "Russian physiologist who discovered classical conditioning through dog salivation experiments, laying groundwork for behaviorism by showing associative learning.",
+    "unit": 3
+  },
+  {
+    "name": "Jean Piaget",
+    "definition": "Swiss psychologist known for theory of cognitive development in children, identifying stages from sensorimotor to formal operational, emphasizing active learning through interaction.",
+    "unit": 3
+  },
+  {
+    "name": "Lev Vygotsky",
+    "definition": "Russian psychologist whose sociocultural theory stresses social interaction and cultural tools in cognitive development, introducing zone of proximal development and scaffolding.",
+    "unit": 3
+  },
+  {
+    "name": "Abraham Maslow",
+    "definition": "American humanistic psychologist who proposed hierarchy of needs from physiological to self-actualization, influencing motivation theory and positive psychology.",
+    "unit": 4
+  },
+  {
+    "name": "Experimental Method",
+    "definition": "Research technique manipulating an independent variable to observe effects on a dependent variable, using random assignment and controls to establish cause-effect, as in drug trials testing efficacy.",
+    "unit": 1
+  },
+  {
+    "name": "Independent Variable",
+    "definition": "The factor manipulated by researchers in an experiment to determine its effect on the dependent variable, like dosage in a medication study, allowing causal inferences when other variables are controlled.",
+    "unit": 1
+  },
+  {
+    "name": "Dependent Variable",
+    "definition": "The outcome measured in an experiment to assess the impact of the independent variable, such as symptom reduction in response to treatment, subject to change based on manipulation.",
+    "unit": 1
+  },
+  {
+    "name": "Confounding Variable",
+    "definition": "An extraneous factor that could influence the dependent variable, potentially skewing results, like participant age in a memory study, controlled through random assignment or matching.",
+    "unit": 1
+  },
+  {
+    "name": "Correlational Research",
+    "definition": "Method examining relationships between variables without manipulation, using correlation coefficients from -1 to +1, useful for prediction but not causation, as in linking study hours to grades.",
+    "unit": 1
+  },
+  {
+    "name": "Endocrine System",
+    "definition": "Network of glands secreting hormones into the bloodstream to regulate bodily functions, including the pituitary (master gland), thyroid (metabolism), and adrenals (stress response), interacting with the nervous system for homeostasis.",
+    "unit": 1
+  },
+  {
+    "name": "Hormones",
+    "definition": "Chemical messengers produced by endocrine glands, influencing growth, mood, and reproduction, like cortisol in stress or insulin in blood sugar, with imbalances causing disorders such as diabetes.",
+    "unit": 1
+  },
+  {
+    "name": "Pituitary Gland",
+    "definition": "Master gland in the endocrine system controlled by the hypothalamus, releasing hormones that regulate other glands, such as growth hormone for development and oxytocin for social bonding.",
+    "unit": 1
+  },
+  {
+    "name": "Sensation",
+    "definition": "The process of detecting physical energy from the environment and converting it into neural signals via transduction, forming the raw data for perception, as in light waves stimulating retinal cells for vision.",
+    "unit": 1
+  },
+  {
+    "name": "Transduction",
+    "definition": "Conversion of sensory stimuli like light or sound into electrical signals by receptor cells, initiating neural processing, essential for all senses, with defects leading to sensory impairments.",
+    "unit": 1
+  },
+  {
+    "name": "Difference Threshold",
+    "definition": "The smallest detectable change in stimulus intensity, also called just noticeable difference (jnd), governed by Weber's law stating it's proportional to the original intensity, like noticing weight increases.",
+    "unit": 1
+  },
+  {
+    "name": "Weber's Law",
+    "definition": "Principle that the just noticeable difference is a constant proportion of the stimulus magnitude, explaining why small changes in weak stimuli are more noticeable than in strong ones, applied in marketing for pricing.",
+    "unit": 1
+  },
+  {
+    "name": "Signal Detection Theory",
+    "definition": "Model predicting how and when we detect weak signals amid noise, considering response bias and sensitivity, used in contexts like radiology where hits, misses, false alarms, and correct rejections occur.",
+    "unit": 1
+  },
+  {
+    "name": "Gestalt Principles",
+    "definition": "Laws of perceptual organization including proximity, similarity, continuity, closure, and connectedness, explaining how we group elements to form wholes, as in seeing dots as lines based on arrangement.",
+    "unit": 2
+  },
+  {
+    "name": "Figure-Ground",
+    "definition": "Gestalt principle distinguishing an object (figure) from its surrounding background (ground), reversible in ambiguous images like Rubin's vase, crucial for object recognition in perception.",
+    "unit": 2
+  },
+  {
+    "name": "Sensory Memory",
+    "definition": "Brief storage of sensory information lasting seconds, with iconic (visual) and echoic (auditory) types, allowing continuity in experience like movie frames appearing fluid.",
+    "unit": 2
+  },
+  {
+    "name": "Short-Term Memory",
+    "definition": "Temporary holding of information for about 20-30 seconds with capacity of 7±2 items, enhanced by chunking, serving as working memory for tasks like mental arithmetic.",
+    "unit": 2
+  },
+  {
+    "name": "Long-Term Memory",
+    "definition": "Relatively permanent storage with unlimited capacity, divided into explicit and implicit, accessed via retrieval cues, with strengthening through rehearsal and meaningful associations.",
+    "unit": 2
+  },
+  {
+    "name": "Zygote",
+    "definition": "Fertilized egg cell from conception to two weeks, undergoing rapid division, implantation, and beginning differentiation, vulnerable to teratogens affecting early development.",
+    "unit": 3
+  },
+  {
+    "name": "Embryo",
+    "definition": "Developing organism from two weeks to eight weeks post-conception, when major organs form during organogenesis, critical period for structural defects from environmental influences.",
+    "unit": 3
+  },
+  {
+    "name": "Fetus",
+    "definition": "Prenatal stage from nine weeks to birth, characterized by growth, refinement of organs, and viability around 24 weeks, with sensory development allowing responses to external stimuli.",
+    "unit": 3
+  },
+  {
+    "name": "Object Permanence",
+    "definition": "Piaget's concept in sensorimotor stage where infants understand objects exist even when out of sight, developing around 8 months, tested by hiding toys.",
+    "unit": 3
+  },
+  {
+    "name": "Conservation",
+    "definition": "Understanding that quantity remains the same despite changes in shape or appearance, mastered in concrete operational stage, like liquid volume in different glasses.",
+    "unit": 3
+  },
+  {
+    "name": "Egocentrism",
+    "definition": "Preoperational children's difficulty seeing perspectives other than their own, like assuming others share their view, diminishing with cognitive maturation.",
+    "unit": 3
+  },
+  {
+    "name": "Extinction",
+    "definition": "Weakening of conditioned response when conditioned stimulus is presented without unconditioned stimulus in classical, or no reinforcement in operant, leading to behavior cessation.",
+    "unit": 3
+  },
+  {
+    "name": "Spontaneous Recovery",
+    "definition": "Reappearance of extinguished conditioned response after rest period, suggesting learning persists, as in Pavlov's dogs salivating to bell after time.",
+    "unit": 3
+  },
+  {
+    "name": "Generalization",
+    "definition": "Tendency to respond to stimuli similar to conditioned stimulus, like fearing all dogs after bite from one, adaptive but can lead to phobias.",
+    "unit": 3
+  },
+  {
+    "name": "Discrimination",
+    "definition": "Learning to distinguish between similar stimuli, responding only to specific one, like salivating to particular tone but not others.",
+    "unit": 3
+  },
+  {
+    "name": "Shaping",
+    "definition": "Operant technique reinforcing successive approximations toward desired behavior, used in animal training or therapy, like teaching complex skills step-by-step.",
+    "unit": 3
+  },
+  {
+    "name": "Deindividuation",
+    "definition": "Loss of self-awareness and restraint in group situations, leading to impulsive behavior, as in mobs or online anonymity, due to diffusion of responsibility.",
+    "unit": 4
+  },
+  {
+    "name": "Social Loafing",
+    "definition": "Tendency to exert less effort in group tasks when individual contributions aren't identified, reduced by accountability, as in tug-of-war experiments.",
+    "unit": 4
+  },
+  {
+    "name": "Stereotype",
+    "definition": "Generalized belief about a group, often oversimplified, influencing perceptions and leading to prejudice, challenged by counterexamples and contact.",
+    "unit": 4
+  },
+  {
+    "name": "Altruism",
+    "definition": "Selfless helping behavior benefiting others at personal cost, motivated by empathy or norms, as in bystander intervention when personal responsibility is felt.",
+    "unit": 4
+  },
+  {
+    "name": "Obsessive-Compulsive Disorder (OCD)",
+    "definition": "Anxiety disorder with unwanted repetitive thoughts (obsessions) and actions (compulsions), like checking locks, treated with CBT and SSRIs to reduce ritualistic behaviors.",
+    "unit": 5
+  },
+  {
+    "name": "Post-Traumatic Stress Disorder (PTSD)",
+    "definition": "Condition following trauma with flashbacks, avoidance, and hyperarousal, linked to amygdala, treated with exposure therapy, common in veterans or survivors.",
+    "unit": 5
+  },
+  {
+    "name": "Dissociative Identity Disorder (DID)",
+    "definition": "Formerly multiple personality, involving two or more distinct identities, often from trauma, controversial diagnosis, treated with integration therapy.",
+    "unit": 5
+  },
+  {
+    "name": "Systematic Desensitization",
+    "definition": "Behavioral therapy gradually exposing patients to anxiety-provoking stimuli while relaxed, based on counterconditioning, effective for phobias like fear of flying.",
+    "unit": 5
+  },
+  {
+    "name": "Electroconvulsive Therapy (ECT)",
+    "definition": "Biomedical treatment inducing seizures under anesthesia for severe depression, rapid but with memory side effects, used when medications fail.",
+    "unit": 5
+  }
 ]

@@ -171,7 +171,7 @@
   },
   {
     "name": "Captive Breeding",
-    "definition": "Breeding endangered species in controlled environments for reintroduction, like the California condor program increasing numbers from 22 to over 400.",
+    "definition": "Breeding endangered species in controlled environments for reintroduction, like the California condor program increasing numbers from 22 to over 500.",
     "unit": 2
   },
   {
@@ -256,7 +256,7 @@
   },
   {
     "name": "Life Expectancy",
-    "definition": "Average years a person is expected to live; increased globally from 47 in 1950 to 73 today due to better nutrition and medicine.",
+    "definition": "Average years a person is expected to live; increased globally from 46 in 1950 to 73 today due to better nutrition and medicine.",
     "unit": 3
   },
   {
@@ -676,8 +676,8 @@
   },
   {
     "name": "Adaptation",
-    "definition": "Adjusting to climate impacts; building sea walls or drought-resistant crops.",
-    "unit": 9
+    "definition": "The biological process by which organisms adjust to environmental changes through genetic variations over generations; for example, the development of pesticide resistance in insect populations.",
+    "unit": 2
   },
   {
     "name": "IPCC",
@@ -685,163 +685,163 @@
     "unit": 9
   },
   {
-"name": "Autotroph",
-"definition": "An organism that produces its own food from inorganic substances using light or chemical energy, serving as the foundation of food chains; for example, algae in a pond convert sunlight into energy through photosynthesis.",
-"unit": 1
-},
-{
-"name": "Heterotroph",
-"definition": "An organism that cannot produce its own food and must consume other organisms for energy; for instance, lions in the savanna feed on herbivores like zebras.",
-"unit": 1
-},
-{
-"name": "Decomposer",
-"definition": "Organisms that break down dead organic matter, releasing nutrients back into the ecosystem; bacteria and fungi in compost piles decompose leaves and food scraps.",
-"unit": 1
-},
-{
-"name": "Symbiosis",
-"definition": "A close, long-term interaction between two different species, which can be beneficial, neutral, or harmful; lichens represent a symbiotic relationship between fungi and algae.",
-"unit": 1
-},
-{
-"name": "Mutualism",
-"definition": "A type of symbiosis where both species benefit; bees pollinating flowers while obtaining nectar is a classic example.",
-"unit": 1
-},
-{
-"name": "Commensalism",
-"definition": "A symbiotic relationship where one species benefits and the other is unaffected; barnacles attaching to whales for transportation without harming them.",
-"unit": 1
-},
-{
-"name": "Parasitism",
-"definition": "A symbiosis where one organism benefits at the expense of the other; ticks feeding on blood from deer, potentially spreading diseases.",
-"unit": 1
-},
-{
-"name": "Resource Partitioning",
-"definition": "The division of limited resources by species to reduce competition; different bird species foraging at various levels in the same tree.",
-"unit": 1
-},
-{
-"name": "Ecosystem Services",
-"definition": "The benefits provided by ecosystems to humans, categorized as provisioning, regulating, cultural, and supporting; forests providing timber and carbon sequestration.",
-"unit": 2
-},
-{
-"name": "Endangered Species",
-"definition": "A species at risk of extinction throughout all or a significant portion of its range due to threats like habitat loss; the whooping crane, with efforts to protect its wetlands.",
-"unit": 2
-},
-{
-"name": "Threatened Species",
-"definition": "A species likely to become endangered in the foreseeable future; the grizzly bear in the lower 48 US states facing habitat pressures.",
-"unit": 2
-},
-{
-"name": "Island Biogeography",
-"definition": "Theory describing the factors affecting species diversity on islands, including size and isolation; Galapagos Islands host unique species due to their remoteness.",
-"unit": 2
-},
-{
-"name": "Biotic Potential",
-"definition": "The maximum rate at which a population can grow under ideal conditions with unlimited resources; bacteria can double every 20 minutes in nutrient-rich environments.",
-"unit": 3
-},
-{
-"name": "Environmental Resistance",
-"definition": "The combination of factors that limit population growth, such as predation and resource scarcity; drought limiting plant growth in arid regions.",
-"unit": 3
-},
-{
-"name": "Survivorship Curve",
-"definition": "A graph depicting the number of individuals surviving at each age interval; Type III curves show high mortality in young, like in fish species.",
-"unit": 3
-},
-{
-"name": "Rule of 70",
-"definition": "A formula to estimate the doubling time of a population: 70 divided by the growth rate percentage; a 1% growth rate doubles in 70 years.",
-"unit": 3
-},
-{
-"name": "Albedo",
-"definition": "The reflectivity of a surface, influencing how much solar energy is absorbed; ice caps have high albedo, reflecting sunlight to cool the planet.",
-"unit": 4
-},
-{
-"name": "Hadley Cell",
-"definition": "A large-scale atmospheric convection cell in the tropics driving trade winds; responsible for wet equatorial regions and dry subtropics.",
-"unit": 4
-},
-{
-"name": "Rain Shadow Effect",
-"definition": "The phenomenon where mountains block moist air, creating dry areas on the leeward side; the Atacama Desert formed by the Andes Mountains.",
-"unit": 4
-},
-{
-"name": "Soil Texture",
-"definition": "The relative proportions of sand, silt, and clay particles in soil, affecting water retention and drainage; clay soils hold water but drain poorly.",
-"unit": 4
-},
-{
-"name": "Salinization",
-"definition": "The accumulation of salts in soil from irrigation in arid areas, reducing fertility; affects farmland in the Colorado River basin.",
-"unit": 5
-},
-{
-"name": "CAFO",
-"definition": "Concentrated Animal Feeding Operation, large-scale industrial livestock facilities; produce high waste volumes leading to water pollution in rivers.",
-"unit": 5
-},
-{
-"name": "GMO",
-"definition": "Genetically Modified Organism, altered for desired traits like pest resistance; Roundup Ready soybeans tolerate herbicides.",
-"unit": 5
-},
-{
-"name": "Slash-and-Burn Agriculture",
-"definition": "A farming method involving cutting and burning vegetation to clear land; common in rainforests but leads to nutrient depletion after a few years.",
-"unit": 5
-},
-{
-"name": "Biofuel",
-"definition": "Fuel derived from biological materials like plants or waste; biodiesel from vegetable oils reduces dependence on fossil fuels.",
-"unit": 6
-},
-{
-"name": "Thermal Inversion",
-"definition": "An atmospheric condition where warm air traps cooler air and pollutants near the ground; exacerbates air quality issues in valleys like Mexico City.",
-"unit": 7
-},
-{
-"name": "Indoor Air Pollution",
-"definition": "Contamination of indoor environments by harmful substances; sources include tobacco smoke and household cleaners causing respiratory problems.",
-"unit": 7
-},
-{
-"name": "Biochemical Oxygen Demand (BOD)",
-"definition": "The amount of oxygen required to decompose organic matter in water; high BOD levels indicate polluted water, as in rivers downstream from sewage plants.",
-"unit": 8
-},
-{
-"name": "Dead Zone",
-"definition": "An area in aquatic environments with low oxygen levels where most life cannot survive; the Gulf of Mexico dead zone results from agricultural runoff.",
-"unit": 8
-},
-{
-"name": "LD50",
-"definition": "The lethal dose of a substance required to kill 50% of a test population; used to assess toxicity, lower LD50 means more toxic, like in pesticide testing on rats.",
-"unit": 8
-},
-{
-"name": "Methane (CH4)",
-"definition": "A potent greenhouse gas produced by anaerobic decomposition and livestock; rice paddies and cows contribute to atmospheric levels accelerating warming.",
-"unit": 9
-},
-{
-"name": "Coral Bleaching",
-"definition": "The loss of symbiotic algae from coral due to stress like increased water temperature; widespread in the Great Barrier Reef from climate change.",
-"unit": 9
-}
+    "name": "Autotroph",
+    "definition": "An organism that produces its own food from inorganic substances using light or chemical energy, serving as the foundation of food chains; for example, algae in a pond convert sunlight into energy through photosynthesis.",
+    "unit": 1
+  },
+  {
+    "name": "Heterotroph",
+    "definition": "An organism that cannot produce its own food and must consume other organisms for energy; for instance, lions in the savanna feed on herbivores like zebras.",
+    "unit": 1
+  },
+  {
+    "name": "Decomposer",
+    "definition": "Organisms that break down dead organic matter, releasing nutrients back into the ecosystem; bacteria and fungi in compost piles decompose leaves and food scraps.",
+    "unit": 1
+  },
+  {
+    "name": "Symbiosis",
+    "definition": "A close, long-term interaction between two different species, which can be beneficial, neutral, or harmful; lichens represent a symbiotic relationship between fungi and algae.",
+    "unit": 1
+  },
+  {
+    "name": "Mutualism",
+    "definition": "A type of symbiosis where both species benefit; bees pollinating flowers while obtaining nectar is a classic example.",
+    "unit": 1
+  },
+  {
+    "name": "Commensalism",
+    "definition": "A symbiotic relationship where one species benefits and the other is unaffected; barnacles attaching to whales for transportation without harming them.",
+    "unit": 1
+  },
+  {
+    "name": "Parasitism",
+    "definition": "A symbiosis where one organism benefits at the expense of the other; ticks feeding on blood from deer, potentially spreading diseases.",
+    "unit": 1
+  },
+  {
+    "name": "Resource Partitioning",
+    "definition": "The division of limited resources by species to reduce competition; different bird species foraging at various levels in the same tree.",
+    "unit": 1
+  },
+  {
+    "name": "Ecosystem Services",
+    "definition": "The benefits provided by ecosystems to humans, categorized as provisioning, regulating, cultural, and supporting; forests providing timber and carbon sequestration.",
+    "unit": 2
+  },
+  {
+    "name": "Endangered Species",
+    "definition": "A species at risk of extinction throughout all or a significant portion of its range due to threats like habitat loss; the whooping crane, with efforts to protect its wetlands.",
+    "unit": 2
+  },
+  {
+    "name": "Threatened Species",
+    "definition": "A species likely to become endangered in the foreseeable future; the grizzly bear in the lower 48 US states facing habitat pressures.",
+    "unit": 2
+  },
+  {
+    "name": "Island Biogeography",
+    "definition": "Theory describing the factors affecting species diversity on islands, including size and isolation; Galapagos Islands host unique species due to their remoteness.",
+    "unit": 2
+  },
+  {
+    "name": "Biotic Potential",
+    "definition": "The maximum rate at which a population can grow under ideal conditions with unlimited resources; bacteria can double every 20 minutes in nutrient-rich environments.",
+    "unit": 3
+  },
+  {
+    "name": "Environmental Resistance",
+    "definition": "The combination of factors that limit population growth, such as predation and resource scarcity; drought limiting plant growth in arid regions.",
+    "unit": 3
+  },
+  {
+    "name": "Survivorship Curve",
+    "definition": "A graph depicting the number of individuals surviving at each age interval; Type III curves show high mortality in young, like in fish species.",
+    "unit": 3
+  },
+  {
+    "name": "Rule of 70",
+    "definition": "A formula to estimate the doubling time of a population: 70 divided by the growth rate percentage; a 1% growth rate doubles in 70 years.",
+    "unit": 3
+  },
+  {
+    "name": "Albedo",
+    "definition": "The reflectivity of a surface, influencing how much solar energy is absorbed; ice caps have high albedo, reflecting sunlight to cool the planet.",
+    "unit": 4
+  },
+  {
+    "name": "Hadley Cell",
+    "definition": "A large-scale atmospheric convection cell in the tropics driving trade winds; responsible for wet equatorial regions and dry subtropics.",
+    "unit": 4
+  },
+  {
+    "name": "Rain Shadow Effect",
+    "definition": "The phenomenon where mountains block moist air, creating dry areas on the leeward side; the Atacama Desert formed by the Andes Mountains.",
+    "unit": 4
+  },
+  {
+    "name": "Soil Texture",
+    "definition": "The relative proportions of sand, silt, and clay particles in soil, affecting water retention and drainage; clay soils hold water but drain poorly.",
+    "unit": 4
+  },
+  {
+    "name": "Salinization",
+    "definition": "The accumulation of salts in soil from irrigation in arid areas, reducing fertility; affects farmland in the Colorado River basin.",
+    "unit": 5
+  },
+  {
+    "name": "CAFO",
+    "definition": "Concentrated Animal Feeding Operation, large-scale industrial livestock facilities; produce high waste volumes leading to water pollution in rivers.",
+    "unit": 5
+  },
+  {
+    "name": "GMO",
+    "definition": "Genetically Modified Organism, altered for desired traits like pest resistance; Roundup Ready soybeans tolerate herbicides.",
+    "unit": 5
+  },
+  {
+    "name": "Slash-and-Burn Agriculture",
+    "definition": "A farming method involving cutting and burning vegetation to clear land; common in rainforests but leads to nutrient depletion after a few years.",
+    "unit": 5
+  },
+  {
+    "name": "Biofuel",
+    "definition": "Fuel derived from biological materials like plants or waste; biodiesel from vegetable oils reduces dependence on fossil fuels.",
+    "unit": 6
+  },
+  {
+    "name": "Thermal Inversion",
+    "definition": "An atmospheric condition where warm air traps cooler air and pollutants near the ground; exacerbates air quality issues in valleys like Mexico City.",
+    "unit": 7
+  },
+  {
+    "name": "Indoor Air Pollution",
+    "definition": "Contamination of indoor environments by harmful substances; sources include tobacco smoke and household cleaners causing respiratory problems.",
+    "unit": 7
+  },
+  {
+    "name": "Biochemical Oxygen Demand (BOD)",
+    "definition": "The amount of oxygen required to decompose organic matter in water; high BOD levels indicate polluted water, as in rivers downstream from sewage plants.",
+    "unit": 8
+  },
+  {
+    "name": "Dead Zone",
+    "definition": "An area in aquatic environments with low oxygen levels where most life cannot survive; the Gulf of Mexico dead zone results from agricultural runoff.",
+    "unit": 8
+  },
+  {
+    "name": "LD50",
+    "definition": "The lethal dose of a substance required to kill 50% of a test population; used to assess toxicity, lower LD50 means more toxic, like in pesticide testing on rats.",
+    "unit": 8
+  },
+  {
+    "name": "Methane (CH4)",
+    "definition": "A potent greenhouse gas produced by anaerobic decomposition and livestock; rice paddies and cows contribute to atmospheric levels accelerating warming.",
+    "unit": 9
+  },
+  {
+    "name": "Coral Bleaching",
+    "definition": "The loss of symbiotic algae from coral due to stress like increased water temperature; widespread in the Great Barrier Reef from climate change.",
+    "unit": 9
+  }
 ]

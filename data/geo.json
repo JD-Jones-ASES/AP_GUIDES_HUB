@@ -126,7 +126,7 @@
   },
   {
     "name": "Sustainability",
-    "definition": "Meeting present needs without compromising future generations, applied in geography to resource management, such as sustainable forestry practices in Scandinavia.",
+    "definition": "The use of Earth's renewable and nonrenewable resources in ways that ensure their availability for future generations, balancing economic, environmental, and social factors, as in sustainable forestry practices in Scandinavia.",
     "unit": 1
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "name": "Life Expectancy",
-    "definition": "Average years a person can expect to live, higher in developed nations like Japan due to better nutrition and medicine, gender gaps often favoring females.",
+    "definition": "The average number of years a newborn can expect to live, higher in developed nations like Japan due to better nutrition and medicine, with gender gaps often favoring females.",
     "unit": 2
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "name": "Migration",
-    "definition": "The movement of people across space, permanent or temporary, driven by factors like job opportunities, as in rural-to-urban shifts in China.",
+    "definition": "The movement of people from one place to another with the intention of settling temporarily or permanently in a new location, driven by factors like job opportunities, as in rural-to-urban shifts in China.",
     "unit": 2
   },
   {
@@ -696,7 +696,7 @@
   },
   {
     "name": "Sustainable Development",
-    "definition": "Economic growth balancing environmental and social needs, as in UN SDGs targeting poverty and climate by 2030.",
+    "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs, integrating economic growth, environmental protection, and social equity, as in the UN Sustainable Development Goals targeting poverty and climate by 2030.",
     "unit": 7
   },
   {
@@ -715,118 +715,118 @@
     "unit": 7
   },
   {
-"name": "Place",
-"definition": "A specific location on Earth with unique physical and human characteristics that give it meaning, such as the cultural vibrancy and historical landmarks of Rome, Italy, fostering a strong sense of identity.",
-"unit": 1
-},
-{
-"name": "Toponym",
-"definition": "The name assigned to a geographic location, often revealing historical, cultural, or environmental insights, like 'Mississippi River' derived from Native American words meaning 'great river'.",
-"unit": 1
-},
-{
-"name": "Absolute Location",
-"definition": "The precise position of a place on Earth's surface using coordinates, such as the Eiffel Tower at 48.8584°N, 2.2945°E, essential for accurate mapping and navigation.",
-"unit": 1
-},
-{
-"name": "Relative Location",
-"definition": "The position of a place described in relation to other features or places, like describing Dubai as a coastal city in the Arabian Peninsula near the Persian Gulf, influencing its role in trade.",
-"unit": 1
-},
-{
-"name": "Contagious Diffusion",
-"definition": "A form of expansion diffusion where an innovation or idea spreads outward from its origin through direct contact, similar to the rapid dissemination of influenza in densely populated areas.",
-"unit": 1
-},
-{
-"name": "Hierarchical Diffusion",
-"definition": "The spread of a feature or trend from larger to smaller places or from people of higher status to those of lower status, as seen in fashion trends starting in major cities like Paris and reaching smaller towns.",
-"unit": 1
-},
-{
-"name": "Stimulus Diffusion",
-"definition": "The adaptation of an idea or innovation in a new context, where the original form is modified, such as the development of vegetarian burgers inspired by traditional meat-based fast food.",
-"unit": 1
-},
-{
-"name": "Dependency Ratio",
-"definition": "The proportion of non-working-age population (under 15 and over 64) to the working-age population, high in countries like Japan due to aging, impacting economic productivity and social welfare systems.",
-"unit": 2
-},
-{
-"name": "Doubling Time",
-"definition": "The period required for a population to double in size at a constant growth rate, estimated by dividing 70 by the annual growth percentage, short in high-growth areas like sub-Saharan Africa.",
-"unit": 2
-},
-{
-"name": "Pro-Natalist Policy",
-"definition": "Government initiatives to increase birth rates through incentives like child subsidies or parental leave, implemented in countries like Russia to address declining populations.",
-"unit": 2
-},
-{
-"name": "Anti-Natalist Policy",
-"definition": "Measures to discourage high birth rates, such as education campaigns or restrictions, as in India's family planning programs to manage overpopulation and resource demands.",
-"unit": 2
-},
-{
-"name": "Pidgin Language",
-"definition": "A simplified hybrid language formed for basic communication between groups with no common tongue, often in trade contexts, like Nigerian Pidgin English blending local and colonial influences.",
-"unit": 3
-},
-{
-"name": "Creole Language",
-"definition": "A fully developed language evolving from a pidgin, with native speakers and complex grammar, such as Jamaican Creole incorporating English, African, and indigenous elements.",
-"unit": 3
-},
-{
-"name": "Isogloss",
-"definition": "A geographic boundary marking linguistic differences, such as variations in word usage or accent, like the boundary between 'bucket' and 'pail' in American English dialects.",
-"unit": 3
-},
-{
-"name": "Enclave",
-"definition": "A territory entirely surrounded by another state's land, such as Vatican City within Italy, often maintaining independent governance and cultural identity.",
-"unit": 4
-},
-{
-"name": "Exclave",
-"definition": "A detached portion of a state's territory separated by another state, like Kaliningrad as a Russian exclave bordered by Lithuania and Poland, complicating administration.",
-"unit": 4
-},
-{
-"name": "Stateless Nation",
-"definition": "A cultural group lacking its own sovereign state, such as the Tibetans under Chinese rule, often advocating for autonomy or independence.",
-"unit": 4
-},
-{
-"name": "Shifting Cultivation",
-"definition": "An agricultural practice involving clearing land for temporary farming before moving to new plots, allowing soil recovery, prevalent in tropical regions like Southeast Asia.",
-"unit": 5
-},
-{
-"name": "Desertification",
-"definition": "The process by which fertile land becomes desert due to drought, deforestation, or overgrazing, affecting areas like the African Sahel and exacerbating food insecurity.",
-"unit": 5
-},
-{
-"name": "Bid-Rent Theory",
-"definition": "A concept explaining how land values decrease with distance from the urban center, influencing use patterns where commercial activities bid highest for central locations.",
-"unit": 6
-},
-{
-"name": "Suburbanization",
-"definition": "The expansion of residential areas outside city centers, driven by factors like affordable housing and transportation, as in the post-war boom in U.S. suburbs.",
-"unit": 6
-},
-{
-"name": "Purchasing Power Parity (PPP)",
-"definition": "An adjustment to economic indicators accounting for cost-of-living differences, enabling fairer international comparisons, such as evaluating China's GDP more accurately relative to the U.S.",
-"unit": 7
-},
-{
-"name": "Export Processing Zone (EPZ)",
-"definition": "Designated areas providing incentives like tax breaks to boost manufacturing exports, fostering economic growth in developing nations like Bangladesh's garment industry.",
-"unit": 7
-}
+    "name": "Place",
+    "definition": "A specific location on Earth with unique physical and human characteristics that give it meaning, such as the cultural vibrancy and historical landmarks of Rome, Italy, fostering a strong sense of identity.",
+    "unit": 1
+  },
+  {
+    "name": "Toponym",
+    "definition": "The name assigned to a geographic location, often revealing historical, cultural, or environmental insights, like 'Mississippi River' derived from Native American words meaning 'great river'.",
+    "unit": 1
+  },
+  {
+    "name": "Absolute Location",
+    "definition": "The precise position of a place on Earth's surface using coordinates, such as the Eiffel Tower at 48.8584°N, 2.2945°E, essential for accurate mapping and navigation.",
+    "unit": 1
+  },
+  {
+    "name": "Relative Location",
+    "definition": "The position of a place described in relation to other features or places, like describing Dubai as a coastal city in the Arabian Peninsula near the Persian Gulf, influencing its role in trade.",
+    "unit": 1
+  },
+  {
+    "name": "Contagious Diffusion",
+    "definition": "A form of expansion diffusion where an innovation or idea spreads outward from its origin through direct contact, similar to the rapid dissemination of influenza in densely populated areas.",
+    "unit": 1
+  },
+  {
+    "name": "Hierarchical Diffusion",
+    "definition": "The spread of a feature or trend from larger to smaller places or from people of higher status to those of lower status, as seen in fashion trends starting in major cities like Paris and reaching smaller towns.",
+    "unit": 1
+  },
+  {
+    "name": "Stimulus Diffusion",
+    "definition": "The adaptation of an idea or innovation in a new context, where the original form is modified, such as the development of vegetarian burgers inspired by traditional meat-based fast food.",
+    "unit": 1
+  },
+  {
+    "name": "Dependency Ratio",
+    "definition": "The proportion of non-working-age population (under 15 and over 64) to the working-age population, high in countries like Japan due to aging, impacting economic productivity and social welfare systems.",
+    "unit": 2
+  },
+  {
+    "name": "Doubling Time",
+    "definition": "The period required for a population to double in size at a constant growth rate, estimated by dividing 70 by the annual growth percentage, short in high-growth areas like sub-Saharan Africa.",
+    "unit": 2
+  },
+  {
+    "name": "Pro-Natalist Policy",
+    "definition": "Government initiatives to increase birth rates through incentives like child subsidies or parental leave, implemented in countries like Russia to address declining populations.",
+    "unit": 2
+  },
+  {
+    "name": "Anti-Natalist Policy",
+    "definition": "Measures to discourage high birth rates, such as education campaigns or restrictions, as in India's family planning programs to manage overpopulation and resource demands.",
+    "unit": 2
+  },
+  {
+    "name": "Pidgin Language",
+    "definition": "A simplified hybrid language formed for basic communication between groups with no common tongue, often in trade contexts, like Nigerian Pidgin English blending local and colonial influences.",
+    "unit": 3
+  },
+  {
+    "name": "Creole Language",
+    "definition": "A fully developed language evolving from a pidgin, with native speakers and complex grammar, such as Jamaican Creole incorporating English, African, and indigenous elements.",
+    "unit": 3
+  },
+  {
+    "name": "Isogloss",
+    "definition": "A geographic boundary marking linguistic differences, such as variations in word usage or accent, like the boundary between 'bucket' and 'pail' in American English dialects.",
+    "unit": 3
+  },
+  {
+    "name": "Enclave",
+    "definition": "A territory entirely surrounded by another state's land, such as Vatican City within Italy, often maintaining independent governance and cultural identity.",
+    "unit": 4
+  },
+  {
+    "name": "Exclave",
+    "definition": "A detached portion of a state's territory separated by another state, like Kaliningrad as a Russian exclave bordered by Lithuania and Poland, complicating administration.",
+    "unit": 4
+  },
+  {
+    "name": "Stateless Nation",
+    "definition": "A cultural group lacking its own sovereign state, such as the Tibetans under Chinese rule, often advocating for autonomy or independence.",
+    "unit": 4
+  },
+  {
+    "name": "Shifting Cultivation",
+    "definition": "An agricultural practice involving clearing land for temporary farming before moving to new plots, allowing soil recovery, prevalent in tropical regions like Southeast Asia.",
+    "unit": 5
+  },
+  {
+    "name": "Desertification",
+    "definition": "The process by which fertile land becomes desert due to drought, deforestation, or overgrazing, affecting areas like the African Sahel and exacerbating food insecurity.",
+    "unit": 5
+  },
+  {
+    "name": "Bid-Rent Theory",
+    "definition": "A concept explaining how land values decrease with distance from the urban center, influencing use patterns where commercial activities bid highest for central locations.",
+    "unit": 6
+  },
+  {
+    "name": "Suburbanization",
+    "definition": "The expansion of residential areas outside city centers, driven by factors like affordable housing and transportation, as in the post-war boom in U.S. suburbs.",
+    "unit": 6
+  },
+  {
+    "name": "Purchasing Power Parity (PPP)",
+    "definition": "An adjustment to economic indicators accounting for cost-of-living differences, enabling fairer international comparisons, such as evaluating China's GDP more accurately relative to the U.S.",
+    "unit": 7
+  },
+  {
+    "name": "Export Processing Zone (EPZ)",
+    "definition": "Designated areas providing incentives like tax breaks to boost manufacturing exports, fostering economic growth in developing nations like Bangladesh's garment industry.",
+    "unit": 7
+  }
 ]

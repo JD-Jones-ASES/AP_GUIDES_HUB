@@ -251,7 +251,7 @@
   },
   {
     "name": "Reign of Terror",
-    "definition": "1793-1794 radical phase under Robespierre's Committee of Public Safety, guillotining 40,000 suspected counter-revolutionaries, ending with Thermidorian Reaction.",
+    "definition": "1793-1794 radical phase under Robespierre's Committee of Public Safety, during which between 16,000 and 40,000 suspected counter-revolutionaries were executed, ending with the Thermidorian Reaction.",
     "unit": 5
   },
   {
@@ -555,283 +555,283 @@
     "unit": 9
   },
   {
-"name": "Pope Pius V",
-"definition": "Pope from 1566 to 1572 who played a key role in the Counter-Reformation by excommunicating Queen Elizabeth I in 1570, implementing the Council of Trent's reforms, and organizing the Holy League that defeated the Ottomans at the Battle of Lepanto in 1571, strengthening Catholic unity against Protestantism and external threats.",
-"unit": 2
-},
-{
-"name": "David Hume",
-"definition": "Scottish Enlightenment philosopher (1711-1776) known for his empiricism and skepticism, arguing in 'A Treatise of Human Nature' that knowledge derives from sensory experience and challenging causation as mere habit, influencing later thinkers like Kant and contributing to secular rationalism.",
-"unit": 4
-},
-{
-"name": "Immanuel Kant",
-"definition": "German philosopher (1724-1804) whose 'Critique of Pure Reason' synthesized rationalism and empiricism, proposing that space and time are innate structures of the mind, and his moral philosophy in 'Groundwork for the Metaphysics of Morals' emphasized categorical imperatives, bridging Enlightenment and Romantic thought.",
-"unit": 4
-},
-{
-"name": "Gottfried Wilhelm Leibniz",
-"definition": "German polymath (1646-1716) who independently developed calculus alongside Newton, advocated monadology in metaphysics positing a pre-established harmony in the universe, and contributed to the Scientific Revolution through inventions like the binary system and mechanical calculators.",
-"unit": 4
-},
-{
-"name": "Carl Friedrich Gauss",
-"definition": "German mathematician (1777-1855) dubbed the 'Prince of Mathematicians,' who advanced number theory, statistics with the normal distribution, and electromagnetism, his work during the early 19th century supporting industrial and scientific progress in Europe.",
-"unit": 6
-},
-{
-"name": "Charles Darwin",
-"definition": "English naturalist (1809-1882) whose 'On the Origin of Species' (1859) introduced natural selection as the mechanism for evolution, challenging religious creationism and influencing 19th-century intellectual debates on biology, society, and human origins.",
-"unit": 7
-},
-{
-"name": "Niccolò Machiavelli",
-"definition": "Italian Renaissance diplomat (1469-1527) whose 'The Prince' advised rulers on pragmatic power politics, emphasizing that the ends justify the means, influencing realpolitik and secular governance ideas in Europe.",
-"unit": 1
-},
-{
-"name": "Thomas More",
-"definition": "English humanist (1478-1535) and chancellor under Henry VIII, author of 'Utopia' critiquing social inequalities and envisioning an ideal communal society, executed for opposing the king's break with Rome, exemplifying tensions between humanism and Reformation politics.",
-"unit": 1
-},
-{
-"name": "Queen Elizabeth I",
-"definition": "English monarch (1558-1603) who established the Elizabethan Settlement balancing Protestantism and Catholicism, defeated the Spanish Armada in 1588, and patronized arts like Shakespeare, solidifying England's Protestant identity and global ambitions.",
-"unit": 2
-},
-{
-"name": "Philip II of Spain",
-"definition": "Spanish king (1556-1598) embodying Catholic absolutism, who funded the Counter-Reformation, attempted to invade England with the Armada, and ruled a vast empire including the Netherlands, where his policies sparked the Dutch Revolt.",
-"unit": 2
-},
-{
-"name": "Oliver Cromwell",
-"definition": "English military leader (1599-1658) who led Parliamentarian forces in the Civil War, executed Charles I, and ruled as Lord Protector during the Commonwealth, imposing Puritan reforms but facing resistance leading to the Restoration.",
-"unit": 3
-},
-{
-"name": "Thomas Hobbes",
-"definition": "English philosopher (1588-1679) whose 'Leviathan' argued for absolute monarchy to prevent the 'state of nature' as 'nasty, brutish, and short,' influencing absolutist theories amid English Civil War chaos.",
-"unit": 3
-},
-{
-"name": "Francis Bacon",
-"definition": "English philosopher (1561-1626) who pioneered the scientific method in 'Novum Organum,' advocating inductive reasoning and empirical experimentation, laying foundations for the Scientific Revolution.",
-"unit": 4
-},
-{
-"name": "René Descartes",
-"definition": "French philosopher (1596-1650) known as the father of modern philosophy, whose 'Meditations' employed methodical doubt ('Cogito, ergo sum') to establish rationalism, influencing the Scientific Revolution's emphasis on reason.",
-"unit": 4
-},
-{
-"name": "Adam Smith",
-"definition": "Scottish economist (1723-1790) whose 'Wealth of Nations' (1776) outlined laissez-faire capitalism, invisible hand, and division of labor, shaping economic policies during the Industrial Revolution.",
-"unit": 6
-},
-{
-"name": "Mary Wollstonecraft",
-"definition": "English writer (1759-1797) whose 'A Vindication of the Rights of Woman' (1792) argued for women's education and equality, pioneering first-wave feminism amid Enlightenment ideals.",
-"unit": 4
-},
-{
-"name": "Giuseppe Mazzini",
-"definition": "Italian nationalist (1805-1872) who founded Young Italy, advocating republicanism and popular uprisings, inspiring the Risorgimento and broader European nationalist movements.",
-"unit": 7
-},
-{
-"name": "Camillo di Cavour",
-"definition": "Piedmontese prime minister (1810-1861) who used diplomacy and alliances, like with France against Austria, to unify Italy under Victor Emmanuel II, exemplifying liberal nationalism.",
-"unit": 7
-},
-{
-"name": "Giuseppe Garibaldi",
-"definition": "Italian revolutionary (1807-1882) whose Red Shirts conquered southern Italy in the Expedition of the Thousand (1860), handing territories to Piedmont for unification, embodying romantic nationalism.",
-"unit": 7
-},
-{
-"name": "Vladimir Lenin",
-"definition": "Russian revolutionary (1870-1924) who led the Bolsheviks in the October Revolution, establishing the Soviet Union, and implementing war communism, shaping 20th-century communism.",
-"unit": 8
-},
-{
-"name": "Adolf Hitler",
-"definition": "German dictator (1889-1945) who rose through the Nazi Party, becoming Chancellor in 1933, implementing the Führer principle, rearming Germany, and initiating WWII and the Holocaust.",
-"unit": 8
-},
-{
-"name": "Winston Churchill",
-"definition": "British prime minister (1940-1945, 1951-1955) who led the UK through WWII with speeches like 'We shall fight on the beaches,' forming alliances against the Axis and coining 'Iron Curtain' post-war.",
-"unit": 8
-},
-{
-"name": "Mikhail Gorbachev",
-"definition": "Soviet leader (1985-1991) whose policies of glasnost (openness) and perestroika (restructuring) aimed to reform the USSR but contributed to its dissolution and the end of the Cold War.",
-"unit": 9
-},
-{
-"name": "Baroque Art",
-"definition": "17th-century style emphasizing drama, movement, and grandeur, patronized by the Catholic Church and absolutist monarchs, as in Bernini's sculptures and Caravaggio's chiaroscuro, countering Protestant simplicity.",
-"unit": 3
-},
-{
-"name": "Defenestration of Prague",
-"definition": "1618 incident where Protestant nobles threw Catholic officials from a window in Bohemia, sparking the Thirty Years' War and highlighting religious tensions in the Holy Roman Empire.",
-"unit": 2
-},
-{
-"name": "Spanish Armada",
-"definition": "1588 failed invasion fleet sent by Philip II against England, defeated by English ships and storms, marking the decline of Spanish naval dominance and rise of English power.",
-"unit": 2
-},
-{
-"name": "Yalta Conference",
-"definition": "February 1945 meeting of Churchill, Roosevelt, and Stalin dividing post-WWII Europe into spheres of influence, setting the stage for the Cold War and decisions on Germany and Poland.",
-"unit": 9
-},
-{
-"name": "Ferdinand and Isabella",
-"definition": "Spanish monarchs (1479-1516) who unified Spain through marriage, completed the Reconquista by conquering Granada in 1492, sponsored Columbus's voyages, and established the Spanish Inquisition to enforce Catholic orthodoxy, centralizing power and initiating Spain's golden age.",
-"unit": 1
-},
-{
-"name": "Henry VIII",
-"definition": "English king (1509-1547) who broke with the Catholic Church over his divorce from Catherine of Aragon, establishing the Church of England via the Act of Supremacy in 1534, dissolving monasteries to seize wealth, and setting the stage for the English Reformation.",
-"unit": 2
-},
-{
-"name": "Catherine the Great",
-"definition": "Russian empress (1762-1796) who expanded Russia's territory through partitions of Poland and wars with the Ottomans, implemented enlightened reforms like the Nakaz legal code, but maintained serfdom and absolutist rule, exemplifying enlightened despotism.",
-"unit": 4
-},
-{
-"name": "Cardinal Richelieu",
-"definition": "French chief minister (1624-1642) under Louis XIII who centralized power by suppressing Huguenots and nobles, establishing intendants, and supporting anti-Habsburg forces in the Thirty Years' War, laying foundations for Louis XIV's absolutism.",
-"unit": 3
-},
-{
-"name": "William of Orange",
-"definition": "Dutch leader (1533-1584) who led the revolt against Spanish rule, signing the Union of Utrecht in 1579 and declaring independence in 1581, founding the Dutch Republic and promoting religious tolerance amid the Wars of Religion.",
-"unit": 2
-},
-{
-"name": "Act of Supremacy",
-"definition": "1534 English law declaring Henry VIII the Supreme Head of the Church of England, severing ties with Rome, enabling the dissolution of monasteries and redistribution of church lands, accelerating the English Reformation.",
-"unit": 2
-},
-{
-"name": "Maria Theresa",
-"definition": "Austrian Habsburg ruler (1740-1780) who reformed administration, education, and the military after the War of Austrian Succession, centralizing power while defending against Prussian aggression, embodying enlightened absolutism.",
-"unit": 4
-},
-{
-"name": "Frederick the Great",
-"definition": "Prussian king (1740-1786) who expanded territory through the Silesian Wars and partitions of Poland, implemented enlightened reforms like religious tolerance and legal codes, while building a militarized state.",
-"unit": 4
-},
-{
-"name": "Tennis Court Oath",
-"definition": "June 20, 1789 pledge by Third Estate members of the National Assembly to draft a constitution, defying Louis XVI's orders, marking a pivotal moment in the French Revolution's shift toward popular sovereignty.",
-"unit": 5
-},
-{
-"name": "Maximilien Robespierre",
-"definition": "French revolutionary leader (1758-1794) who dominated the Committee of Public Safety during the Reign of Terror, advocating virtue and executing thousands, guillotined in the Thermidorian Reaction, symbolizing radical Jacobinism.",
-"unit": 5
-},
-{
-"name": "Battle of Waterloo",
-"definition": "1815 defeat of Napoleon by British and Prussian forces under Wellington and Blücher, ending the Napoleonic Wars, leading to his exile and the Congress of Vienna's restoration of European monarchies.",
-"unit": 5
-},
-{
-"name": "Prince Metternich",
-"definition": "Austrian chancellor (1809-1848) who orchestrated the Congress of Vienna, promoting conservatism and the balance of power through the Concert of Europe to suppress liberal and nationalist revolutions.",
-"unit": 5
-},
-{
-"name": "Water Frame",
-"definition": "Richard Arkwright's 1769 invention powering spinning machines with water, enabling large-scale factory production of yarn, accelerating the textile industry's mechanization during the Industrial Revolution.",
-"unit": 6
-},
-{
-"name": "Luddites",
-"definition": "Early 19th-century English workers who protested industrialization by destroying machinery, fearing job loss and poor conditions, highlighting social tensions amid economic transformation.",
-"unit": 6
-},
-{
-"name": "Chartism",
-"definition": "1838-1857 British working-class movement demanding political reforms like universal male suffrage via the People's Charter, influencing later democratic expansions despite initial failures.",
-"unit": 6
-},
-{
-"name": "Zollverein",
-"definition": "1834 Prussian-led customs union eliminating tariffs among German states, fostering economic unity and industrialization, paving the way for political unification under Bismarck.",
-"unit": 7
-},
-{
-"name": "Crimean War",
-"definition": "1853-1856 conflict between Russia and an alliance of Britain, France, and Ottomans over influence in the Balkans, exposing Russian backwardness and prompting reforms, while boosting Italian unification efforts.",
-"unit": 7
-},
-{
-"name": "Suez Canal",
-"definition": "1869 waterway built by French engineer Ferdinand de Lesseps connecting Mediterranean and Red Seas, facilitating imperial trade and control, symbolizing European technological dominance in imperialism.",
-"unit": 7
-},
-{
-"name": "Schlieffen Plan",
-"definition": "German WWI strategy for a quick victory by invading France through Belgium before turning to Russia, failing due to logistical issues and leading to trench warfare stalemate.",
-"unit": 8
-},
-{
-"name": "Fourteen Points",
-"definition": "1918 Woodrow Wilson proposal for post-WWI peace, advocating self-determination, free trade, and the League of Nations, influencing the Treaty of Versailles but largely unfulfilled.",
-"unit": 8
-},
-{
-"name": "Weimar Republic",
-"definition": "1919-1933 German democratic government post-WWI, plagued by hyperinflation, political instability, and the Great Depression, ultimately collapsing with Hitler's rise to power.",
-"unit": 8
-},
-{
-"name": "Benito Mussolini",
-"definition": "Italian fascist dictator (1922-1943) who marched on Rome to seize power, establishing a totalitarian state with corporatism and expansionist policies, allying with Hitler in WWII.",
-"unit": 8
-},
-{
-"name": "Joseph Stalin",
-"definition": "Soviet leader (1924-1953) who consolidated power through purges, implemented rapid industrialization via Five-Year Plans, and collectivized agriculture, causing famines but transforming the USSR into a superpower.",
-"unit": 8
-},
-{
-"name": "Munich Agreement",
-"definition": "1938 pact allowing Nazi annexation of Czechoslovakia's Sudetenland, epitomizing appeasement policy by Chamberlain, failing to prevent WWII and emboldening Hitler.",
-"unit": 8
-},
-{
-"name": "Blitzkrieg",
-"definition": "German WWII tactic of rapid, coordinated attacks using tanks, aircraft, and infantry, successfully invading Poland in 1939 and France in 1940, revolutionizing warfare.",
-"unit": 8
-},
-{
-"name": "Potsdam Conference",
-"definition": "July 1945 meeting of Truman, Churchill/Attlee, and Stalin finalizing WWII settlements, including German division, reparations, and denazification, intensifying Cold War tensions.",
-"unit": 9
-},
-{
-"name": "Berlin Airlift",
-"definition": "1948-1949 Western Allied operation supplying West Berlin amid Soviet blockade, demonstrating containment and leading to the formation of NATO and divided Germany.",
-"unit": 9
-},
-{
-"name": "Common Market",
-"definition": "1957 European Economic Community (EEC) established by the Treaty of Rome, promoting free trade and economic integration among six founding members, evolving into the European Union.",
-"unit": 9
-},
-{
-"name": "Velvet Revolution",
-"definition": "1989 non-violent protests in Czechoslovakia led by Vaclav Havel, overthrowing communist rule and leading to democratic elections, symbolizing peaceful transitions in Eastern Europe.",
-"unit": 9
-}
+    "name": "Pope Pius V",
+    "definition": "Pope from 1566 to 1572 who played a key role in the Counter-Reformation by excommunicating Queen Elizabeth I in 1570, implementing the Council of Trent's reforms, and organizing the Holy League that defeated the Ottomans at the Battle of Lepanto in 1571, strengthening Catholic unity against Protestantism and external threats.",
+    "unit": 2
+  },
+  {
+    "name": "David Hume",
+    "definition": "Scottish Enlightenment philosopher (1711-1776) known for his empiricism and skepticism, arguing in 'A Treatise of Human Nature' that knowledge derives from sensory experience and challenging causation as mere habit, influencing later thinkers like Kant and contributing to secular rationalism.",
+    "unit": 4
+  },
+  {
+    "name": "Immanuel Kant",
+    "definition": "German philosopher (1724-1804) whose 'Critique of Pure Reason' synthesized rationalism and empiricism, proposing that space and time are innate structures of the mind, and his moral philosophy in 'Groundwork for the Metaphysics of Morals' emphasized categorical imperatives, bridging Enlightenment and Romantic thought.",
+    "unit": 4
+  },
+  {
+    "name": "Gottfried Wilhelm Leibniz",
+    "definition": "German polymath (1646-1716) who independently developed calculus alongside Newton, advocated monadology in metaphysics positing a pre-established harmony in the universe, and contributed to the Scientific Revolution through inventions like the binary system and mechanical calculators.",
+    "unit": 4
+  },
+  {
+    "name": "Carl Friedrich Gauss",
+    "definition": "German mathematician (1777-1855) dubbed the 'Prince of Mathematicians,' who advanced number theory, statistics with the normal distribution, and electromagnetism, his work during the early 19th century supporting industrial and scientific progress in Europe.",
+    "unit": 6
+  },
+  {
+    "name": "Charles Darwin",
+    "definition": "English naturalist (1809-1882) whose 'On the Origin of Species' (1859) introduced natural selection as the mechanism for evolution, challenging religious creationism and influencing 19th-century intellectual debates on biology, society, and human origins.",
+    "unit": 7
+  },
+  {
+    "name": "Niccolò Machiavelli",
+    "definition": "Italian Renaissance diplomat (1469-1527) whose 'The Prince' advised rulers on pragmatic power politics, emphasizing that the ends justify the means, influencing realpolitik and secular governance ideas in Europe.",
+    "unit": 1
+  },
+  {
+    "name": "Thomas More",
+    "definition": "English humanist (1478-1535) and chancellor under Henry VIII, author of 'Utopia' critiquing social inequalities and envisioning an ideal communal society, executed for opposing the king's break with Rome, exemplifying tensions between humanism and Reformation politics.",
+    "unit": 1
+  },
+  {
+    "name": "Queen Elizabeth I",
+    "definition": "English monarch (1558-1603) who established the Elizabethan Settlement balancing Protestantism and Catholicism, defeated the Spanish Armada in 1588, and patronized arts like Shakespeare, solidifying England's Protestant identity and global ambitions.",
+    "unit": 2
+  },
+  {
+    "name": "Philip II of Spain",
+    "definition": "Spanish king (1556-1598) embodying Catholic absolutism, who funded the Counter-Reformation, attempted to invade England with the Armada, and ruled a vast empire including the Netherlands, where his policies sparked the Dutch Revolt.",
+    "unit": 2
+  },
+  {
+    "name": "Oliver Cromwell",
+    "definition": "English military leader (1599-1658) who led Parliamentarian forces in the Civil War, executed Charles I, and ruled as Lord Protector during the Commonwealth, imposing Puritan reforms but facing resistance leading to the Restoration.",
+    "unit": 3
+  },
+  {
+    "name": "Thomas Hobbes",
+    "definition": "English philosopher (1588-1679) whose 'Leviathan' argued for absolute monarchy to prevent the 'state of nature' as 'nasty, brutish, and short,' influencing absolutist theories amid English Civil War chaos.",
+    "unit": 3
+  },
+  {
+    "name": "Francis Bacon",
+    "definition": "English philosopher (1561-1626) who pioneered the scientific method in 'Novum Organum,' advocating inductive reasoning and empirical experimentation, laying foundations for the Scientific Revolution.",
+    "unit": 4
+  },
+  {
+    "name": "René Descartes",
+    "definition": "French philosopher (1596-1650) known as the father of modern philosophy, whose 'Meditations' employed methodical doubt ('Cogito, ergo sum') to establish rationalism, influencing the Scientific Revolution's emphasis on reason.",
+    "unit": 4
+  },
+  {
+    "name": "Adam Smith",
+    "definition": "Scottish economist (1723-1790) whose 'Wealth of Nations' (1776) outlined laissez-faire capitalism, invisible hand, and division of labor, shaping economic policies during the Industrial Revolution.",
+    "unit": 6
+  },
+  {
+    "name": "Mary Wollstonecraft",
+    "definition": "English writer (1759-1797) whose 'A Vindication of the Rights of Woman' (1792) argued for women's education and equality, pioneering first-wave feminism amid Enlightenment ideals.",
+    "unit": 4
+  },
+  {
+    "name": "Giuseppe Mazzini",
+    "definition": "Italian nationalist (1805-1872) who founded Young Italy, advocating republicanism and popular uprisings, inspiring the Risorgimento and broader European nationalist movements.",
+    "unit": 7
+  },
+  {
+    "name": "Camillo di Cavour",
+    "definition": "Piedmontese prime minister (1810-1861) who used diplomacy and alliances, like with France against Austria, to unify Italy under Victor Emmanuel II, exemplifying liberal nationalism.",
+    "unit": 7
+  },
+  {
+    "name": "Giuseppe Garibaldi",
+    "definition": "Italian revolutionary (1807-1882) whose Red Shirts conquered southern Italy in the Expedition of the Thousand (1860), handing territories to Piedmont for unification, embodying romantic nationalism.",
+    "unit": 7
+  },
+  {
+    "name": "Vladimir Lenin",
+    "definition": "Russian revolutionary (1870-1924) who led the Bolsheviks in the October Revolution, establishing the Soviet Union, and implementing war communism, shaping 20th-century communism.",
+    "unit": 8
+  },
+  {
+    "name": "Adolf Hitler",
+    "definition": "German dictator (1889-1945) who rose through the Nazi Party, becoming Chancellor in 1933, implementing the Führer principle, rearming Germany, and initiating WWII and the Holocaust.",
+    "unit": 8
+  },
+  {
+    "name": "Winston Churchill",
+    "definition": "British prime minister (1940-1945, 1951-1955) who led the UK through WWII with speeches like 'We shall fight on the beaches,' forming alliances against the Axis and coining 'Iron Curtain' post-war.",
+    "unit": 8
+  },
+  {
+    "name": "Mikhail Gorbachev",
+    "definition": "Soviet leader (1985-1991) whose policies of glasnost (openness) and perestroika (restructuring) aimed to reform the USSR but contributed to its dissolution and the end of the Cold War.",
+    "unit": 9
+  },
+  {
+    "name": "Baroque Art",
+    "definition": "17th-century style emphasizing drama, movement, and grandeur, patronized by the Catholic Church and absolutist monarchs, as in Bernini's sculptures and Caravaggio's chiaroscuro, countering Protestant simplicity.",
+    "unit": 3
+  },
+  {
+    "name": "Defenestration of Prague",
+    "definition": "1618 incident where Protestant nobles threw Catholic officials from a window in Bohemia, sparking the Thirty Years' War and highlighting religious tensions in the Holy Roman Empire.",
+    "unit": 2
+  },
+  {
+    "name": "Spanish Armada",
+    "definition": "1588 failed invasion fleet sent by Philip II against England, defeated by English ships and storms, marking the decline of Spanish naval dominance and rise of English power.",
+    "unit": 2
+  },
+  {
+    "name": "Yalta Conference",
+    "definition": "February 1945 meeting of Churchill, Roosevelt, and Stalin dividing post-WWII Europe into spheres of influence, setting the stage for the Cold War and decisions on Germany and Poland.",
+    "unit": 9
+  },
+  {
+    "name": "Ferdinand and Isabella",
+    "definition": "Spanish monarchs (1479-1516) who unified Spain through marriage, completed the Reconquista by conquering Granada in 1492, sponsored Columbus's voyages, and established the Spanish Inquisition to enforce Catholic orthodoxy, centralizing power and initiating Spain's golden age.",
+    "unit": 1
+  },
+  {
+    "name": "Henry VIII",
+    "definition": "English king (1509-1547) who broke with the Catholic Church over his divorce from Catherine of Aragon, establishing the Church of England via the Act of Supremacy in 1534, dissolving monasteries to seize wealth, and setting the stage for the English Reformation.",
+    "unit": 2
+  },
+  {
+    "name": "Catherine the Great",
+    "definition": "Russian empress (1762-1796) who expanded Russia's territory through partitions of Poland and wars with the Ottomans, implemented enlightened reforms like the Nakaz legal code, but maintained serfdom and absolutist rule, exemplifying enlightened despotism.",
+    "unit": 4
+  },
+  {
+    "name": "Cardinal Richelieu",
+    "definition": "French chief minister (1624-1642) under Louis XIII who centralized power by suppressing Huguenots and nobles, establishing intendants, and supporting anti-Habsburg forces in the Thirty Years' War, laying foundations for Louis XIV's absolutism.",
+    "unit": 3
+  },
+  {
+    "name": "William of Orange",
+    "definition": "Dutch leader (1533-1584) who led the revolt against Spanish rule, signing the Union of Utrecht in 1579 and declaring independence in 1581, founding the Dutch Republic and promoting religious tolerance amid the Wars of Religion.",
+    "unit": 2
+  },
+  {
+    "name": "Act of Supremacy",
+    "definition": "1534 English law declaring Henry VIII the Supreme Head of the Church of England, severing ties with Rome, enabling the dissolution of monasteries and redistribution of church lands, accelerating the English Reformation.",
+    "unit": 2
+  },
+  {
+    "name": "Maria Theresa",
+    "definition": "Austrian Habsburg ruler (1740-1780) who reformed administration, education, and the military after the War of Austrian Succession, centralizing power while defending against Prussian aggression, embodying enlightened absolutism.",
+    "unit": 4
+  },
+  {
+    "name": "Frederick the Great",
+    "definition": "Prussian king (1740-1786) who expanded territory through the Silesian Wars and partitions of Poland, implemented enlightened reforms like religious tolerance and legal codes, while building a militarized state.",
+    "unit": 4
+  },
+  {
+    "name": "Tennis Court Oath",
+    "definition": "June 20, 1789 pledge by Third Estate members of the National Assembly to draft a constitution, defying Louis XVI's orders, marking a pivotal moment in the French Revolution's shift toward popular sovereignty.",
+    "unit": 5
+  },
+  {
+    "name": "Maximilien Robespierre",
+    "definition": "French revolutionary leader (1758-1794) who dominated the Committee of Public Safety during the Reign of Terror, advocating virtue and executing thousands, guillotined in the Thermidorian Reaction, symbolizing radical Jacobinism.",
+    "unit": 5
+  },
+  {
+    "name": "Battle of Waterloo",
+    "definition": "1815 defeat of Napoleon by British and Prussian forces under Wellington and Blücher, ending the Napoleonic Wars, leading to his exile and the Congress of Vienna's restoration of European monarchies.",
+    "unit": 5
+  },
+  {
+    "name": "Prince Metternich",
+    "definition": "Austrian chancellor (1809-1848) who orchestrated the Congress of Vienna, promoting conservatism and the balance of power through the Concert of Europe to suppress liberal and nationalist revolutions.",
+    "unit": 5
+  },
+  {
+    "name": "Water Frame",
+    "definition": "Richard Arkwright's 1769 invention powering spinning machines with water, enabling large-scale factory production of yarn, accelerating the textile industry's mechanization during the Industrial Revolution.",
+    "unit": 6
+  },
+  {
+    "name": "Luddites",
+    "definition": "Early 19th-century English workers who protested industrialization by destroying machinery, fearing job loss and poor conditions, highlighting social tensions amid economic transformation.",
+    "unit": 6
+  },
+  {
+    "name": "Chartism",
+    "definition": "1838-1857 British working-class movement demanding political reforms like universal male suffrage via the People's Charter, influencing later democratic expansions despite initial failures.",
+    "unit": 6
+  },
+  {
+    "name": "Zollverein",
+    "definition": "1834 Prussian-led customs union eliminating tariffs among German states, fostering economic unity and industrialization, paving the way for political unification under Bismarck.",
+    "unit": 7
+  },
+  {
+    "name": "Crimean War",
+    "definition": "1853-1856 conflict between Russia and an alliance of Britain, France, and Ottomans over influence in the Balkans, exposing Russian backwardness and prompting reforms, while boosting Italian unification efforts.",
+    "unit": 7
+  },
+  {
+    "name": "Suez Canal",
+    "definition": "1869 waterway built by French engineer Ferdinand de Lesseps connecting Mediterranean and Red Seas, facilitating imperial trade and control, symbolizing European technological dominance in imperialism.",
+    "unit": 7
+  },
+  {
+    "name": "Schlieffen Plan",
+    "definition": "German WWI strategy for a quick victory by invading France through Belgium before turning to Russia, failing due to logistical issues and leading to trench warfare stalemate.",
+    "unit": 8
+  },
+  {
+    "name": "Fourteen Points",
+    "definition": "1918 Woodrow Wilson proposal for post-WWI peace, advocating self-determination, free trade, and the League of Nations, influencing the Treaty of Versailles but largely unfulfilled.",
+    "unit": 8
+  },
+  {
+    "name": "Weimar Republic",
+    "definition": "1919-1933 German democratic government post-WWI, plagued by hyperinflation, political instability, and the Great Depression, ultimately collapsing with Hitler's rise to power.",
+    "unit": 8
+  },
+  {
+    "name": "Benito Mussolini",
+    "definition": "Italian fascist dictator (1922-1943) who marched on Rome to seize power, establishing a totalitarian state with corporatism and expansionist policies, allying with Hitler in WWII.",
+    "unit": 8
+  },
+  {
+    "name": "Joseph Stalin",
+    "definition": "Soviet leader (1924-1953) who consolidated power through purges, implemented rapid industrialization via Five-Year Plans, and collectivized agriculture, causing famines but transforming the USSR into a superpower.",
+    "unit": 8
+  },
+  {
+    "name": "Munich Agreement",
+    "definition": "1938 pact allowing Nazi annexation of Czechoslovakia's Sudetenland, epitomizing appeasement policy by Chamberlain, failing to prevent WWII and emboldening Hitler.",
+    "unit": 8
+  },
+  {
+    "name": "Blitzkrieg",
+    "definition": "German WWII tactic of rapid, coordinated attacks using tanks, aircraft, and infantry, successfully invading Poland in 1939 and France in 1940, revolutionizing warfare.",
+    "unit": 8
+  },
+  {
+    "name": "Potsdam Conference",
+    "definition": "July 1945 meeting of Truman, Churchill/Attlee, and Stalin finalizing WWII settlements, including German division, reparations, and denazification, intensifying Cold War tensions.",
+    "unit": 9
+  },
+  {
+    "name": "Berlin Airlift",
+    "definition": "1948-1949 Western Allied operation supplying West Berlin amid Soviet blockade, demonstrating containment and leading to the formation of NATO and divided Germany.",
+    "unit": 9
+  },
+  {
+    "name": "Common Market",
+    "definition": "1957 European Economic Community (EEC) established by the Treaty of Rome, promoting free trade and economic integration among six founding members, evolving into the European Union.",
+    "unit": 9
+  },
+  {
+    "name": "Velvet Revolution",
+    "definition": "1989 non-violent protests in Czechoslovakia led by Vaclav Havel, overthrowing communist rule and leading to democratic elections, symbolizing peaceful transitions in Eastern Europe.",
+    "unit": 9
+  }
 ]

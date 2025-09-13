@@ -186,13 +186,13 @@
   },
   {
     "name": "Cooperative Federalism",
-    "definition": "Marble cake model of intermingled federal-state responsibilities, expanded during New Deal with shared programs like Social Security.",
+    "definition": "Marble cake model of intermingled federal-state responsibilities, expanded during New Deal with shared programs like Medicaid and highway funding.",
     "unit": 1
   },
   {
     "name": "Marbury v. Madison",
     "definition": "1803 case establishing judicial review, allowing courts to strike down unconstitutional laws, empowering the judiciary as a co-equal branch.",
-    "unit": 1
+    "unit": 2
   },
   {
     "name": "McCulloch v. Maryland",
@@ -436,7 +436,7 @@
   },
   {
     "name": "Establishment Clause",
-    "definition": "First Amendment ban on government establishing religion, interpreted via Lemon Test to avoid advancing or inhibiting religion.",
+    "definition": "First Amendment provision prohibiting Congress from making laws respecting an establishment of religion, separating church and state; historically evaluated using the Lemon Test to avoid advancing or inhibiting religion, though recent cases emphasize historical practices and traditions.",
     "unit": 3
   },
   {
@@ -446,7 +446,7 @@
   },
   {
     "name": "Freedom of Speech",
-    "definition": "First Amendment right to express ideas, protected unless clear and present danger, as in Schenck v. United States.",
+    "definition": "First Amendment right to express ideas, protected unless it creates a clear and present danger, as in Schenck v. United States, later refined to inciting imminent lawless action in Brandenburg v. Ohio.",
     "unit": 3
   },
   {
@@ -531,7 +531,7 @@
   },
   {
     "name": "Right to Privacy",
-    "definition": "Implied right from several amendments, basis for reproductive rights in Roe v. Wade, later modified.",
+    "definition": "Implied right from several amendments, basis for decisions on contraception (Griswold v. Connecticut), same-sex marriage (Obergefell v. Hodges), and previously abortion in Roe v. Wade, which was overturned in Dobbs v. Jackson Women's Health Organization.",
     "unit": 3
   },
   {
@@ -566,7 +566,7 @@
   },
   {
     "name": "Affirmative Action",
-    "definition": "Policies favoring underrepresented groups in hiring/education, upheld with limits in Grutter v. Bollinger.",
+    "definition": "Policies favoring underrepresented groups in hiring and education to remedy past discrimination, upheld with limits in Grutter v. Bollinger but ruled unconstitutional for race-based college admissions in Students for Fair Admissions v. Harvard (2023).",
     "unit": 3
   },
   {
@@ -607,7 +607,7 @@
   {
     "name": "Baker v. Carr",
     "definition": "1962 ruling allowing federal courts to hear reapportionment cases, leading to 'one person, one vote' principle.",
-    "unit": 3
+    "unit": 2
   },
   {
     "name": "Engel v. Vitale",
@@ -789,84 +789,84 @@
     "definition": "2014 ruling striking aggregate contribution limits, allowing more donations to multiple candidates.",
     "unit": 5
   },
-{
-"name": "Constitution of the United States",
-"definition": "The foundational document establishing the structure of the federal government, including the three branches, federalism, and individual rights protections, ratified in 1788 and serving as the supreme law of the land.",
-"unit": 1
-},
-{
-"name": "Federalist No. 70",
-"definition": "Alexander Hamilton's essay advocating for a unitary executive with sufficient energy and accountability, arguing against a plural executive to ensure effective governance.",
-"unit": 2
-},
-{
-"name": "Brown v. Board of Education",
-"definition": "1954 Supreme Court decision declaring segregated public schools inherently unequal and unconstitutional under the Equal Protection Clause, overturning Plessy v. Ferguson and advancing desegregation.",
-"unit": 3
-},
-{
-"name": "McDonald v. Chicago",
-"definition": "2010 Supreme Court case incorporating the Second Amendment to the states via the Fourteenth Amendment's Due Process Clause, affirming an individual's right to possess firearms for self-defense.",
-"unit": 3
-},
-{
-"name": "Plessy v. Ferguson",
-"definition": "1896 Supreme Court case establishing the 'separate but equal' doctrine, upholding racial segregation laws and providing legal justification for Jim Crow until overruled by Brown v. Board of Education.",
-"unit": 3
-},
-{
-"name": "Gibbons v. Ogden",
-"definition": "1824 Supreme Court case broadly interpreting the Commerce Clause to include navigation, affirming federal authority over interstate commerce and limiting state powers.",
-"unit": 1
-},
-{
-"name": "New York Times Co. v. Sullivan",
-"definition": "1964 Supreme Court case requiring proof of 'actual malice' for public officials to win libel suits, protecting press freedom and criticism of government.",
-"unit": 3
-},
-{
-"name": "Civil Rights Act of 1964",
-"definition": "Landmark legislation prohibiting discrimination based on race, color, religion, sex, or national origin in public accommodations, employment, and federally funded programs.",
-"unit": 3
-},
-{
-"name": "Voting Rights Act of 1965",
-"definition": "Federal law eliminating barriers to African American voting, such as literacy tests, and requiring preclearance for changes in voting laws in certain jurisdictions, later partially invalidated in Shelby County v. Holder.",
-"unit": 3
-},
-{
-"name": "War Powers Resolution",
-"definition": "1973 act requiring the president to consult Congress before introducing U.S. forces into hostilities and to withdraw them within 60 days without congressional authorization, aiming to check executive war-making.",
-"unit": 2
-},
-{
-"name": "Pluralism",
-"definition": "Theory of democracy where multiple groups compete for influence, leading to compromise and representation of diverse interests through interest groups and elections.",
-"unit": 1
-},
-{
-"name": "Elite Theory",
-"definition": "Perspective that power is concentrated among a small elite group, such as wealthy or educated individuals, who dominate decision-making regardless of democratic processes.",
-"unit": 1
-},
-{
-"name": "Hyperpluralism",
-"definition": "View that too many competing groups lead to policy gridlock and government inability to act effectively, weakening democracy.",
-"unit": 1
-},
-{
-"name": "19th Amendment",
-"definition": "1920 constitutional amendment granting women the right to vote, marking a major expansion of suffrage after the women's rights movement.",
-"unit": 5
-},
-{
-"name": "24th Amendment",
-"definition": "1964 amendment prohibiting poll taxes in federal elections, removing a barrier to voting particularly affecting low-income and minority voters.",
-"unit": 5
-},
-{
-"name": "26th Amendment",
-"definition": "1971 amendment lowering the voting age to 18, in response to arguments that those old enough to be drafted should vote.",
-"unit": 5
-}
+  {
+    "name": "Constitution of the United States",
+    "definition": "The foundational document establishing the structure of the federal government, including the three branches, federalism, and individual rights protections, ratified in 1788 and serving as the supreme law of the land.",
+    "unit": 1
+  },
+  {
+    "name": "Federalist No. 70",
+    "definition": "Alexander Hamilton's essay advocating for a unitary executive with sufficient energy and accountability, arguing against a plural executive to ensure effective governance.",
+    "unit": 2
+  },
+  {
+    "name": "Brown v. Board of Education",
+    "definition": "1954 Supreme Court decision declaring segregated public schools inherently unequal and unconstitutional under the Equal Protection Clause, overturning Plessy v. Ferguson and advancing desegregation.",
+    "unit": 3
+  },
+  {
+    "name": "McDonald v. Chicago",
+    "definition": "2010 Supreme Court case incorporating the Second Amendment to the states via the Fourteenth Amendment's Due Process Clause, affirming an individual's right to possess firearms for self-defense.",
+    "unit": 3
+  },
+  {
+    "name": "Plessy v. Ferguson",
+    "definition": "1896 Supreme Court case establishing the 'separate but equal' doctrine, upholding racial segregation laws and providing legal justification for Jim Crow until overruled by Brown v. Board of Education.",
+    "unit": 3
+  },
+  {
+    "name": "Gibbons v. Ogden",
+    "definition": "1824 Supreme Court case broadly interpreting the Commerce Clause to include navigation, affirming federal authority over interstate commerce and limiting state powers.",
+    "unit": 1
+  },
+  {
+    "name": "New York Times Co. v. Sullivan",
+    "definition": "1964 Supreme Court case requiring proof of 'actual malice' for public officials to win libel suits, protecting press freedom and criticism of government.",
+    "unit": 3
+  },
+  {
+    "name": "Civil Rights Act of 1964",
+    "definition": "Landmark legislation prohibiting discrimination based on race, color, religion, sex, or national origin in public accommodations, employment, and federally funded programs.",
+    "unit": 3
+  },
+  {
+    "name": "Voting Rights Act of 1965",
+    "definition": "Federal law eliminating barriers to African American voting, such as literacy tests, and requiring preclearance for changes in voting laws in certain jurisdictions, later partially invalidated in Shelby County v. Holder.",
+    "unit": 3
+  },
+  {
+    "name": "War Powers Resolution",
+    "definition": "1973 act requiring the president to consult Congress before introducing U.S. forces into hostilities and to withdraw them within 60 days without congressional authorization, aiming to check executive war-making.",
+    "unit": 2
+  },
+  {
+    "name": "Pluralism",
+    "definition": "Theory of democracy where multiple groups compete for influence, leading to compromise and representation of diverse interests through interest groups and elections.",
+    "unit": 1
+  },
+  {
+    "name": "Elite Theory",
+    "definition": "Perspective that power is concentrated among a small elite group, such as wealthy or educated individuals, who dominate decision-making regardless of democratic processes.",
+    "unit": 1
+  },
+  {
+    "name": "Hyperpluralism",
+    "definition": "View that too many competing groups lead to policy gridlock and government inability to act effectively, weakening democracy.",
+    "unit": 1
+  },
+  {
+    "name": "19th Amendment",
+    "definition": "1920 constitutional amendment granting women the right to vote, marking a major expansion of suffrage after the women's rights movement.",
+    "unit": 5
+  },
+  {
+    "name": "24th Amendment",
+    "definition": "1964 amendment prohibiting poll taxes in federal elections, removing a barrier to voting particularly affecting low-income and minority voters.",
+    "unit": 5
+  },
+  {
+    "name": "26th Amendment",
+    "definition": "1971 amendment lowering the voting age to 18, in response to arguments that those old enough to be drafted should vote.",
+    "unit": 5
+  }
 ]

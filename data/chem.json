@@ -207,7 +207,7 @@
   {
     "name": "Spectrophotometry",
     "definition": "Measures light absorption to determine concentration via Beer's Law A = εlc, like finding [FeSCN²⁺] from red color intensity.",
-    "unit": 4
+    "unit": 3
   },
   {
     "name": "Gravimetric Analysis",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Energy",
-    "definition": "Capacity for work, in chemistry as kinetic (motion) or potential (stored), conserved but transferred, like in exothermic reactions releasing heat.",
+    "definition": "The capacity to do work or transfer heat in chemical systems, including kinetic energy from molecular motion and potential energy stored in chemical bonds, conserved in reactions but transformed, as in exothermic processes releasing heat to the surroundings.",
     "unit": 6
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "name": "Equilibrium Constant (K)",
-    "definition": "K = [products]/[reactants] at equilibrium, >1 favors products, temperature-dependent, like K_c for concentrations or K_p for gases.",
+    "definition": "K = [products]^coefficients / [reactants]^coefficients at equilibrium, >1 favors products, temperature-dependent, like K_c for concentrations or K_p for gases.",
     "unit": 7
   },
   {
@@ -331,13 +331,13 @@
   },
   {
     "name": "Acid-Base Equilibrium",
-    "definition": "For weak acids HA ⇌ H⁺ + A⁻, K_a = [H⁺][A⁻]/[HA], determining strength and pH.",
-    "unit": 7
+    "definition": "The equilibrium involving proton transfer in weak acids and bases, such as HA ⇌ H⁺ + A⁻ with K_a = [H⁺][A⁻]/[HA], used to calculate pH and understand buffer systems in aqueous solutions.",
+    "unit": 8
   },
   {
     "name": "Free Energy and Equilibrium",
-    "definition": "ΔG = -RT ln K, K >1 if ΔG <0, linking spontaneity to equilibrium position.",
-    "unit": 7
+    "definition": "The relationship ΔG° = -RT ln K linking thermodynamic favorability to the equilibrium constant, where K >1 for spontaneous reactions (ΔG° <0), applied to predict reaction extent under standard conditions.",
+    "unit": 9
   },
   {
     "name": "Acids and Bases",
@@ -425,93 +425,93 @@
     "unit": 9
   },
   {
-"name": "Isotopes",
-"definition": "Variants of an element differing in neutron number but sharing the same proton count, resulting in distinct mass numbers, such as carbon-12 and carbon-13, crucial for calculating average atomic mass based on natural abundances.",
-"unit": 1
-},
-{
-"name": "Valence Electrons",
-"definition": "Electrons in an atom's outermost shell that participate in bonding and dictate chemical reactivity, for instance, group 17 elements have seven valence electrons leading to high reactivity as halogens.",
-"unit": 1
-},
-{
-"name": "Electron Affinity",
-"definition": "The energy released or absorbed when an electron is added to a neutral gaseous atom, typically exothermic for nonmetals, contributing to periodic trends where it generally increases across a period.",
-"unit": 1
-},
-{
-"name": "Shielding Effect",
-"definition": "The phenomenon where inner electrons reduce the effective nuclear charge felt by outer electrons, causing atomic radius to increase down a group and influencing ionization energies.",
-"unit": 1
-},
-{
-"name": "Lattice Energy",
-"definition": "The enthalpy change when one mole of gaseous ions forms a solid ionic compound, magnitude depending on ion charges and sizes, higher for smaller, highly charged ions like in Al2O3 versus NaCl.",
-"unit": 2
-},
-{
-"name": "Molecular Polarity",
-"definition": "The net dipole moment of a molecule arising from polar bonds and asymmetric geometry, such as in ammonia (NH3) with a lone pair creating a polar molecule, impacting solubility and boiling points.",
-"unit": 2
-},
-{
-"name": "Metallic Bonding",
-"definition": "The attraction between positive metal ions and a sea of delocalized electrons, accounting for properties like electrical conductivity and malleability, as seen in iron or gold.",
-"unit": 2
-},
-{
-"name": "Dalton's Law of Partial Pressures",
-"definition": "States that in a mixture of non-reacting gases, the total pressure equals the sum of each gas's partial pressures, useful for calculating gas compositions, like in collecting gases over water subtracting water vapor pressure.",
-"unit": 3
-},
-{
-"name": "Graham's Law of Effusion",
-"definition": "The effusion rate of a gas is inversely proportional to the square root of its molar mass, allowing separation of isotopes like uranium-235 and -238 in gaseous diffusion.",
-"unit": 3
-},
-{
-"name": "Deviations from Ideal Gas Behavior",
-"definition": "Real gases deviate from PV = nRT at high pressures (due to volume of particles) and low temperatures (due to attractions), corrected by van der Waals equation (P + a(n/V)^2)(V - nb) = nRT.",
-"unit": 3
-},
-{
-"name": "Net Ionic Equation",
-"definition": "A simplified chemical equation showing only species undergoing change, excluding spectator ions, for example, in acid-base: H⁺ + OH⁻ → H₂O, aiding in understanding reaction mechanisms.",
-"unit": 4
-},
-{
-"name": "Spectator Ions",
-"definition": "Ions present in solution but not involved in the reaction, remaining unchanged, such as K⁺ and NO₃⁻ in the reaction between AgNO₃ and KCl forming AgCl precipitate.",
-"unit": 4
-},
-{
-"name": "Arrhenius Equation",
-"definition": "Mathematical relation k = A e^{-Ea/RT} describing how rate constant k varies with temperature T, where A is the frequency factor, used to determine activation energy from experimental data.",
-"unit": 5
-},
-{
-"name": "Specific Heat Capacity",
-"definition": "The heat required to raise the temperature of 1 gram of a substance by 1°C, varying by material, like 4.184 J/g°C for water, fundamental in calorimetry calculations q = mcΔT.",
-"unit": 6
-},
-{
-"name": "ICE Table",
-"definition": "A method using Initial, Change, and Equilibrium concentrations to solve for unknowns in equilibrium problems, often leading to quadratic equations, essential for calculating equilibrium compositions.",
-"unit": 7
-},
-{
-"name": "Ion Product of Water (K_w)",
-"definition": "The equilibrium constant for water's autoionization, K_w = [H₃O⁺][OH⁻] = 1.0 × 10^{-14} at 25°C, enabling relations like pH + pOH = 14 in aqueous solutions.",
-"unit": 8
-},
-{
-"name": "Conjugate Acid-Base Pair",
-"definition": "Two species differing by one proton, such as HCl (acid) and Cl⁻ (base), where the strength of one inversely relates to the other, key in understanding buffer systems.",
-"unit": 8
-},
-{
-"name": "Concentration Cell",
-"definition": "A type of galvanic cell where both half-cells have the same components but different concentrations, generating voltage based on the Nernst equation, used in sensors like pH electrodes.",
-"unit": 9
-}
+    "name": "Isotopes",
+    "definition": "Variants of an element differing in neutron number but sharing the same proton count, resulting in distinct mass numbers, such as carbon-12 and carbon-13, crucial for calculating average atomic mass based on natural abundances.",
+    "unit": 1
+  },
+  {
+    "name": "Valence Electrons",
+    "definition": "Electrons in an atom's outermost shell that participate in bonding and dictate chemical reactivity, for instance, group 17 elements have seven valence electrons leading to high reactivity as halogens.",
+    "unit": 1
+  },
+  {
+    "name": "Electron Affinity",
+    "definition": "The energy released or absorbed when an electron is added to a neutral gaseous atom, typically exothermic for nonmetals, contributing to periodic trends where it generally increases across a period.",
+    "unit": 1
+  },
+  {
+    "name": "Shielding Effect",
+    "definition": "The phenomenon where inner electrons reduce the effective nuclear charge felt by outer electrons, causing atomic radius to increase down a group and influencing ionization energies.",
+    "unit": 1
+  },
+  {
+    "name": "Lattice Energy",
+    "definition": "The enthalpy change when one mole of gaseous ions forms a solid ionic compound, magnitude depending on ion charges and sizes, higher for smaller, highly charged ions like in Al2O3 versus NaCl.",
+    "unit": 2
+  },
+  {
+    "name": "Molecular Polarity",
+    "definition": "The net dipole moment of a molecule arising from polar bonds and asymmetric geometry, such as in ammonia (NH3) with a lone pair creating a polar molecule, impacting solubility and boiling points.",
+    "unit": 2
+  },
+  {
+    "name": "Metallic Bonding",
+    "definition": "The attraction between positive metal ions and a sea of delocalized electrons, accounting for properties like electrical conductivity and malleability, as seen in iron or gold.",
+    "unit": 2
+  },
+  {
+    "name": "Dalton's Law of Partial Pressures",
+    "definition": "States that in a mixture of non-reacting gases, the total pressure equals the sum of each gas's partial pressures, useful for calculating gas compositions, like in collecting gases over water subtracting water vapor pressure.",
+    "unit": 3
+  },
+  {
+    "name": "Graham's Law of Effusion",
+    "definition": "The effusion rate of a gas is inversely proportional to the square root of its molar mass, allowing separation of isotopes like uranium-235 and -238 in gaseous diffusion.",
+    "unit": 3
+  },
+  {
+    "name": "Deviations from Ideal Gas Behavior",
+    "definition": "Real gases deviate from PV = nRT at high pressures (due to volume of particles) and low temperatures (due to attractions), corrected by van der Waals equation (P + a(n/V)^2)(V - nb) = nRT.",
+    "unit": 3
+  },
+  {
+    "name": "Net Ionic Equation",
+    "definition": "A simplified chemical equation showing only species undergoing change, excluding spectator ions, for example, in acid-base: H⁺ + OH⁻ → H₂O, aiding in understanding reaction mechanisms.",
+    "unit": 4
+  },
+  {
+    "name": "Spectator Ions",
+    "definition": "Ions present in solution but not involved in the reaction, remaining unchanged, such as K⁺ and NO₃⁻ in the reaction between AgNO₃ and KCl forming AgCl precipitate.",
+    "unit": 4
+  },
+  {
+    "name": "Arrhenius Equation",
+    "definition": "Mathematical relation k = A e^{-Ea/RT} describing how rate constant k varies with temperature T, where A is the frequency factor, used to determine activation energy from experimental data.",
+    "unit": 5
+  },
+  {
+    "name": "Specific Heat Capacity",
+    "definition": "The heat required to raise the temperature of 1 gram of a substance by 1°C, varying by material, like 4.184 J/g°C for water, fundamental in calorimetry calculations q = mcΔT.",
+    "unit": 6
+  },
+  {
+    "name": "ICE Table",
+    "definition": "A method using Initial, Change, and Equilibrium concentrations to solve for unknowns in equilibrium problems, often leading to quadratic equations, essential for calculating equilibrium compositions.",
+    "unit": 7
+  },
+  {
+    "name": "Ion Product of Water (K_w)",
+    "definition": "The equilibrium constant for water's autoionization, K_w = [H₃O⁺][OH⁻] = 1.0 × 10^{-14} at 25°C, enabling relations like pH + pOH = 14 in aqueous solutions.",
+    "unit": 8
+  },
+  {
+    "name": "Conjugate Acid-Base Pair",
+    "definition": "Two species differing by one proton, such as HCl (acid) and Cl⁻ (base), where the strength of one inversely relates to the other, key in understanding buffer systems.",
+    "unit": 8
+  },
+  {
+    "name": "Concentration Cell",
+    "definition": "A type of galvanic cell where both half-cells have the same components but different concentrations, generating voltage based on the Nernst equation, used in sensors like pH electrodes.",
+    "unit": 9
+  }
 ]

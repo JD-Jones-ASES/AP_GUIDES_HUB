@@ -127,7 +127,7 @@
   {
     "name": "Albany Plan of Union",
     "definition": "Benjamin Franklin's 1754 proposal for colonial confederation to coordinate defense against France, rejected by both colonies and Britain but foreshadowing later unity, the first serious attempt at intercolonial government.",
-    "unit": 2
+    "unit": 3
   },
   {
     "name": "Proclamation of 1763",
@@ -166,7 +166,7 @@
   },
   {
     "name": "Common Sense",
-    "definition": "Thomas Paine's 1776 pamphlet selling 500,000 copies arguing for independence in plain language, calling George III a 'Royal Brute' and monarchy absurd, transforming public opinion toward revolution.",
+    "definition": "Thomas Paine's 1776 pamphlet that sold an estimated 500,000 copies by the end of the Revolution arguing for independence in plain language, calling George III a 'Royal Brute' and monarchy absurd, transforming public opinion toward revolution.",
     "unit": 3
   },
   {
@@ -371,7 +371,7 @@
   },
   {
     "name": "Underground Railroad",
-    "definition": "Secret network of safe houses helping enslaved people escape North, with 'conductors' like Harriet Tubman leading 100,000 to freedom, defying Fugitive Slave laws through civil disobedience.",
+    "definition": "Secret network of safe houses helping enslaved people escape North, with 'conductors' like Harriet Tubman leading an estimated 100,000 to freedom, defying Fugitive Slave laws through civil disobedience.",
     "unit": 4
   },
   {
@@ -436,552 +436,482 @@
   },
   {
     "name": "Bleeding Kansas",
-    "definition": "1854-1861 territorial civil war over slavery with rival governments, Pottawatomie Massacre, and sack of Lawrence, previewing national conflict with 200 deaths.",
+    "definition": "1854-1861 territorial civil war over slavery with rival governments, Pottawatomie Massacre, and sack of Lawrence, previewing national conflict with approximately 55 deaths.",
     "unit": 5
   },
   {
     "name": "Republican Party",
-    "definition": "1854 coalition of Free-Soilers, Whigs, and antislavery Democrats opposing slavery expansion, electing Lincoln in 1860, becoming dominant party through Civil War victory.",
+    "definition": "1854 coalition of Free-Soilers, Whigs, and antislavery Democrats opposing slavery expansion, electing Lincoln in 1860 on a platform to contain slavery where it existed.",
     "unit": 5
   },
   {
     "name": "Dred Scott v. Sandford",
-    "definition": "1857 infamous ruling denying citizenship to African Americans and declaring the Missouri Compromise unconstitutional, invalidating congressional slavery restrictions and inflaming abolitionists toward war.",
+    "definition": "1857 Supreme Court ruling denying citizenship to African Americans and invalidating Missouri Compromise, declaring Congress couldn't ban slavery in territories, inflaming North and boosting Republicans.",
     "unit": 5
   },
   {
     "name": "Lincoln-Douglas Debates",
-    "definition": "1858 Illinois Senate campaign debates on slavery expansion, with Douglas's popular sovereignty versus Lincoln's 'house divided' prophecy, elevating Lincoln to national prominence despite losing.",
+    "definition": "1858 Illinois Senate race exchanges where Lincoln pressed Douglas on slavery's morality, with Douglas' Freeport Doctrine undermining Southern support, elevating Lincoln nationally.",
     "unit": 5
   },
   {
     "name": "John Brown's Raid",
-    "definition": "1859 failed attack on Harpers Ferry arsenal to arm slave rebellion, Brown's execution making him abolitionist martyr, convincing South that Republicans endorsed violence.",
+    "definition": "1859 abolitionist assault on Harpers Ferry arsenal to arm slave revolt, captured and hanged, martyr to North and terrorist to South, intensifying sectional hatred.",
     "unit": 5
   },
   {
     "name": "Election of 1860",
-    "definition": "Four-way race where Lincoln won with 39% popular vote but Electoral College majority, his victory without Southern votes triggering immediate secession beginning with South Carolina.",
+    "definition": "Lincoln's victory without Southern votes, splitting Democrats over slavery, prompting South Carolina's secession and Civil War, realigning parties permanently.",
     "unit": 5
   },
   {
     "name": "Secession",
-    "definition": "Southern states leaving Union after Lincoln's election, forming Confederate States of America, justified by state sovereignty and compact theory, creating constitutional crisis.",
-    "unit": 5
-  },
-  {
-    "name": "Confederate States of America",
-    "definition": "1861-1865 secessionist government of 11 slave states under Jefferson Davis, claiming states' rights while ironically centralizing war powers, ultimately defeated preserving Union.",
+    "definition": "1860-1861 withdrawal of 11 Southern states forming Confederacy over slavery and states' rights, triggered by Lincoln's election, leading to Fort Sumter and war.",
     "unit": 5
   },
   {
     "name": "Fort Sumter",
-    "definition": "April 1861 Confederate attack on federal fort in Charleston harbor starting Civil War, Lincoln's resupply mission forcing South to fire first shots, rallying Northern unity.",
+    "definition": "April 1861 Confederate attack on U.S. fort in Charleston Harbor, first shots of Civil War, rallying North to preserve Union without casualties.",
+    "unit": 5
+  },
+  {
+    "name": "Confederate States of America",
+    "definition": "1861 secessionist government led by Jefferson Davis, emphasizing states' rights and slavery in constitution, failing from internal divisions and resource shortages.",
     "unit": 5
   },
   {
     "name": "Anaconda Plan",
-    "definition": "Union strategy to strangle Confederacy through naval blockade and Mississippi River control, slowly constricting Southern trade and dividing territory, succeeding by 1865.",
+    "definition": "Union strategy to blockade South and control Mississippi, slowly strangling Confederacy economically, implemented by Scott but derided as too passive initially.",
+    "unit": 5
+  },
+  {
+    "name": "Battle of Bull Run",
+    "definition": "1861 first major battle shattering illusions of quick war, Confederate victory panicking North, showing conflict's brutality to picnic-going spectators.",
     "unit": 5
   },
   {
     "name": "Emancipation Proclamation",
-    "definition": "Lincoln's 1863 executive order freeing slaves in Confederate states (not border or Union), shifting war aims to abolition and allowing Black soldiers, though limited, it symbolized moral progress toward the 13th Amendment.",
+    "definition": "1863 Lincoln decree freeing slaves in rebel states, transforming war into moral crusade, encouraging Black enlistment and deterring European intervention.",
+    "unit": 5
+  },
+  {
+    "name": "Battle of Gettysburg",
+    "definition": "1863 turning point where Lee's invasion failed, with 51,000 casualties including Pickett's Charge, followed by Lincoln's Address redefining war for equality.",
     "unit": 5
   },
   {
     "name": "Gettysburg Address",
-    "definition": "Abraham Lincoln's 1863 concise speech rededicating the battlefield cemetery, redefining the war as a test of democracy ('of the people, by the people') and equality, a rhetorical masterpiece amid 600,000 deaths.",
+    "definition": "Lincoln's 1863 speech dedicating cemetery, rearticulating Declaration's equality ideal and government 'of the people,' enduring as democratic manifesto.",
     "unit": 5
   },
   {
-    "name": "Total War",
-    "definition": "A Civil War strategy under generals like Sherman, targeting not just armies but civilian infrastructure and morale to shatter the Confederacy's will, as in the March to the Sea that destroyed railroads and farms, symbolizing war's devastating reach into everyday life.",
-    "unit": 5
-  },
-  {
-    "name": "Sherman's March to the Sea",
-    "definition": "1864 campaign from Atlanta to Savannah destroying Confederate infrastructure and morale through 60-mile wide path of destruction, pioneering psychological warfare breaking Southern will.",
+    "name": "Sherman's March",
+    "definition": "1864 total war campaign through Georgia destroying infrastructure, breaking Southern will, exemplifying modern warfare's civilian impact.",
     "unit": 5
   },
   {
     "name": "Appomattox Court House",
-    "definition": "April 9, 1865 site of Lee's surrender to Grant ending major Civil War fighting, generous terms allowing Confederate soldiers to return home with horses, setting reconciliation tone.",
+    "definition": "1865 Lee's surrender to Grant ending major fighting, with generous terms allowing Confederates home, beginning uneasy reconciliation.",
     "unit": 5
   },
   {
-    "name": "Reconstruction",
-    "definition": "The 1865-1877 era of rebuilding the postwar South, readmitting states to the Union, and addressing freed slaves' rights through amendments and Freedmen's Bureau, but undermined by corruption, violence, and the Compromise of 1877 ending federal oversight.",
-    "unit": 5
-  },
-  {
-    "name": "Presidential Reconstruction",
-    "definition": "Johnson's lenient 1865-1867 plan quickly readmitting Southern states with minimal changes, allowing Black Codes and ex-Confederates in power, clashing with Radical Republicans.",
-    "unit": 5
-  },
-  {
-    "name": "Radical Reconstruction",
-    "definition": "1867-1877 congressional program dividing South into military districts, requiring new constitutions with Black suffrage, passing 14th and 15th Amendments, temporarily empowering freedmen.",
+    "name": "Thirteenth Amendment",
+    "definition": "1865 abolition of slavery nationwide, fulfilling Emancipation's promise, ratified after Lincoln's assassination amid Southern resistance.",
     "unit": 5
   },
   {
     "name": "Freedmen's Bureau",
-    "definition": "A federal agency (1865-1872) providing aid like food, schools, and legal help to freed slaves and poor whites, achieving literacy gains for thousands but hampered by Southern resistance and underfunding, representing the government's brief commitment to racial equality.",
+    "definition": "1865 agency aiding former slaves with education, food, and land, achieving schools but undermined by Johnson and white terrorism.",
     "unit": 5
   },
   {
     "name": "Black Codes",
-    "definition": "Southern laws restricting freedmen's rights through vagrancy laws, labor contracts, and apprenticeships, essentially re-enslaving Blacks economically, spurring Radical Reconstruction.",
+    "definition": "Postwar Southern laws restricting freed Blacks' rights, vagrancy forcing labor contracts, provoking Northern outrage and Radical Reconstruction.",
     "unit": 5
   },
   {
-    "name": "13th Amendment",
-    "definition": "1865 constitutional ban on slavery except as punishment for crime, fulfilling Emancipation Proclamation and abolishing chattel bondage post-Civil War.",
+    "name": "Fourteenth Amendment",
+    "definition": "1868 granting citizenship and equal protection, overturning Dred Scott, basis for civil rights litigation though initially limited by Court.",
     "unit": 5
   },
   {
-    "name": "14th Amendment",
-    "definition": "1868 citizenship and equal protection clause granting rights to freed slaves, overturning Dred Scott, foundational for civil rights litigation against discrimination.",
+    "name": "Fifteenth Amendment",
+    "definition": "1870 prohibiting racial voting denial, enabling Black suffrage but loopholes allowed disenfranchisement via poll taxes and tests.",
     "unit": 5
   },
   {
-    "name": "15th Amendment",
-    "definition": "1870 guarantee of Black male voting rights regardless of race, though suppressed by Southern poll taxes until Voting Rights Act, advancing Reconstruction's democratic aims.",
+    "name": "Reconstruction Acts",
+    "definition": "1867 Congressional laws dividing South into military districts, requiring new constitutions with Black suffrage, overriding Johnson's vetoes.",
     "unit": 5
   },
   {
     "name": "Impeachment of Andrew Johnson",
-    "definition": "1868 House impeachment for violating Tenure of Office Act by firing Secretary Stanton, Senate acquittal by one vote, weakening presidency while asserting congressional Reconstruction control.",
+    "definition": "1868 House charges for Tenure Act violation, Senate acquittal by one vote, weakening presidency but affirming congressional Reconstruction authority.",
     "unit": 5
   },
   {
-    "name": "Carpetbaggers",
-    "definition": "Northern Republicans moving South during Reconstruction for political/economic opportunity, some genuinely helping freedmen, others exploiting chaos, becoming symbols of Northern interference.",
-    "unit": 5
-  },
-  {
-    "name": "Scalawags",
-    "definition": "Southern white Republicans supporting Reconstruction, often poor farmers seeing opportunity or Unionists, vilified as traitors by ex-Confederates, representing indigenous reform attempts.",
+    "name": "Carpetbaggers and Scalawags",
+    "definition": "Derogatory terms for Northern Republicans and Southern whites aiding Reconstruction, accused of corruption but implementing progressive reforms like schools.",
     "unit": 5
   },
   {
     "name": "Ku Klux Klan",
-    "definition": "1865 terrorist organization using violence to restore white supremacy, suppressing Black voters and Republicans through lynching and intimidation, forcing federal enforcement acts.",
+    "definition": "1865 terrorist group using violence to suppress Blacks and Republicans, targeted by 1871 Enforcement Acts but persisting in intimidation.",
     "unit": 5
   },
   {
     "name": "Compromise of 1877",
-    "definition": "Backroom deal resolving disputed Hayes-Tilden election, withdrawing federal troops from South for Republican presidency, ending Reconstruction and abandoning freedmen to Jim Crow.",
+    "definition": "Deal ending Reconstruction by withdrawing troops for Hayes' presidency, allowing Southern 'Redeemers' to impose Jim Crow segregation.",
     "unit": 5
   },
   {
     "name": "Sharecropping",
-    "definition": "A post-Reconstruction agricultural system trapping freed slaves and poor whites in debt peonage, where tenants farmed land for crop shares but merchants' high-interest loans ensured perpetual poverty—like a cycle of debt mirroring slavery's economic chains.",
-    "unit": 6
-  },
-  {
-    "name": "Gilded Age",
-    "definition": "Mark Twain's term for 1870s-1890s era of rapid industrialization with extreme wealth inequality, political corruption, and social problems hidden beneath prosperity's golden veneer.",
-    "unit": 6
-  },
-  {
-    "name": "Laissez-Faire",
-    "definition": "Government non-interference in business championed by Social Darwinists, allowing monopolies and exploitation while courts struck down regulations as violating contract freedom.",
-    "unit": 6
-  },
-  {
-    "name": "Vertical Integration",
-    "definition": "Andrew Carnegie's strategy of controlling all production stages from raw materials to sales, as in U.S. Steel owning mines, mills, and railroads, streamlining efficiency but crushing competitors and workers' bargaining power in the Gilded Age.",
-    "unit": 6
-  },
-  {
-    "name": "Horizontal Integration",
-    "definition": "John D. Rockefeller's tactic of acquiring rival companies to monopolize markets, like Standard Oil controlling 90% of U.S. refining, prompting antitrust laws as a metaphor for gobbling up the competition like a corporate Pac-Man.",
-    "unit": 6
-  },
-  {
-    "name": "Trust",
-    "definition": "Business arrangement where stockholders transfer control to trustees creating monopolies, like Standard Oil Trust controlling prices, spurring Sherman Antitrust Act though rarely enforced initially.",
-    "unit": 6
-  },
-  {
-    "name": "Social Darwinism",
-    "definition": "A pseudoscientific application of Darwin's evolution to society, justifying laissez-faire capitalism and imperialism by claiming the wealthy 'fittest' deserved success, used to rationalize inequality and oppose Progressive reforms.",
-    "unit": 6
-  },
-  {
-    "name": "Gospel of Wealth",
-    "definition": "Andrew Carnegie's 1889 essay arguing the rich had a moral duty to philanthropically redistribute fortunes for public good, like funding libraries, contrasting with Social Darwinism and inspiring modern foundations while ignoring systemic inequities.",
-    "unit": 6
-  },
-  {
-    "name": "Robber Barons",
-    "definition": "Pejorative term for Gilded Age industrialists like Rockefeller and Morgan who built fortunes through ruthless tactics, monopolies, and political corruption, though some became philanthropists.",
-    "unit": 6
-  },
-  {
-    "name": "Knights of Labor",
-    "definition": "1869 inclusive labor union founded by Uriah Stephens and led by Terence Powderly, open to all workers regardless of skill, gender, or race (unlike craft unions), seeking broad reforms like the 8-hour workday, abolition of child labor, and worker cooperatives; it grew to 700,000 members by 1886 but declined after being wrongly blamed for the Haymarket Riot violence.",
-    "unit": 6
-  },
-  {
-    "name": "Haymarket Riot",
-    "definition": "1886 Chicago labor protest for 8-hour day turning violent when a bomb killed police, leading to execution of anarchist 'Haymarket Martyrs' despite questionable evidence, discrediting Knights of Labor and radical unionism while inspiring May Day as international workers' holiday.",
-    "unit": 6
-  },
-  {
-    "name": "American Federation of Labor (AFL)",
-    "definition": "1886 craft union federation founded by Samuel Gompers focusing on skilled workers, 'pure and simple' unionism for better wages/hours/conditions through strikes and collective bargaining, avoiding broad political reforms unlike Knights, dominating labor until CIO merger.",
-    "unit": 6
-  },
-  {
-    "name": "Homestead Strike",
-    "definition": "1892 violent clash at Carnegie's Pennsylvania steel mill where Pinkerton guards battled strikers over wage cuts, ending in state militia intervention and union defeat, highlighting industrial warfare and weakening steel unions for decades.",
-    "unit": 6
-  },
-  {
-    "name": "Pullman Strike",
-    "definition": "1894 nationwide railroad boycott led by Eugene Debs' ARU supporting Pullman workers against wage cuts amid depression, halted by federal injunction and troops, jailing Debs and establishing government intervention against strikes as 'restraint of trade.'",
-    "unit": 6
-  },
-  {
-    "name": "Populism",
-    "definition": "Late 19th-century agrarian movement advocating for farmers and workers against monopolies, with People's Party platform demanding silver coinage, graduated income tax, and government ownership of railroads, peaking in 1896 election before decline.",
-    "unit": 6
-  },
-  {
-    "name": "Cross of Gold Speech",
-    "definition": "William Jennings Bryan's 1896 Democratic convention oration attacking gold standard as crucifying mankind on a 'cross of gold,' securing nomination and fusing with Populists, but losing to McKinley in pivotal realigning election.",
+    "definition": "Postwar system trapping freed Blacks and poor whites in debt peonage, farming landowners' plots for crop shares, perpetuating poverty.",
     "unit": 6
   },
   {
     "name": "Jim Crow Laws",
-    "definition": "Post-Reconstruction Southern segregation statutes mandating separate facilities for Blacks and whites, enforced through violence and disenfranchisement, creating apartheid-like system until challenged by 1950s civil rights movement.",
+    "definition": "1870s-1960s Southern segregation mandates in public facilities, upheld by Plessy v. Ferguson (1896) 'separate but equal,' enforcing racial hierarchy.",
     "unit": 6
   },
   {
     "name": "Plessy v. Ferguson",
-    "definition": "1896 Supreme Court ruling upholding 'separate but equal' doctrine validating Jim Crow segregation, with lone dissenter Harlan predicting it would 'stimulate aggressions' on Black rights, overturned by Brown v. Board in 1954.",
+    "definition": "1896 ruling sanctioning 'separate but equal' segregation, legalizing Jim Crow until Brown overturned it in 1954.",
     "unit": 6
   },
   {
-    "name": "Chinese Exclusion Act",
-    "definition": "1882 federal law banning Chinese immigration for 10 years (renewed until 1943), first ethnic-specific restriction driven by West Coast nativism and labor fears, setting precedent for quota systems targeting 'undesirables.'",
+    "name": "Transcontinental Railroad",
+    "definition": "1869 completion linking East-West with Golden Spike, built by Chinese/Irish labor, accelerating settlement and commerce but displacing Natives.",
+    "unit": 6
+  },
+  {
+    "name": "Homestead Act",
+    "definition": "1862 law granting 160 acres for farming, settling West with 1.6 million claims, though fraud and harsh conditions limited success.",
+    "unit": 6
+  },
+  {
+    "name": "Battle of Little Bighorn",
+    "definition": "1876 Sioux/Cheyenne victory over Custer, 'Custer's Last Stand,' avenging treaty violations but provoking harsher military response.",
+    "unit": 6
+  },
+  {
+    "name": "Dawes Act",
+    "definition": "1887 law allotting tribal lands individually, aiming assimilation but resulting in massive Native land loss to whites.",
+    "unit": 6
+  },
+  {
+    "name": "Wounded Knee Massacre",
+    "definition": "1890 slaughter of 300 Lakota by U.S. troops, ending major Native resistance, symbolizing closing frontier.",
+    "unit": 6
+  },
+  {
+    "name": "Gilded Age",
+    "definition": "1870s-1890s era of rapid industrialization, wealth disparity, and corruption, named by Twain for superficial glitter hiding social ills.",
+    "unit": 6
+  },
+  {
+    "name": "Robber Barons",
+    "definition": "Derogatory term for industrialists like Rockefeller and Carnegie amassing fortunes through monopolies, defended as 'Captains of Industry' for innovations.",
+    "unit": 6
+  },
+  {
+    "name": "Vertical Integration",
+    "definition": "Business strategy controlling production stages, like Carnegie's steel from mines to mills, reducing costs and competition.",
+    "unit": 6
+  },
+  {
+    "name": "Horizontal Integration",
+    "definition": "Consolidating competitors, like Rockefeller's Standard Oil trusts eliminating rivals for monopoly control.",
+    "unit": 6
+  },
+  {
+    "name": "Social Darwinism",
+    "definition": "Application of evolution to society justifying inequality as 'survival of fittest,' opposing aid to poor as interfering with progress.",
+    "unit": 6
+  },
+  {
+    "name": "Gospel of Wealth",
+    "definition": "Carnegie's 1889 essay urging rich to use fortunes philanthropically, funding libraries and education as stewardship.",
+    "unit": 6
+  },
+  {
+    "name": "Knights of Labor",
+    "definition": "1880s inclusive union seeking broad reforms like 8-hour day, declining after Haymarket Riot blame.",
+    "unit": 6
+  },
+  {
+    "name": "American Federation of Labor (AFL)",
+    "definition": "1886 skilled workers' federation led by Gompers focusing on wages/hours through strikes, avoiding politics.",
+    "unit": 6
+  },
+  {
+    "name": "Haymarket Riot",
+    "definition": "1886 Chicago bomb during labor rally killing police, convicting anarchists and tarnishing unions.",
+    "unit": 6
+  },
+  {
+    "name": "Homestead Strike",
+    "definition": "1892 violent clash at Carnegie's mill over wages, Pinkertons defeating strikers, weakening steel unions.",
+    "unit": 6
+  },
+  {
+    "name": "Pullman Strike",
+    "definition": "1894 railroad boycott led by Debs, halted by federal injunction and troops, upholding corporate rights.",
     "unit": 6
   },
   {
     "name": "New Immigrants",
-    "definition": "1880s-1920s wave from Southern/Eastern Europe (Italians, Slavs, Jews) differing from earlier Northern Europeans, settling in urban enclaves, facing nativist backlash over Catholicism and radicalism, transforming American demographics.",
+    "definition": "1880s-1920s arrivals from Southern/Eastern Europe and Asia, facing nativism and urban ghettoes unlike earlier Northern Europeans.",
     "unit": 6
   },
   {
-    "name": "Ellis Island",
-    "definition": "1892-1954 New York immigration station processing 12 million Europeans through medical/legal inspections, symbolizing hope for newcomers but also exclusion for the 2% rejected as unfit or radical.",
+    "name": "Chinese Exclusion Act",
+    "definition": "1882 law banning Chinese immigration for 10 years, renewed, first ethnic restriction reflecting racism and labor fears.",
     "unit": 6
   },
   {
-    "name": "Yellow Journalism",
-    "definition": "Sensationalist reporting by Pulitzer and Hearst exaggerating Spanish atrocities in Cuba, like 'Remember the Maine' headlines, whipping up public fervor for Spanish-American War as 'splendid little war.'",
+    "name": "Settlement Houses",
+    "definition": "Reform centers like Hull House aiding immigrants with education and services, led by Addams promoting assimilation.",
     "unit": 6
   },
   {
-    "name": "Spanish-American War",
-    "definition": "1898 conflict over Cuban independence ending Spanish empire in Americas, with U.S. acquiring Philippines, Puerto Rico, Guam after quick victories, marking America's emergence as imperial power.",
+    "name": "Political Machines",
+    "definition": "Urban organizations like Tammany Hall providing services for votes, corrupt but filling government voids for immigrants.",
     "unit": 6
   },
   {
-    "name": "Rough Riders",
-    "definition": "Theodore Roosevelt's volunteer cavalry regiment famed for San Juan Hill charge in Cuba, boosting TR's political career to presidency, romanticizing imperial adventures in popular culture.",
+    "name": "Populism",
+    "definition": "1890s farmers' movement demanding reforms like silver coinage and regulation, culminating in People's Party and Bryan's 'Cross of Gold.'",
     "unit": 6
   },
   {
-    "name": "Anti-Imperialist League",
-    "definition": "1898 group including Mark Twain and Andrew Carnegie opposing Philippine annexation as betraying American anti-colonial principles, arguing empire would corrupt democracy at home.",
-    "unit": 7
+    "name": "Cross of Gold Speech",
+    "definition": "Bryan's 1896 Democratic convention oration attacking gold standard, nominating him but losing to McKinley.",
+    "unit": 6
   },
   {
-    "name": "Philippine-American War",
-    "definition": "1899-1902 brutal conflict suppressing Filipino independence fighters led by Aguinaldo, with 200,000 civilian deaths from disease/war, exposing U.S. imperialism's dark side through water cure torture.",
-    "unit": 7
+    "name": "Turner Thesis",
+    "definition": "1893 essay arguing frontier shaped American democracy and character, closing in 1890 signaling new era.",
+    "unit": 6
   },
   {
-    "name": "Open Door Policy",
-    "definition": "1899-1900 Secretary Hay's notes demanding equal trade access to China for all nations, preventing partition amid spheres of influence, reflecting U.S. economic imperialism without colonies.",
-    "unit": 7
-  },
-  {
-    "name": "Boxer Rebellion",
-    "definition": "1900 anti-foreign uprising in China crushed by international force including U.S. troops, reinforcing Open Door while humiliating Qing dynasty, accelerating China's modernization push.",
-    "unit": 7
-  },
-  {
-    "name": "Platt Amendment",
-    "definition": "1901 rider to Cuban constitution allowing U.S. intervention to preserve stability, effectively making Cuba a protectorate until 1934 abrogation, exemplifying Big Stick diplomacy.",
-    "unit": 7
-  },
-  {
-    "name": "Big Stick Diplomacy",
-    "definition": "Theodore Roosevelt's foreign policy of negotiating peacefully while threatening military force, as in Panama Canal acquisition, blending idealism with realism in Latin America.",
-    "unit": 7
-  },
-  {
-    "name": "Panama Canal",
-    "definition": "1904-1914 U.S. engineering feat connecting Atlantic/Pacific after fomenting Panama's independence from Colombia, symbolizing imperial reach but built on 5,600 worker deaths from disease.",
-    "unit": 7
-  },
-  {
-    "name": "Roosevelt Corollary",
-    "definition": "1904 addition to Monroe Doctrine justifying U.S. intervention in Latin America to prevent European meddling, used for occupations like Dominican Republic, turning U.S. into hemispheric policeman.",
-    "unit": 7
-  },
-  {
-    "name": "Dollar Diplomacy",
-    "definition": "Taft's policy substituting economic investment for military force in Latin America and Asia, promoting U.S. business interests abroad, often benefiting elites over locals.",
-    "unit": 7
-  },
-  {
-    "name": "Moral Diplomacy",
-    "definition": "Wilson's approach supporting democracies over dictators, selectively applied as in Mexico intervention, reflecting progressive ideals but often masking economic motives.",
-    "unit": 7
-  },
-  {
-    "name": "Progressivism",
-    "definition": "Early 20th-century reform movement tackling industrialization's ills through government regulation, social justice, and efficiency, crossing party lines with figures like TR and Wilson.",
+    "name": "Social Gospel",
+    "definition": "Progressive Christian movement applying ethics to social problems, advocating reforms like child labor bans.",
     "unit": 7
   },
   {
     "name": "Muckrakers",
-    "definition": "Investigative journalists exposing corruption, like Upton Sinclair's The Jungle on meatpacking horrors sparking FDA, or Ida Tarbell's Standard Oil takedown, catalyzing public demand for reforms.",
+    "definition": "Investigative journalists exposing corruption, like Tarbell on Standard Oil and Sinclair's Jungle on meatpacking.",
     "unit": 7
   },
   {
-    "name": "Social Gospel",
-    "definition": "Protestant movement applying Christian ethics to social problems, inspiring settlement houses and labor reforms, with leaders like Washington Gladden urging churches to fight poverty and inequality.",
+    "name": "Progressive Era",
+    "definition": "1890s-1920s reforms addressing industrialization's ills through antitrust, regulation, and democracy expansions like initiatives.",
     "unit": 7
   },
   {
-    "name": "Settlement Houses",
-    "definition": "Community centers like Jane Addams' Hull House providing services to urban poor immigrants, promoting assimilation and reforms, embodying progressive faith in environment over heredity.",
+    "name": "Initiative, Referendum, Recall",
+    "definition": "Progressive direct democracy tools allowing citizen legislation, votes on laws, and official removal.",
     "unit": 7
   },
   {
-    "name": "Pure Food and Drug Act",
-    "definition": "1906 law banning adulterated/mislabeled food and drugs after The Jungle exposé, creating FDA precursor, marking federal entry into consumer protection.",
+    "name": "Sixteenth Amendment",
+    "definition": "1913 income tax authorization, enabling progressive taxation and federal revenue growth.",
     "unit": 7
   },
   {
-    "name": "Meat Inspection Act",
-    "definition": "1906 legislation mandating federal inspection of meat products, prompted by Sinclair's revelations of unsanitary conditions, enhancing government oversight of industry.",
+    "name": "Seventeenth Amendment",
+    "definition": "1913 direct Senate election, reducing corruption from state legislatures.",
+    "unit": 7
+  },
+  {
+    "name": "Eighteenth Amendment",
+    "definition": "1919 Prohibition banning alcohol, enforced poorly leading to speakeasies and repeal in 1933.",
+    "unit": 7
+  },
+  {
+    "name": "Nineteenth Amendment",
+    "definition": "1920 women's suffrage, culminating NAWSA and NWP campaigns.",
     "unit": 7
   },
   {
     "name": "Sherman Antitrust Act",
-    "definition": "1890 law outlawing monopolies and restraints of trade, initially used against unions but revived by TR against Northern Securities, setting precedent for trust-busting.",
+    "definition": "1890 law prohibiting monopolies, initially used against unions but later busting trusts under Roosevelt.",
     "unit": 7
   },
   {
-    "name": "Clayton Antitrust Act",
-    "definition": "1914 strengthening of Sherman Act exempting unions from antitrust suits, prohibiting price discrimination and interlocking directorates, bolstering progressive economic reforms.",
-    "unit": 7
-  },
-  {
-    "name": "Federal Trade Commission (FTC)",
-    "definition": "1914 agency investigating unfair business practices, with powers to issue cease-and-desist orders, embodying Wilson's New Freedom approach to regulating competition.",
-    "unit": 7
-  },
-  {
-    "name": "16th Amendment",
-    "definition": "1913 constitutional change allowing federal income tax, enabling progressive taxation on wealth to fund government expansions, overturning Pollock v. Farmers' Loan.",
-    "unit": 7
-  },
-  {
-    "name": "17th Amendment",
-    "definition": "1913 direct election of senators replacing state legislature selection, democratizing Senate and reducing corruption, a key progressive political reform.",
-    "unit": 7
-  },
-  {
-    "name": "18th Amendment",
-    "definition": "1919 Prohibition banning alcohol manufacture/sale, driven by temperance groups like WCTU, but leading to speakeasies and organized crime until 1933 repeal.",
-    "unit": 7
-  },
-  {
-    "name": "19th Amendment",
-    "definition": "1920 women's suffrage victory after decades of activism by NAWSA and NWP, with tactics from petitions to White House pickets, expanding democracy amid WWI patriotism.",
+    "name": "Trust-Busting",
+    "definition": "Roosevelt's antitrust suits dissolving Northern Securities and Standard Oil, distinguishing 'good' and 'bad' trusts.",
     "unit": 7
   },
   {
     "name": "Square Deal",
-    "definition": "Theodore Roosevelt's progressive program promising fair treatment for consumers, workers, and businesses, exemplified by coal strike intervention and trust-busting.",
+    "definition": "Roosevelt's progressive program balancing business, labor, and consumers, intervening in coal strike.",
     "unit": 7
   },
   {
-    "name": "New Nationalism",
-    "definition": "TR's 1912 platform for strong federal regulation of economy and social welfare, contrasting Wilson's New Freedom, influencing later New Deal ideas.",
+    "name": "Meat Inspection Act",
+    "definition": "1906 law mandating federal inspection after Jungle exposé, improving food safety.",
     "unit": 7
   },
   {
-    "name": "New Freedom",
-    "definition": "Wilson's 1912 agenda for small business competition through antitrust and tariff reduction, evolving into more interventionist policies like Federal Reserve.",
-    "unit": 7
-  },
-  {
-    "name": "Federal Reserve Act",
-    "definition": "1913 creation of central banking system with 12 regional banks and Federal Reserve Board, providing elastic currency and lender of last resort to stabilize economy.",
+    "name": "Pure Food and Drug Act",
+    "definition": "1906 ban on mislabeled/adulterated products, creating FDA precursor.",
     "unit": 7
   },
   {
     "name": "Conservation Movement",
-    "definition": "Progressive effort led by TR and Pinchot to preserve natural resources through national parks and scientific management, withdrawing 230 million acres from development.",
+    "definition": "Roosevelt's environmental efforts preserving 230 million acres through national parks and forests.",
     "unit": 7
   },
   {
-    "name": "Niagara Movement",
-    "definition": "1905 Black civil rights group founded by Du Bois demanding full equality, precursor to NAACP, rejecting Washington's accommodationism for militant protest.",
+    "name": "Federal Reserve Act",
+    "definition": "1913 creation of central bank system regulating money supply, stabilizing finance.",
+    "unit": 7
+  },
+  {
+    "name": "Clayton Antitrust Act",
+    "definition": "1914 strengthening Sherman with union exemptions and banning practices like price discrimination.",
     "unit": 7
   },
   {
     "name": "NAACP",
-    "definition": "1909 interracial organization fighting racial injustice through legal challenges, like anti-lynching campaigns and Brown v. Board, using courts to dismantle segregation.",
+    "definition": "1909 organization fighting discrimination through legal challenges like anti-lynching and Brown case.",
     "unit": 7
   },
   {
-    "name": "Neutrality",
-    "definition": "U.S. policy from 1914-1917 avoiding European war entanglements, though economic ties favored Allies, with Wilson reelected on 'He Kept Us Out of War' slogan.",
+    "name": "Yellow Journalism",
+    "definition": "Sensationalist reporting by Hearst/Pulitzer inflating Spanish-American War fervor with exaggerated stories.",
     "unit": 7
   },
   {
-    "name": "U-Boat Warfare",
-    "definition": "German submarine attacks sinking ships like Lusitania (1915) killing 128 Americans, escalating tensions and shifting public opinion toward intervention.",
+    "name": "Spanish-American War",
+    "definition": "1898 'splendid little war' over Cuba, with Maine explosion pretext, resulting in U.S. acquiring Philippines, Puerto Rico, Guam.",
+    "unit": 7
+  },
+  {
+    "name": "Open Door Policy",
+    "definition": "1899 Hay notes ensuring equal China trade, preventing partition amid imperialism.",
+    "unit": 7
+  },
+  {
+    "name": "Big Stick Diplomacy",
+    "definition": "Roosevelt's assertive foreign policy, intervening in Latin America like Panama Canal support.",
+    "unit": 7
+  },
+  {
+    "name": "Panama Canal",
+    "definition": "1904-1914 engineering feat connecting oceans, acquired through Colombian revolution support, boosting trade.",
+    "unit": 7
+  },
+  {
+    "name": "Roosevelt Corollary",
+    "definition": "1904 Monroe Doctrine addition justifying U.S. intervention in Latin America to prevent European involvement.",
+    "unit": 7
+  },
+  {
+    "name": "Dollar Diplomacy",
+    "definition": "Taft's policy using economic influence in Latin America and Asia, like loans for stability.",
+    "unit": 7
+  },
+  {
+    "name": "Moral Diplomacy",
+    "definition": "Wilson's approach supporting democracies, intervening in Mexico but inconsistently applied.",
     "unit": 7
   },
   {
     "name": "Zimmermann Telegram",
-    "definition": "1917 intercepted German proposal for Mexico alliance against U.S., promising lost territories, outraging Americans and contributing to war declaration.",
-    "unit": 7
-  },
-  {
-    "name": "Selective Service Act",
-    "definition": "1917 draft law conscripting 2.8 million men for WWI, upheld in Supreme Court as necessary war power, modernizing military from volunteers.",
-    "unit": 7
-  },
-  {
-    "name": "American Expeditionary Force (AEF)",
-    "definition": "U.S. troops under Pershing arriving in 1917-1918, maintaining separate command and turning tide at Meuse-Argonne, with over 100,000 deaths mostly from disease.",
+    "definition": "1917 German proposal to Mexico for alliance, intercepted and pushing U.S. into WWI.",
     "unit": 7
   },
   {
     "name": "Fourteen Points",
-    "definition": "Wilson's 1918 peace plan advocating self-determination, free trade, disarmament, and League of Nations, inspiring armistice but largely ignored at Versailles.",
-    "unit": 7
-  },
-  {
-    "name": "Espionage and Sedition Acts",
-    "definition": "1917-1918 laws criminalizing anti-war speech, jailing socialists like Debs, upheld in Schenck v. U.S. with 'clear and present danger' test, curbing civil liberties.",
-    "unit": 7
-  },
-  {
-    "name": "Great Migration",
-    "definition": "1910s-1970s movement of 6 million African Americans from rural South to urban North for jobs and escaping Jim Crow, transforming demographics and sparking Harlem Renaissance.",
+    "definition": "Wilson's 1918 peace plan for self-determination and League of Nations, influencing Versailles but rejected by Senate.",
     "unit": 7
   },
   {
     "name": "Treaty of Versailles",
-    "definition": "1919 peace treaty blaming Germany for war, imposing reparations and territorial losses, creating League but rejected by U.S. Senate over sovereignty concerns.",
+    "definition": "1919 WWI end imposing German reparations, creating League but U.S. non-ratification dooming it.",
     "unit": 7
   },
   {
     "name": "League of Nations",
-    "definition": "Wilson's international organization for collective security, joined by 42 nations but not U.S., weakened by American absence and failing to prevent WWII.",
+    "definition": "Wilson's international body for peace, weakened without U.S. joining, failing to prevent WWII.",
     "unit": 7
   },
   {
-    "name": "Red Scare",
-    "definition": "1919-1920 anti-communist hysteria after Bolshevik Revolution, with Palmer Raids deporting radicals, fueling nativism and restricting immigration.",
+    "name": "Red Scare (First)",
+    "definition": "1919-1920 anti-communist hysteria with Palmer Raids deporting radicals, amid labor strikes and bombings.",
     "unit": 7
   },
   {
     "name": "Palmer Raids",
-    "definition": "1919-1920 Attorney General Palmer's warrantless arrests of 6,000 suspected radicals, many deported without trial, exemplifying postwar civil liberties violations.",
+    "definition": "1919-1920 arrests of suspected radicals without warrants, violating rights and deporting hundreds.",
     "unit": 7
   },
   {
-    "name": "Sacco and Vanzetti Case",
-    "definition": "1920 trial executing Italian anarchist immigrants for murder despite weak evidence, symbolizing nativist and anti-radical bias in justice system.",
+    "name": "Sacco and Vanzetti",
+    "definition": "1920s anarchist trial and execution amid bias, symbolizing nativism and injustice fears.",
     "unit": 7
   },
   {
     "name": "Emergency Quota Act",
-    "definition": "1921 law limiting immigration to 3% of 1910 census nationalities, favoring Northern Europeans, precursor to more restrictive 1924 act.",
+    "definition": "1921 law limiting immigration to 3% of 1910 census, favoring Northern Europeans.",
     "unit": 7
   },
   {
     "name": "National Origins Act",
-    "definition": "1924 immigration law capping annual entries at 150,000 with quotas based on 1890 census, excluding Asians entirely, reflecting eugenics-influenced nativism until 1965.",
+    "definition": "1924 quota reduction to 2% of 1890 census, excluding Asians, until 1965 reform.",
     "unit": 7
   },
   {
-    "name": "Teapot Dome Scandal",
-    "definition": "1920s Harding administration corruption where Secretary Fall leased naval oil reserves for bribes, tarnishing Republican image and leading to convictions.",
-    "unit": 7
-  },
-  {
-    "name": "Return to Normalcy",
-    "definition": "Harding's 1920 campaign slogan promising pre-WWI conservatism, rejecting progressivism and internationalism for isolationism and business-friendly policies.",
-    "unit": 7
-  },
-  {
-    "name": "Fordney-McCumber Tariff",
-    "definition": "1922 high protective tariff raising rates to 38%, promoting domestic industry but provoking European retaliation, contributing to global depression.",
+    "name": "Great Migration",
+    "definition": "1910s-1970s African American move North for jobs and escaping Jim Crow, transforming urban demographics.",
     "unit": 7
   },
   {
     "name": "Harlem Renaissance",
-    "definition": "1920s African American cultural flowering in New York, with writers like Hughes and Hurston, jazz musicians like Ellington, celebrating Black identity amid migration.",
-    "unit": 7
-  },
-  {
-    "name": "Jazz Age",
-    "definition": "1920s cultural era of flappers, speakeasies, and jazz music symbolizing modernism and rebellion against Victorian norms, coined by F. Scott Fitzgerald.",
-    "unit": 7
-  },
-  {
-    "name": "Lost Generation",
-    "definition": "Post-WWI writers like Hemingway and Fitzgerald disillusioned with materialism, expatriating to Europe, critiquing American society in works like The Great Gatsby.",
-    "unit": 7
-  },
-  {
-    "name": "Scopes Trial",
-    "definition": "1925 'Monkey Trial' prosecuting teacher for evolution teaching, with Darrow vs. Bryan highlighting fundamentalism vs. modernism clash, though Scopes convicted (later overturned).",
+    "definition": "1920s Black cultural flourishing in literature, music, art, with Hughes, Hurston celebrating heritage.",
     "unit": 7
   },
   {
     "name": "Flappers",
-    "definition": "1920s liberated young women adopting short skirts, bobbed hair, and smoking/dancing, symbolizing gender role shifts and consumer culture.",
+    "definition": "1920s liberated women challenging norms with short hair, smoking, voting, symbolizing Jazz Age.",
+    "unit": 7
+  },
+  {
+    "name": "Lost Generation",
+    "definition": "Post-WWI writers like Hemingway, Fitzgerald disillusioned with materialism, expatriating to Europe.",
+    "unit": 7
+  },
+  {
+    "name": "Scopes Trial",
+    "definition": "1925 'Monkey Trial' over evolution teaching, pitting Bryan vs. Darrow, highlighting fundamentalism-modernism clash.",
+    "unit": 7
+  },
+  {
+    "name": "Consumerism",
+    "definition": "1920s boom in goods like cars, radios fueled by credit and ads, creating mass culture.",
     "unit": 7
   },
   {
     "name": "Model T",
-    "definition": "Henry Ford's 1908 affordable automobile mass-produced on assembly lines, democratizing travel and spurring suburbanization, with $290 price by 1924.",
+    "definition": "Ford's affordable car revolutionizing transport and society through assembly line mass production.",
     "unit": 7
   },
   {
-    "name": "Assembly Line",
-    "definition": "Ford's efficient production method dividing tasks, reducing Model T build time from 12 hours to 90 minutes, revolutionizing manufacturing but deskilling workers.",
+    "name": "Jazz Age",
+    "definition": "1920s cultural era of jazz music, speakeasies, flappers, reflecting postwar liberation and excess.",
     "unit": 7
   },
   {
-    "name": "Consumer Culture",
-    "definition": "1920s rise of advertising and credit fueling purchases of radios, appliances, and cars, creating mass market but leading to overproduction and debt.",
-    "unit": 7
-  },
-  {
-    "name": "Stock Market Crash",
-    "definition": "October 1929 Black Tuesday collapse wiping out $30 billion, triggered by speculation and margin buying, precipitating Great Depression.",
+    "name": "Teapot Dome Scandal",
+    "definition": "Harding administration corruption leasing oil reserves for bribes, symbolizing 1920s graft.",
     "unit": 7
   },
   {
     "name": "Great Depression",
-    "definition": "1929-1939 economic catastrophe with 25% unemployment, bank failures, and Dust Bowl, caused by stock crash, overproduction, and inequality, ended by WWII mobilization.",
+    "definition": "1929-1939 economic collapse from stock crash, overproduction, and inequality, ended by WWII mobilization.",
     "unit": 7
   },
   {
@@ -1416,7 +1346,7 @@
   },
   {
     "name": "9/11 Attacks",
-    "definition": "2001 al-Qaeda hijackings killing nearly 3,000, destroying Twin Towers, leading to War on Terror and invasions.",
+    "definition": "2001 al-Qaeda hijackings killing 2,977 people, destroying Twin Towers, leading to War on Terror and invasions.",
     "unit": 9
   },
   {
@@ -1490,103 +1420,103 @@
     "unit": 9
   },
   {
-"name": "Christopher Columbus",
-"definition": "Italian explorer sponsored by Spain whose 1492 voyage initiated sustained European contact with the Americas, leading to exploration, conquest, and the Columbian Exchange, though his expeditions also brought devastation to indigenous populations through disease and exploitation.",
-"unit": 1
-},
-{
-"name": "Bartolomé de las Casas",
-"definition": "Spanish Dominican friar and early critic of the encomienda system, authoring 'A Short Account of the Destruction of the Indies' to expose atrocities against Native Americans, advocating for their humane treatment and influencing the New Laws of 1542.",
-"unit": 1
-},
-{
-"name": "Pueblo Revolt",
-"definition": "1680 uprising by Pueblo Indians in New Mexico against Spanish colonial rule, led by Popé, resulting in temporary expulsion of Spaniards and destruction of missions, highlighting Native resistance to forced conversion and labor.",
-"unit": 1
-},
-{
-"name": "Roger Williams",
-"definition": "Puritan minister banished from Massachusetts for advocating separation of church and state and fair treatment of Natives, founding Rhode Island in 1636 as a haven for religious tolerance and democratic governance.",
-"unit": 2
-},
-{
-"name": "Anne Hutchinson",
-"definition": "Puritan dissenter tried and exiled from Massachusetts in 1637 for antinomianism—believing faith alone sufficed for salvation—challenging clerical authority and gender norms, later co-founding Rhode Island.",
-"unit": 2
-},
-{
-"name": "First Great Awakening",
-"definition": "1730s-1740s religious revival movement emphasizing emotional faith and personal conversion, led by preachers like Jonathan Edwards and George Whitefield, fostering intercolonial unity and challenging established churches.",
-"unit": 2
-},
-{
-"name": "Jonathan Edwards",
-"definition": "New England theologian and preacher whose sermon 'Sinners in the Hands of an Angry God' epitomized the First Great Awakening's fire-and-brimstone style, stressing divine wrath and the need for revival.",
-"unit": 2
-},
-{
-"name": "George Whitefield",
-"definition": "English Anglican evangelist whose charismatic outdoor sermons during the First Great Awakening attracted massive crowds across colonies, promoting interdenominational unity and emotional piety.",
-"unit": 2
-},
-{
-"name": "Mercantilism",
-"definition": "Economic theory guiding British colonial policy, aiming to enrich the mother country through trade surpluses, monopolies, and resource extraction, enforced via Navigation Acts and fostering colonial resentment.",
-"unit": 2
-},
-{
-"name": "Alexander Hamilton",
-"definition": "Founding Father and first Treasury Secretary whose financial plan included assuming state debts, creating a national bank, and promoting manufacturing, laying foundations for American capitalism but sparking partisan divides.",
-"unit": 3
-},
-{
-"name": "Jay's Treaty",
-"definition": "1794 agreement with Britain resolving Revolutionary War issues, averting war by addressing trade and border disputes, but criticized by Republicans for favoring Britain and ignoring impressment.",
-"unit": 3
-},
-{
-"name": "Lewis and Clark Expedition",
-"definition": "1804-1806 journey commissioned by Jefferson to explore Louisiana Territory, map routes to the Pacific, and establish trade with Natives, aided by Sacagawea and providing scientific and geographic knowledge.",
-"unit": 4
-},
-{
-"name": "Tecumseh",
-"definition": "Shawnee leader who built a Native confederacy to resist U.S. expansion, allying with Britain in War of 1812, his death at Thames in 1813 shattering unified resistance.",
-"unit": 4
-},
-{
-"name": "Market Revolution",
-"definition": "Early 19th-century transformation through transportation improvements like canals and railroads, factory production, and commercialization, shifting from subsistence to market-oriented economy and widening inequalities.",
-"unit": 4
-},
-{
-"name": "Erie Canal",
-"definition": "1825 waterway connecting Hudson River to Great Lakes, reducing freight costs and spurring economic growth in New York, exemplifying internal improvements during the Market Revolution.",
-"unit": 4
-},
-{
-"name": "Nat Turner",
-"definition": "Enslaved preacher who led 1831 Virginia slave rebellion killing nearly 60 whites before suppression, heightening Southern fears and leading to harsher slave codes.",
-"unit": 4
-},
-{
-"name": "Frederick Douglass",
-"definition": "Escaped slave turned abolitionist orator and writer, authoring 'Narrative of the Life of Frederick Douglass' (1845), advocating immediate emancipation and women's rights at Seneca Falls.",
-"unit": 4
-},
-{
-"name": "Harriet Tubman",
-"definition": "Escaped slave who conducted 13 Underground Railroad missions freeing over 70 people, later serving as Union spy and nurse, symbolizing resistance and earning 'Moses' moniker.",
-"unit": 5
-},
-{
-"name": "Dorothea Dix",
-"definition": "Reformer advocating for mentally ill treatment, leading to asylums and prisons improvements in 1840s-1850s, highlighting antebellum social reform movements.",
-"unit": 4
-},
-{
-"name": "William Lloyd Garrison",
-"definition": "Radical abolitionist founding The Liberator in 1831, demanding immediate uncompensated emancipation and burning Constitution as pro-slavery, splitting movement with moral suasion approach.",
-"unit": 4
-}
+    "name": "Christopher Columbus",
+    "definition": "Italian explorer sponsored by Spain whose 1492 voyage initiated sustained European contact with the Americas, leading to exploration, conquest, and the Columbian Exchange, though his expeditions also brought devastation to indigenous populations through disease and exploitation.",
+    "unit": 1
+  },
+  {
+    "name": "Bartolomé de las Casas",
+    "definition": "Spanish Dominican friar and early critic of the encomienda system, authoring 'A Short Account of the Destruction of the Indies' to expose atrocities against Native Americans, advocating for their humane treatment and influencing the New Laws of 1542.",
+    "unit": 1
+  },
+  {
+    "name": "Pueblo Revolt",
+    "definition": "1680 uprising by Pueblo Indians in New Mexico against Spanish colonial rule, led by Popé, resulting in temporary expulsion of Spaniards and destruction of missions, highlighting Native resistance to forced conversion and labor.",
+    "unit": 1
+  },
+  {
+    "name": "Roger Williams",
+    "definition": "Puritan minister banished from Massachusetts for advocating separation of church and state and fair treatment of Natives, founding Rhode Island in 1636 as a haven for religious tolerance and democratic governance.",
+    "unit": 2
+  },
+  {
+    "name": "Anne Hutchinson",
+    "definition": "Puritan dissenter tried and exiled from Massachusetts in 1637 for antinomianism—believing faith alone sufficed for salvation—challenging clerical authority and gender norms, later co-founding Rhode Island.",
+    "unit": 2
+  },
+  {
+    "name": "First Great Awakening",
+    "definition": "1730s-1740s religious revival movement emphasizing emotional faith and personal conversion, led by preachers like Jonathan Edwards and George Whitefield, fostering intercolonial unity and challenging established churches.",
+    "unit": 2
+  },
+  {
+    "name": "Jonathan Edwards",
+    "definition": "New England theologian and preacher whose sermon 'Sinners in the Hands of an Angry God' epitomized the First Great Awakening's fire-and-brimstone style, stressing divine wrath and the need for revival.",
+    "unit": 2
+  },
+  {
+    "name": "George Whitefield",
+    "definition": "English Anglican evangelist whose charismatic outdoor sermons during the First Great Awakening attracted massive crowds across colonies, promoting interdenominational unity and emotional piety.",
+    "unit": 2
+  },
+  {
+    "name": "Mercantilism",
+    "definition": "Economic theory guiding British colonial policy, aiming to enrich the mother country through trade surpluses, monopolies, and resource extraction, enforced via Navigation Acts and fostering colonial resentment.",
+    "unit": 2
+  },
+  {
+    "name": "Alexander Hamilton",
+    "definition": "Founding Father and first Treasury Secretary whose financial plan included assuming state debts, creating a national bank, and promoting manufacturing, laying foundations for American capitalism but sparking partisan divides.",
+    "unit": 3
+  },
+  {
+    "name": "Jay's Treaty",
+    "definition": "1794 agreement with Britain resolving Revolutionary War issues, averting war by addressing trade and border disputes, but criticized by Republicans for favoring Britain and ignoring impressment.",
+    "unit": 3
+  },
+  {
+    "name": "Lewis and Clark Expedition",
+    "definition": "1804-1806 journey commissioned by Jefferson to explore Louisiana Territory, map routes to the Pacific, and establish trade with Natives, aided by Sacagawea and providing scientific and geographic knowledge.",
+    "unit": 4
+  },
+  {
+    "name": "Tecumseh",
+    "definition": "Shawnee leader who built a Native confederacy to resist U.S. expansion, allying with Britain in War of 1812, his death at Thames in 1813 shattering unified resistance.",
+    "unit": 4
+  },
+  {
+    "name": "Market Revolution",
+    "definition": "Early 19th-century transformation through transportation improvements like canals and railroads, factory production, and commercialization, shifting from subsistence to market-oriented economy and widening inequalities.",
+    "unit": 4
+  },
+  {
+    "name": "Erie Canal",
+    "definition": "1825 waterway connecting Hudson River to Great Lakes, reducing freight costs and spurring economic growth in New York, exemplifying internal improvements during the Market Revolution.",
+    "unit": 4
+  },
+  {
+    "name": "Nat Turner",
+    "definition": "Enslaved preacher who led 1831 Virginia slave rebellion killing nearly 60 whites before suppression, heightening Southern fears and leading to harsher slave codes.",
+    "unit": 4
+  },
+  {
+    "name": "Frederick Douglass",
+    "definition": "Escaped slave turned abolitionist orator and writer, authoring 'Narrative of the Life of Frederick Douglass' (1845), advocating immediate emancipation and women's rights at Seneca Falls.",
+    "unit": 4
+  },
+  {
+    "name": "Harriet Tubman",
+    "definition": "Escaped slave who conducted 13 Underground Railroad missions freeing over 70 people, later serving as Union spy and nurse, symbolizing resistance and earning 'Moses' moniker.",
+    "unit": 5
+  },
+  {
+    "name": "Dorothea Dix",
+    "definition": "Reformer advocating for mentally ill treatment, leading to asylums and prisons improvements in 1840s-1850s, highlighting antebellum social reform movements.",
+    "unit": 4
+  },
+  {
+    "name": "William Lloyd Garrison",
+    "definition": "Radical abolitionist founding The Liberator in 1831, demanding immediate uncompensated emancipation and burning Constitution as pro-slavery, splitting movement with moral suasion approach.",
+    "unit": 4
+  }
 ]

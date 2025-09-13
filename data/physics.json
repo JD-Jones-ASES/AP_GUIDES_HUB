@@ -16,17 +16,17 @@
   },
   {
     "name": "Displacement",
-    "definition": "The vector change in position, Delta r = r_f - r_i, measuring straight-line distance and direction from start to end, independent of path taken.",
+    "definition": "The vector change in position, Δr = r_f - r_i, measuring straight-line distance and direction from start to end, independent of path taken.",
     "unit": 1
   },
   {
     "name": "Velocity",
-    "definition": "The rate of change of position, v = dr/dt, with average velocity as v_avg = Delta r / Delta t; instantaneous velocity is the limit as Delta t -> 0.",
+    "definition": "The rate of change of position, v = dr/dt, with average velocity as v_avg = Δr / Δt; instantaneous velocity is the limit as Δt → 0.",
     "unit": 1
   },
   {
     "name": "Acceleration",
-    "definition": "The rate of change of velocity, a = dv/dt, causing changes in speed or direction; average acceleration is a_avg = Delta v / Delta t.",
+    "definition": "The rate of change of velocity, a = dv/dt, causing changes in speed or direction; average acceleration is a_avg = Δv / Δt.",
     "unit": 1
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "name": "Projectile Motion",
-    "definition": "Two-dimensional motion under constant gravity, with horizontal velocity constant (v_x = v_0x) and vertical acceleration a_y = -g; trajectory is parabolic, range formula R = (v_0^2 sin 2 theta)/g.",
+    "definition": "Two-dimensional motion under constant gravity, with horizontal velocity constant (v_x = v_0x) and vertical acceleration a_y = -g; trajectory is parabolic, range formula R = (v_0^2 sin 2θ)/g for level ground.",
     "unit": 1
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "name": "Free Fall",
-    "definition": "Motion under gravity alone, with acceleration g ≈ 9.8 m/s^2 downward; all objects fall at same rate in vacuum, independent of mass.",
+    "definition": "Motion under gravity alone, with acceleration g ≈ 9.8 m/s² downward; all objects fall at same rate in vacuum, independent of mass.",
     "unit": 1
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "name": "Free Body Diagram",
-    "definition": "A diagram showing all forces acting on an object, used to find net force; includes weight, normal force, friction, tension, etc., with vectors from the object's center.",
+    "definition": "A diagram showing all forces acting on an object, used to find net force; includes weight, normal force, friction, tension, etc., with vectors drawn from the object's center.",
     "unit": 2
   },
   {
     "name": "Weight",
-    "definition": "The gravitational force on an object, W = m g, directed downward; not the same as mass, varies with location.",
+    "definition": "The gravitational force on an object, W = m g, directed downward; not the same as mass, varies with gravitational field strength.",
     "unit": 2
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "name": "Friction",
-    "definition": "Force opposing relative motion; kinetic friction f_k = mu_k N, static friction f_s <= mu_s N, where mu is the coefficient, direction opposite to tendency of motion.",
+    "definition": "Force opposing relative motion; kinetic friction f_k = μ_k N, static friction f_s ≤ μ_s N, where μ is the coefficient, direction opposite to tendency of motion.",
     "unit": 2
   },
   {
@@ -101,27 +101,27 @@
   },
   {
     "name": "Inclined Plane",
-    "definition": "A sloped surface where components of gravity are parallel (m g sin theta) and perpendicular (m g cos theta) to the plane; used to analyze sliding with friction.",
+    "definition": "A sloped surface where components of gravity are parallel (m g sin θ) and perpendicular (m g cos θ) to the plane; used to analyze sliding with friction.",
     "unit": 2
   },
   {
     "name": "Centripetal Force",
-    "definition": "The net force toward the center in circular motion, F_c = (m v^2)/r; provided by tension, friction, or gravity, not a new force type.",
+    "definition": "The net force toward the center in circular motion, F_c = m v² / r; provided by tension, friction, or gravity, not a new force type.",
     "unit": 2
   },
   {
     "name": "Work",
-    "definition": "The transfer of energy by force along displacement, W = integral F dot dr; for constant force, W = F d cos theta, scalar quantity in joules.",
+    "definition": "The transfer of energy by force along displacement, W = ∫ F · dr; for constant force, W = F d cos θ, scalar quantity in joules.",
     "unit": 3
   },
   {
     "name": "Kinetic Energy",
-    "definition": "Energy of motion, K = (1/2) m v^2; work-kinetic energy theorem states W_net = Delta K.",
+    "definition": "Energy of motion, K = (1/2) m v²; work-kinetic energy theorem states W_net = ΔK.",
     "unit": 3
   },
   {
     "name": "Potential Energy",
-    "definition": "Stored energy due to position; gravitational U_g = m g h, spring U_s = (1/2) k x^2, conservative forces have path-independent work.",
+    "definition": "Stored energy due to position; gravitational U_g = m g h, spring U_s = (1/2) k x², conservative forces have path-independent work.",
     "unit": 3
   },
   {
@@ -131,12 +131,12 @@
   },
   {
     "name": "Power",
-    "definition": "Rate of work done, P = dW/dt = F dot v; average power P_avg = W / Delta t, in watts.",
+    "definition": "Rate of work done, P = dW/dt = F · v; average power P_avg = W / Δt, in watts.",
     "unit": 3
   },
   {
     "name": "Conservative Force",
-    "definition": "A force where work is independent of path, like gravity or electrostatic; associated with potential energy function, curl is zero in vector calculus.",
+    "definition": "A force where work is independent of path, like gravity or electrostatic; associated with potential energy function.",
     "unit": 3
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "name": "Impulse",
-    "definition": "Change in momentum, J = integral F dt = Delta p; for constant force, J = F Delta t.",
+    "definition": "Change in momentum, J = ∫ F dt = Δp; for constant force, J = F Δt.",
     "unit": 4
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "name": "Center of Mass",
-    "definition": "The average position of mass in a system, r_cm = (sum m_i r_i)/M; motion follows Newton's laws as if all mass there.",
+    "definition": "The average position of mass in a system, r_cm = (Σ m_i r_i)/M; motion follows Newton's laws as if all mass there.",
     "unit": 4
   },
   {
@@ -176,37 +176,37 @@
   },
   {
     "name": "Torque",
-    "definition": "The rotational analog of force, tau = r x F, magnitude tau = r F sin theta; causes angular acceleration.",
+    "definition": "The rotational analog of force, τ = r × F, magnitude τ = r F sin θ; causes angular acceleration.",
     "unit": 5
   },
   {
     "name": "Angular Velocity",
-    "definition": "Rate of change of angular position, omega = d theta / dt; related to linear velocity by v = r omega.",
+    "definition": "Rate of change of angular position, ω = dθ / dt; related to linear velocity by v = r ω.",
     "unit": 5
   },
   {
     "name": "Angular Acceleration",
-    "definition": "Rate of change of angular velocity, alpha = d omega / dt; Newton's second for rotation: tau_net = I alpha.",
+    "definition": "Rate of change of angular velocity, α = dω / dt; Newton's second for rotation: τ_net = I α.",
     "unit": 5
   },
   {
     "name": "Moment of Inertia",
-    "definition": "Rotational inertia, I = integral r^2 dm; for point mass I = m r^2, depends on axis and mass distribution.",
+    "definition": "Rotational inertia, I = ∫ r² dm; for point mass I = m r², depends on axis and mass distribution.",
     "unit": 5
   },
   {
     "name": "Parallel Axis Theorem",
-    "definition": "I = I_cm + M d^2, where d is distance from center of mass to new axis; used to find I for offset axes.",
+    "definition": "I = I_cm + M d², where d is distance from center of mass to new axis; used to find I for offset axes.",
     "unit": 5
   },
   {
     "name": "Rotational Kinetic Energy",
-    "definition": "K_rot = (1/2) I omega^2; added to translational for total energy in rolling without slipping.",
+    "definition": "K_rot = (1/2) I ω²; added to translational for total energy in rolling without slipping.",
     "unit": 5
   },
   {
     "name": "Angular Momentum",
-    "definition": "L = r x p, or for rotation L = I omega; conserved when no external torque.",
+    "definition": "L = r × p, or for rotation L = I ω; conserved when no external torque.",
     "unit": 5
   },
   {
@@ -216,37 +216,37 @@
   },
   {
     "name": "Rolling Without Slipping",
-    "definition": "Condition where v = r omega, a = r alpha; friction provides torque but does no work if static.",
+    "definition": "Condition where v = r ω, a = r α; friction provides torque but does no work if static.",
     "unit": 5
   },
   {
     "name": "Simple Harmonic Motion (SHM)",
-    "definition": "Oscillatory motion where restoring force proportional to displacement, F = -k x; position x = A cos (omega t + phi), omega = 2 pi f = 2 pi / T.",
+    "definition": "Oscillatory motion where restoring force proportional to displacement, F = -k x; position x = A cos(ω t + φ), ω = 2π f = 2π / T.",
     "unit": 6
   },
   {
     "name": "Period",
-    "definition": "Time for one complete cycle, T; for mass-spring T = 2 pi sqrt(m/k), independent of amplitude in SHM.",
+    "definition": "Time for one complete cycle, T; for mass-spring T = 2π √(m/k), independent of amplitude in SHM.",
     "unit": 6
   },
   {
     "name": "Frequency",
-    "definition": "Cycles per second, f = 1/T; angular frequency omega = sqrt(k/m) for spring.",
+    "definition": "Cycles per second, f = 1/T; angular frequency ω = √(k/m) for spring.",
     "unit": 6
   },
   {
     "name": "Pendulum",
-    "definition": "SHM for small angles, T = 2 pi sqrt(L/g); physical pendulum T = 2 pi sqrt(I / (m g d)).",
+    "definition": "SHM for small angles, T = 2π √(L/g); physical pendulum T = 2π √(I / (m g d)).",
     "unit": 6
   },
   {
     "name": "Energy in SHM",
-    "definition": "Total E = (1/2) k A^2 = constant, oscillating between kinetic and potential.",
+    "definition": "Total E = (1/2) k A² = constant, oscillating between kinetic and potential.",
     "unit": 6
   },
   {
     "name": "Damped Oscillation",
-    "definition": "SHM with energy loss due to friction, amplitude decreases exponentially; under, critical, over-damped cases.",
+    "definition": "SHM with energy loss due to friction, amplitude decreases exponentially; under-, critical-, over-damped cases.",
     "unit": 6
   },
   {
@@ -256,22 +256,22 @@
   },
   {
     "name": "Newton's Law of Universal Gravitation",
-    "definition": "F = G (m_1 m_2)/r^2, attractive force between masses; G = 6.67 × 10^{-11} Nm²/kg².",
+    "definition": "F = G m_1 m_2 / r², attractive force between masses; G = 6.67 × 10^{-11} N m²/kg².",
     "unit": 7
   },
   {
     "name": "Gravitational Field",
-    "definition": "g = -G M / r^2 (direction toward mass), acceleration due to gravity; inside uniform sphere, linear with r.",
+    "definition": "g = -G M / r² (direction toward mass), acceleration due to gravity; inside uniform sphere, g proportional to r.",
     "unit": 7
   },
   {
     "name": "Gravitational Potential Energy",
-    "definition": "U = -G (m_1 m_2)/r, zero at infinity; escape velocity v_esc = sqrt(2 G M / r).",
+    "definition": "U = -G m_1 m_2 / r, zero at infinity; escape velocity v_esc = √(2 G M / r).",
     "unit": 7
   },
   {
     "name": "Orbital Motion",
-    "definition": "Circular orbits: v = sqrt(G M / r), period T^2 = (4 pi^2 / G M) r^3 from Kepler's third law.",
+    "definition": "Circular orbits: v = √(G M / r), period T² = (4π² / G M) r³ from Kepler's third law.",
     "unit": 7
   },
   {
@@ -281,7 +281,7 @@
   },
   {
     "name": "Black Hole",
-    "definition": "Region where escape velocity exceeds light speed, Schwarzschild radius r_s = 2 G M / c^2; event horizon.",
+    "definition": "Region where escape velocity exceeds light speed, Schwarzschild radius r_s = 2 G M / c²; event horizon.",
     "unit": 7
   },
   {
@@ -291,22 +291,22 @@
   },
   {
     "name": "Coulomb's Law",
-    "definition": "F = k (q_1 q_2)/r^2, k = 9 × 10^9 Nm²/C²; similar to gravity but repulsive/attractive.",
+    "definition": "F = k q_1 q_2 / r², k = 9 × 10^9 N m²/C²; similar to gravity but repulsive/attractive.",
     "unit": 8
   },
   {
     "name": "Electric Field",
-    "definition": "E = F / q_0, force per unit charge; for point charge E = k q / r^2, vector field.",
+    "definition": "E = F / q_0, force per unit charge; for point charge E = k q / r², vector field.",
     "unit": 8
   },
   {
     "name": "Gauss's Law",
-    "definition": "Closed integral E dot dA = Q_encl / epsilon_0, relates flux to enclosed charge; useful for symmetric charge distributions.",
+    "definition": "∮ E · dA = Q_encl / ε_0, relates flux to enclosed charge; useful for symmetric charge distributions.",
     "unit": 8
   },
   {
     "name": "Electric Potential",
-    "definition": "Potential energy per charge, V = U / q; for point charge V = k q / r, scalar, work by field negative of Delta U = q Delta V.",
+    "definition": "Potential energy per charge, V = U / q; for point charge V = k q / r, scalar, work by field negative of ΔU = q ΔV.",
     "unit": 8
   },
   {
@@ -316,7 +316,7 @@
   },
   {
     "name": "Electric Dipole",
-    "definition": "Two equal opposite charges separated by d; moment p = q d, torque tau = p x E, potential energy - p dot E.",
+    "definition": "Two equal opposite charges separated by d; moment p = q d, torque τ = p × E, potential energy -p · E.",
     "unit": 8
   },
   {
@@ -326,17 +326,17 @@
   },
   {
     "name": "Capacitor",
-    "definition": "Device storing charge, C = Q/V; parallel plate C = epsilon_0 A / d, energy U = (1/2) C V^2.",
+    "definition": "Device storing charge, C = Q/V; parallel plate C = ε_0 A / d, energy U = (1/2) C V².",
     "unit": 9
   },
   {
     "name": "Dielectric",
-    "definition": "Insulator in capacitor reducing E by kappa, increasing C by kappa; polarization creates bound charges.",
+    "definition": "Insulator in capacitor reducing E by κ, increasing C by κ; polarization creates bound charges.",
     "unit": 9
   },
   {
     "name": "Capacitors in Series/Parallel",
-    "definition": "Series: 1/C_eq = sum 1/C_i; parallel: C_eq = sum C_i.",
+    "definition": "Series: 1/C_eq = Σ 1/C_i; parallel: C_eq = Σ C_i.",
     "unit": 9
   },
   {
@@ -346,7 +346,7 @@
   },
   {
     "name": "Ohm's Law",
-    "definition": "V = I R, resistance R = rho L / A; for ohmic materials, linear V-I.",
+    "definition": "V = I R, resistance R = ρ L / A; for ohmic materials, linear V-I.",
     "unit": 10
   },
   {
@@ -361,17 +361,17 @@
   },
   {
     "name": "Resistors in Series/Parallel",
-    "definition": "Series: R_eq = sum R_i; parallel: 1/R_eq = sum 1/R_i.",
+    "definition": "Series: R_eq = Σ R_i; parallel: 1/R_eq = Σ 1/R_i.",
     "unit": 10
   },
   {
     "name": "RC Circuit",
-    "definition": "Charging: q = Q (1 - e^{-t/tau}), tau = R C; discharging: q = Q e^{-t/tau}.",
+    "definition": "Charging: q = Q (1 - e^{-t/τ}), τ = R C; discharging: q = Q e^{-t/τ}.",
     "unit": 10
   },
   {
     "name": "Power in Circuits",
-    "definition": "P = I V = I^2 R = V^2 / R, energy dissipation as heat.",
+    "definition": "P = I V = I² R = V² / R, energy dissipation as heat.",
     "unit": 10
   },
   {
@@ -381,37 +381,37 @@
   },
   {
     "name": "Magnetic Force on Charge",
-    "definition": "F = q v x B, right-hand rule; circular motion in uniform B.",
+    "definition": "F = q v × B, right-hand rule; circular motion in uniform B.",
     "unit": 11
   },
   {
     "name": "Magnetic Force on Wire",
-    "definition": "F = I L x B, for straight wire.",
+    "definition": "F = I L × B, for straight wire.",
     "unit": 11
   },
   {
     "name": "Biot-Savart Law",
-    "definition": "dB = (mu_0 / 4 pi) (I dl x r-hat)/r^2, for current elements.",
+    "definition": "dB = (μ_0 / 4π) (I dl × r-bar)/r², for current elements.",
     "unit": 11
   },
   {
     "name": "Ampere's Law",
-    "definition": "Closed integral B dot dl = mu_0 I_encl, for symmetric currents like solenoids.",
+    "definition": "∮ B · dl = μ_0 I_encl, for symmetric currents like solenoids.",
     "unit": 11
   },
   {
     "name": "Solenoid",
-    "definition": "Coil with uniform B inside B = mu_0 n I, n turns per length.",
+    "definition": "Coil with uniform B inside B = μ_0 n I, n turns per length.",
     "unit": 11
   },
   {
     "name": "Lorentz Force",
-    "definition": "F = q (E + v x B), combined electric and magnetic.",
+    "definition": "F = q (E + v × B), combined electric and magnetic.",
     "unit": 11
   },
   {
     "name": "Faraday's Law",
-    "definition": "Emf = - d Phi_B / dt, induced emf from changing magnetic flux Phi_B = integral B dot dA.",
+    "definition": "Emf = - dΦ_B / dt, induced emf from changing magnetic flux Φ_B = ∫ B · dA.",
     "unit": 12
   },
   {
@@ -426,17 +426,17 @@
   },
   {
     "name": "Inductance",
-    "definition": "L = Phi_B / I, self-inductance; energy U = (1/2) L I^2.",
+    "definition": "L = Φ_B / I, self-inductance; energy U = (1/2) L I².",
     "unit": 12
   },
   {
     "name": "RL Circuit",
-    "definition": "Growth: I = (Emf / R) (1 - e^{-t/tau}), tau = L/R; decay similar.",
+    "definition": "Growth: I = (ε / R) (1 - e^{-t/τ}), τ = L/R; decay similar.",
     "unit": 12
   },
   {
     "name": "LC Circuit",
-    "definition": "Oscillations at omega = 1/sqrt(L C), energy alternating between L and C.",
+    "definition": "Oscillations at ω = 1/√(L C), energy alternating between L and C.",
     "unit": 12
   },
   {
@@ -445,53 +445,53 @@
     "unit": 12
   },
   {
-"name": "Hooke's Law",
-"definition": "The restoring force exerted by an ideal spring is directly proportional to the displacement from its equilibrium position and directed opposite to it, expressed as F = -k x, where k is the spring constant; forms the basis for simple harmonic motion in springs.",
-"unit": 6
-},
-{
-"name": "Rotational Equilibrium",
-"definition": "The state in which the net torque acting on a system is zero, resulting in no angular acceleration; combined with translational equilibrium (net force zero) for complete static equilibrium of rigid bodies.",
-"unit": 5
-},
-{
-"name": "Banked Curve",
-"definition": "A curved roadway inclined at an angle to the horizontal to provide the necessary centripetal force through the component of the normal force, with ideal banking angle satisfying tan θ = v² / (r g), assuming no friction.",
-"unit": 2
-},
-{
-"name": "Electric Flux",
-"definition": "A measure of the electric field passing through a given surface, calculated as Φ_E = ∫ E ⋅ dA, where the integral is over the surface; central to Gauss's Law, which states Φ_E = Q_enclosed / ε₀ for a closed surface.",
-"unit": 8
-},
-{
-"name": "Electric Potential Energy",
-"definition": "The potential energy associated with the position of charges in an electric field, U = q V for a test charge q at potential V; for a system of point charges, U = Σ (k q_i q_j / r_ij) over all pairs, with work done by the field equal to -ΔU.",
-"unit": 8
-},
-{
-"name": "Electromotive Force",
-"definition": "The work done per unit charge by a non-electrostatic source to move charges through a circuit, denoted as ε (emf); in a battery, the terminal voltage is ε - I r, accounting for internal resistance r.",
-"unit": 10
-},
-{
-"name": "Right-Hand Rule",
-"definition": "A mnemonic for determining the direction of magnetic fields, forces, or induced currents; for example, for the magnetic field around a current-carrying wire, point the thumb in the direction of current, and curled fingers indicate the field direction.",
-"unit": 11
-},
-{
-"name": "Displacement Current",
-"definition": "A term introduced by Maxwell to modify Ampere's Law, I_d = ε₀ dΦ_E / dt, representing the effect of a changing electric flux as equivalent to a current for producing magnetic fields; essential for the propagation of electromagnetic waves.",
-"unit": 12
-},
-{
-"name": "Electromagnetic Wave",
-"definition": "A transverse wave consisting of oscillating electric and magnetic fields perpendicular to each other and to the direction of propagation, traveling at the speed of light c = 1 / √(μ₀ ε₀) in vacuum; predicted by Maxwell's equations.",
-"unit": 12
-},
-{
-"name": "Mutual Inductance",
-"definition": "The property of two coils where a changing current in one induces an emf in the other, M = Φ_{21} / I_1, where Φ_{21} is the flux through coil 2 due to current I_1 in coil 1; basis for transformers and inductive coupling.",
-"unit": 12
-}
+    "name": "Hooke's Law",
+    "definition": "The restoring force exerted by an ideal spring is directly proportional to the displacement from its equilibrium position and directed opposite to it, expressed as F = -k x, where k is the spring constant; forms the basis for simple harmonic motion in springs.",
+    "unit": 6
+  },
+  {
+    "name": "Rotational Equilibrium",
+    "definition": "The state in which the net torque acting on a system is zero, resulting in no angular acceleration; combined with translational equilibrium (net force zero) for complete static equilibrium of rigid bodies.",
+    "unit": 5
+  },
+  {
+    "name": "Banked Curve",
+    "definition": "A curved roadway inclined at an angle to the horizontal to provide the necessary centripetal force through the component of the normal force, with ideal banking angle satisfying tan θ = v² / (r g), assuming no friction.",
+    "unit": 2
+  },
+  {
+    "name": "Electric Flux",
+    "definition": "A measure of the electric field passing through a given surface, calculated as Φ_E = ∫ E · dA, where the integral is over the surface; central to Gauss's Law, which states Φ_E = Q_enclosed / ε_0 for a closed surface.",
+    "unit": 8
+  },
+  {
+    "name": "Electric Potential Energy",
+    "definition": "The potential energy associated with the position of charges in an electric field, U = q V for a test charge q at potential V; for a system of point charges, U = Σ (k q_i q_j / r_ij) over all unique pairs i < j, with work done by the field equal to -ΔU.",
+    "unit": 8
+  },
+  {
+    "name": "Electromotive Force",
+    "definition": "The work done per unit charge by a non-electrostatic source to move charges through a circuit, denoted as ε (emf); in a battery, the terminal voltage is ε - I r, accounting for internal resistance r.",
+    "unit": 10
+  },
+  {
+    "name": "Right-Hand Rule",
+    "definition": "A mnemonic for determining the direction of magnetic fields, forces, or induced currents; for example, for the magnetic field around a current-carrying wire, point the thumb in the direction of current, and curled fingers indicate the field direction.",
+    "unit": 11
+  },
+  {
+    "name": "Displacement Current",
+    "definition": "A term introduced by Maxwell to modify Ampere's Law, I_d = ε_0 dΦ_E / dt, representing the effect of a changing electric flux as equivalent to a current for producing magnetic fields; essential for the propagation of electromagnetic waves.",
+    "unit": 12
+  },
+  {
+    "name": "Electromagnetic Wave",
+    "definition": "A transverse wave consisting of oscillating electric and magnetic fields perpendicular to each other and to the direction of propagation, traveling at the speed of light c = 1 / √(μ_0 ε_0) in vacuum; predicted by Maxwell's equations.",
+    "unit": 12
+  },
+  {
+    "name": "Mutual Inductance",
+    "definition": "The property of two coils where a changing current in one induces an emf in the other, M = Φ_{21} / I_1, where Φ_{21} is the flux through coil 2 due to current I_1 in coil 1; basis for transformers and inductive coupling.",
+    "unit": 12
+  }
 ]
