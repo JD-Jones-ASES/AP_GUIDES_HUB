@@ -1,0 +1,752 @@
+[
+  {
+    "name": "Nature vs. Nurture Debate",
+    "definition": "The longstanding controversy examining the relative influence of genetic inheritance (nature) and environmental experiences (nurture) on human behavior and development, exemplified by twin studies where identical twins reared apart show similarities in personality traits, suggesting genetic factors, while differences highlight environmental impacts like family dynamics or culture.",
+    "unit": 1
+  },
+  {
+    "name": "Heredity",
+    "definition": "The transmission of genetic characteristics from parents to offspring, influencing traits such as intelligence or temperament through genes, as studied in evolutionary psychology which posits that adaptive behaviors like fear responses are inherited to enhance survival.",
+    "unit": 1
+  },
+  {
+    "name": "Twin Studies",
+    "definition": "Research method comparing identical (monozygotic) and fraternal (dizygotic) twins to assess heritability of traits, such as Bouchard's Minnesota Twin Study finding high concordance for IQ in identical twins, providing evidence for genetic influences while controlling for shared environments.",
+    "unit": 1
+  },
+  {
+    "name": "Adoption Studies",
+    "definition": "Investigations comparing adopted children to their biological and adoptive parents to disentangle genetic and environmental effects, revealing that traits like schizophrenia have higher rates among biological relatives, underscoring hereditary factors despite different upbringings.",
+    "unit": 1
+  },
+  {
+    "name": "Central Nervous System (CNS)",
+    "definition": "The brain and spinal cord, serving as the body's command center for processing information and coordinating responses, where damage to the spinal cord can result in paralysis, illustrating its role in relaying sensory and motor signals.",
+    "unit": 1
+  },
+  {
+    "name": "Peripheral Nervous System (PNS)",
+    "definition": "The network of nerves outside the CNS connecting the body to the brain and spinal cord, divided into somatic (voluntary movements) and autonomic (involuntary functions) systems, enabling responses like pulling a hand from a hot stove via reflex arcs.",
+    "unit": 1
+  },
+  {
+    "name": "Autonomic Nervous System",
+    "definition": "Part of the PNS regulating involuntary bodily functions like heartbeat and digestion, subdivided into sympathetic (arousal, fight-or-flight) and parasympathetic (restoration, rest-and-digest) branches, balancing the body's response to stress as in accelerating heart rate during danger.",
+    "unit": 1
+  },
+  {
+    "name": "Somatic Nervous System",
+    "definition": "Component of the PNS controlling voluntary muscle movements and relaying sensory information, allowing conscious actions like walking or grasping objects, with disruptions leading to conditions like paralysis.",
+    "unit": 1
+  },
+  {
+    "name": "Neuron",
+    "definition": "The basic building block of the nervous system, consisting of dendrites, cell body, axon, and terminal branches, specialized for transmitting electrochemical signals, with over 86 billion in the human brain facilitating complex thoughts and behaviors.",
+    "unit": 1
+  },
+  {
+    "name": "Action Potential",
+    "definition": "A brief electrical charge traveling down a neuron's axon when stimulated beyond threshold, following the all-or-nothing principle, enabling neural communication as in muscle contractions or sensory perceptions.",
+    "unit": 1
+  },
+  {
+    "name": "Synapse",
+    "definition": "The junction between neurons where neurotransmitters are released from the presynaptic terminal to bind receptors on the postsynaptic neuron, facilitating signal transmission, with synaptic plasticity underlying learning as in Hebb's rule: 'neurons that fire together wire together.'",
+    "unit": 1
+  },
+  {
+    "name": "Neurotransmitters",
+    "definition": "Chemical messengers like dopamine (reward and movement), serotonin (mood regulation), and acetylcholine (muscle action), imbalances linked to disorders such as Parkinson's (low dopamine) or depression (low serotonin), targeted by medications like SSRIs.",
+    "unit": 1
+  },
+  {
+    "name": "Agonists",
+    "definition": "Substances mimicking neurotransmitters to enhance their effects, such as nicotine activating acetylcholine receptors for stimulation, contrasting antagonists, with implications for drug addiction and treatment.",
+    "unit": 1
+  },
+  {
+    "name": "Antagonists",
+    "definition": "Drugs blocking neurotransmitter action, like curare paralyzing muscles by inhibiting acetylcholine, used in understanding disorders and developing treatments, highlighting the delicate balance in neural signaling.",
+    "unit": 1
+  },
+  {
+    "name": "Brainstem",
+    "definition": "The oldest brain region including medulla (vital functions like breathing) and pons (sleep regulation), acting as a relay for sensory information, where damage can be fatal due to control over life-sustaining processes.",
+    "unit": 1
+  },
+  {
+    "name": "Limbic System",
+    "definition": "Emotional center comprising amygdala (fear and aggression), hippocampus (memory formation), and hypothalamus (homeostasis and hormones), explaining why emotional events are vividly remembered, as in flashbulb memories.",
+    "unit": 1
+  },
+  {
+    "name": "Cerebral Cortex",
+    "definition": "The brain's outer layer divided into lobes (frontal: planning, parietal: sensation, occipital: vision, temporal: audition), enabling higher functions like language and abstract thought, with larger size in humans correlating to advanced cognition.",
+    "unit": 1
+  },
+  {
+    "name": "Phineas Gage",
+    "definition": "19th-century railroad worker whose frontal lobe injury dramatically altered his personality from responsible to impulsive, providing early evidence for brain localization of functions, particularly executive control in the prefrontal cortex.",
+    "unit": 1
+  },
+  {
+    "name": "Split-Brain Research",
+    "definition": "Studies by Sperry on patients with severed corpus callosum revealing hemispheric specialization, left for language and logic, right for spatial and creative tasks, demonstrating lateralization and interhemispheric communication.",
+    "unit": 1
+  },
+  {
+    "name": "Circadian Rhythm",
+    "definition": "The 24-hour biological clock regulating sleep-wake cycles, influenced by the suprachiasmatic nucleus and melatonin, disruptions like jet lag causing fatigue, with implications for shift workers' health.",
+    "unit": 1
+  },
+  {
+    "name": "Sleep Stages",
+    "definition": "Cycles of NREM (stages 1-3: light to deep sleep for restoration) and REM (dreaming, memory consolidation), totaling 90 minutes per cycle, with sleep debt leading to cognitive impairments similar to intoxication.",
+    "unit": 1
+  },
+  {
+    "name": "Sleep Disorders",
+    "definition": "Conditions like insomnia (difficulty sleeping), narcolepsy (sudden sleep attacks), and sleep apnea (breathing interruptions), linked to health issues such as obesity or heart disease, treatable with CPAP or cognitive behavioral therapy.",
+    "unit": 1
+  },
+  {
+    "name": "Absolute Threshold",
+    "definition": "The minimum stimulus intensity detected 50% of the time, varying by sense like 20 feet for a candle flame in vision, illustrating sensory adaptation and individual differences in perception.",
+    "unit": 1
+  },
+  {
+    "name": "Sensory Adaptation",
+    "definition": "Diminished sensitivity to constant stimuli, like ignoring a watch's tick, allowing focus on changes, evolutionary advantage for detecting threats in stable environments.",
+    "unit": 1
+  },
+  {
+    "name": "Perception",
+    "definition": "The brain's interpretation of sensory information to form meaningful experiences, influenced by top-down processing (expectations) and bottom-up (raw data), as in visual illusions revealing perceptual constancies.",
+    "unit": 2
+  },
+  {
+    "name": "Selective Attention",
+    "definition": "Focusing on specific stimuli while ignoring others, like the cocktail party effect hearing your name in noise, but leading to inattention blindness as in Simons' gorilla experiment where observers miss obvious changes.",
+    "unit": 2
+  },
+  {
+    "name": "Depth Cues",
+    "definition": "Binocular (retinal disparity, convergence) and monocular (relative size, linear perspective) signals for 3D perception, essential for navigation, deficient in conditions like amblyopia affecting depth perception.",
+    "unit": 2
+  },
+  {
+    "name": "Perceptual Constancy",
+    "definition": "Perceiving objects as unchanging despite variations in sensation, like size constancy viewing a distant person as normal-sized, relying on experience and context for stable world interpretation.",
+    "unit": 2
+  },
+  {
+    "name": "Concepts",
+    "definition": "Mental groupings of similar objects or ideas, organized by prototypes (ideal examples), facilitating categorization but leading to stereotypes when applied to people.",
+    "unit": 2
+  },
+  {
+    "name": "Schemas",
+    "definition": "Cognitive frameworks organizing knowledge, aiding interpretation but causing errors like assimilation (fitting new info into existing schemas) or accommodation (adjusting schemas), per Piaget's theory.",
+    "unit": 2
+  },
+  {
+    "name": "Problem-Solving",
+    "definition": "Processes like algorithms (step-by-step) and heuristics (shortcuts) to overcome obstacles, with barriers such as functional fixedness (seeing objects only for usual use) hindering creativity.",
+    "unit": 2
+  },
+  {
+    "name": "Heuristics",
+    "definition": "Mental shortcuts like availability (judging by ease of recall) or representativeness (comparing to prototypes), speeding decisions but causing biases like overestimating rare events from media coverage.",
+    "unit": 2
+  },
+  {
+    "name": "Cognitive Biases",
+    "definition": "Systematic errors in thinking, such as confirmation bias (seeking confirming evidence) or anchoring (relying on initial info), influencing judgments in everyday decisions and research.",
+    "unit": 2
+  },
+  {
+    "name": "Memory",
+    "definition": "The persistence of learning over time through encoding, storage, and retrieval, modeled as sensory, short-term (working), and long-term, with capacity limits like Miller's 7±2 for STM.",
+    "unit": 2
+  },
+  {
+    "name": "Explicit Memory",
+    "definition": "Conscious recall of facts (semantic) and experiences (episodic), stored in hippocampus, contrasted with implicit (procedural skills), affected in amnesia cases like H.M.'s surgery removing explicit but sparing implicit.",
+    "unit": 2
+  },
+  {
+    "name": "Implicit Memory",
+    "definition": "Unconscious retention influencing behavior, like riding a bike (procedural), primed by prior exposure, demonstrating memory without awareness in experiments like word-stem completion.",
+    "unit": 2
+  },
+  {
+    "name": "Encoding",
+    "definition": "Processing information into memory, enhanced by semantic (meaning) over shallow levels, with strategies like chunking (grouping) or mnemonics (acronyms) improving recall efficiency.",
+    "unit": 2
+  },
+  {
+    "name": "Storage",
+    "definition": "Retaining encoded information over time, with sensory memory decaying quickly (iconic visual, echoic auditory), STM holding briefly, and LTM potentially unlimited, strengthened by long-term potentiation (synaptic changes).",
+    "unit": 2
+  },
+  {
+    "name": "Retrieval",
+    "definition": "Accessing stored information, aided by cues like context-dependent (same environment) or state-dependent (same mood), with recognition easier than recall, as in multiple-choice vs. fill-in tests.",
+    "unit": 2
+  },
+  {
+    "name": "Forgetting Curve",
+    "definition": "Ebbinghaus's graph showing rapid initial memory loss slowing over time, mitigated by spaced repetition, explaining why cramming is less effective than distributed practice.",
+    "unit": 2
+  },
+  {
+    "name": "Interference",
+    "definition": "Memory disruption by competing information, proactive (old interferes with new) or retroactive (new with old), common in language learning where similar words confuse recall.",
+    "unit": 2
+  },
+  {
+    "name": "Misinformation Effect",
+    "definition": "Incorporating false details into memories from external sources, as in Loftus's eyewitness studies where leading questions alter recollections, questioning memory reliability in legal contexts.",
+    "unit": 2
+  },
+  {
+    "name": "Intelligence",
+    "definition": "Mental ability to learn, solve problems, and adapt, theorized as general (Spearman's g) or multiple (Gardner's intelligences), measured by IQ tests like WAIS, with debates on cultural bias.",
+    "unit": 2
+  },
+  {
+    "name": "Stanford-Binet Test",
+    "definition": "IQ assessment calculating mental age divided by chronological age times 100, revised for adults, used to identify giftedness or disabilities, though criticized for narrow focus on analytic skills.",
+    "unit": 2
+  },
+  {
+    "name": "Gardner's Multiple Intelligences",
+    "definition": "Theory proposing eight intelligences (linguistic, logical, musical, spatial, bodily-kinesthetic, interpersonal, intrapersonal, naturalist), broadening beyond traditional IQ to value diverse talents like athletes' kinesthetic prowess.",
+    "unit": 2
+  },
+  {
+    "name": "Sternberg's Triarchic Theory",
+    "definition": "Intelligence as analytic (problem-solving), creative (novel ideas), and practical (everyday adaptation), offering a balanced view, applied in education to foster all aspects rather than just test scores.",
+    "unit": 2
+  },
+  {
+    "name": "Developmental Psychology",
+    "definition": "Study of physical, cognitive, and social changes across the lifespan, using longitudinal (same individuals over time) and cross-sectional (different ages at once) methods to track patterns like stability in temperament.",
+    "unit": 3
+  },
+  {
+    "name": "Maturation",
+    "definition": "Biologically programmed growth unfolding predictably, like walking around 12 months, independent of experience but influenced by environment, distinguishing from learning-based changes.",
+    "unit": 3
+  },
+  {
+    "name": "Teratogens",
+    "definition": "Environmental agents like alcohol or viruses harming prenatal development, causing fetal alcohol syndrome with cognitive deficits, emphasizing critical periods for organ formation.",
+    "unit": 3
+  },
+  {
+    "name": "Reflexes",
+    "definition": "Innate responses in newborns like rooting (turning to touch) or grasping, adaptive for survival, fading as voluntary control develops, assessed in Apgar scores for health.",
+    "unit": 3
+  },
+  {
+    "name": "Puberty",
+    "definition": "Adolescent physical changes initiating sexual maturity, triggered by hormones, with primary (reproductive) and secondary (body hair) characteristics, earlier onset linked to nutrition but psychosocial challenges.",
+    "unit": 3
+  },
+  {
+    "name": "Menopause",
+    "definition": "Cessation of menstruation around age 50, marking end of fertility, with hormonal shifts causing symptoms like hot flashes, but not universally negative as cultural views vary.",
+    "unit": 3
+  },
+  {
+    "name": "Gender Identity",
+    "definition": "One's sense of being male, female, or other, influenced by biology and socialization, with transgender individuals experiencing mismatch, supported by research on brain differences.",
+    "unit": 3
+  },
+  {
+    "name": "Sexual Orientation",
+    "definition": "Enduring pattern of attraction (heterosexual, homosexual, bisexual), with genetic and prenatal hormone influences, stable across life despite societal pressures.",
+    "unit": 3
+  },
+  {
+    "name": "Piaget's Cognitive Development",
+    "definition": "Theory of stages: sensorimotor (object permanence), preoperational (egocentrism), concrete operational (conservation), formal operational (abstract thinking), with assimilation and accommodation driving progress.",
+    "unit": 3
+  },
+  {
+    "name": "Vygotsky's Sociocultural Theory",
+    "definition": "Emphasizes social interaction and zone of proximal development (tasks with guidance), using scaffolding (support), highlighting culture's role in cognition like language shaping thought.",
+    "unit": 3
+  },
+  {
+    "name": "Kohlberg's Moral Development",
+    "definition": "Stages: preconventional (rewards/punishment), conventional (social norms), postconventional (ethical principles), critiqued for gender bias by Gilligan emphasizing care over justice.",
+    "unit": 3
+  },
+  {
+    "name": "Language Acquisition",
+    "definition": "Process from babbling to sentences, with critical period hypothesis (easier young), supported by Chomsky's innate language acquisition device (universal grammar), versus Skinner's behavioral reinforcement.",
+    "unit": 3
+  },
+  {
+    "name": "Erikson's Psychosocial Stages",
+    "definition": "Eight lifespan crises like trust vs. mistrust (infancy) to integrity vs. despair (old age), resolving through social interactions, influencing personality like autonomy in toddlers.",
+    "unit": 3
+  },
+  {
+    "name": "Attachment Theory",
+    "definition": "Bowlby's idea of emotional bonds, with Ainsworth's strange situation classifying secure (explores confidently), insecure-avoidant (indifferent), anxious-ambivalent (clingy), disorganized, predicting adult relationships.",
+    "unit": 3
+  },
+  {
+    "name": "Parenting Styles",
+    "definition": "Baumrind's categories: authoritative (warm, demanding, best outcomes), authoritarian (strict, low warmth), permissive (warm, lax), uninvolved (neglectful), affecting child self-esteem and behavior.",
+    "unit": 3
+  },
+  {
+    "name": "Classical Conditioning",
+    "definition": "Pavlov's learning associating neutral stimulus (bell) with unconditioned (food) to elicit conditioned response (salivation), explaining phobias like Watson's Little Albert experiment fearing rats.",
+    "unit": 3
+  },
+  {
+    "name": "Operant Conditioning",
+    "definition": "Skinner's reinforcement (positive/negative) and punishment shaping behavior, with schedules (fixed/variable ratio/interval) affecting response rates, applied in token economies for therapy.",
+    "unit": 3
+  },
+  {
+    "name": "Social Learning Theory",
+    "definition": "Bandura's observational learning through modeling, as in Bobo doll experiment where children imitated aggression, emphasizing vicarious reinforcement and self-efficacy in behavior acquisition.",
+    "unit": 3
+  },
+  {
+    "name": "Latent Learning",
+    "definition": "Tolman's cognitive maps formed without reinforcement, revealed when needed, challenging strict behaviorism by showing mental representations in rats navigating mazes.",
+    "unit": 3
+  },
+  {
+    "name": "Attribution Theory",
+    "definition": "Heider's explanation of behavior causes as internal (dispositional) or external (situational), with fundamental attribution error overemphasizing personality in others, cultural variations like collectivist societies favoring situational.",
+    "unit": 4
+  },
+  {
+    "name": "Fundamental Attribution Error",
+    "definition": "Tendency to attribute others' behavior to internal traits while ignoring situations, like blaming a late friend as irresponsible not traffic, reduced by perspective-taking.",
+    "unit": 4
+  },
+  {
+    "name": "Attitudes",
+    "definition": "Evaluations influencing behavior, formed via mere exposure or conditioning, with cognitive dissonance (Festinger) motivating change when actions contradict beliefs, like smokers rationalizing risks.",
+    "unit": 4
+  },
+  {
+    "name": "Cognitive Dissonance",
+    "definition": "Tension from inconsistent thoughts/behaviors, resolved by changing attitudes or justifying actions, as in Festinger's $1 vs. $20 lie experiment where low pay led to attitude shift toward the task being interesting.",
+    "unit": 4
+  },
+  {
+    "name": "Conformity",
+    "definition": "Adjusting behavior to match group, as in Asch's line judgment where participants conformed to wrong answers 37% of time, influenced by group size and unanimity.",
+    "unit": 4
+  },
+  {
+    "name": "Obedience",
+    "definition": "Following authority commands, Milgram's shock study showing 65% administered lethal levels, explained by agentic state and foot-in-the-door, raising ethical concerns about harm.",
+    "unit": 4
+  },
+  {
+    "name": "Stanford Prison Experiment",
+    "definition": "Zimbardo's role-playing simulation where guards became abusive and prisoners submissive in days, illustrating situational power and deindividuation, though criticized for demand characteristics.",
+    "unit": 4
+  },
+  {
+    "name": "Bystander Effect",
+    "definition": "Reduced helping in groups due to diffusion of responsibility, as in Kitty Genovese case, countered by singular appeals, per Latané and Darley's smoke-filled room experiment.",
+    "unit": 4
+  },
+  {
+    "name": "Social Facilitation",
+    "definition": "Improved performance on simple tasks in presence of others, but impairment on complex (social inhibition), due to arousal, as in Triplett's cycling study.",
+    "unit": 4
+  },
+  {
+    "name": "Group Polarization",
+    "definition": "Strengthening of shared views in discussions, leading to extremes, like juries becoming more lenient or punitive, facilitated by echo chambers in social media.",
+    "unit": 4
+  },
+  {
+    "name": "Groupthink",
+    "definition": "Irving Janis's flawed decision-making in cohesive groups suppressing dissent, symptoms like illusion of invulnerability, seen in Bay of Pigs invasion, prevented by devil's advocates.",
+    "unit": 4
+  },
+  {
+    "name": "Prejudice",
+    "definition": "Unjustified negative attitudes toward groups, rooted in stereotypes, with scapegoat theory blaming outgroups for frustrations, reduced by contact hypothesis under equal conditions.",
+    "unit": 4
+  },
+  {
+    "name": "Freud's Psychodynamic Theory",
+    "definition": "Personality from unconscious conflicts among id (instincts), ego (reality), superego (morals), with defense mechanisms like repression, critiqued for unfalsifiability but influential in therapy.",
+    "unit": 4
+  },
+  {
+    "name": "Humanistic Theory",
+    "definition": "Rogers and Maslow's focus on self-actualization and unconditional positive regard, with hierarchy of needs (physiological to transcendence), promoting client-centered therapy for growth.",
+    "unit": 4
+  },
+  {
+    "name": "Trait Theory",
+    "definition": "Personality as stable characteristics, like Big Five (OCEAN: openness, conscientiousness, extraversion, agreeableness, neuroticism), measured by inventories, predicting behavior across situations.",
+    "unit": 4
+  },
+  {
+    "name": "Social-Cognitive Theory",
+    "definition": "Bandura's reciprocal determinism of behavior, environment, and person, with self-efficacy (belief in abilities) key to motivation, applied in modeling therapies.",
+    "unit": 4
+  },
+  {
+    "name": "Motivation",
+    "definition": "Drives directing behavior, theories like drive-reduction (homeostasis), arousal (optimal level), or incentive (rewards), with Maslow's hierarchy prioritizing needs.",
+    "unit": 4
+  },
+  {
+    "name": "Instinct Theory",
+    "definition": "Fixed patterns like migration in animals, less applicable to complex human behaviors, evolved to evolutionary psychology explaining mate selection.",
+    "unit": 4
+  },
+  {
+    "name": "Emotion",
+    "definition": "Complex responses involving physiology, expression, and cognition, theories like James-Lange (body first), Cannon-Bard (simultaneous), Schachter-Singer (two-factor: arousal plus label).",
+    "unit": 4
+  },
+  {
+    "name": "Universal Emotions",
+    "definition": "Ekman's six basic (happiness, sadness, fear, anger, surprise, disgust), recognized cross-culturally via facial expressions, adaptive for communication.",
+    "unit": 4
+  },
+  {
+    "name": "Health Psychology",
+    "definition": "Focus on how psychological factors affect physical health, promoting behaviors like exercise to reduce stress, using bio-psycho-social model integrating mind, body, society.",
+    "unit": 5
+  },
+  {
+    "name": "Stress",
+    "definition": "Selye's general adaptation syndrome (alarm, resistance, exhaustion), with stressors causing cortisol release, linked to illnesses, managed by coping strategies like problem-focused.",
+    "unit": 5
+  },
+  {
+    "name": "Positive Psychology",
+    "definition": "Seligman's study of strengths and well-being, emphasizing flow, gratitude, and PERMA model (positive emotion, engagement, relationships, meaning, accomplishment) for flourishing.",
+    "unit": 5
+  },
+  {
+    "name": "Psychological Disorders",
+    "definition": "Deviant, distressing, dysfunctional patterns, classified by DSM-5, with biopsychosocial etiology combining genetics, brain chemistry, and environment.",
+    "unit": 5
+  },
+  {
+    "name": "Anxiety Disorders",
+    "definition": "Excessive fear like generalized anxiety, phobias (specific, social), panic (attacks), treated with CBT or exposure, linked to amygdala hyperactivity.",
+    "unit": 5
+  },
+  {
+    "name": "Mood Disorders",
+    "definition": "Disturbances like major depression (persistent sadness) or bipolar (mania-depression cycles), with serotonin/norepinephrine imbalances, higher in women, suicide risks.",
+    "unit": 5
+  },
+  {
+    "name": "Schizophrenia",
+    "definition": "Psychotic disorder with positive symptoms (hallucinations, delusions) and negative (flat affect), dopamine hypothesis, genetic vulnerability, treated with antipsychotics.",
+    "unit": 5
+  },
+  {
+    "name": "Personality Disorders",
+    "definition": "Enduring maladaptive patterns like antisocial (lack empathy), borderline (instability), narcissistic (grandiosity), often ego-syntonic, challenging to treat.",
+    "unit": 5
+  },
+  {
+    "name": "Biomedical Approach",
+    "definition": "Treating disorders with medications or procedures like SSRIs for depression or ECT for severe cases, assuming biological causes, combined with therapy for best outcomes.",
+    "unit": 5
+  },
+  {
+    "name": "Cognitive Behavioral Therapy (CBT)",
+    "definition": "Short-term therapy changing dysfunctional thoughts and behaviors, effective for anxiety/depression, using techniques like cognitive restructuring and homework assignments.",
+    "unit": 5
+  },
+  {
+    "name": "Psychoanalysis",
+    "definition": "Freud's insight-oriented therapy uncovering unconscious conflicts through free association and dream analysis, long-term, less empirical but foundational.",
+    "unit": 5
+  },
+  {
+    "name": "Humanistic Therapy",
+    "definition": "Client-centered with empathy, genuineness, unconditional positive regard, fostering self-growth, Rogers' approach non-directive, empowering clients.",
+    "unit": 5
+  },
+  {
+"name": "Sigmund Freud",
+"definition": "Austrian neurologist and founder of psychoanalysis, who emphasized the role of unconscious conflicts, sexual drives, and early childhood experiences in shaping personality and behavior, as seen in his development of concepts like the id, ego, superego, and psychosexual stages.",
+"unit": 4
+},
+{
+"name": "Carl Jung",
+"definition": "Swiss psychiatrist who founded analytical psychology, introducing concepts like the collective unconscious, archetypes, and introversion/extraversion, diverging from Freud by emphasizing spiritual and mythological influences on the psyche.",
+"unit": 4
+},
+{
+"name": "Carl Rogers",
+"definition": "American psychologist central to humanistic psychology, advocating client-centered therapy with unconditional positive regard, empathy, and congruence to facilitate self-actualization and personal growth.",
+"unit": 4
+},
+{
+"name": "Alfred Adler",
+"definition": "Austrian psychologist who developed individual psychology, focusing on inferiority complexes, striving for superiority, and the importance of social interest and birth order in personality development.",
+"unit": 4
+},
+{
+"name": "Wilhelm Wundt",
+"definition": "German psychologist considered the father of experimental psychology, who established the first psychology lab in 1879 and used introspection to study conscious experience, marking the shift from philosophy to science.",
+"unit": 0
+},
+{
+"name": "Structuralism",
+"definition": "Early school of psychology led by Wundt and Titchener, focusing on breaking down mental processes into basic elements through introspection, like analyzing sensations and feelings to understand the structure of the mind.",
+"unit": 0
+},
+{
+"name": "William James",
+"definition": "American psychologist and philosopher who authored the first psychology textbook and founded functionalism, emphasizing how mental processes help adaptation to the environment, influencing educational psychology.",
+"unit": 0
+},
+{
+"name": "Functionalism",
+"definition": "School of psychology that examines the purpose and function of consciousness and behavior in adapting to one's environment, pioneered by William James, contrasting structuralism by focusing on practical applications.",
+"unit": 0
+},
+{
+"name": "Gestalt Psychology",
+"definition": "Approach emphasizing that the whole experience is greater than the sum of its parts, with principles like figure-ground and grouping laws explaining perception, founded by Wertheimer, Koffka, and Kohler.",
+"unit": 0
+},
+{
+"name": "John B. Watson",
+"definition": "American psychologist who founded behaviorism, emphasizing observable behavior over introspection, famous for Little Albert experiment demonstrating conditioned fear.",
+"unit": 0
+},
+{
+"name": "B.F. Skinner",
+"definition": "American behaviorist who developed operant conditioning principles, using Skinner boxes to study reinforcement, advocating radical behaviorism where environment shapes all behavior.",
+"unit": 3
+},
+{
+"name": "Ivan Pavlov",
+"definition": "Russian physiologist who discovered classical conditioning through dog salivation experiments, laying groundwork for behaviorism by showing associative learning.",
+"unit": 3
+},
+{
+"name": "Jean Piaget",
+"definition": "Swiss psychologist known for theory of cognitive development in children, identifying stages from sensorimotor to formal operational, emphasizing active learning through interaction.",
+"unit": 3
+},
+{
+"name": "Lev Vygotsky",
+"definition": "Russian psychologist whose sociocultural theory stresses social interaction and cultural tools in cognitive development, introducing zone of proximal development and scaffolding.",
+"unit": 3
+},
+{
+"name": "Abraham Maslow",
+"definition": "American humanistic psychologist who proposed hierarchy of needs from physiological to self-actualization, influencing motivation theory and positive psychology.",
+"unit": 4
+},
+{
+"name": "Experimental Method",
+"definition": "Research technique manipulating an independent variable to observe effects on a dependent variable, using random assignment and controls to establish cause-effect, as in drug trials testing efficacy.",
+"unit": 1
+},
+{
+"name": "Independent Variable",
+"definition": "The factor manipulated by researchers in an experiment to determine its effect on the dependent variable, like dosage in a medication study, allowing causal inferences when other variables are controlled.",
+"unit": 1
+},
+{
+"name": "Dependent Variable",
+"definition": "The outcome measured in an experiment to assess the impact of the independent variable, such as symptom reduction in response to treatment, subject to change based on manipulation.",
+"unit": 1
+},
+{
+"name": "Confounding Variable",
+"definition": "An extraneous factor that could influence the dependent variable, potentially skewing results, like participant age in a memory study, controlled through random assignment or matching.",
+"unit": 1
+},
+{
+"name": "Correlational Research",
+"definition": "Method examining relationships between variables without manipulation, using correlation coefficients from -1 to +1, useful for prediction but not causation, as in linking study hours to grades.",
+"unit": 1
+},
+{
+"name": "Endocrine System",
+"definition": "Network of glands secreting hormones into the bloodstream to regulate bodily functions, including the pituitary (master gland), thyroid (metabolism), and adrenals (stress response), interacting with the nervous system for homeostasis.",
+"unit": 1
+},
+{
+"name": "Hormones",
+"definition": "Chemical messengers produced by endocrine glands, influencing growth, mood, and reproduction, like cortisol in stress or insulin in blood sugar, with imbalances causing disorders such as diabetes.",
+"unit": 1
+},
+{
+"name": "Pituitary Gland",
+"definition": "Master gland in the endocrine system controlled by the hypothalamus, releasing hormones that regulate other glands, such as growth hormone for development and oxytocin for social bonding.",
+"unit": 1
+},
+{
+"name": "Sensation",
+"definition": "The process of detecting physical energy from the environment and converting it into neural signals via transduction, forming the raw data for perception, as in light waves stimulating retinal cells for vision.",
+"unit": 1
+},
+{
+"name": "Transduction",
+"definition": "Conversion of sensory stimuli like light or sound into electrical signals by receptor cells, initiating neural processing, essential for all senses, with defects leading to sensory impairments.",
+"unit": 1
+},
+{
+"name": "Difference Threshold",
+"definition": "The smallest detectable change in stimulus intensity, also called just noticeable difference (jnd), governed by Weber's law stating it's proportional to the original intensity, like noticing weight increases.",
+"unit": 1
+},
+{
+"name": "Weber's Law",
+"definition": "Principle that the just noticeable difference is a constant proportion of the stimulus magnitude, explaining why small changes in weak stimuli are more noticeable than in strong ones, applied in marketing for pricing.",
+"unit": 1
+},
+{
+"name": "Signal Detection Theory",
+"definition": "Model predicting how and when we detect weak signals amid noise, considering response bias and sensitivity, used in contexts like radiology where hits, misses, false alarms, and correct rejections occur.",
+"unit": 1
+},
+{
+"name": "Gestalt Principles",
+"definition": "Laws of perceptual organization including proximity, similarity, continuity, closure, and connectedness, explaining how we group elements to form wholes, as in seeing dots as lines based on arrangement.",
+"unit": 2
+},
+{
+"name": "Figure-Ground",
+"definition": "Gestalt principle distinguishing an object (figure) from its surrounding background (ground), reversible in ambiguous images like Rubin's vase, crucial for object recognition in perception.",
+"unit": 2
+},
+{
+"name": "Sensory Memory",
+"definition": "Brief storage of sensory information lasting seconds, with iconic (visual) and echoic (auditory) types, allowing continuity in experience like movie frames appearing fluid.",
+"unit": 2
+},
+{
+"name": "Short-Term Memory",
+"definition": "Temporary holding of information for about 20-30 seconds with capacity of 7±2 items, enhanced by chunking, serving as working memory for tasks like mental arithmetic.",
+"unit": 2
+},
+{
+"name": "Long-Term Memory",
+"definition": "Relatively permanent storage with unlimited capacity, divided into explicit and implicit, accessed via retrieval cues, with strengthening through rehearsal and meaningful associations.",
+"unit": 2
+},
+{
+"name": "Zygote",
+"definition": "Fertilized egg cell from conception to two weeks, undergoing rapid division, implantation, and beginning differentiation, vulnerable to teratogens affecting early development.",
+"unit": 3
+},
+{
+"name": "Embryo",
+"definition": "Developing organism from two weeks to eight weeks post-conception, when major organs form during organogenesis, critical period for structural defects from environmental influences.",
+"unit": 3
+},
+{
+"name": "Fetus",
+"definition": "Prenatal stage from nine weeks to birth, characterized by growth, refinement of organs, and viability around 24 weeks, with sensory development allowing responses to external stimuli.",
+"unit": 3
+},
+{
+"name": "Object Permanence",
+"definition": "Piaget's concept in sensorimotor stage where infants understand objects exist even when out of sight, developing around 8 months, tested by hiding toys.",
+"unit": 3
+},
+{
+"name": "Conservation",
+"definition": "Understanding that quantity remains the same despite changes in shape or appearance, mastered in concrete operational stage, like liquid volume in different glasses.",
+"unit": 3
+},
+{
+"name": "Egocentrism",
+"definition": "Preoperational children's difficulty seeing perspectives other than their own, like assuming others share their view, diminishing with cognitive maturation.",
+"unit": 3
+},
+{
+"name": "Extinction",
+"definition": "Weakening of conditioned response when conditioned stimulus is presented without unconditioned stimulus in classical, or no reinforcement in operant, leading to behavior cessation.",
+"unit": 3
+},
+{
+"name": "Spontaneous Recovery",
+"definition": "Reappearance of extinguished conditioned response after rest period, suggesting learning persists, as in Pavlov's dogs salivating to bell after time.",
+"unit": 3
+},
+{
+"name": "Generalization",
+"definition": "Tendency to respond to stimuli similar to conditioned stimulus, like fearing all dogs after bite from one, adaptive but can lead to phobias.",
+"unit": 3
+},
+{
+"name": "Discrimination",
+"definition": "Learning to distinguish between similar stimuli, responding only to specific one, like salivating to particular tone but not others.",
+"unit": 3
+},
+{
+"name": "Shaping",
+"definition": "Operant technique reinforcing successive approximations toward desired behavior, used in animal training or therapy, like teaching complex skills step-by-step.",
+"unit": 3
+},
+{
+"name": "Deindividuation",
+"definition": "Loss of self-awareness and restraint in group situations, leading to impulsive behavior, as in mobs or online anonymity, due to diffusion of responsibility.",
+"unit": 4
+},
+{
+"name": "Social Loafing",
+"definition": "Tendency to exert less effort in group tasks when individual contributions aren't identified, reduced by accountability, as in tug-of-war experiments.",
+"unit": 4
+},
+{
+"name": "Stereotype",
+"definition": "Generalized belief about a group, often oversimplified, influencing perceptions and leading to prejudice, challenged by counterexamples and contact.",
+"unit": 4
+},
+{
+"name": "Altruism",
+"definition": "Selfless helping behavior benefiting others at personal cost, motivated by empathy or norms, as in bystander intervention when personal responsibility is felt.",
+"unit": 4
+},
+{
+"name": "Obsessive-Compulsive Disorder (OCD)",
+"definition": "Anxiety disorder with unwanted repetitive thoughts (obsessions) and actions (compulsions), like checking locks, treated with CBT and SSRIs to reduce ritualistic behaviors.",
+"unit": 5
+},
+{
+"name": "Post-Traumatic Stress Disorder (PTSD)",
+"definition": "Condition following trauma with flashbacks, avoidance, and hyperarousal, linked to amygdala, treated with exposure therapy, common in veterans or survivors.",
+"unit": 5
+},
+{
+"name": "Dissociative Identity Disorder (DID)",
+"definition": "Formerly multiple personality, involving two or more distinct identities, often from trauma, controversial diagnosis, treated with integration therapy.",
+"unit": 5
+},
+{
+"name": "Systematic Desensitization",
+"definition": "Behavioral therapy gradually exposing patients to anxiety-provoking stimuli while relaxed, based on counterconditioning, effective for phobias like fear of flying.",
+"unit": 5
+},
+{
+"name": "Electroconvulsive Therapy (ECT)",
+"definition": "Biomedical treatment inducing seizures under anesthesia for severe depression, rapid but with memory side effects, used when medications fail.",
+"unit": 5
+}
+]

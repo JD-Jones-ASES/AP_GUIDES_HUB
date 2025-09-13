@@ -1,0 +1,847 @@
+[
+  {
+    "name": "Ecosystem",
+    "definition": "A biological community of interacting organisms and their physical environment, including biotic factors like plants and animals, and abiotic factors like soil and climate; for example, a coral reef ecosystem supports diverse marine life through symbiotic relationships and nutrient cycling.",
+    "unit": 1
+  },
+  {
+    "name": "Biotic Factors",
+    "definition": "Living components of an ecosystem, such as producers, consumers, and decomposers, that influence population dynamics and energy flow; in a forest, biotic factors include trees providing habitat and deer consuming vegetation.",
+    "unit": 1
+  },
+  {
+    "name": "Abiotic Factors",
+    "definition": "Non-living physical and chemical elements in an ecosystem, like temperature, water, and sunlight, that determine species distribution; for instance, soil pH affects plant growth in agricultural fields.",
+    "unit": 1
+  },
+  {
+    "name": "Biome",
+    "definition": "A large naturally occurring community of flora and fauna occupying a major habitat, characterized by climate and vegetation; examples include tundra with permafrost and low biodiversity, versus tropical rainforests with high rainfall and species richness.",
+    "unit": 1
+  },
+  {
+    "name": "Trophic Levels",
+    "definition": "Hierarchical levels in an ecosystem based on feeding relationships, from producers at the base to apex predators at the top; energy decreases by about 90% at each level due to the 10% rule.",
+    "unit": 1
+  },
+  {
+    "name": "Food Chain",
+    "definition": "A linear sequence of organisms where each is eaten by the next, illustrating energy transfer; for example, grass → rabbit → fox, showing producer to primary to secondary consumer.",
+    "unit": 1
+  },
+  {
+    "name": "Food Web",
+    "definition": "A complex network of interconnected food chains in an ecosystem, demonstrating multiple feeding pathways and resilience; disruptions like overfishing can cascade through the web affecting multiple species.",
+    "unit": 1
+  },
+  {
+    "name": "Primary Productivity",
+    "definition": "The rate at which plants and other photosynthetic organisms produce organic compounds in an ecosystem; gross primary productivity (GPP) minus respiration gives net primary productivity (NPP), highest in tropical rainforests.",
+    "unit": 1
+  },
+  {
+    "name": "10 Percent Rule",
+    "definition": "Ecological principle stating that only about 10% of energy from one trophic level is transferred to the next, with the rest lost as heat or waste; this limits the number of trophic levels in food chains.",
+    "unit": 1
+  },
+  {
+    "name": "Carbon Cycle",
+    "definition": "The biogeochemical process by which carbon is exchanged among the biosphere, pedosphere, geosphere, hydrosphere, and atmosphere; includes photosynthesis fixing CO2 and respiration releasing it, disrupted by fossil fuel burning.",
+    "unit": 1
+  },
+  {
+    "name": "Nitrogen Cycle",
+    "definition": "The series of processes converting nitrogen between its forms, including fixation by bacteria, nitrification, assimilation, and denitrification; human activities like fertilizer use lead to eutrophication.",
+    "unit": 1
+  },
+  {
+    "name": "Phosphorus Cycle",
+    "definition": "The movement of phosphorus through rocks, water, soil, and organisms, primarily via weathering and erosion; unlike carbon, it lacks a gaseous phase, and excess from runoff causes algal blooms.",
+    "unit": 1
+  },
+  {
+    "name": "Water Cycle",
+    "definition": "The continuous movement of water on, above, and below Earth's surface through evaporation, condensation, precipitation, and runoff; altered by deforestation increasing runoff and reducing transpiration.",
+    "unit": 1
+  },
+  {
+    "name": "Keystone Species",
+    "definition": "A species whose impact on its ecosystem is disproportionately large relative to its abundance, like sea otters controlling sea urchin populations to protect kelp forests.",
+    "unit": 1
+  },
+  {
+    "name": "Indicator Species",
+    "definition": "Organisms sensitive to environmental changes, used to assess ecosystem health; amphibians like frogs indicate water quality due to their permeable skin absorbing pollutants.",
+    "unit": 1
+  },
+  {
+    "name": "Ecological Succession",
+    "definition": "The gradual process by which ecosystems change and develop over time, from primary (bare rock) to secondary (after disturbance) toward a climax community; for example, after a volcanic eruption, lichens pioneer soil formation.",
+    "unit": 1
+  },
+  {
+    "name": "Pioneer Species",
+    "definition": "The first organisms to colonize barren environments during primary succession, such as lichens and mosses that break down rock into soil.",
+    "unit": 1
+  },
+  {
+    "name": "Climax Community",
+    "definition": "A stable, mature ecological community that remains unchanged unless disturbed, representing the endpoint of succession adapted to local climate and soil.",
+    "unit": 1
+  },
+  {
+    "name": "Biodiversity",
+    "definition": "The variety of life in an ecosystem, including genetic, species, and ecosystem diversity; higher biodiversity enhances resilience, as seen in coral reefs supporting thousands of species.",
+    "unit": 2
+  },
+  {
+    "name": "Genetic Diversity",
+    "definition": "The variation in genetic makeup within a species, crucial for adaptation and survival; low diversity, like in cheetahs, increases vulnerability to diseases.",
+    "unit": 2
+  },
+  {
+    "name": "Species Diversity",
+    "definition": "The number and relative abundance of species in a community; measured by indices like Shannon's, higher in equatorial regions due to stable climates.",
+    "unit": 2
+  },
+  {
+    "name": "Ecosystem Diversity",
+    "definition": "The variety of habitats, communities, and ecological processes in the biosphere; protected areas like national parks preserve this diversity.",
+    "unit": 2
+  },
+  {
+    "name": "Endemic Species",
+    "definition": "Species native and restricted to a specific geographic area, like kangaroos in Australia, highly vulnerable to habitat loss.",
+    "unit": 2
+  },
+  {
+    "name": "Biodiversity Hotspots",
+    "definition": "Regions with exceptionally high biodiversity and significant threat levels, such as the Amazon rainforest or Madagascar, prioritized for conservation.",
+    "unit": 2
+  },
+  {
+    "name": "Habitat Fragmentation",
+    "definition": "The division of large habitats into smaller, isolated patches by human activities like roads, reducing gene flow and increasing extinction risk for species like forest elephants.",
+    "unit": 2
+  },
+  {
+    "name": "Invasive Species",
+    "definition": "Non-native organisms that disrupt ecosystems by outcompeting locals, like zebra mussels in the Great Lakes clogging water systems and altering food webs.",
+    "unit": 2
+  },
+  {
+    "name": "Overexploitation",
+    "definition": "The unsustainable harvesting of species for food, medicine, or trade, leading to population declines; examples include overfishing of cod leading to fishery collapses.",
+    "unit": 2
+  },
+  {
+    "name": "Poaching",
+    "definition": "Illegal hunting or capturing of wildlife, threatening species like rhinos for their horns, driven by black market demand.",
+    "unit": 2
+  },
+  {
+    "name": "Climate Change Impacts on Biodiversity",
+    "definition": "Shifts in temperature and precipitation altering habitats, causing species migration or extinction; polar bears face habitat loss from melting sea ice.",
+    "unit": 2
+  },
+  {
+    "name": "Extinction",
+    "definition": "The complete loss of a species, with current rates 100-1000 times natural background due to human activities; the passenger pigeon exemplifies overhunting-induced extinction.",
+    "unit": 2
+  },
+  {
+    "name": "Mass Extinction",
+    "definition": "A rapid, widespread decrease in biodiversity, like the Permian event killing 96% of marine species; humans may be causing a sixth mass extinction.",
+    "unit": 2
+  },
+  {
+    "name": "Conservation Biology",
+    "definition": "The scientific study of preserving biodiversity, involving protected areas, restoration, and sustainable management.",
+    "unit": 2
+  },
+  {
+    "name": "Protected Areas",
+    "definition": "Regions designated for conservation, like national parks or wildlife reserves, to safeguard habitats and species from development.",
+    "unit": 2
+  },
+  {
+    "name": "Corridors",
+    "definition": "Strips of habitat connecting fragmented areas, allowing animal movement and gene flow; wildlife corridors help mitigate isolation effects.",
+    "unit": 2
+  },
+  {
+    "name": "Captive Breeding",
+    "definition": "Breeding endangered species in controlled environments for reintroduction, like the California condor program increasing numbers from 22 to over 400.",
+    "unit": 2
+  },
+  {
+    "name": "CITES",
+    "definition": "Convention on International Trade in Endangered Species (1975), regulating wildlife trade to prevent exploitation; appendices list species with varying protection levels.",
+    "unit": 2
+  },
+  {
+    "name": "Endangered Species Act (ESA)",
+    "definition": "1973 U.S. law protecting threatened and endangered species and their habitats, with recovery plans; credited with saving bald eagles from extinction.",
+    "unit": 2
+  },
+  {
+    "name": "Population",
+    "definition": "A group of individuals of the same species living in a specific area, studied for size, density, and distribution patterns.",
+    "unit": 3
+  },
+  {
+    "name": "Population Density",
+    "definition": "The number of individuals per unit area or volume; high density in urban areas strains resources like water.",
+    "unit": 3
+  },
+  {
+    "name": "Carrying Capacity (K)",
+    "definition": "The maximum population size an environment can sustain indefinitely; exceeding K leads to resource depletion and population crash.",
+    "unit": 3
+  },
+  {
+    "name": "Logistic Growth",
+    "definition": "Population growth model starting exponentially but slowing as it approaches carrying capacity, forming an S-curve.",
+    "unit": 3
+  },
+  {
+    "name": "Exponential Growth",
+    "definition": "Rapid population increase when resources are unlimited, forming a J-curve; seen in invasive species introductions.",
+    "unit": 3
+  },
+  {
+    "name": "r-Selected Species",
+    "definition": "Species with high reproductive rates, short lifespans, and little parental care, thriving in unstable environments; examples include insects and weeds.",
+    "unit": 3
+  },
+  {
+    "name": "K-Selected Species",
+    "definition": "Species with low reproductive rates, long lifespans, and high parental investment, adapted to stable environments near carrying capacity; like elephants and humans.",
+    "unit": 3
+  },
+  {
+    "name": "Density-Dependent Factors",
+    "definition": "Limiting factors intensifying with population density, such as disease or competition; predation increases in crowded herds.",
+    "unit": 3
+  },
+  {
+    "name": "Density-Independent Factors",
+    "definition": "Limiting factors affecting populations regardless of density, like natural disasters; a hurricane impacts all individuals equally.",
+    "unit": 3
+  },
+  {
+    "name": "Human Population Growth",
+    "definition": "Exponential increase from 1 billion in 1800 to over 8 billion today, driven by medical advances and agriculture; projected to stabilize at 10-11 billion.",
+    "unit": 3
+  },
+  {
+    "name": "Demographic Transition",
+    "definition": "Model of population change from high birth/death rates to low, through industrialization stages; Stage 1 pre-industrial, Stage 4 post-industrial low growth.",
+    "unit": 3
+  },
+  {
+    "name": "Age Structure Diagrams",
+    "definition": "Pyramids showing population distribution by age and sex; wide base indicates high growth in developing countries.",
+    "unit": 3
+  },
+  {
+    "name": "Total Fertility Rate (TFR)",
+    "definition": "Average number of children a woman has in her lifetime; replacement level is 2.1, below in developed nations leading to aging populations.",
+    "unit": 3
+  },
+  {
+    "name": "Infant Mortality Rate",
+    "definition": "Number of infant deaths per 1,000 live births; high in poor countries due to lack of healthcare, influencing higher birth rates.",
+    "unit": 3
+  },
+  {
+    "name": "Life Expectancy",
+    "definition": "Average years a person is expected to live; increased globally from 47 in 1950 to 73 today due to better nutrition and medicine.",
+    "unit": 3
+  },
+  {
+    "name": "Plate Tectonics",
+    "definition": "Theory explaining Earth's lithospheric plates movement on the asthenosphere, causing earthquakes, volcanoes, and mountain formation.",
+    "unit": 4
+  },
+  {
+    "name": "Convergent Boundaries",
+    "definition": "Plate edges colliding, forming mountains or subduction zones; Himalayas from India-Asia collision.",
+    "unit": 4
+  },
+  {
+    "name": "Divergent Boundaries",
+    "definition": "Plates pulling apart, creating mid-ocean ridges or rift valleys; Mid-Atlantic Ridge forming new oceanic crust.",
+    "unit": 4
+  },
+  {
+    "name": "Transform Boundaries",
+    "definition": "Plates sliding past each other, causing earthquakes; San Andreas Fault in California.",
+    "unit": 4
+  },
+  {
+    "name": "Soil Horizons",
+    "definition": "Layers in soil profile: O (organic), A (topsoil), E (eluviation), B (subsoil), C (parent material), R (bedrock).",
+    "unit": 4
+  },
+  {
+    "name": "Soil Erosion",
+    "definition": "Loss of topsoil from wind or water, accelerated by agriculture; Dust Bowl in 1930s from overplowing.",
+    "unit": 4
+  },
+  {
+    "name": "Weathering",
+    "definition": "Breakdown of rocks into soil: physical (freeze-thaw), chemical (acid rain), biological (roots).",
+    "unit": 4
+  },
+  {
+    "name": "Atmosphere Layers",
+    "definition": "Troposphere (weather), stratosphere (ozone), mesosphere, thermosphere, exosphere; temperature varies with altitude.",
+    "unit": 4
+  },
+  {
+    "name": "Coriolis Effect",
+    "definition": "Deflection of moving objects due to Earth's rotation, causing trade winds and ocean currents to curve.",
+    "unit": 4
+  },
+  {
+    "name": "El Niño-Southern Oscillation (ENSO)",
+    "definition": "Periodic warming of Pacific waters altering global weather; El Niño brings rain to California, drought to Australia.",
+    "unit": 4
+  },
+  {
+    "name": "Aquifers",
+    "definition": "Underground water-bearing rock layers; Ogallala Aquifer supplies U.S. agriculture but is depleting.",
+    "unit": 4
+  },
+  {
+    "name": "Watershed",
+    "definition": "Area draining into a river or lake; management prevents pollution downstream.",
+    "unit": 4
+  },
+  {
+    "name": "Renewable Resources",
+    "definition": "Resources replenished naturally, like timber or solar; sustainable if harvested below replacement rate.",
+    "unit": 4
+  },
+  {
+    "name": "Nonrenewable Resources",
+    "definition": "Finite resources like fossil fuels or minerals; extraction leads to depletion and environmental damage.",
+    "unit": 4
+  },
+  {
+    "name": "Agriculture",
+    "definition": "Farming practices impacting land use; industrial agriculture uses pesticides and fertilizers, causing runoff pollution.",
+    "unit": 5
+  },
+  {
+    "name": "Green Revolution",
+    "definition": "1960s-1980s agricultural advances with high-yield crops and chemicals, increasing food production but environmental costs like soil degradation.",
+    "unit": 5
+  },
+  {
+    "name": "Monoculture",
+    "definition": "Growing a single crop over large areas, efficient but vulnerable to pests; corn fields in Midwest prone to blights.",
+    "unit": 5
+  },
+  {
+    "name": "Pesticides",
+    "definition": "Chemicals killing pests; DDT bioaccumulates, banned after Silent Spring, alternatives include IPM.",
+    "unit": 5
+  },
+  {
+    "name": "Integrated Pest Management (IPM)",
+    "definition": "Sustainable pest control using biological, cultural, and minimal chemical methods to reduce environmental impact.",
+    "unit": 5
+  },
+  {
+    "name": "Fertilizers",
+    "definition": "Nutrients added to soil; synthetic ones cause eutrophication in water bodies from nitrogen/phosphorus runoff.",
+    "unit": 5
+  },
+  {
+    "name": "Eutrophication",
+    "definition": "Nutrient enrichment leading to algal blooms and hypoxia; Gulf of Mexico dead zone from Mississippi runoff.",
+    "unit": 5
+  },
+  {
+    "name": "Deforestation",
+    "definition": "Clearing forests for agriculture or logging, causing habitat loss and carbon release; Amazon deforestation for cattle ranching.",
+    "unit": 5
+  },
+  {
+    "name": "Desertification",
+    "definition": "Degradation of drylands into deserts from overgrazing and drought; Sahel region in Africa affected.",
+    "unit": 5
+  },
+  {
+    "name": "Urban Sprawl",
+    "definition": "Uncontrolled expansion of urban areas into rural land, increasing car dependency and habitat fragmentation.",
+    "unit": 5
+  },
+  {
+    "name": "Sustainable Forestry",
+    "definition": "Managing forests for timber while preserving biodiversity and ecosystem services; selective cutting over clear-cutting.",
+    "unit": 5
+  },
+  {
+    "name": "Mining",
+    "definition": "Extraction of minerals; surface mining like strip mining scars landscapes, acid mine drainage pollutes water.",
+    "unit": 5
+  },
+  {
+    "name": "Overfishing",
+    "definition": "Harvesting fish faster than reproduction, leading to stock collapses; regulations like quotas aim to sustain fisheries.",
+    "unit": 5
+  },
+  {
+    "name": "Aquaculture",
+    "definition": "Farming aquatic organisms; provides food but risks disease spread and habitat destruction in coastal areas.",
+    "unit": 5
+  },
+  {
+    "name": "Tragedy of the Commons",
+    "definition": "Overuse of shared resources like oceans or air because individuals act in self-interest; solutions include privatization or regulation.",
+    "unit": 5
+  },
+  {
+    "name": "Fossil Fuels",
+    "definition": "Nonrenewable energy from coal, oil, natural gas; combustion releases CO2, driving climate change.",
+    "unit": 6
+  },
+  {
+    "name": "Renewable Energy",
+    "definition": "Sources replenished naturally like solar, wind, hydro; reduce emissions but intermittent, requiring storage.",
+    "unit": 6
+  },
+  {
+    "name": "Energy Efficiency",
+    "definition": "Using less energy for same service; LED bulbs over incandescents save electricity and reduce demand.",
+    "unit": 6
+  },
+  {
+    "name": "Cogeneration",
+    "definition": "Combined heat and power systems capturing waste heat for additional use, increasing efficiency to 90%.",
+    "unit": 6
+  },
+  {
+    "name": "Nuclear Energy",
+    "definition": "Power from fission of uranium; low emissions but risks like Chernobyl and waste storage issues.",
+    "unit": 6
+  },
+  {
+    "name": "Hydropower",
+    "definition": "Electricity from flowing water via dams; renewable but disrupts rivers and displaces communities.",
+    "unit": 6
+  },
+  {
+    "name": "Solar Energy",
+    "definition": "Harnessing sun via photovoltaic cells or thermal; abundant but dependent on location and weather.",
+    "unit": 6
+  },
+  {
+    "name": "Wind Energy",
+    "definition": "Turbines converting kinetic energy to electricity; offshore farms efficient but impact birds and aesthetics.",
+    "unit": 6
+  },
+  {
+    "name": "Geothermal Energy",
+    "definition": "Heat from Earth's interior for power or heating; reliable in volcanic areas like Iceland.",
+    "unit": 6
+  },
+  {
+    "name": "Biomass",
+    "definition": "Energy from organic materials like wood or biofuels; carbon neutral if sustainably harvested.",
+    "unit": 6
+  },
+  {
+    "name": "Fracking",
+    "definition": "Hydraulic fracturing for natural gas/oil; increases supply but risks groundwater contamination.",
+    "unit": 6
+  },
+  {
+    "name": "Peak Oil",
+    "definition": "Point of maximum oil production before decline; debated timing influences transition to alternatives.",
+    "unit": 6
+  },
+  {
+    "name": "Air Pollutants",
+    "definition": "Harmful substances in air; primary like CO from cars, secondary like ozone from reactions.",
+    "unit": 7
+  },
+  {
+    "name": "Photochemical Smog",
+    "definition": "Brown haze from NOx and VOCs in sunlight; Los Angeles type, irritating lungs.",
+    "unit": 7
+  },
+  {
+    "name": "Industrial Smog",
+    "definition": "Gray smog from SO2 and particulates in coal burning; London 1952 killer smog led to Clean Air Acts.",
+    "unit": 7
+  },
+  {
+    "name": "Acid Rain",
+    "definition": "Precipitation with pH <5.6 from SO2/NOx; damages forests, lakes, and buildings.",
+    "unit": 7
+  },
+  {
+    "name": "Particulate Matter (PM)",
+    "definition": "Tiny particles in air; PM2.5 penetrates lungs, from combustion, causing respiratory issues.",
+    "unit": 7
+  },
+  {
+    "name": "Carbon Monoxide (CO)",
+    "definition": "Colorless gas from incomplete combustion; binds hemoglobin, causing poisoning in enclosed spaces.",
+    "unit": 7
+  },
+  {
+    "name": "Sulfur Dioxide (SO2)",
+    "definition": "From coal burning; respiratory irritant, contributes to acid rain and smog.",
+    "unit": 7
+  },
+  {
+    "name": "Nitrogen Oxides (NOx)",
+    "definition": "From high-temperature combustion; form smog, acid rain, and eutrophication.",
+    "unit": 7
+  },
+  {
+    "name": "Ozone (Ground-Level)",
+    "definition": "Secondary pollutant from NOx/VOCs; respiratory irritant, not to confuse with stratospheric ozone.",
+    "unit": 7
+  },
+  {
+    "name": "Volatile Organic Compounds (VOCs)",
+    "definition": "Gases from paints, fuels; contribute to smog and health issues like cancer.",
+    "unit": 7
+  },
+  {
+    "name": "Clean Air Act",
+    "definition": "1970 U.S. law setting air quality standards, regulating emissions; amendments strengthened controls.",
+    "unit": 7
+  },
+  {
+    "name": "Catalytic Converter",
+    "definition": "Device reducing car emissions of CO, NOx, hydrocarbons; requires unleaded gas.",
+    "unit": 7
+  },
+  {
+    "name": "Scrubbers",
+    "definition": "Power plant devices removing SO2 from exhaust using lime; reduce acid rain.",
+    "unit": 7
+  },
+  {
+    "name": "Water Pollution",
+    "definition": "Contamination of water bodies; point sources like factories, nonpoint from runoff.",
+    "unit": 8
+  },
+  {
+    "name": "Point Source Pollution",
+    "definition": "From identifiable sources like pipes; easier to regulate, e.g., industrial discharge.",
+    "unit": 8
+  },
+  {
+    "name": "Nonpoint Source Pollution",
+    "definition": "Diffuse sources like agricultural runoff; harder to control, major cause of water quality issues.",
+    "unit": 8
+  },
+  {
+    "name": "Hypoxia",
+    "definition": "Low oxygen in water from algal decomposition; dead zones where fish can't survive.",
+    "unit": 8
+  },
+  {
+    "name": "Bioaccumulation",
+    "definition": "Buildup of toxins in an organism over time; mercury in fish from eating contaminated prey.",
+    "unit": 8
+  },
+  {
+    "name": "Biomagnification",
+    "definition": "Increasing toxin concentration up food chains; DDT in eagles causing eggshell thinning.",
+    "unit": 8
+  },
+  {
+    "name": "Persistent Organic Pollutants (POPs)",
+    "definition": "Toxic chemicals resisting degradation, like PCBs; banned by Stockholm Convention.",
+    "unit": 8
+  },
+  {
+    "name": "Heavy Metals",
+    "definition": "Toxins like lead, mercury; from mining, cause neurological damage.",
+    "unit": 8
+  },
+  {
+    "name": "Solid Waste",
+    "definition": "Garbage including municipal, industrial; managed by landfills, incineration, recycling.",
+    "unit": 8
+  },
+  {
+    "name": "Landfills",
+    "definition": "Sites for waste burial; modern ones lined to prevent leachate pollution.",
+    "unit": 8
+  },
+  {
+    "name": "Incineration",
+    "definition": "Burning waste for energy; reduces volume but emits pollutants unless filtered.",
+    "unit": 8
+  },
+  {
+    "name": "Recycling",
+    "definition": "Reprocessing materials like plastics; conserves resources and reduces landfill use.",
+    "unit": 8
+  },
+  {
+    "name": "Hazardous Waste",
+    "definition": "Toxic, reactive waste; regulated by RCRA, examples include batteries and solvents.",
+    "unit": 8
+  },
+  {
+    "name": "Superfund (CERCLA)",
+    "definition": "1980 law for cleaning up contaminated sites; Love Canal prompted its creation.",
+    "unit": 8
+  },
+  {
+    "name": "Endocrine Disruptors",
+    "definition": "Chemicals interfering with hormones; BPA in plastics affects reproduction in wildlife.",
+    "unit": 8
+  },
+  {
+    "name": "Thermal Pollution",
+    "definition": "Heated water discharge from power plants; reduces oxygen, harming aquatic life.",
+    "unit": 8
+  },
+  {
+    "name": "Noise Pollution",
+    "definition": "Excessive sound disrupting wildlife and humans; airport noise affects bird communication.",
+    "unit": 8
+  },
+  {
+    "name": "Greenhouse Effect",
+    "definition": "Natural warming from gases trapping heat; enhanced by human CO2 emissions causing climate change.",
+    "unit": 9
+  },
+  {
+    "name": "Global Warming",
+    "definition": "Increase in Earth's average temperature from greenhouse gases; leads to sea level rise and extreme weather.",
+    "unit": 9
+  },
+  {
+    "name": "Climate Change",
+    "definition": "Long-term shifts in weather patterns; impacts include coral bleaching from ocean acidification.",
+    "unit": 9
+  },
+  {
+    "name": "Ozone Depletion",
+    "definition": "Thinning of stratospheric ozone from CFCs; Montreal Protocol phased out ozone-depleting substances.",
+    "unit": 9
+  },
+  {
+    "name": "Montreal Protocol",
+    "definition": "1987 treaty banning CFCs; successful in ozone hole recovery.",
+    "unit": 9
+  },
+  {
+    "name": "Kyoto Protocol",
+    "definition": "1997 agreement for reducing greenhouse gases; U.S. didn't ratify, succeeded by Paris Agreement.",
+    "unit": 9
+  },
+  {
+    "name": "Paris Agreement",
+    "definition": "2015 accord for limiting warming to 1.5-2°C; nations submit NDCs for emission reductions.",
+    "unit": 9
+  },
+  {
+    "name": "Carbon Footprint",
+    "definition": "Total greenhouse gas emissions from an individual or activity; reduced by energy efficiency and renewables.",
+    "unit": 9
+  },
+  {
+    "name": "Sea Level Rise",
+    "definition": "From thermal expansion and melting ice; threatens coastal cities like Miami with flooding.",
+    "unit": 9
+  },
+  {
+    "name": "Ocean Acidification",
+    "definition": "Decreased pH from CO2 absorption; harms shell-forming organisms like corals and oysters.",
+    "unit": 9
+  },
+  {
+    "name": "Feedback Loops",
+    "definition": "Processes amplifying (positive) or dampening (negative) change; melting permafrost releases methane, positive feedback.",
+    "unit": 9
+  },
+  {
+    "name": "Mitigation",
+    "definition": "Reducing emissions to limit climate change; strategies include reforestation and renewables.",
+    "unit": 9
+  },
+  {
+    "name": "Adaptation",
+    "definition": "Adjusting to climate impacts; building sea walls or drought-resistant crops.",
+    "unit": 9
+  },
+  {
+    "name": "IPCC",
+    "definition": "Intergovernmental Panel on Climate Change; assesses science for policymakers.",
+    "unit": 9
+  },
+  {
+"name": "Autotroph",
+"definition": "An organism that produces its own food from inorganic substances using light or chemical energy, serving as the foundation of food chains; for example, algae in a pond convert sunlight into energy through photosynthesis.",
+"unit": 1
+},
+{
+"name": "Heterotroph",
+"definition": "An organism that cannot produce its own food and must consume other organisms for energy; for instance, lions in the savanna feed on herbivores like zebras.",
+"unit": 1
+},
+{
+"name": "Decomposer",
+"definition": "Organisms that break down dead organic matter, releasing nutrients back into the ecosystem; bacteria and fungi in compost piles decompose leaves and food scraps.",
+"unit": 1
+},
+{
+"name": "Symbiosis",
+"definition": "A close, long-term interaction between two different species, which can be beneficial, neutral, or harmful; lichens represent a symbiotic relationship between fungi and algae.",
+"unit": 1
+},
+{
+"name": "Mutualism",
+"definition": "A type of symbiosis where both species benefit; bees pollinating flowers while obtaining nectar is a classic example.",
+"unit": 1
+},
+{
+"name": "Commensalism",
+"definition": "A symbiotic relationship where one species benefits and the other is unaffected; barnacles attaching to whales for transportation without harming them.",
+"unit": 1
+},
+{
+"name": "Parasitism",
+"definition": "A symbiosis where one organism benefits at the expense of the other; ticks feeding on blood from deer, potentially spreading diseases.",
+"unit": 1
+},
+{
+"name": "Resource Partitioning",
+"definition": "The division of limited resources by species to reduce competition; different bird species foraging at various levels in the same tree.",
+"unit": 1
+},
+{
+"name": "Ecosystem Services",
+"definition": "The benefits provided by ecosystems to humans, categorized as provisioning, regulating, cultural, and supporting; forests providing timber and carbon sequestration.",
+"unit": 2
+},
+{
+"name": "Endangered Species",
+"definition": "A species at risk of extinction throughout all or a significant portion of its range due to threats like habitat loss; the whooping crane, with efforts to protect its wetlands.",
+"unit": 2
+},
+{
+"name": "Threatened Species",
+"definition": "A species likely to become endangered in the foreseeable future; the grizzly bear in the lower 48 US states facing habitat pressures.",
+"unit": 2
+},
+{
+"name": "Island Biogeography",
+"definition": "Theory describing the factors affecting species diversity on islands, including size and isolation; Galapagos Islands host unique species due to their remoteness.",
+"unit": 2
+},
+{
+"name": "Biotic Potential",
+"definition": "The maximum rate at which a population can grow under ideal conditions with unlimited resources; bacteria can double every 20 minutes in nutrient-rich environments.",
+"unit": 3
+},
+{
+"name": "Environmental Resistance",
+"definition": "The combination of factors that limit population growth, such as predation and resource scarcity; drought limiting plant growth in arid regions.",
+"unit": 3
+},
+{
+"name": "Survivorship Curve",
+"definition": "A graph depicting the number of individuals surviving at each age interval; Type III curves show high mortality in young, like in fish species.",
+"unit": 3
+},
+{
+"name": "Rule of 70",
+"definition": "A formula to estimate the doubling time of a population: 70 divided by the growth rate percentage; a 1% growth rate doubles in 70 years.",
+"unit": 3
+},
+{
+"name": "Albedo",
+"definition": "The reflectivity of a surface, influencing how much solar energy is absorbed; ice caps have high albedo, reflecting sunlight to cool the planet.",
+"unit": 4
+},
+{
+"name": "Hadley Cell",
+"definition": "A large-scale atmospheric convection cell in the tropics driving trade winds; responsible for wet equatorial regions and dry subtropics.",
+"unit": 4
+},
+{
+"name": "Rain Shadow Effect",
+"definition": "The phenomenon where mountains block moist air, creating dry areas on the leeward side; the Atacama Desert formed by the Andes Mountains.",
+"unit": 4
+},
+{
+"name": "Soil Texture",
+"definition": "The relative proportions of sand, silt, and clay particles in soil, affecting water retention and drainage; clay soils hold water but drain poorly.",
+"unit": 4
+},
+{
+"name": "Salinization",
+"definition": "The accumulation of salts in soil from irrigation in arid areas, reducing fertility; affects farmland in the Colorado River basin.",
+"unit": 5
+},
+{
+"name": "CAFO",
+"definition": "Concentrated Animal Feeding Operation, large-scale industrial livestock facilities; produce high waste volumes leading to water pollution in rivers.",
+"unit": 5
+},
+{
+"name": "GMO",
+"definition": "Genetically Modified Organism, altered for desired traits like pest resistance; Roundup Ready soybeans tolerate herbicides.",
+"unit": 5
+},
+{
+"name": "Slash-and-Burn Agriculture",
+"definition": "A farming method involving cutting and burning vegetation to clear land; common in rainforests but leads to nutrient depletion after a few years.",
+"unit": 5
+},
+{
+"name": "Biofuel",
+"definition": "Fuel derived from biological materials like plants or waste; biodiesel from vegetable oils reduces dependence on fossil fuels.",
+"unit": 6
+},
+{
+"name": "Thermal Inversion",
+"definition": "An atmospheric condition where warm air traps cooler air and pollutants near the ground; exacerbates air quality issues in valleys like Mexico City.",
+"unit": 7
+},
+{
+"name": "Indoor Air Pollution",
+"definition": "Contamination of indoor environments by harmful substances; sources include tobacco smoke and household cleaners causing respiratory problems.",
+"unit": 7
+},
+{
+"name": "Biochemical Oxygen Demand (BOD)",
+"definition": "The amount of oxygen required to decompose organic matter in water; high BOD levels indicate polluted water, as in rivers downstream from sewage plants.",
+"unit": 8
+},
+{
+"name": "Dead Zone",
+"definition": "An area in aquatic environments with low oxygen levels where most life cannot survive; the Gulf of Mexico dead zone results from agricultural runoff.",
+"unit": 8
+},
+{
+"name": "LD50",
+"definition": "The lethal dose of a substance required to kill 50% of a test population; used to assess toxicity, lower LD50 means more toxic, like in pesticide testing on rats.",
+"unit": 8
+},
+{
+"name": "Methane (CH4)",
+"definition": "A potent greenhouse gas produced by anaerobic decomposition and livestock; rice paddies and cows contribute to atmospheric levels accelerating warming.",
+"unit": 9
+},
+{
+"name": "Coral Bleaching",
+"definition": "The loss of symbiotic algae from coral due to stress like increased water temperature; widespread in the Great Barrier Reef from climate change.",
+"unit": 9
+}
+]

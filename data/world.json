@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Humans and the Environment (ENV)",
+    "definition": "This AP World History theme focuses on the relationship between human societies and the environment, shaped by population growth and changes, such as how the Black Death altered labor systems or how industrialization impacted urban environments.",
+    "unit": 0
+  },
+  {
+    "name": "Cultural Developments and Interactions (CDI)",
+    "definition": "An AP World History theme examining the evolution of ideas, beliefs, and religions, and how interactions between societies shape cultural and political belief systems, often with political, social, and cultural consequences, like the spread of Islam through trade or the Renaissance in Europe.",
+    "unit": 0
+  },
+  {
+    "name": "Governance (GOV)",
+    "definition": "This theme explores factors that determine the formation of political structures and governments, including how they maintain order and exercise power through administrative institutions, policies, and procedures, exemplified by the bureaucratic systems of the Chinese dynasties or the absolute monarchies in Europe.",
+    "unit": 0
+  },
+  {
+    "name": "Economic Systems (ECN)",
+    "definition": "A theme describing how human societies shaped economic systems as they evolved, influenced by production, exchange, and consumption of goods and services, such as the feudal economies of medieval Europe or the capitalist transformations during the Industrial Revolution.",
+    "unit": 0
+  },
+  {
+    "name": "Social Interactions and Organization (SIO)",
+    "definition": "This theme covers how political, economic, and cultural organizations are influenced by the formation of groups in societies and the norms governing interactions between these groups and individuals, like the caste system in India or gender roles in various cultures.",
+    "unit": 0
+  },
+  {
+    "name": "Technology and Innovation (TEC)",
+    "definition": "An AP World History theme exploring how human adaptation and innovation, including technological advancements, have shaped human development and interactions, increasing efficiency, comfort, and security, from the invention of gunpowder to the digital revolution.",
+    "unit": 0
+  },
+  {
+    "name": "Song Dynasty",
+    "definition": "Chinese dynasty (960-1279) known for economic prosperity, technological innovations like gunpowder and printing, and Neo-Confucian revival, setting the stage for East Asian development—think of it as China's golden age of commerce and culture before Mongol conquest.",
+    "unit": 1
+  },
+  {
+    "name": "Neo-Confucianism",
+    "definition": "Synthesis of Confucianism with Buddhist and Daoist ideas during the Song Dynasty, emphasizing moral self-cultivation and hierarchy, influencing East Asian governance and society for centuries.",
+    "unit": 1
+  },
+  {
+    "name": "Dar al-Islam",
+    "definition": "The 'House of Islam,' regions where Muslims could practice freely, facilitating cultural and intellectual exchanges from Spain to India in the 1200s-1400s, fostering advancements in science and mathematics.",
+    "unit": 1
+  },
+  {
+    "name": "Abbasid Caliphate",
+    "definition": "Islamic empire (750-1258) centered in Baghdad, golden age of Muslim culture with House of Wisdom translating Greek texts, ending with Mongol sack, but legacy in knowledge preservation.",
+    "unit": 1
+  },
+  {
+    "name": "Seljuk Empire",
+    "definition": "Turkic Muslim dynasty (1037-1194) controlling Persia and parts of Middle East, adopting Persian administration and protecting Sunni Islam against Shia threats, bridging Byzantine and Mongol eras.",
+    "unit": 1
+  },
+  {
+    "name": "Delhi Sultanate",
+    "definition": "Muslim kingdoms in northern India (1206-1526) introducing Islam and Persian culture, blending with Hindu traditions, paving way for Mughal Empire amid religious tensions.",
+    "unit": 1
+  },
+  {
+    "name": "Vijayanagara Empire",
+    "definition": "Hindu kingdom in southern India (1336-1646) resisting Muslim expansion, known for wealth from trade and architecture like Hampi, symbolizing regional resistance.",
+    "unit": 1
+  },
+  {
+    "name": "Bhakti Movement",
+    "definition": "Devotional Hindu movement from 1200s emphasizing personal devotion to gods like Vishnu, transcending caste barriers, influencing modern Hinduism through poets like Kabir.",
+    "unit": 1
+  },
+  {
+    "name": "Maya Civilization",
+    "definition": "Mesoamerican culture (250-900 CE, but influences to 1500) with city-states, advanced math, calendar, and hieroglyphs, collapsing due to environmental factors but legacy in descendant cultures.",
+    "unit": 1
+  },
+  {
+    "name": "Aztec Empire",
+    "definition": "Mesoamerican empire (1428-1521) based in Tenochtitlan, with tribute system and human sacrifice, conquered by Cortes, exemplifying centralized state with chinampa agriculture.",
+    "unit": 1
+  },
+  {
+    "name": "Inca Empire",
+    "definition": "Andean empire (1438-1533) with vast road network, quipu record-keeping, and terrace farming, conquered by Pizarro, showcasing administrative genius through mita labor.",
+    "unit": 1
+  },
+  {
+    "name": "Mali Empire",
+    "definition": "West African kingdom (1235-1600) rich from gold and salt trade, with Mansa Musa's Hajj showcasing wealth, center of Islamic learning in Timbuktu.",
+    "unit": 1
+  },
+  {
+    "name": "Great Zimbabwe",
+    "definition": "Southern African stone city (11th-15th century) hub of gold trade, symbolizing Bantu kingdoms' sophistication before Portuguese disruption.",
+    "unit": 1
+  },
+  {
+    "name": "Feudalism",
+    "definition": "Medieval European system of lords granting land to vassals for military service, with serfs bound to land, providing stability after Roman collapse but limiting mobility.",
+    "unit": 1
+  },
+  {
+    "name": "Serfdom",
+    "definition": "Condition of peasants tied to land in feudal Europe, providing labor for protection, persisting until Black Death labor shortages led to its decline.",
+    "unit": 1
+  },
+  {
+    "name": "Foot Binding",
+    "definition": "Chinese practice from Song Dynasty binding women's feet for beauty and status, restricting mobility and reinforcing gender roles until banned in 20th century.",
+    "unit": 1
+  },
+  {
+    "name": "Filial Piety",
+    "definition": "Confucian virtue of respect for parents and ancestors, central to East Asian social order, illustrated in texts like the Classic of Filial Piety.",
+    "unit": 1
+  },
+  {
+    "name": "Silk Roads",
+    "definition": "Ancient trade routes connecting China to Mediterranean from 200 BCE, exchanging silk, spices, and ideas like Buddhism, revived in 1200s under Mongols for safe travel.",
+    "unit": 2
+  },
+  {
+    "name": "Mongol Empire",
+    "definition": "Vast 13th-century empire under Genghis Khan and successors, facilitating trade and cultural exchange across Eurasia, but known for destructive conquests ending Abbasid Caliphate.",
+    "unit": 2
+  },
+  {
+    "name": "Khanates",
+    "definition": "Divisions of Mongol Empire like Golden Horde and Yuan Dynasty, each ruled by a khan, adapting local customs while maintaining Pax Mongolica trade peace.",
+    "unit": 2
+  },
+  {
+    "name": "Pax Mongolica",
+    "definition": "Period of stability under Mongol rule in 13th-14th centuries, boosting Silk Road trade and travel, allowing figures like Marco Polo to explore safely.",
+    "unit": 2
+  },
+  {
+    "name": "Indian Ocean Trade",
+    "definition": "Maritime network from East Africa to China, flourishing 1200-1450 with monsoon winds, exchanging cotton, spices, and slaves, fostering Swahili city-states.",
+    "unit": 2
+  },
+  {
+    "name": "Trans-Saharan Trade",
+    "definition": "Caravan routes across Sahara connecting West Africa to Mediterranean, trading gold, salt, and slaves, enriching empires like Mali and spreading Islam.",
+    "unit": 2
+  },
+  {
+    "name": "Ibn Battuta",
+    "definition": "14th-century Moroccan traveler whose journeys across Dar al-Islam documented societies from Mali to China, providing insights into medieval global connections.",
+    "unit": 2
+  },
+  {
+    "name": "Marco Polo",
+    "definition": "13th-century Venetian merchant who traveled to Yuan China, his accounts inspiring European exploration despite debates over authenticity.",
+    "unit": 2
+  },
+  {
+    "name": "Zheng He",
+    "definition": "Ming Dynasty admiral (1405-1433) leading treasure voyages to Indian Ocean, showcasing Chinese power but ended due to Confucian isolationism.",
+    "unit": 2
+  },
+  {
+    "name": "Bubonic Plague",
+    "definition": "14th-century pandemic spread via trade routes, killing 30-50% of Eurasia's population, disrupting economies and contributing to feudalism's decline.",
+    "unit": 2
+  },
+  {
+    "name": "Diasporic Communities",
+    "definition": "Merchant groups like Jews or Chinese living abroad, maintaining cultural ties while facilitating trade, such as Sogdians on Silk Road.",
+    "unit": 2
+  },
+  {
+    "name": "Swahili City-States",
+    "definition": "East African trading ports like Kilwa (1000-1500) blending Bantu and Arab cultures, prospering from gold and ivory trade until Portuguese dominance.",
+    "unit": 2
+  },
+  {
+    "name": "Gunpowder Empires",
+    "definition": "Term for Ottoman, Safavid, and Mughal empires (1500s-1700s) using firearms to expand, centralizing power and blending cultures.",
+    "unit": 3
+  },
+  {
+    "name": "Ottoman Empire",
+    "definition": "Turkish empire (1299-1922) conquering Constantinople in 1453, peaking under Suleiman the Magnificent with janissary army and millet system.",
+    "unit": 3
+  },
+  {
+    "name": "Safavid Empire",
+    "definition": "Shia Persian empire (1501-1722) under Shah Abbas, promoting silk trade and architecture like Isfahan, conflicting with Sunni Ottomans.",
+    "unit": 3
+  },
+  {
+    "name": "Mughal Empire",
+    "definition": "Muslim Indian empire (1526-1857) under Akbar promoting tolerance and Taj Mahal, blending Hindu-Muslim cultures but declining from religious strife.",
+    "unit": 3
+  },
+  {
+    "name": "Qing Dynasty",
+    "definition": "Manchu empire in China (1644-1912) expanding territory, with Kangxi and Qianlong emperors fostering prosperity but resisting Western influence.",
+    "unit": 3
+  },
+  {
+    "name": "Tokugawa Shogunate",
+    "definition": "Japanese feudal regime (1603-1868) isolating country, promoting stability and arts like kabuki, ending with Meiji Restoration.",
+    "unit": 3
+  },
+  {
+    "name": "Absolute Monarchy",
+    "definition": "European system where kings like Louis XIV claimed divine right, centralizing power in Versailles, funding arts but leading to revolutions.",
+    "unit": 3
+  },
+  {
+    "name": "Divine Right",
+    "definition": "Belief that monarchs derive authority from God, justifying absolutism in Europe, challenged by Enlightenment ideas and revolutions.",
+    "unit": 3
+  },
+  {
+    "name": "Tax Farming",
+    "definition": "System where private collectors bid to gather taxes for empires like Ottoman, often leading to corruption and peasant burdens.",
+    "unit": 3
+  },
+  {
+    "name": "Janissaries",
+    "definition": "Elite Ottoman infantry from Christian devshirme system, loyal to sultan but later becoming powerful and rebellious.",
+    "unit": 3
+  },
+  {
+    "name": "Devshirme",
+    "definition": "Ottoman practice of conscripting Christian boys, converting them to Islam for military or administrative roles, ensuring loyalty.",
+    "unit": 3
+  },
+  {
+    "name": "Age of Exploration",
+    "definition": "15th-17th century European voyages seeking trade routes, led by Portugal and Spain, resulting in global empires and Columbian Exchange.",
+    "unit": 4
+  },
+  {
+    "name": "Columbian Exchange",
+    "definition": "Transfer of plants, animals, diseases between Old and New Worlds post-1492, transforming diets and populations—like maize to Africa, smallpox to Americas.",
+    "unit": 4
+  },
+  {
+    "name": "Mercantilism",
+    "definition": "Economic theory where colonies exist to enrich mother countries through trade surpluses and bullion, fueling European rivalries and wars.",
+    "unit": 4
+  },
+  {
+    "name": "Triangular Trade",
+    "definition": "Atlantic system exchanging European goods for African slaves, slaves for American sugar, and sugar for Europe, building colonial wealth on bondage.",
+    "unit": 4
+  },
+  {
+    "name": "Middle Passage",
+    "definition": "Brutal voyage transporting enslaved Africans to Americas, with high mortality from disease and abuse, core of transatlantic slave trade.",
+    "unit": 4
+  },
+  {
+    "name": "Encomienda System",
+    "definition": "Spanish colonial labor grant forcing Natives to work for settlers in exchange for 'protection,' essentially legalized exploitation.",
+    "unit": 4
+  },
+  {
+    "name": "Hacienda System",
+    "definition": "Large Spanish American estates using indebted peon labor, producing cash crops, perpetuating social hierarchies.",
+    "unit": 4
+  },
+  {
+    "name": "Atlantic Slave Trade",
+    "definition": "15th-19th century forced migration of 12 million Africans to Americas, driven by plantation economies, profoundly shaping demographics and cultures.",
+    "unit": 4
+  },
+  {
+    "name": "Vodun",
+    "definition": "African religion blending with Christianity in Americas to form syncretic faiths like Voodoo, preserving cultural identity amid slavery.",
+    "unit": 4
+  },
+  {
+    "name": "Joint-Stock Company",
+    "definition": "Business model like Dutch East India Company pooling investor funds for colonial ventures, spreading risk and enabling large-scale trade.",
+    "unit": 4
+  },
+  {
+    "name": "Enlightenment",
+    "definition": "18th-century intellectual movement emphasizing reason, individualism, and skepticism of authority, inspiring revolutions with thinkers like Voltaire and Locke.",
+    "unit": 5
+  },
+  {
+    "name": "American Revolution",
+    "definition": "1775-1783 colonial rebellion against Britain, influenced by Enlightenment, resulting in U.S. independence and republican government.",
+    "unit": 5
+  },
+  {
+    "name": "French Revolution",
+    "definition": "1789-1799 upheaval overthrowing monarchy, with Reign of Terror and Napoleon, spreading nationalism and rights declarations across Europe.",
+    "unit": 5
+  },
+  {
+    "name": "Haitian Revolution",
+    "definition": "1791-1804 slave revolt led by Toussaint Louverture, establishing first Black republic, inspiring abolition movements but fearing slaveholders.",
+    "unit": 5
+  },
+  {
+    "name": "Latin American Revolutions",
+    "definition": "Early 19th-century independence movements led by Bolivar and San Martin, ending Spanish rule but often leading to caudillo dictatorships.",
+    "unit": 5
+  },
+  {
+    "name": "Nationalism",
+    "definition": "19th-century ideology promoting shared identity and self-determination, driving unifications like Germany and Italy, and anti-colonial struggles.",
+    "unit": 5
+  },
+  {
+    "name": "Abolitionism",
+    "definition": "Movement to end slavery, gaining traction in 1800s with figures like Wilberforce, culminating in bans like Britain's 1833 act.",
+    "unit": 5
+  },
+  {
+    "name": "Suffrage Movement",
+    "definition": "19th-century push for women's voting rights, with Seneca Falls Convention and leaders like Stanton, achieving gains in New Zealand first.",
+    "unit": 5
+  },
+  {
+    "name": "Industrial Revolution",
+    "definition": "Late 18th-19th century shift from agrarian to factory economies in Britain, spreading globally with steam power and textiles, transforming society.",
+    "unit": 6
+  },
+  {
+    "name": "Factory System",
+    "definition": "Mass production in centralized locations using machines, leading to urbanization and labor exploitation, but increasing output dramatically.",
+    "unit": 6
+  },
+  {
+    "name": "Imperialism",
+    "definition": "19th-century European domination of Africa and Asia for resources and markets, justified by 'civilizing mission,' leading to Scramble for Africa.",
+    "unit": 6
+  },
+  {
+    "name": "Opium Wars",
+    "definition": "1839-1860 conflicts forcing China to open trade, resulting in unequal treaties and spheres of influence, weakening Qing Dynasty.",
+    "unit": 6
+  },
+  {
+    "name": "Taiping Rebellion",
+    "definition": "1850-1864 Chinese civil war led by Hong Xiuquan, killing 20 million, challenging Qing but failing, highlighting internal weaknesses.",
+    "unit": 6
+  },
+  {
+    "name": "Meiji Restoration",
+    "definition": "1868 Japanese modernization overthrowing shogunate, industrializing rapidly to avoid Western domination, becoming imperial power.",
+    "unit": 6
+  },
+  {
+    "name": "Self-Strengthening Movement",
+    "definition": "1861-1895 Qing reform adopting Western technology while keeping Confucian values, limited success against internal and external pressures.",
+    "unit": 6
+  },
+  {
+    "name": "Scramble for Africa",
+    "definition": "1880s-1914 European partition of Africa at Berlin Conference, leading to colonial borders ignoring ethnic groups, sparking resistance.",
+    "unit": 6
+  },
+  {
+    "name": "Berlin Conference",
+    "definition": "1884-1885 meeting regulating African colonization, preventing wars among Europeans but ignoring African interests.",
+    "unit": 6
+  },
+  {
+    "name": "Social Darwinism",
+    "definition": "Misapplication of evolution to justify imperialism and inequality, claiming 'superior' races destined to rule, influencing policies.",
+    "unit": 6
+  },
+  {
+    "name": "White Man's Burden",
+    "definition": "Kipling's poem urging imperialism as moral duty to 'civilize' non-Europeans, reflecting racist justifications for empire.",
+    "unit": 6
+  },
+  {
+    "name": "World War I",
+    "definition": "1914-1918 global conflict triggered by assassination, involving trench warfare and new technologies, ending empires and setting stage for WWII.",
+    "unit": 7
+  },
+  {
+    "name": "Total War",
+    "definition": "WWI strategy mobilizing entire societies for war effort, with rationing and propaganda, blurring civilian-military lines.",
+    "unit": 7
+  },
+  {
+    "name": "Treaty of Versailles",
+    "definition": "1919 peace imposing harsh terms on Germany, creating League of Nations but sowing seeds for WWII resentment.",
+    "unit": 7
+  },
+  {
+    "name": "League of Nations",
+    "definition": "Post-WWI organization for peace, weakened by U.S. absence and inability to prevent aggressions like Japan's Manchuria invasion.",
+    "unit": 7
+  },
+  {
+    "name": "Mandate System",
+    "definition": "League assignment of former Ottoman/German territories to victors, like British in Palestine, often continuing colonial control.",
+    "unit": 7
+  },
+  {
+    "name": "Great Depression",
+    "definition": "1929-1939 economic crisis from stock crash, leading to global unemployment and rise of extremists like Hitler.",
+    "unit": 7
+  },
+  {
+    "name": "Fascism",
+    "definition": "Authoritarian nationalism under Mussolini and Hitler, emphasizing state over individual, leading to WWII aggressions.",
+    "unit": 7
+  },
+  {
+    "name": "World War II",
+    "definition": "1939-1945 war pitting Allies against Axis, with Holocaust and atomic bombs, reshaping world order and starting Cold War.",
+    "unit": 7
+  },
+  {
+    "name": "Holocaust",
+    "definition": "Nazi genocide killing 6 million Jews, symbolizing WWII horrors and leading to Israel creation and human rights focus.",
+    "unit": 7
+  },
+  {
+    "name": "Atomic Bomb",
+    "definition": "U.S. drops on Hiroshima/Nagasaki in 1945 ending WWII, ushering nuclear age and arms race.",
+    "unit": 7
+  },
+  {
+    "name": "Cold War",
+    "definition": "1945-1991 U.S.-Soviet rivalry through proxy wars and ideology, dividing world into blocs without direct conflict.",
+    "unit": 8
+  },
+  {
+    "name": "Iron Curtain",
+    "definition": "Churchill's term for Soviet control over Eastern Europe, symbolizing Cold War division.",
+    "unit": 8
+  },
+  {
+    "name": "Containment",
+    "definition": "U.S. policy to stop communism spread, through Truman Doctrine and Marshall Plan.",
+    "unit": 8
+  },
+  {
+    "name": "Marshall Plan",
+    "definition": "1948 U.S. aid rebuilding Europe, countering communism and fostering integration.",
+    "unit": 8
+  },
+  {
+    "name": "NATO",
+    "definition": "1949 Western alliance against Soviet threat, countered by Warsaw Pact.",
+    "unit": 8
+  },
+  {
+    "name": "Warsaw Pact",
+    "definition": "1955 Soviet-led Eastern bloc alliance, dissolved in 1991.",
+    "unit": 8
+  },
+  {
+    "name": "Decolonization",
+    "definition": "Post-WWII independence of colonies, like India in 1947, often through nonviolence or war.",
+    "unit": 8
+  },
+  {
+    "name": "Indian Independence",
+    "definition": "1947 partition into India and Pakistan, led by Gandhi's nonviolence, but with violent displacement.",
+    "unit": 8
+  },
+  {
+    "name": "African Independence",
+    "definition": "1950s-1960s movements, like Ghana under Nkrumah, ending European empires but leaving neocolonial issues.",
+    "unit": 8
+  },
+  {
+    "name": "Vietnam War",
+    "definition": "1955-1975 conflict where U.S. supported South against communist North, ending in unification under communism.",
+    "unit": 8
+  },
+  {
+    "name": "Chinese Communist Revolution",
+    "definition": "1949 Mao Zedong victory establishing PRC, with Great Leap Forward and Cultural Revolution.",
+    "unit": 8
+  },
+  {
+    "name": "Cuban Revolution",
+    "definition": "1959 Fidel Castro overthrowing Batista, aligning with Soviets, leading to Missile Crisis.",
+    "unit": 8
+  },
+  {
+    "name": "Cuban Missile Crisis",
+    "definition": "1962 U.S.-Soviet standoff over missiles in Cuba, resolved peacefully, height of Cold War tensions.",
+    "unit": 8
+  },
+  {
+    "name": "Globalization",
+    "definition": "Post-1980s integration of economies and cultures through trade, technology, and migration, led by neoliberal policies.",
+    "unit": 9
+  },
+  {
+    "name": "Neoliberalism",
+    "definition": "Economic policy favoring free markets, deregulation, and privatization, promoted by Reagan and Thatcher, influencing global institutions.",
+    "unit": 9
+  },
+  {
+    "name": "World Trade Organization (WTO)",
+    "definition": "1995 body regulating international trade, promoting liberalization but criticized for favoring rich nations.",
+    "unit": 9
+  },
+  {
+    "name": "Green Revolution",
+    "definition": "1960s-1970s agricultural advances increasing yields through technology, reducing hunger but causing environmental issues.",
+    "unit": 9
+  },
+  {
+    "name": "Feminism (Global)",
+    "definition": "20th-21st century movements for gender equality, achieving suffrage and rights, but ongoing in areas like Middle East.",
+    "unit": 9
+  },
+  {
+    "name": "Human Rights",
+    "definition": "Post-1948 UN Declaration principles, influencing movements against apartheid and dictatorships.",
+    "unit": 9
+  },
+  {
+    "name": "Terrorism",
+    "definition": "Post-2001 focus with 9/11 attacks, leading to War on Terror and invasions of Afghanistan and Iraq.",
+    "unit": 9
+  },
+  {
+    "name": "Climate Change",
+    "definition": "Anthropogenic global warming, addressed by Paris Agreement, impacting environments and migrations.",
+    "unit": 9
+  },
+  {
+    "name": "Pandemic (COVID-19)",
+    "definition": "2020 global health crisis exposing inequalities and accelerating digital shifts, with vaccines showcasing international cooperation.",
+    "unit": 9
+  },
+  {
+    "name": "Populism",
+    "definition": "21st-century political trend emphasizing 'people' vs. elites, seen in leaders like Trump and Bolsonaro, challenging liberal democracy.",
+    "unit": 9
+  },
+  {
+"name": "Champa Rice",
+"definition": "Fast-ripening rice strain introduced to Song China from Champa (Vietnam), boosting agricultural productivity, population growth, and commercialization in the 11th century.",
+"unit": 1
+},
+{
+"name": "Grand Canal",
+"definition": "Ancient Chinese waterway expanded under the Sui and Song dynasties, linking northern and southern China to facilitate trade, transport grain, and promote economic unity.",
+"unit": 1
+},
+{
+"name": "Byzantine Empire",
+"definition": "Continuation of the Eastern Roman Empire (330-1453) with capital in Constantinople, known for Justinian Code, Orthodox Christianity, and defense against Muslim expansions until Ottoman conquest.",
+"unit": 1
+},
+{
+"name": "Sufism",
+"definition": "Mystical branch of Islam focusing on spiritual closeness to God through practices like meditation and dance, aiding the spread of Islam in Africa and Asia via tolerant approaches.",
+"unit": 1
+},
+{
+"name": "Khmer Empire",
+"definition": "Southeast Asian Hindu-Buddhist empire (802-1431) centered in Angkor, renowned for hydraulic engineering, temple complexes like Angkor Wat, and regional dominance.",
+"unit": 1
+},
+{
+"name": "Mississippian Culture",
+"definition": "Pre-Columbian North American society (800-1500) featuring mound-building, maize-based agriculture, and urban centers like Cahokia, influencing later Native American groups.",
+"unit": 1
+},
+{
+"name": "Caravanserai",
+"definition": "Inns along Silk Road and other trade routes providing shelter for caravans, promoting safe travel and cultural diffusion during the Mongol era and beyond.",
+"unit": 2
+},
+{
+"name": "Hanseatic League",
+"definition": "Medieval commercial and defensive confederation of merchant guilds in northern Europe, controlling Baltic and North Sea trade from the 13th to 17th centuries.",
+"unit": 2
+},
+{
+"name": "Dhow",
+"definition": "Arab sailing vessel with lateen sails used in Indian Ocean trade, enabling efficient navigation with monsoon winds and connecting East Africa, Middle East, and India.",
+"unit": 2
+},
+{
+"name": "Junk Ship",
+"definition": "Advanced Chinese vessel with watertight compartments and magnetic compasses, crucial for maritime exploration and trade, notably in Zheng He's expeditions.",
+"unit": 2
+},
+{
+"name": "Ming Dynasty",
+"definition": "Chinese dynasty (1368-1644) that overthrew Mongol rule, restored traditional bureaucracy, built the Forbidden City, and initially sponsored naval voyages before turning isolationist.",
+"unit": 3
+},
+{
+"name": "Sikhism",
+"definition": "Monotheistic faith founded by Guru Nanak in late 15th-century Punjab, combining Hindu and Islamic elements, stressing equality, community service, and rejection of caste.",
+"unit": 3
+},
+{
+"name": "Protestant Reformation",
+"definition": "16th-century religious movement initiated by Martin Luther's 95 Theses, challenging Catholic doctrines and leading to the establishment of Protestant churches and European religious wars.",
+"unit": 3
+},
+{
+"name": "Vasco da Gama",
+"definition": "Portuguese navigator (1460-1524) who reached India via the Cape of Good Hope in 1498, opening direct sea route from Europe to Asia and initiating Portuguese maritime empire.",
+"unit": 4
+},
+{
+"name": "Treaty of Tordesillas",
+"definition": "1494 papal agreement dividing newly discovered lands outside Europe between Spain and Portugal along a meridian, shaping colonial spheres in the Americas and Asia.",
+"unit": 4
+},
+{
+"name": "Casta System",
+"definition": "Hierarchical racial classification in Spanish colonies categorizing people by European, African, and Indigenous ancestry, determining social status and privileges.",
+"unit": 4
+},
+{
+"name": "Dutch East India Company",
+"definition": "Chartered in 1602, this joint-stock company monopolized Dutch trade in Asia, possessed military powers, and established colonies, exemplifying commercial imperialism.",
+"unit": 4
+},
+{
+"name": "John Locke",
+"definition": "English philosopher (1632-1704) whose ideas on natural rights, tabula rasa, and government as social contract influenced Enlightenment thinkers and revolutionary declarations.",
+"unit": 5
+},
+{
+"name": "Simon Bolivar",
+"definition": "Venezuelan military leader (1783-1830) who spearheaded independence from Spain in northern South America, envisioning a united Gran Colombia but facing regional divisions.",
+"unit": 5
+},
+{
+"name": "Otto von Bismarck",
+"definition": "Prussian statesman (1815-1898) who engineered German unification through Realpolitik, wars against Denmark, Austria, and France, becoming first chancellor of German Empire.",
+"unit": 5
+},
+{
+"name": "Adam Smith",
+"definition": "Scottish economist (1723-1790) author of 'The Wealth of Nations,' promoting free-market capitalism, invisible hand, and division of labor as engines of prosperity.",
+"unit": 6
+},
+{
+"name": "Sepoy Mutiny",
+"definition": "1857 revolt by Indian soldiers against British East India Company over cultural insensitivities, resulting in direct British crown control and intensified imperialism.",
+"unit": 6
+},
+{
+"name": "Boxer Rebellion",
+"definition": "1899-1901 anti-foreign and anti-Christian uprising in China by the Society of Righteous and Harmonious Fists, crushed by multinational forces, weakening Qing rule.",
+"unit": 6
+},
+{
+"name": "Archduke Franz Ferdinand",
+"definition": "Heir to Austro-Hungarian throne whose assassination in Sarajevo on June 28, 1914, by a Serbian nationalist triggered the chain of events leading to World War I.",
+"unit": 7
+},
+{
+"name": "Fourteen Points",
+"definition": "U.S. President Woodrow Wilson's 1918 proposal for post-WWI peace, advocating open diplomacy, free trade, self-determination, and creation of League of Nations.",
+"unit": 7
+},
+{
+"name": "Adolf Hitler",
+"definition": "Leader of Nazi Party (1889-1945) who became German chancellor in 1933, establishing totalitarian regime, pursuing aggressive expansion, and orchestrating the Holocaust.",
+"unit": 7
+},
+{
+"name": "Truman Doctrine",
+"definition": "1947 U.S. foreign policy committing to support free peoples resisting subjugation, primarily aimed at containing communism in Greece and Turkey.",
+"unit": 8
+},
+{
+"name": "Non-Aligned Movement",
+"definition": "International organization founded in 1961 for countries not formally aligned with major power blocs during Cold War, promoting independence and cooperation among developing nations.",
+"unit": 8
+},
+{
+"name": "Apartheid",
+"definition": "System of institutionalized racial segregation and discrimination in South Africa (1948-1994), enforced by National Party, ended through negotiations led by Nelson Mandela.",
+"unit": 8
+},
+{
+"name": "European Union",
+"definition": "Political and economic union of 27 European countries established by Maastricht Treaty in 1993, promoting free movement, single currency (euro), and supranational governance.",
+"unit": 9
+},
+{
+"name": "9/11 Attacks",
+"definition": "Series of terrorist attacks on September 11, 2001, by al-Qaeda, destroying World Trade Center and damaging Pentagon, prompting U.S.-led War on Terror.",
+"unit": 9
+},
+{
+"name": "Arab Spring",
+"definition": "Wave of pro-democracy uprisings and protests across Arab world starting in 2010, leading to regime changes in Tunisia, Egypt, Libya, but also civil wars in Syria and Yemen.",
+"unit": 9
+}
+]

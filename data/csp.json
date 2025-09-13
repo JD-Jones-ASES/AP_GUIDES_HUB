@@ -1,0 +1,977 @@
+[
+    {
+        "name": "Collaboration",
+        "definition": "The process of working with others to develop computing innovations, incorporating diverse perspectives to improve design and functionality—like pair programming where one person codes while another reviews.",
+        "unit": 1
+    },
+    {
+        "name": "Comments",
+        "definition": "Non-executable text in code that explains functionality and logic, helping developers understand and maintain programs—like adding notes in a recipe to clarify steps for future cooks.",
+        "unit": 1
+    },
+    {
+        "name": "Computational Thinking",
+        "definition": "A problem-solving method involving decomposition (breaking down problems), pattern recognition (identifying similarities), abstraction (focusing on essentials), and algorithm design—like planning a road trip by mapping routes and optimizing stops.",
+        "unit": 1
+    },
+    {
+        "name": "Debugging",
+        "definition": "Identifying and fixing errors in code through systematic testing and analysis—like a detective examining clues to solve a mystery in program behavior.",
+        "unit": 1
+    },
+    {
+        "name": "Development Process",
+        "definition": "The iterative stages of creating software: investigating requirements, designing solutions, prototyping, testing, and refining—like building a house from blueprint to final inspection.",
+        "unit": 1
+    },
+    {
+        "name": "Documentation",
+        "definition": "Written explanations of code structure, functionality, and usage, including inline comments and external guides—like a user manual for a complex appliance.",
+        "unit": 1
+    },
+    {
+        "name": "Logic Error",
+        "definition": "A flaw in program logic that produces incorrect results despite valid syntax—like a calculator adding instead of subtracting due to a misplaced operator.",
+        "unit": 1
+    },
+    {
+        "name": "Pair Programming",
+        "definition": "A collaborative technique where two programmers work together at one workstation, alternating roles of driver (coding) and navigator (reviewing)—like co-pilots navigating a flight.",
+        "unit": 1
+    },
+    {
+        "name": "Program Behavior",
+        "definition": "How a program responds during execution, including user interactions and outputs—like a video game reacting to player inputs in real-time.",
+        "unit": 1
+    },
+    {
+        "name": "Run-time Error",
+        "definition": "An error occurring during program execution, such as division by zero, causing crashes—like a car engine failing mid-drive due to overheating.",
+        "unit": 1
+    },
+    {
+        "name": "Simulation",
+        "definition": "A program modeling real-world systems to study behaviors and predict outcomes—like weather forecasting software simulating atmospheric conditions.",
+        "unit": 1
+    },
+    {
+        "name": "Syntax Error",
+        "definition": "A violation of programming language rules preventing compilation or execution—like a sentence missing punctuation in written language.",
+        "unit": 1
+    },
+    {
+        "name": "Testing",
+        "definition": "Verifying program correctness by running it with various inputs and checking outputs—like quality control in manufacturing checking products for defects.",
+        "unit": 1
+    },
+    {
+        "name": "User Interface",
+        "definition": "The visual and interactive elements allowing users to engage with software, such as buttons and menus—like the dashboard controls in a car.",
+        "unit": 1
+    },
+    {
+        "name": "Abstraction",
+        "definition": "The process of reducing complexity by hiding details and focusing on essential features—like using a map app without knowing its internal algorithms.",
+        "unit": 1
+    },
+    {
+        "name": "Decomposition",
+        "definition": "Breaking down a complex problem into smaller, manageable parts—like dividing a group project into individual tasks.",
+        "unit": 1
+    },
+    {
+        "name": "Pattern Recognition",
+        "definition": "Identifying similarities or common differences in problems to apply known solutions—like noticing recurring errors in code to fix them efficiently.",
+        "unit": 1
+    },
+    {
+        "name": "Analog Data",
+        "definition": "Continuous data that varies smoothly over time, such as sound waves or temperature readings—like the gradual change in light intensity at sunset.",
+        "unit": 2
+    },
+    {
+        "name": "Binary (Base 2)",
+        "definition": "A number system using only 0s and 1s to represent all data in computers—like encoding the letter 'A' as 01000001.",
+        "unit": 2
+    },
+    {
+        "name": "Bit",
+        "definition": "The fundamental unit of digital information, representing a 0 or 1—like a single light switch being on or off.",
+        "unit": 2
+    },
+    {
+        "name": "Byte",
+        "definition": "Eight bits grouped together, capable of representing 256 different values—like storing a single character in text.",
+        "unit": 2
+    },
+    {
+        "name": "Big Data",
+        "definition": "Vast datasets too large for traditional processing, requiring advanced tools for analysis—like social media platforms handling billions of daily posts.",
+        "unit": 2
+    },
+    {
+        "name": "Compression",
+        "definition": "Reducing data size for efficient storage and transmission, either lossy or lossless—like zipping files to save space on a drive.",
+        "unit": 2
+    },
+    {
+        "name": "Correlation",
+        "definition": "A relationship where two variables change together, but not necessarily causally—like ice cream sales and sunburn rates both rising in summer.",
+        "unit": 2
+    },
+    {
+        "name": "CSV (Comma-Separated Values)",
+        "definition": "A file format for tabular data where values are separated by commas—like a spreadsheet exported for easy data exchange.",
+        "unit": 2
+    },
+    {
+        "name": "Data",
+        "definition": "Raw facts and figures processed into meaningful information—like temperature readings collected from sensors.",
+        "unit": 2
+    },
+    {
+        "name": "Data Analysis",
+        "definition": "Examining and interpreting data to uncover patterns and insights—like analyzing sales data to predict trends.",
+        "unit": 2
+    },
+    {
+        "name": "Data Cleaning",
+        "definition": "Correcting or removing inaccurate records from datasets—like editing a spreadsheet to fix typos and duplicates.",
+        "unit": 2
+    },
+    {
+        "name": "Data Filtering",
+        "definition": "Selecting specific data subsets based on criteria—like sorting emails by sender in an inbox.",
+        "unit": 2
+    },
+    {
+        "name": "Data Mining",
+        "definition": "Extracting useful patterns from large datasets using algorithms—like discovering shopping habits from transaction records.",
+        "unit": 2
+    },
+    {
+        "name": "Data Visualization",
+        "definition": "Graphical representation of data to reveal patterns, such as charts or maps—like a bar graph showing population growth.",
+        "unit": 2
+    },
+    {
+        "name": "Decimal (Base 10)",
+        "definition": "The everyday number system using digits 0-9—like counting apples in a basket.",
+        "unit": 2
+    },
+    {
+        "name": "Digital Data",
+        "definition": "Discrete data represented in binary form for computer processing—like pixels in a digital photo.",
+        "unit": 2
+    },
+    {
+        "name": "Hexadecimal (Base 16)",
+        "definition": "A number system using 0-9 and A-F, often for color codes or memory addresses—like #FF0000 representing red in web design.",
+        "unit": 2
+    },
+    {
+        "name": "Information",
+        "definition": "Processed data that provides context and meaning—like turning poll numbers into election predictions.",
+        "unit": 2
+    },
+    {
+        "name": "JSON (JavaScript Object Notation)",
+        "definition": "A lightweight format for structured data using key-value pairs—like storing user profiles in web applications.",
+        "unit": 2
+    },
+    {
+        "name": "Lossless Compression",
+        "definition": "Reducing file size without losing any original data—like PNG images preserving exact pixel information.",
+        "unit": 2
+    },
+    {
+        "name": "Lossy Compression",
+        "definition": "Reducing file size by discarding some data, approximating the original—like MP3 audio removing inaudible frequencies.",
+        "unit": 2
+    },
+    {
+        "name": "Machine Learning",
+        "definition": "Algorithms that learn from data to make predictions or decisions—like recommendation systems suggesting movies based on viewing history.",
+        "unit": 2
+    },
+    {
+        "name": "Metadata",
+        "definition": "Data describing other data, such as file creation dates or photo locations—like tags on a blog post indicating categories.",
+        "unit": 2
+    },
+    {
+        "name": "Modeling",
+        "definition": "Creating digital representations of real phenomena for analysis—like 3D models simulating building structures.",
+        "unit": 2
+    },
+    {
+        "name": "Overflow Error",
+        "definition": "When a number exceeds the storage capacity of its data type—like trying to store 256 in an 8-bit byte.",
+        "unit": 2
+    },
+    {
+        "name": "Sampling",
+        "definition": "Capturing analog data at intervals to create digital approximations—like recording audio at 44.1 kHz for CDs.",
+        "unit": 2
+    },
+    {
+        "name": "Visualization Types",
+        "definition": "Various graphical formats like bar charts, pie charts, or scatter plots for data representation—like using a line graph to show stock prices over time.",
+        "unit": 2
+    },
+    {
+        "name": "XML (eXtensible Markup Language)",
+        "definition": "A markup language for encoding documents in a structured format—like RSS feeds for news syndication.",
+        "unit": 2
+    },
+    {
+        "name": "Algorithm",
+        "definition": "A precise sequence of instructions to solve a problem or perform a task—like a step-by-step guide to baking a cake.",
+        "unit": 3
+    },
+    {
+        "name": "Algorithmic Efficiency",
+        "definition": "The resource usage of an algorithm as input grows, often measured in time and space—like choosing quicksort over bubble sort for large lists.",
+        "unit": 3
+    },
+    {
+        "name": "API (Application Programming Interface)",
+        "definition": "A set of rules for how software components interact, like a menu in a restaurant specifying available dishes.",
+        "unit": 3
+    },
+    {
+        "name": "Argument",
+        "definition": "A value passed to a procedure when called, matching its parameters—like providing ingredients to a recipe function.",
+        "unit": 3
+    },
+    {
+        "name": "Assignment",
+        "definition": "Storing a value in a variable using an operator—like setting score ← 0 at the start of a game.",
+        "unit": 3
+    },
+    {
+        "name": "Big O Notation",
+        "definition": "Notation describing algorithm complexity, such as O(1) for constant time—like estimating how long a search takes as data doubles.",
+        "unit": 3
+    },
+    {
+        "name": "Binary Search",
+        "definition": "An efficient algorithm for finding items in sorted lists by halving search intervals—like guessing a number between 1 and 100.",
+        "unit": 3
+    },
+    {
+        "name": "Boolean",
+        "definition": "A data type with true or false values, used for logic—like checking if score > highScore.",
+        "unit": 3
+    },
+    {
+        "name": "Boolean Expression",
+        "definition": "An expression evaluating to true or false, controlling flow—like age >= 18 AND citizen = true for voting eligibility.",
+        "unit": 3
+    },
+    {
+        "name": "Code Segment",
+        "definition": "A portion of program statements within a larger program—like a function calculating area in a geometry app.",
+        "unit": 3
+    },
+    {
+        "name": "Conditional Statement",
+        "definition": "Code that executes based on a condition, like IF-ELSE—like turning on lights if it's dark.",
+        "unit": 3
+    },
+    {
+        "name": "Data Abstraction",
+        "definition": "Using lists or structures to represent complex data, hiding details—like a contact list managing names and numbers.",
+        "unit": 3
+    },
+    {
+        "name": "Data Types",
+        "definition": "Categories of data like numbers, strings, booleans—like integers for counting, strings for names.",
+        "unit": 3
+    },
+    {
+        "name": "Event",
+        "definition": "An action triggering code execution, like a button click—like pressing play to start music.",
+        "unit": 3
+    },
+    {
+        "name": "Event-driven Programming",
+        "definition": "Programs responding to user actions rather than running sequentially—like apps waiting for touches or clicks.",
+        "unit": 3
+    },
+    {
+        "name": "Expression",
+        "definition": "A combination evaluating to a value, like 2 + 3 * 4—like calculating total cost as price + tax.",
+        "unit": 3
+    },
+    {
+        "name": "Function",
+        "definition": "A reusable block of code performing a task, also called procedure—like a max() function finding the largest number.",
+        "unit": 3
+    },
+    {
+        "name": "Heuristic",
+        "definition": "A practical approach for approximate solutions when exact ones are hard—like using rules of thumb in chess AI.",
+        "unit": 3
+    },
+    {
+        "name": "Index",
+        "definition": "The position of an element in a list, starting at 1—like accessing list[3] for the third item.",
+        "unit": 3
+    },
+    {
+        "name": "Infinite Loop",
+        "definition": "A loop that never ends due to a false condition—like repeating 'hello' without a stop check.",
+        "unit": 3
+    },
+    {
+        "name": "Insertion Sort",
+        "definition": "A sorting algorithm building sorted lists incrementally—like organizing cards by inserting each into place.",
+        "unit": 3
+    },
+    {
+        "name": "Iteration",
+        "definition": "Repeating code using loops, like FOR or WHILE—like counting from 1 to 10.",
+        "unit": 3
+    },
+    {
+        "name": "Library",
+        "definition": "Pre-written code collections for reuse, like math libraries—like borrowing tools from a toolkit.",
+        "unit": 3
+    },
+    {
+        "name": "Linear Search",
+        "definition": "Checking each list item sequentially for a target—like scanning a phone book page by page.",
+        "unit": 3
+    },
+    {
+        "name": "List",
+        "definition": "An ordered collection of elements, accessible by index—like a shopping list of items.",
+        "unit": 3
+    },
+    {
+        "name": "Loop",
+        "definition": "Code that repeats until a condition is met—like washing dishes until none remain.",
+        "unit": 3
+    },
+    {
+        "name": "Merge Sort",
+        "definition": "A divide-and-conquer sorting algorithm splitting and merging lists—like sorting papers by dividing piles.",
+        "unit": 3
+    },
+    {
+        "name": "Modularity",
+        "definition": "Dividing programs into independent modules for easier management—like building with Lego blocks.",
+        "unit": 3
+    },
+    {
+        "name": "Nested Conditionals",
+        "definition": "Conditionals inside others for complex decisions—like if it's raining, then if cold, wear a coat.",
+        "unit": 3
+    },
+    {
+        "name": "Parameter",
+        "definition": "A variable in a procedure definition receiving arguments—like inputs in a function recipe.",
+        "unit": 3
+    },
+    {
+        "name": "Procedural Abstraction",
+        "definition": "Hiding implementation details in procedures, focusing on what they do—like using print() without knowing its code.",
+        "unit": 3
+    },
+    {
+        "name": "Procedure",
+        "definition": "A named set of instructions reusable in code—like a subroutine calculating factorial.",
+        "unit": 3
+    },
+    {
+        "name": "Program",
+        "definition": "A collection of instructions performing a task—like an app solving math problems.",
+        "unit": 3
+    },
+    {
+        "name": "Random",
+        "definition": "Generating unpredictable values, like RANDOM(1,6) for dice—like picking a card from a shuffled deck.",
+        "unit": 3
+    },
+    {
+        "name": "Reasonable Time",
+        "definition": "Algorithms running in polynomial time, practical for large inputs—like O(n log n) sorts.",
+        "unit": 3
+    },
+    {
+        "name": "Recursion",
+        "definition": "A function calling itself to solve subproblems—like calculating factorial as n * factorial(n-1).",
+        "unit": 3
+    },
+    {
+        "name": "Return Value",
+        "definition": "The output from a function sent back to the caller—like getting change from a vending machine.",
+        "unit": 3
+    },
+    {
+        "name": "Scope",
+        "definition": "The region where a variable is accessible, like local vs global—like variables visible only in a function.",
+        "unit": 3
+    },
+    {
+        "name": "Selection",
+        "definition": "Choosing code paths based on conditions—like deciding outfits based on weather.",
+        "unit": 3
+    },
+    {
+        "name": "Selection Sort",
+        "definition": "Sorting by repeatedly selecting the smallest remaining element—like picking winners one by one.",
+        "unit": 3
+    },
+    {
+        "name": "Sequence",
+        "definition": "Executing statements in order—like following recipe steps from start to finish.",
+        "unit": 3
+    },
+    {
+        "name": "String",
+        "definition": "A sequence of characters, like text—like \"Hello World\" in a print statement.",
+        "unit": 3
+    },
+    {
+        "name": "Traversal",
+        "definition": "Accessing each element in a data structure—like iterating through a list to sum values.",
+        "unit": 3
+    },
+    {
+        "name": "Undecidable Problem",
+        "definition": "Problems no algorithm can solve for all inputs, like the halting problem—like determining if any program will loop forever.",
+        "unit": 3
+    },
+    {
+        "name": "Unreasonable Time",
+        "definition": "Algorithms with exponential time complexity, impractical for large inputs—like trying all passwords.",
+        "unit": 3
+    },
+    {
+        "name": "Variable",
+        "definition": "A named storage for changeable values—like score keeping track of points in a game.",
+        "unit": 3
+    },
+    {
+        "name": "Access Point",
+        "definition": "A networking device connecting wireless devices to wired networks—like a Wi-Fi hotspot in a cafe.",
+        "unit": 4
+    },
+    {
+        "name": "Bandwidth",
+        "definition": "The maximum data transmission rate over a connection, in bits per second—like the width of a highway determining traffic flow.",
+        "unit": 4
+    },
+    {
+        "name": "Cloud Computing",
+        "definition": "Delivering services over the internet, like storage or processing—like using Google Drive instead of local hard drives.",
+        "unit": 4
+    },
+    {
+        "name": "Computing Device",
+        "definition": "Any programmable machine, like smartphones or servers—like a smart thermostat controlling home temperature.",
+        "unit": 4
+    },
+    {
+        "name": "Computing Network",
+        "definition": "Interconnected devices sharing data—like a home Wi-Fi connecting phones and laptops.",
+        "unit": 4
+    },
+    {
+        "name": "Computing System",
+        "definition": "Devices and software working together—like a traffic light system coordinating signals.",
+        "unit": 4
+    },
+    {
+        "name": "CPU (Central Processing Unit)",
+        "definition": "The brain of a computer executing instructions—like a chef following recipes in a kitchen.",
+        "unit": 4
+    },
+    {
+        "name": "Distributed Computing",
+        "definition": "Multiple computers collaborating on tasks—like SETI@home using idle PCs for data analysis.",
+        "unit": 4
+    },
+    {
+        "name": "DNS (Domain Name System)",
+        "definition": "Translates domain names to IP addresses—like a phone book for the internet.",
+        "unit": 4
+    },
+    {
+        "name": "Fault Tolerance",
+        "definition": "Ability to continue operating despite failures—like the internet rerouting around broken links.",
+        "unit": 4
+    },
+    {
+        "name": "Hardware",
+        "definition": "Physical components of computers, like monitors or keyboards—like the body of a car versus its software.",
+        "unit": 4
+    },
+    {
+        "name": "HTTP (Hypertext Transfer Protocol)",
+        "definition": "Rules for transferring web pages—like the language browsers use to request sites.",
+        "unit": 4
+    },
+    {
+        "name": "HTTPS (HTTP Secure)",
+        "definition": "Encrypted version of HTTP for secure communication—like sending mail in a locked box.",
+        "unit": 4
+    },
+    {
+        "name": "Input",
+        "definition": "Data entered into a system, like keyboard presses—like fuel into a car engine.",
+        "unit": 4
+    },
+    {
+        "name": "Input/Output (I/O)",
+        "definition": "Mechanisms for receiving and sending data—like ears and mouth for human communication.",
+        "unit": 4
+    },
+    {
+        "name": "Internet",
+        "definition": "A global network of networks using standard protocols—like highways connecting cities worldwide.",
+        "unit": 4
+    },
+    {
+        "name": "IP Address",
+        "definition": "A unique identifier for network devices—like a home address for mail delivery.",
+        "unit": 4
+    },
+    {
+        "name": "Latency",
+        "definition": "Delay in data transmission—like the time for a letter to travel by post.",
+        "unit": 4
+    },
+    {
+        "name": "Network",
+        "definition": "Connected devices exchanging data—like friends linked on social media.",
+        "unit": 4
+    },
+    {
+        "name": "Operating System (OS)",
+        "definition": "Software managing hardware and applications—like Windows orchestrating computer resources.",
+        "unit": 4
+    },
+    {
+        "name": "Output",
+        "definition": "Results produced by a system, like screen display—like exhaust from a car engine.",
+        "unit": 4
+    },
+    {
+        "name": "Packet",
+        "definition": "A unit of data transmitted over networks—like envelopes carrying parts of a letter.",
+        "unit": 4
+    },
+    {
+        "name": "Packet Switching",
+        "definition": "Breaking data into packets sent independently—like shipping package parts via different routes.",
+        "unit": 4
+    },
+    {
+        "name": "Parallel Computing",
+        "definition": "Simultaneous processing using multiple processors—like a team dividing work.",
+        "unit": 4
+    },
+    {
+        "name": "Processing",
+        "definition": "Manipulating data via CPU instructions—like a blender mixing ingredients.",
+        "unit": 4
+    },
+    {
+        "name": "Protocol",
+        "definition": "Rules governing data communication—like etiquette in a conversation.",
+        "unit": 4
+    },
+    {
+        "name": "Redundancy",
+        "definition": "Duplicate systems for reliability—like backup generators in hospitals.",
+        "unit": 4
+    },
+    {
+        "name": "Router",
+        "definition": "Device directing data between networks—like a traffic cop at intersections.",
+        "unit": 4
+    },
+    {
+        "name": "Scalability",
+        "definition": "Ability to handle growth by adding resources—like expanding a business with more staff.",
+        "unit": 4
+    },
+    {
+        "name": "Sequential Computing",
+        "definition": "Executing tasks one after another—like reading a book page by page.",
+        "unit": 4
+    },
+    {
+        "name": "Software",
+        "definition": "Instructions telling hardware what to do—like apps on a phone.",
+        "unit": 4
+    },
+    {
+        "name": "Speedup",
+        "definition": "Performance gain from parallel processing—like four workers finishing faster than one.",
+        "unit": 4
+    },
+    {
+        "name": "Storage",
+        "definition": "Retaining data long-term, like hard drives—like a filing cabinet for documents.",
+        "unit": 4
+    },
+    {
+        "name": "TCP (Transmission Control Protocol)",
+        "definition": "Protocol ensuring reliable data delivery—like registered mail with tracking.",
+        "unit": 4
+    },
+    {
+        "name": "UDP (User Datagram Protocol)",
+        "definition": "Fast protocol without delivery guarantees—like sending postcards without confirmation.",
+        "unit": 4
+    },
+    {
+        "name": "Virtual Machines",
+        "definition": "Software simulating hardware for running multiple OS—like partitions in a building.",
+        "unit": 4
+    },
+    {
+        "name": "von Neumann Architecture",
+        "definition": "Computer design with shared memory for data and instructions—like a desk holding both papers and tools.",
+        "unit": 4
+    },
+    {
+        "name": "World Wide Web",
+        "definition": "System of linked hypertext documents accessed via the internet—like a vast library of interconnected books.",
+        "unit": 4
+    },
+    {
+        "name": "Accessibility",
+        "definition": "Designing tech usable by all, including those with disabilities—like voice-to-text for mobility impaired users.",
+        "unit": 5
+    },
+    {
+        "name": "Accountability",
+        "definition": "Holding creators responsible for AI impacts—like companies addressing biases in hiring algorithms.",
+        "unit": 5
+    },
+    {
+        "name": "Algorithmic Bias",
+        "definition": "Unfair outcomes from biased data or design—like facial recognition failing on certain ethnicities.",
+        "unit": 5
+    },
+    {
+        "name": "Anonymity",
+        "definition": "Using systems without identity revelation, protecting privacy—like anonymous posting on forums.",
+        "unit": 5
+    },
+    {
+        "name": "Authentication",
+        "definition": "Verifying user identity, like passwords—like showing ID at a bank.",
+        "unit": 5
+    },
+    {
+        "name": "Authorization",
+        "definition": "Granting permissions after authentication—like access levels in a company building.",
+        "unit": 5
+    },
+    {
+        "name": "Automation Impact on Jobs",
+        "definition": "How tech changes employment, creating and eliminating roles—like robots in manufacturing displacing workers.",
+        "unit": 5
+    },
+    {
+        "name": "CCPA (California Consumer Privacy Act)",
+        "definition": "Law allowing data control, like opting out of sales—like rights to erase personal info from companies.",
+        "unit": 5
+    },
+    {
+        "name": "Citizen Science",
+        "definition": "Public participation in research via tech—like classifying galaxies on Zooniverse.",
+        "unit": 5
+    },
+    {
+        "name": "Computing Bias",
+        "definition": "Systems amplifying societal inequalities—like search results showing gender stereotypes.",
+        "unit": 5
+    },
+    {
+        "name": "Computing Innovation",
+        "definition": "Tech with integral computing changing lives—like ride-sharing apps transforming transportation.",
+        "unit": 5
+    },
+    {
+        "name": "Cookie",
+        "definition": "Stored data tracking user activity—like remembering shopping cart items across visits.",
+        "unit": 5
+    },
+    {
+        "name": "Copyright",
+        "definition": "Protection for creators' works—like artists controlling song distribution.",
+        "unit": 5
+    },
+    {
+        "name": "Creative Commons",
+        "definition": "Licenses allowing specified sharing—like photos free for non-commercial use.",
+        "unit": 5
+    },
+    {
+        "name": "Crowdsourcing",
+        "definition": "Gathering contributions from many online—like Wikipedia articles edited by users.",
+        "unit": 5
+    },
+    {
+        "name": "Cybersecurity",
+        "definition": "Protecting systems from attacks—like firewalls blocking unauthorized access.",
+        "unit": 5
+    },
+    {
+        "name": "Data Bias",
+        "definition": "Skewed data leading to unfair results—like training AI on unbalanced demographics.",
+        "unit": 5
+    },
+    {
+        "name": "Data Privacy",
+        "definition": "Controlling personal data usage—like settings preventing app tracking.",
+        "unit": 5
+    },
+    {
+        "name": "DDoS (Distributed Denial of Service)",
+        "definition": "Flooding systems to disrupt service—like overwhelming a phone line with calls.",
+        "unit": 5
+    },
+    {
+        "name": "Digital Citizenship",
+        "definition": "Responsible online behavior—like respecting others in social media comments.",
+        "unit": 5
+    },
+    {
+        "name": "Digital Divide",
+        "definition": "Access gaps to technology—like rural areas lacking high-speed internet.",
+        "unit": 5
+    },
+    {
+        "name": "Digital Footprint",
+        "definition": "Trail of online data—like posts and searches accumulated over time.",
+        "unit": 5
+    },
+    {
+        "name": "Digital Rights",
+        "definition": "Freedoms in digital spaces, like expression—like protesting online censorship.",
+        "unit": 5
+    },
+    {
+        "name": "DMCA (Digital Millennium Copyright Act)",
+        "definition": "Law against copyright circumvention—like takedown notices for pirated content.",
+        "unit": 5
+    },
+    {
+        "name": "Encryption",
+        "definition": "Scrambling data for security—like locking messages with a key.",
+        "unit": 5
+    },
+    {
+        "name": "Ethics in AI",
+        "definition": "Moral considerations in AI development—like ensuring autonomous cars prioritize safety.",
+        "unit": 5
+    },
+    {
+        "name": "Fair Use",
+        "definition": "Limited copyrighted material use for purposes like education—like quoting books in reviews.",
+        "unit": 5
+    },
+    {
+        "name": "Fairness",
+        "definition": "Equitable AI outcomes across groups—like unbiased loan approval algorithms.",
+        "unit": 5
+    },
+    {
+        "name": "GDPR (General Data Protection Regulation)",
+        "definition": "EU law for data protection—like requiring consent for cookie usage.",
+        "unit": 5
+    },
+    {
+        "name": "Globalization through Computing",
+        "definition": "Tech connecting world cultures and economies—like e-commerce enabling international trade.",
+        "unit": 5
+    },
+    {
+        "name": "Intellectual Property",
+        "definition": "Legal protection for ideas and creations—like patents for inventions.",
+        "unit": 5
+    },
+    {
+        "name": "Keylogging",
+        "definition": "Recording keystrokes to steal info—like spyware capturing passwords.",
+        "unit": 5
+    },
+    {
+        "name": "Malware",
+        "definition": "Harmful software disrupting systems—like viruses infecting files.",
+        "unit": 5
+    },
+    {
+        "name": "Microtasking",
+        "definition": "Dividing work into small online tasks—like labeling images for AI training.",
+        "unit": 5
+    },
+    {
+        "name": "Multifactor Authentication (MFA)",
+        "definition": "Multiple verification steps—like password plus fingerprint.",
+        "unit": 5
+    },
+    {
+        "name": "Net Neutrality",
+        "definition": "Equal treatment of internet data—like no fast lanes for certain sites.",
+        "unit": 5
+    },
+    {
+        "name": "Open Access",
+        "definition": "Free online research availability—like journals without paywalls.",
+        "unit": 5
+    },
+    {
+        "name": "Open Source",
+        "definition": "Freely modifiable software—like Linux allowing community contributions.",
+        "unit": 5
+    },
+    {
+        "name": "Phishing",
+        "definition": "Deceptive attempts to obtain sensitive info—like fake emails mimicking banks.",
+        "unit": 5
+    },
+    {
+        "name": "PII (Personally Identifiable Information)",
+        "definition": "Data identifying individuals—like social security numbers.",
+        "unit": 5
+    },
+    {
+        "name": "Privacy",
+        "definition": "Protection of personal data from misuse—like incognito browsing.",
+        "unit": 5
+    },
+    {
+        "name": "Public Key Encryption",
+        "definition": "Using public/private keys for secure communication—like sending locked boxes anyone can lock but only owner unlocks.",
+        "unit": 5
+    },
+    {
+        "name": "Rogue Access Point",
+        "definition": "Fake Wi-Fi hotspots stealing data—like evil twin attacks in public places.",
+        "unit": 5
+    },
+    {
+        "name": "Social Engineering",
+        "definition": "Manipulating people for information—like pretexting as IT support to get passwords.",
+        "unit": 5
+    },
+    {
+        "name": "Surveillance",
+        "definition": "Monitoring activities for data collection—like CCTV in stores tracking shoppers.",
+        "unit": 5
+    },
+    {
+        "name": "Symmetric Encryption",
+        "definition": "Single key for encrypting/decrypting—like a shared secret password.",
+        "unit": 5
+    },
+    {
+        "name": "Transparency",
+        "definition": "Clear AI decision processes—like explainable models showing why a loan was denied.",
+        "unit": 5
+    },
+    {
+        "name": "Virus",
+        "definition": "Self-replicating malware spreading between systems—like a cold passing between people.",
+        "unit": 5
+    },
+   {
+"name": "Round-off Error",
+"definition": "An error occurring when a number is too precise to represent exactly, leading to approximation—like rounding 1/3 to 0.333 in calculations.",
+"unit": 2
+},
+{
+"name": "Computational Artifact",
+"definition": "An object created using computational tools, such as a program, image, or video—like a digitally edited photo shared online.",
+"unit": 1
+},
+{
+"name": "Cryptography",
+"definition": "The art of writing or solving codes to secure information—like designing locks and keys for digital messages.",
+"unit": 5
+},
+{
+"name": "Pixel",
+"definition": "The smallest controllable element of a picture represented on a screen—like a single dot in a pointillist painting.",
+"unit": 2
+},
+{
+"name": "ASCII",
+"definition": "A character encoding standard for text using 7 or 8 bits per character—like a basic alphabet for computers to understand letters and symbols.",
+"unit": 2
+},
+{
+"name": "Unicode",
+"definition": "An international encoding standard for text supporting diverse languages—like an expanded dictionary covering global scripts beyond basic English.",
+"unit": 2
+},
+{
+"name": "RAM (Random Access Memory)",
+"definition": "Volatile memory used for temporary storage of data in active use—like a workbench holding tools currently needed for a project.",
+"unit": 4
+},
+{
+"name": "Secondary Memory",
+"definition": "Non-volatile storage for long-term data retention, such as hard drives—like a library archiving books for future reference.",
+"unit": 4
+},
+{
+"name": "URL (Uniform Resource Locator)",
+"definition": "An address identifying a resource on the web—like a specific coordinate on a map pointing to a location.",
+"unit": 4
+},
+{
+"name": "VPN (Virtual Private Network)",
+"definition": "A technology creating a secure connection over a less secure network—like a shielded cable protecting data in a public wire.",
+"unit": 5
+},
+{
+"name": "Sequential Programming",
+"definition": "A programming paradigm where statements are executed in linear order—like reading a book from beginning to end without jumping pages.",
+"unit": 3
+},
+{
+"name": "Path",
+"definition": "The route data takes through network connections from source to destination—like a pathway through a maze linking start to finish.",
+"unit": 4
+},
+{
+"name": "ISP (Internet Service Provider)",
+"definition": "A company that provides users with access to the internet—like a gateway operator controlling entry to a highway system.",
+"unit": 4
+},
+{
+"name": "Decryption",
+"definition": "The process of converting encoded data back to its original form using a key—like opening a locked safe with the correct combination.",
+"unit": 5
+},
+{
+"name": "Bug",
+"definition": "An unintended error or flaw in software causing malfunctions—like a loose screw disrupting a machine's operation.",
+"unit": 1
+},
+{
+"name": "RGB",
+"definition": "A color model combining red, green, and blue light to produce a spectrum of colors—like blending primary colors in a paint set for art.",
+"unit": 2
+},
+{
+"name": "Certificate",
+"definition": "A digital credential verifying the authenticity of a website or entity—like a passport confirming identity for international travel.",
+"unit": 5
+},
+{
+"name": "DNS Spoofing",
+"definition": "A cyber attack where false DNS responses redirect users to malicious sites—like tampering with signposts to lead travelers astray.",
+"unit": 5
+}
+]

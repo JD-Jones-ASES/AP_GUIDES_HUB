@@ -1,0 +1,517 @@
+[
+  {
+    "name": "Atomic Theory",
+    "definition": "The foundational concept that matter is composed of indivisible atoms, evolved from Dalton's model to include subatomic particles, explaining chemical behavior like how atoms combine in fixed ratios to form compounds, revolutionized by discoveries such as Rutherford's gold foil experiment revealing the nucleus.",
+    "unit": 1
+  },
+  {
+    "name": "Subatomic Particles",
+    "definition": "Protons, neutrons, and electrons that make up atoms—protons (positive charge, mass ~1 amu) and neutrons (neutral, mass ~1 amu) in the nucleus, electrons (negative, negligible mass) in orbitals—determining atomic number (protons) and mass number (protons + neutrons), like carbon-12 with 6 protons and 6 neutrons.",
+    "unit": 1
+  },
+  {
+    "name": "Atomic Mass",
+    "definition": "The weighted average mass of an element's isotopes in atomic mass units (amu), accounting for natural abundances, such as chlorine's 35.45 amu from 75% Cl-35 and 25% Cl-37, used in mole calculations for stoichiometry.",
+    "unit": 1
+  },
+  {
+    "name": "Mole Concept",
+    "definition": "A unit representing 6.022 × 10²³ particles (Avogadro's number), linking microscopic atoms to macroscopic masses, like 1 mole of carbon weighing 12 grams, essential for converting between mass, particles, and volume in reactions.",
+    "unit": 1
+  },
+  {
+    "name": "Empirical Formula",
+    "definition": "The simplest whole-number ratio of atoms in a compound, determined from mass percentages, such as CH₂O for a sugar with 40% C, 6.7% H, 53.3% O, contrasting with molecular formulas like C₆H₁₂O₆ for glucose.",
+    "unit": 1
+  },
+  {
+    "name": "Periodic Trends",
+    "definition": "Patterns in the periodic table like atomic radius decreasing across periods due to increasing nuclear charge, or ionization energy increasing as electrons are harder to remove, exemplified by sodium's low ionization energy compared to chlorine's high value.",
+    "unit": 1
+  },
+  {
+    "name": "Electronegativity",
+    "definition": "A measure of an atom's ability to attract electrons in a bond, on Pauling scale from 0.7 (francium) to 4.0 (fluorine), influencing bond polarity like in HF where fluorine's high electronegativity creates a partial negative charge.",
+    "unit": 1
+  },
+  {
+    "name": "Photoelectron Spectroscopy (PES)",
+    "definition": "Technique measuring electron binding energies to reveal orbital structures, showing peaks for electron shells, like a PES spectrum for sodium with peaks at different energies corresponding to 1s, 2s/2p, and 3s orbitals.",
+    "unit": 1
+  },
+  {
+    "name": "Quantum Mechanical Model",
+    "definition": "Describes electrons in orbitals with probability clouds, using quantum numbers (n, l, m_l, m_s) to define energy levels, subshells, and spin, explaining why helium has two electrons in 1s with opposite spins.",
+    "unit": 1
+  },
+  {
+    "name": "Electron Configuration",
+    "definition": "Arrangement of electrons in orbitals following Aufbau, Pauli, and Hund's rules, like oxygen's 1s²2s²2p⁴ with unpaired electrons in p orbitals, predicting reactivity and magnetic properties.",
+    "unit": 1
+  },
+  {
+    "name": "Coulomb's Law",
+    "definition": "Force between charges F = k(q₁q₂)/r², applied to atomic structure where nuclear attraction holds electrons, explaining why smaller atoms have higher ionization energies due to reduced r.",
+    "unit": 1
+  },
+  {
+    "name": "Chemical Bonding",
+    "definition": "Forces holding atoms together, including ionic (electron transfer), covalent (sharing), and metallic, like NaCl's ionic bond from sodium's low ionization energy and chlorine's high electron affinity.",
+    "unit": 2
+  },
+  {
+    "name": "Lewis Structures",
+    "definition": "Diagrams showing valence electrons as dots or lines for bonds, following octet rule, like CO₂ with double bonds O=C=O, used to predict molecular geometry and polarity.",
+    "unit": 2
+  },
+  {
+    "name": "VSEPR Theory",
+    "definition": "Valence Shell Electron Pair Repulsion model predicting molecular shapes by minimizing electron pair repulsions, such as tetrahedral for CH₄ (AX₄) or bent for H₂O (AX₂E₂).",
+    "unit": 2
+  },
+  {
+    "name": "Hybridization",
+    "definition": "Mixing atomic orbitals to form hybrid orbitals for bonding, like sp³ in methane for four sigma bonds, explaining geometries inconsistent with pure s/p orbitals.",
+    "unit": 2
+  },
+  {
+    "name": "Resonance Structures",
+    "definition": "Multiple Lewis forms for a molecule where actual structure is a hybrid, like ozone O₃ with two equivalent bonds, delocalizing electrons for stability.",
+    "unit": 2
+  },
+  {
+    "name": "Formal Charge",
+    "definition": "Charge on atom in Lewis structure = valence e⁻ - (nonbonding e⁻ + ½ bonding e⁻), used to determine best structure, like in N₂O where central N has +1 in the preferred form.",
+    "unit": 2
+  },
+  {
+    "name": "Bond Polarity",
+    "definition": "Unequal electron sharing due to electronegativity difference, creating dipoles like in HCl, contributing to molecular polarity if not symmetric.",
+    "unit": 2
+  },
+  {
+    "name": "Ionic Compounds",
+    "definition": "Formed by metal-nonmetal electron transfer, held by electrostatic forces in lattice, like NaCl's high melting point from strong attractions, properties include conductivity when molten.",
+    "unit": 2
+  },
+  {
+    "name": "Covalent Network Solids",
+    "definition": "Extended lattices of covalent bonds, like diamond's carbon tetrahedra, explaining hardness and high melting points due to breaking many bonds.",
+    "unit": 2
+  },
+  {
+    "name": "Molecular Solids",
+    "definition": "Discrete molecules held by intermolecular forces, like I₂ with low melting point from weak London dispersion forces.",
+    "unit": 2
+  },
+  {
+    "name": "Sigma and Pi Bonds",
+    "definition": "Sigma from head-on orbital overlap, pi from side-on p orbitals, like ethene's double bond (one sigma, one pi), affecting bond strength and rotation.",
+    "unit": 2
+  },
+  {
+    "name": "Intermolecular Forces (IMFs)",
+    "definition": "Attractions between molecules: London dispersion (all), dipole-dipole (polar), hydrogen bonding (with N/O/F), explaining boiling points like water's high due to H-bonding.",
+    "unit": 3
+  },
+  {
+    "name": "London Dispersion Forces",
+    "definition": "Temporary dipoles from electron fluctuations, stronger in larger molecules, like higher boiling points in alkanes with more carbons.",
+    "unit": 3
+  },
+  {
+    "name": "Dipole-Dipole Forces",
+    "definition": "Attractions between permanent dipoles in polar molecules, like HCl's higher boiling point than nonpolar F₂ despite similar size.",
+    "unit": 3
+  },
+  {
+    "name": "Hydrogen Bonding",
+    "definition": "Strong dipole-dipole with H bonded to N/O/F, causing anomalies like water's high surface tension and ice floating.",
+    "unit": 3
+  },
+  {
+    "name": "Phase Diagrams",
+    "definition": "Graphs showing states of matter vs. temperature/pressure, with triple point where all phases coexist, like CO₂'s sublimation at room pressure.",
+    "unit": 3
+  },
+  {
+    "name": "Vapor Pressure",
+    "definition": "Pressure of gas in equilibrium with liquid, increasing with temperature, explaining boiling when equals atmospheric pressure.",
+    "unit": 3
+  },
+  {
+    "name": "Solutions",
+    "definition": "Homogeneous mixtures, solubility depending on IMFs like 'like dissolves like,' such as polar water dissolving ionic NaCl.",
+    "unit": 3
+  },
+  {
+    "name": "Colligative Properties",
+    "definition": "Depend on particle number not type: vapor pressure lowering, boiling point elevation, freezing point depression, osmotic pressure, used in antifreeze with ethylene glycol.",
+    "unit": 3
+  },
+  {
+    "name": "Chromatography",
+    "definition": "Separation technique based on differential affinities, like paper chromatography separating inks by polarity.",
+    "unit": 3
+  },
+  {
+    "name": "Ideal Gas Law",
+    "definition": "PV = nRT relating pressure, volume, moles, temperature for gases, assuming no IMFs, used for calculations like density = PM/RT.",
+    "unit": 3
+  },
+  {
+    "name": "Kinetic Molecular Theory",
+    "definition": "Explains gas behavior: particles in random motion, no forces, elastic collisions, average KE proportional to T, deriving laws like Boyle's.",
+    "unit": 3
+  },
+  {
+    "name": "Chemical Reactions",
+    "definition": "Processes rearranging atoms, classified as synthesis (A+B→AB), decomposition (AB→A+B), single replacement (A+BC→AC+B), double replacement (AB+CD→AD+CB), combustion (hydrocarbon + O₂ → CO₂ + H₂O).",
+    "unit": 4
+  },
+  {
+    "name": "Balancing Equations",
+    "definition": "Adjusting coefficients to equal atoms on both sides, conserving mass, like 2H₂ + O₂ → 2H₂O.",
+    "unit": 4
+  },
+  {
+    "name": "Stoichiometry",
+    "definition": "Quantitative relationships in reactions using mole ratios, like calculating grams of product from reactants via molar mass conversions.",
+    "unit": 4
+  },
+  {
+    "name": "Limiting Reactant",
+    "definition": "Reactant consumed first, determining product amount, like in 2H₂ + O₂ → 2H₂O, if 3 mol H₂ and 1 mol O₂, O₂ limits to 2 mol H₂O.",
+    "unit": 4
+  },
+  {
+    "name": "Percent Yield",
+    "definition": "(Actual yield / theoretical yield) × 100%, measuring efficiency, often less than 100% due to side reactions or losses.",
+    "unit": 4
+  },
+  {
+    "name": "Titration",
+    "definition": "Technique adding titrant to analyte until equivalence, using indicators, like acid-base with phenolphthalein turning pink at pH ~8-10.",
+    "unit": 4
+  },
+  {
+    "name": "Redox Reactions",
+    "definition": "Involving electron transfer, oxidation (loss) and reduction (gain), like Zn + Cu²⁺ → Zn²⁺ + Cu, with half-reactions balancing charge.",
+    "unit": 4
+  },
+  {
+    "name": "Oxidation Numbers",
+    "definition": "Assigned charges to track electrons, like +4 for C in CO₂, used to identify oxidized/reduced species.",
+    "unit": 4
+  },
+  {
+    "name": "Spectrophotometry",
+    "definition": "Measures light absorption to determine concentration via Beer's Law A = εlc, like finding [FeSCN²⁺] from red color intensity.",
+    "unit": 4
+  },
+  {
+    "name": "Gravimetric Analysis",
+    "definition": "Determines quantity by precipitate mass, like Cl⁻ by AgCl formation and weighing.",
+    "unit": 4
+  },
+  {
+    "name": "Reaction Rate",
+    "definition": "Change in concentration over time, like -Δ[reactant]/Δt or +Δ[product]/Δt, influenced by concentration, temperature, catalysts.",
+    "unit": 5
+  },
+  {
+    "name": "Rate Law",
+    "definition": "Rate = k [A]^m [B]^n, with orders from experiment, like zero-order constant rate independent of concentration.",
+    "unit": 5
+  },
+  {
+    "name": "Integrated Rate Laws",
+    "definition": "Equations for concentration vs. time: zero-order [A] = -kt + [A]₀, first ln[A] = -kt + ln[A]₀, second 1/[A] = kt + 1/[A]₀, used for half-life calculations.",
+    "unit": 5
+  },
+  {
+    "name": "Half-Life",
+    "definition": "Time for half reactant to consume, constant for first-order like radioactive decay t_{1/2} = 0.693/k.",
+    "unit": 5
+  },
+  {
+    "name": "Collision Theory",
+    "definition": "Reactions occur from effective collisions with proper orientation and energy > E_a, explaining rate increase with temperature.",
+    "unit": 5
+  },
+  {
+    "name": "Activation Energy (E_a)",
+    "definition": "Energy barrier for reaction, lower with catalysts, determined from Arrhenius equation k = Ae^{-E_a/RT}.",
+    "unit": 5
+  },
+  {
+    "name": "Catalysts",
+    "definition": "Substances speeding reactions by lowering E_a via alternative path, unchanged, like enzymes in biology or Pt in catalytic converters.",
+    "unit": 5
+  },
+  {
+    "name": "Reaction Mechanisms",
+    "definition": "Step-by-step elementary reactions, rate law from slowest (rate-determining) step, intermediates produced then consumed.",
+    "unit": 5
+  },
+  {
+    "name": "Elementary Steps",
+    "definition": "Single-step processes with molecularity (unimolecular, bimolecular), rate law directly from coefficients.",
+    "unit": 5
+  },
+  {
+    "name": "Energy",
+    "definition": "Capacity for work, in chemistry as kinetic (motion) or potential (stored), conserved but transferred, like in exothermic reactions releasing heat.",
+    "unit": 6
+  },
+  {
+    "name": "Enthalpy (ΔH)",
+    "definition": "Heat at constant pressure, negative for exothermic, calculated from bond energies or calorimetry, like combustion ΔH < 0.",
+    "unit": 6
+  },
+  {
+    "name": "Calorimetry",
+    "definition": "Measures heat changes q = mcΔT, like bomb calorimeter for constant volume ΔE, or coffee-cup for ΔH.",
+    "unit": 6
+  },
+  {
+    "name": "Hess's Law",
+    "definition": "ΔH total independent of path, sum of steps, like calculating diamond-graphite conversion from combustion enthalpies.",
+    "unit": 6
+  },
+  {
+    "name": "Bond Energy",
+    "definition": "Energy to break bond, average for gas phase, ΔH_rxn = Σ bonds broken - Σ formed, explaining why endothermic if more energy to break.",
+    "unit": 6
+  },
+  {
+    "name": "Standard Enthalpy of Formation (ΔH_f°)",
+    "definition": "ΔH for forming 1 mol compound from elements at standard state, used as ΔH_rxn = Σ ΔH_f° products - Σ reactants.",
+    "unit": 6
+  },
+  {
+    "name": "Internal Energy (ΔE)",
+    "definition": "Total energy, ΔE = q + w, at constant volume q_v = ΔE, related to ΔH = ΔE + PΔV for gases.",
+    "unit": 6
+  },
+  {
+    "name": "Thermodynamic System",
+    "definition": "Portion studied (open, closed, isolated), like reaction in flask as closed system exchanging energy but not matter.",
+    "unit": 6
+  },
+  {
+    "name": "Equilibrium",
+    "definition": "Dynamic state where forward = reverse rates, concentrations constant, like N₂ + 3H₂ ⇌ 2NH₃ at Haber process conditions.",
+    "unit": 7
+  },
+  {
+    "name": "Equilibrium Constant (K)",
+    "definition": "K = [products]/[reactants] at equilibrium, >1 favors products, temperature-dependent, like K_c for concentrations or K_p for gases.",
+    "unit": 7
+  },
+  {
+    "name": "Reaction Quotient (Q)",
+    "definition": "Q = [products]/[reactants] at any time, compared to K: Q < K shifts right, Q > K shifts left.",
+    "unit": 7
+  },
+  {
+    "name": "Le Chatelier's Principle",
+    "definition": "System shifts to counteract stress: concentration (add/remove), temperature (endo/exo), pressure (gas moles), like adding reactant shifts right.",
+    "unit": 7
+  },
+  {
+    "name": "Solubility Product (K_sp)",
+    "definition": "K_sp = [ions] for saturated solutions, like AgCl K_sp = [Ag⁺][Cl⁻], predicting precipitation if Q > K_sp.",
+    "unit": 7
+  },
+  {
+    "name": "Common Ion Effect",
+    "definition": "Adding common ion decreases solubility via Le Chatelier, like NaCl reducing AgCl dissolution.",
+    "unit": 7
+  },
+  {
+    "name": "Acid-Base Equilibrium",
+    "definition": "For weak acids HA ⇌ H⁺ + A⁻, K_a = [H⁺][A⁻]/[HA], determining strength and pH.",
+    "unit": 7
+  },
+  {
+    "name": "Free Energy and Equilibrium",
+    "definition": "ΔG = -RT ln K, K >1 if ΔG <0, linking spontaneity to equilibrium position.",
+    "unit": 7
+  },
+  {
+    "name": "Acids and Bases",
+    "definition": "Arrhenius: H⁺ producers (acids), OH⁻ (bases); Bronsted-Lowry: proton donors/acceptors; Lewis: electron pair acceptors/donors, like BF₃ accepting from NH₃.",
+    "unit": 8
+  },
+  {
+    "name": "pH",
+    "definition": "pH = -log[H⁺], scale 0-14, <7 acidic, >7 basic, like vinegar pH ~2.5 from acetic acid.",
+    "unit": 8
+  },
+  {
+    "name": "K_a and K_b",
+    "definition": "Acid dissociation constant K_a, base K_b = K_w / K_a for conjugate, stronger acids higher K_a.",
+    "unit": 8
+  },
+  {
+    "name": "Buffers",
+    "definition": "Solutions resisting pH change, weak acid + conjugate base, like acetic acid/acetate, capacity max at pK_a.",
+    "unit": 8
+  },
+  {
+    "name": "Henderson-Hasselbalch Equation",
+    "definition": "pH = pK_a + log([base]/[acid]), for buffer calculations.",
+    "unit": 8
+  },
+  {
+    "name": "Titration Curves",
+    "definition": "pH vs. titrant volume, strong-strong flat at equivalence, weak-strong buffer region, indicator chosen for pK_a near equivalence pH.",
+    "unit": 8
+  },
+  {
+    "name": "Hydrolysis",
+    "definition": "Salt ions reacting with water, like NH₄⁺ making acidic solution from NH₃ + H⁺.",
+    "unit": 8
+  },
+  {
+    "name": "Polyprotic Acids",
+    "definition": "Donate multiple H⁺, like H₂SO₄, K_a1 > K_a2, titration with multiple equivalence points.",
+    "unit": 8
+  },
+  {
+    "name": "Entropy (S)",
+    "definition": "Measure of disorder, ΔS >0 for increasing randomness like gas expansion, second law: universe ΔS >0 for spontaneous.",
+    "unit": 9
+  },
+  {
+    "name": "Gibbs Free Energy (ΔG)",
+    "definition": "ΔG = ΔH - TΔS, <0 spontaneous, =0 at equilibrium, predicting reaction direction.",
+    "unit": 9
+  },
+  {
+    "name": "Standard Free Energy (ΔG°)",
+    "definition": "At standard conditions, ΔG° = Σ ΔG_f° products - reactants, related to K.",
+    "unit": 9
+  },
+  {
+    "name": "Electrochemistry",
+    "definition": "Study of redox with electricity, voltaic cells spontaneous (ΔG <0), electrolytic nonspontaneous.",
+    "unit": 9
+  },
+  {
+    "name": "Standard Reduction Potential (E°)",
+    "definition": "Tendency to gain electrons, E°_cell = E°_cathode - E°_anode, >0 spontaneous.",
+    "unit": 9
+  },
+  {
+    "name": "Nernst Equation",
+    "definition": "E = E° - (RT/nF) ln Q, for nonstandard conditions, showing concentration effects.",
+    "unit": 9
+  },
+  {
+    "name": "Faraday's Laws",
+    "definition": "Mass deposited proportional to charge passed, 1 Faraday (96,485 C) for 1 mol electrons.",
+    "unit": 9
+  },
+  {
+    "name": "Galvanic Cell",
+    "definition": "Spontaneous redox, like Zn-Cu cell, anode Zn oxidized, cathode Cu²⁺ reduced, salt bridge maintains charge.",
+    "unit": 9
+  },
+  {
+    "name": "Electrolytic Cell",
+    "definition": "Uses electricity for nonspontaneous, like water electrolysis to H₂ and O₂.",
+    "unit": 9
+  },
+  {
+"name": "Isotopes",
+"definition": "Variants of an element differing in neutron number but sharing the same proton count, resulting in distinct mass numbers, such as carbon-12 and carbon-13, crucial for calculating average atomic mass based on natural abundances.",
+"unit": 1
+},
+{
+"name": "Valence Electrons",
+"definition": "Electrons in an atom's outermost shell that participate in bonding and dictate chemical reactivity, for instance, group 17 elements have seven valence electrons leading to high reactivity as halogens.",
+"unit": 1
+},
+{
+"name": "Electron Affinity",
+"definition": "The energy released or absorbed when an electron is added to a neutral gaseous atom, typically exothermic for nonmetals, contributing to periodic trends where it generally increases across a period.",
+"unit": 1
+},
+{
+"name": "Shielding Effect",
+"definition": "The phenomenon where inner electrons reduce the effective nuclear charge felt by outer electrons, causing atomic radius to increase down a group and influencing ionization energies.",
+"unit": 1
+},
+{
+"name": "Lattice Energy",
+"definition": "The enthalpy change when one mole of gaseous ions forms a solid ionic compound, magnitude depending on ion charges and sizes, higher for smaller, highly charged ions like in Al2O3 versus NaCl.",
+"unit": 2
+},
+{
+"name": "Molecular Polarity",
+"definition": "The net dipole moment of a molecule arising from polar bonds and asymmetric geometry, such as in ammonia (NH3) with a lone pair creating a polar molecule, impacting solubility and boiling points.",
+"unit": 2
+},
+{
+"name": "Metallic Bonding",
+"definition": "The attraction between positive metal ions and a sea of delocalized electrons, accounting for properties like electrical conductivity and malleability, as seen in iron or gold.",
+"unit": 2
+},
+{
+"name": "Dalton's Law of Partial Pressures",
+"definition": "States that in a mixture of non-reacting gases, the total pressure equals the sum of each gas's partial pressures, useful for calculating gas compositions, like in collecting gases over water subtracting water vapor pressure.",
+"unit": 3
+},
+{
+"name": "Graham's Law of Effusion",
+"definition": "The effusion rate of a gas is inversely proportional to the square root of its molar mass, allowing separation of isotopes like uranium-235 and -238 in gaseous diffusion.",
+"unit": 3
+},
+{
+"name": "Deviations from Ideal Gas Behavior",
+"definition": "Real gases deviate from PV = nRT at high pressures (due to volume of particles) and low temperatures (due to attractions), corrected by van der Waals equation (P + a(n/V)^2)(V - nb) = nRT.",
+"unit": 3
+},
+{
+"name": "Net Ionic Equation",
+"definition": "A simplified chemical equation showing only species undergoing change, excluding spectator ions, for example, in acid-base: H⁺ + OH⁻ → H₂O, aiding in understanding reaction mechanisms.",
+"unit": 4
+},
+{
+"name": "Spectator Ions",
+"definition": "Ions present in solution but not involved in the reaction, remaining unchanged, such as K⁺ and NO₃⁻ in the reaction between AgNO₃ and KCl forming AgCl precipitate.",
+"unit": 4
+},
+{
+"name": "Arrhenius Equation",
+"definition": "Mathematical relation k = A e^{-Ea/RT} describing how rate constant k varies with temperature T, where A is the frequency factor, used to determine activation energy from experimental data.",
+"unit": 5
+},
+{
+"name": "Specific Heat Capacity",
+"definition": "The heat required to raise the temperature of 1 gram of a substance by 1°C, varying by material, like 4.184 J/g°C for water, fundamental in calorimetry calculations q = mcΔT.",
+"unit": 6
+},
+{
+"name": "ICE Table",
+"definition": "A method using Initial, Change, and Equilibrium concentrations to solve for unknowns in equilibrium problems, often leading to quadratic equations, essential for calculating equilibrium compositions.",
+"unit": 7
+},
+{
+"name": "Ion Product of Water (K_w)",
+"definition": "The equilibrium constant for water's autoionization, K_w = [H₃O⁺][OH⁻] = 1.0 × 10^{-14} at 25°C, enabling relations like pH + pOH = 14 in aqueous solutions.",
+"unit": 8
+},
+{
+"name": "Conjugate Acid-Base Pair",
+"definition": "Two species differing by one proton, such as HCl (acid) and Cl⁻ (base), where the strength of one inversely relates to the other, key in understanding buffer systems.",
+"unit": 8
+},
+{
+"name": "Concentration Cell",
+"definition": "A type of galvanic cell where both half-cells have the same components but different concentrations, generating voltage based on the Nernst equation, used in sensors like pH electrodes.",
+"unit": 9
+}
+]

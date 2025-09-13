@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AP Guides Hub</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            /* Light theme */
+            --bg-gradient-start: #667eea;
+            --bg-gradient-end: #764ba2;
+            --bg-container: rgba(255, 255, 255, 0.95);
+            --bg-controls: #f8f9fa;
+            --bg-card: white;
+            --border-color: #e9ecef;
+            --text-primary: #2c3e50;
+            --text-secondary: #4a5568;
+            --text-muted: #6c757d;
+            --accent-color: #3498db;
+            --shadow-light: 0 4px 6px rgba(0, 0, 0, 0.1);
+            --shadow-heavy: 0 8px 15px rgba(0, 0, 0, 0.2);
+            --shadow-container: 0 20px 40px rgba(0, 0, 0, 0.1);
+            --header-overlay: rgba(255, 255, 255, 0.1);
+        }
+
+        [data-theme="dark"] {
+            /* Dark theme */
+            --bg-gradient-start: #1a1a2e;
+            --bg-gradient-end: #16213e;
+            --bg-container: rgba(30, 30, 46, 0.95);
+            --bg-controls: #2a2a3e;
+            --bg-card: #353548;
+            --border-color: #4a4a5e;
+            --text-primary: #e2e8f0;
+            --text-secondary: #cbd5e0;
+            --text-muted: #a0aec0;
+            --accent-color: #4facfe;
+            --shadow-light: 0 4px 6px rgba(0, 0, 0, 0.3);
+            --shadow-heavy: 0 8px 15px rgba(0, 0, 0, 0.4);
+            --shadow-container: 0 20px 40px rgba(0, 0, 0, 0.3);
+            --header-overlay: rgba(255, 255, 255, 0.05);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+            min-height: 100vh;
+            padding: 0;
+            color: var(--text-primary);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: var(--bg-container);
+            min-height: 100vh;
+            box-shadow: var(--shadow-container);
+            backdrop-filter: blur(10px);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+            color: white;
+            text-align: center;
+            padding: 60px 30px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: var(--header-overlay);
+            backdrop-filter: blur(5px);
+        }
+
+        .header-content {
+            position: relative;
+            z-index: 2;
+        }
+
+        .theme-toggle {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: var(--header-overlay);
+            color: white;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 25px;
+            padding: 10px 15px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+            z-index: 3;
+        }
+
+        .theme-toggle:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .header h1 {
+            font-size: 3.5rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            opacity: 0.95;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .intro-section {
+            padding: 40px 30px;
+            text-align: center;
+            background: var(--bg-controls);
+            transition: all 0.3s ease;
+        }
+
+        .intro-section h2 {
+            color: var(--text-primary);
+            font-size: 2rem;
+            margin-bottom: 15px;
+        }
+
+        .intro-section p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .guides-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            padding: 40px 30px;
+            background: var(--bg-container);
+            transition: all 0.3s ease;
+        }
+
+        .guide-card {
+            background: var(--bg-card);
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: var(--shadow-light);
+            border-left: 5px solid;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .guide-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(135deg, transparent 0%, rgba(52, 152, 219, 0.05) 100%);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .guide-card:hover::before {
+            opacity: 1;
+        }
+
+        .guide-card:hover {
+            transform: translateY(-8px);
+            box-shadow: var(--shadow-heavy);
+        }
+
+        .guide-icon {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            display: block;
+        }
+
+        .guide-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .guide-description {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            line-height: 1.5;
+            position: relative;
+            z-index: 1;
+        }
+
+        .guide-meta {
+            margin-top: 15px;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            position: relative;
+            z-index: 1;
+        }
+
+        .coming-soon {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .coming-soon:hover {
+            transform: none;
+            box-shadow: var(--shadow-light);
+        }
+
+        .coming-soon::after {
+            content: 'COMING SOON';
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: var(--text-muted);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.7rem;
+            font-weight: 600;
+        }
+
+        .enhanced-footer * {
+            text-align: center !important;
+        }
+
+        .footer {
+            background: var(--bg-gradient-start);
+            color: white;
+            text-align: center;
+            padding: 30px;
+            transition: all 0.3s ease;
+        }
+
+        .footer p {
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                padding: 40px 20px;
+            }
+
+            .header h1 {
+                font-size: 2.5rem;
+            }
+
+            .header p {
+                font-size: 1.1rem;
+            }
+
+            .theme-toggle {
+                position: static;
+                margin-top: 20px;
+            }
+
+            .guides-grid {
+                grid-template-columns: 1fr;
+                padding: 30px 20px;
+            }
+        }
+
+        /* Loading state */
+        .loading {
+            text-align: center;
+            padding: 40px 30px;
+            color: var(--text-muted);
+            background: var(--bg-container);
+            transition: all 0.3s ease;
+        }
+
+        .error {
+            text-align: center;
+            padding: 40px 30px;
+            color: #e74c3c;
+            background: var(--bg-container);
+            transition: all 0.3s ease;
+        }
+
+        .error h3 {
+            margin-bottom: 10px;
+        }
+
+        .error pre {
+            background: var(--bg-controls);
+            padding: 15px;
+            border-radius: 5px;
+            text-align: left;
+            overflow-x: auto;
+            margin-top: 15px;
+            font-size: 0.9rem;
+            color: var(--text-primary);
+        }
+
+        /* Smooth transitions for theme changes */
+        * {
+            transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+        }
+
+        /* Focus and Accessibility */
+        button:focus {
+            outline: 2px solid var(--accent-color);
+            outline-offset: 2px;
+        }
+
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Animation Classes */
+        .fade-in {
+            animation: fadeIn 0.3s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <button class="theme-toggle" onclick="toggleTheme()">
+                🌙 Dark Mode
+            </button>
+            <div class="header-content">
+                <h1>🎓 AP Guides Hub</h1>
+                <p>Your comprehensive study companion</p>
+            </div>
+        </div>
+
+        <div class="intro-section">
+            <h2>Master Your AP Exams</h2>
+            <p>Navigate through our curated study guides designed to help you excel in your Advanced Placement courses. Each guide features searchable terms and priority-focused learning to maximize your study efficiency.</p>
+        </div>
+
+        <div id="loadingState" class="loading">
+            Loading courses...
+        </div>
+        
+        <div id="errorState" class="error" style="display: none;">
+            <h3>Course Loading Error</h3>
+            <p id="errorMessage">An error occurred while loading courses.</p>
+            <pre id="errorDetails" style="display: none;"></pre>
+        </div>
+
+        <div class="guides-grid" id="guidesContainer" style="display: none;">
+            <!-- Guides will be populated by JavaScript -->
+        </div>
+
+        <div class="enhanced-footer">
+        <div class="footer-content">
+            <!-- AI Disclaimer Section -->
+            <div class="footer-section">
+                <h4>🤖 AI Generation Disclaimer</h4>
+                <div class="disclaimer-text">
+                    <strong>Important:</strong> This site was created using <strong>Super Grok</strong> and <strong>Claude Sonnet 4</strong> generative AI tools. While we strive for accuracy, AI-generated content may contain errors or incorrectly labeled information. <strong>Always verify information with multiple sources</strong> and consult your textbooks, teachers, and official AP resources for your studies.
+                </div>
+            </div>
+
+            <!-- Links Section -->
+            <div class="footer-section">
+                <h4>🔗 Project Resources</h4>
+                <div class="footer-links">
+                    <a href="https://github.com/JD-Jones-ASES/AP_GUIDES_HUB/" target="_blank" class="footer-link">
+                        <span class="footer-emoji">📚</span>
+                        View README & License
+                    </a><br>
+                    <a href="https://paypal.me/jdjonestexas" target="_blank" class="footer-link">
+                        <span class="footer-emoji">☕</span>
+                        Support my Work
+                    </a>
+                </div>
+                <div class="paypal-note">
+                    Tips are never expected, but always appreciated.
+                </div>
+            </div>
+
+            <!-- Copyright Section -->
+            <div class="footer-section">
+                <div class="copyright-text">
+                    <strong>© 2025 JD Jones</strong> • Released under <strong>MIT License</strong><br>
+                    Free to use, share, and modify • Designed for student success
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <script>
+        // Theme management
+        let currentTheme = 'light';
+
+        function toggleTheme() {
+            currentTheme = currentTheme === 'light' ? 'dark' : 'light';
+            document.documentElement.setAttribute('data-theme', currentTheme);
+            
+            const button = document.querySelector('.theme-toggle');
+            button.textContent = currentTheme === 'light' ? '🌙 Dark Mode' : '☀️ Light Mode';
+            
+            localStorage.setItem('theme', currentTheme);
+        }
+
+        function loadTheme() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            currentTheme = savedTheme;
+            document.documentElement.setAttribute('data-theme', currentTheme);
+            
+            const button = document.querySelector('.theme-toggle');
+            button.textContent = currentTheme === 'light' ? '🌙 Dark Mode' : '☀️ Light Mode';
+        }
+
+        // Load and display courses
+        async function loadCourses() {
+            try {
+                console.log('Attempting to load courses from data/courses.json');
+                
+                const response = await fetch('data/courses.json');
+                console.log('Response status:', response.status, response.statusText);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+                const courses = await response.json();
+                console.log('Successfully loaded courses:', courses);
+                
+                if (!courses || typeof courses !== 'object') {
+                    throw new Error('Invalid courses data format');
+                }
+                
+                displayCourses(courses);
+                
+                // Hide loading, show grid with fade-in effect
+                document.getElementById('loadingState').style.display = 'none';
+                const guidesContainer = document.getElementById('guidesContainer');
+                guidesContainer.style.display = 'grid';
+                guidesContainer.classList.add('fade-in');
+                
+            } catch (error) {
+                console.error('Error loading courses:', error);
+                showError(error);
+            }
+        }
+
+        function showError(error) {
+            document.getElementById('loadingState').style.display = 'none';
+            const errorState = document.getElementById('errorState');
+            const errorMessage = document.getElementById('errorMessage');
+            const errorDetails = document.getElementById('errorDetails');
+            
+            errorState.style.display = 'block';
+            errorMessage.textContent = error.message || 'Unknown error occurred';
+            errorDetails.textContent = error.stack || error.toString();
+            errorDetails.style.display = 'block';
+        }
+
+        function displayCourses(courses) {
+            const container = document.getElementById('guidesContainer');
+            
+            console.log('Displaying courses:', Object.keys(courses));
+            
+            const courseCards = Object.entries(courses).map(([courseId, course]) => {
+                const isComingSoon = course.status === 'coming-soon';
+                const href = isComingSoon ? '#' : `guide.html?course=${courseId}`;
+                const target = isComingSoon ? '' : '_blank';
+                
+                return `
+                    <a href="${href}" class="guide-card ${isComingSoon ? 'coming-soon' : ''}" 
+                       ${target ? `target="${target}"` : ''}
+                       style="border-left-color: ${course.color || '#3498db'};">
+                        <div class="guide-icon">${course.emoji || '📚'}</div>
+                        <div class="guide-title">${course.title || 'Untitled Course'}</div>
+                        <div class="guide-description">${course.description || 'No description available'}</div>
+                        <div class="guide-meta">${course.meta || 'No metadata'}</div>
+                    </a>
+                `;
+            }).join('');
+            
+            container.innerHTML = courseCards;
+            
+            // Add click prevention for coming soon cards
+            setupComingSoonHandlers();
+        }
+
+        function setupComingSoonHandlers() {
+            const comingSoonCards = document.querySelectorAll('.coming-soon');
+            comingSoonCards.forEach(card => {
+                card.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    return false;
+                });
+            });
+
+            // Add smooth hover effects for available cards
+            const guideCards = document.querySelectorAll('.guide-card:not(.coming-soon)');
+            guideCards.forEach(card => {
+                card.addEventListener('mouseenter', function() {
+                    this.style.transform = 'translateY(-8px) scale(1.02)';
+                });
+                
+                card.addEventListener('mouseleave', function() {
+                    this.style.transform = 'translateY(0) scale(1)';
+                });
+            });
+        }
+
+        // Add subtle parallax effect to the header
+        window.addEventListener('scroll', function() {
+            const scrolled = window.pageYOffset;
+            const header = document.querySelector('.header');
+            if (header) {
+                header.style.transform = `translateY(${scrolled * 0.5}px)`;
+            }
+        });
+
+        // Load courses and theme when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('DOM loaded, loading theme and courses...');
+            loadTheme();
+            loadCourses();
+        });
+    </script>
+</body>
+</html>

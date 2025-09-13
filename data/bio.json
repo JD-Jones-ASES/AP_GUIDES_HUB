@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Elements and Compounds",
+    "definition": "Fundamental substances in biology; elements like carbon, hydrogen, oxygen, and nitrogen make up 96% of living matter, forming compounds such as water and organic molecules essential for life processes, exemplified by carbon's tetravalence enabling complex chains in biomolecules.",
+    "unit": 1
+  },
+  {
+    "name": "Atomic Structure",
+    "definition": "Atoms consist of protons, neutrons, and electrons; the number of protons defines the element, while isotopes vary in neutrons, impacting biological tracers like carbon-14 in dating fossils.",
+    "unit": 1
+  },
+  {
+    "name": "Chemical Bonds",
+    "definition": "Forces holding atoms together; ionic bonds transfer electrons (e.g., NaCl), covalent bonds share them (e.g., H2O), and hydrogen bonds weakly attract molecules, crucial for DNA structure and water's properties.",
+    "unit": 1
+  },
+  {
+    "name": "Properties of Water",
+    "definition": "Universal solvent with high specific heat, cohesion, adhesion, and surface tension due to hydrogen bonding; enables temperature regulation in organisms and capillary action in plants, while its polarity dissolves hydrophilic substances.",
+    "unit": 1
+  },
+  {
+    "name": "pH Scale",
+    "definition": "Measure of hydrogen ion concentration from 0-14; acids increase H+ (pH<7), bases decrease it (pH>7), buffers like bicarbonate maintain homeostasis in blood at pH 7.4.",
+    "unit": 1
+  },
+  {
+    "name": "Macromolecules",
+    "definition": "Large biological polymers; carbohydrates, lipids, proteins, and nucleic acids built from monomers via dehydration synthesis, broken down by hydrolysis, forming the basis of cellular structure and function.",
+    "unit": 1
+  },
+  {
+    "name": "Carbohydrates",
+    "definition": "Sugars and starches with formula (CH2O)n; monosaccharides like glucose provide energy, polysaccharides like cellulose offer plant structure, and glycogen stores energy in animals.",
+    "unit": 1
+  },
+  {
+    "name": "Lipids",
+    "definition": "Hydrophobic molecules including fats, phospholipids, and steroids; triglycerides store energy, phospholipids form membranes, and cholesterol maintains fluidity while serving as hormone precursor.",
+    "unit": 1
+  },
+  {
+    "name": "Proteins",
+    "definition": "Polypeptides from amino acids with peptide bonds; primary to quaternary structures determine function as enzymes, transporters, or antibodies, denatured by heat or pH changes.",
+    "unit": 1
+  },
+  {
+    "name": "Nucleic Acids",
+    "definition": "DNA and RNA polymers of nucleotides; DNA stores genetic info in double helix, RNA translates it, with ATP as energy currency derived from nucleotide structure.",
+    "unit": 1
+  },
+  {
+    "name": "Enzymes",
+    "definition": "Biological catalysts lowering activation energy; substrate-specific active sites form enzyme-substrate complexes, affected by temperature, pH, and inhibitors, essential for metabolic pathways like digestion.",
+    "unit": 1
+  },
+  {
+    "name": "Cell Theory",
+    "definition": "Fundamental principle stating all organisms are composed of cells, cells are life's basic unit, and new cells arise from existing ones; established by Schleiden, Schwann, and Virchow, underpinning modern biology.",
+    "unit": 2
+  },
+  {
+    "name": "Prokaryotic Cells",
+    "definition": "Simple cells lacking nucleus and organelles; bacteria and archaea with circular DNA, ribosomes, and cell walls, often with flagella for motility, contrasting eukaryotic complexity.",
+    "unit": 2
+  },
+  {
+    "name": "Eukaryotic Cells",
+    "definition": "Complex cells with membrane-bound nucleus and organelles; plant cells have chloroplasts and walls, animal cells lack them, enabling specialization in multicellular organisms.",
+    "unit": 2
+  },
+  {
+    "name": "Nucleus",
+    "definition": "Control center housing DNA in chromatin form; nuclear envelope with pores regulates traffic, nucleolus synthesizes ribosomes, directing gene expression.",
+    "unit": 2
+  },
+  {
+    "name": "Ribosomes",
+    "definition": "Protein synthesis sites made of rRNA and proteins; free in cytosol for cytoplasmic proteins, bound to ER for secreted ones, universal in all cells.",
+    "unit": 2
+  },
+  {
+    "name": "Endoplasmic Reticulum",
+    "definition": "Network of membranes; rough ER studded with ribosomes synthesizes proteins, smooth ER detoxifies and synthesizes lipids, crucial for cellular export.",
+    "unit": 2
+  },
+  {
+    "name": "Golgi Apparatus",
+    "definition": "Stack of cisternae modifying, sorting, and packaging proteins/lipids from ER; adds carbohydrates in glycosylation, secretes via vesicles.",
+    "unit": 2
+  },
+  {
+    "name": "Mitochondria",
+    "definition": "Powerhouses with double membranes and cristae; site of cellular respiration producing ATP, have own DNA from endosymbiotic origin.",
+    "unit": 2
+  },
+  {
+    "name": "Chloroplasts",
+    "definition": "Plant organelles with thylakoids and stroma; capture light for photosynthesis, also endosymbiotic with own DNA, converting CO2 to glucose.",
+    "unit": 2
+  },
+  {
+    "name": "Lysosomes",
+    "definition": "Vesicles with hydrolytic enzymes for digestion; break down macromolecules, recycle organelles in autophagy, absent in plants.",
+    "unit": 2
+  },
+  {
+    "name": "Vacuoles",
+    "definition": "Storage organelles; central vacuole in plants maintains turgor pressure, stores pigments and toxins, smaller in animals for various functions.",
+    "unit": 2
+  },
+  {
+    "name": "Cytoskeleton",
+    "definition": "Network of microfilaments, intermediate filaments, and microtubules; provides structure, enables motility via cilia/flagella, and facilitates vesicle transport.",
+    "unit": 2
+  },
+  {
+    "name": "Plasma Membrane",
+    "definition": "Phospholipid bilayer with fluid mosaic model; embedded proteins for transport, recognition, and signaling, selectively permeable maintaining homeostasis.",
+    "unit": 2
+  },
+  {
+    "name": "Passive Transport",
+    "definition": "Diffusion without energy; simple diffusion for small molecules, facilitated via channels/carriers, osmosis for water across aquaporins.",
+    "unit": 2
+  },
+  {
+    "name": "Active Transport",
+    "definition": "Energy-requiring movement against gradient; sodium-potassium pump uses ATP to maintain membrane potential, essential for nerve impulses.",
+    "unit": 2
+  },
+  {
+    "name": "Endocytosis and Exocytosis",
+    "definition": "Bulk transport; endocytosis engulfs materials (phagocytosis for solids, pinocytosis for fluids), exocytosis secretes via vesicle fusion.",
+    "unit": 2
+  },
+  {
+    "name": "Thermodynamics",
+    "definition": "Laws governing energy; first conserves energy, second increases entropy, in biology open systems exchange energy/matter to maintain order.",
+    "unit": 3
+  },
+  {
+    "name": "Free Energy",
+    "definition": "Gibbs free energy (ΔG) determines reaction spontaneity; negative for exergonic (releases energy), positive for endergonic (requires energy), coupled via ATP.",
+    "unit": 3
+  },
+  {
+    "name": "ATP",
+    "definition": "Adenosine triphosphate as energy currency; hydrolysis releases energy for work, regenerated in respiration, with phosphoanhydride bonds storing potential energy.",
+    "unit": 3
+  },
+  {
+    "name": "Photosynthesis",
+    "definition": "Process converting light to chemical energy; light reactions in thylakoids produce ATP/NADPH/O2, Calvin cycle in stroma fixes CO2 to glucose.",
+    "unit": 3
+  },
+  {
+    "name": "Chlorophyll",
+    "definition": "Pigment absorbing light in photosystems; chlorophyll a participates directly, accessories broaden spectrum, excitation leads to electron transport.",
+    "unit": 3
+  },
+  {
+    "name": "Light Reactions",
+    "definition": "Photophosphorylation using photosystems II and I; water splitting releases O2, electron flow creates proton gradient for ATP synthase, reduces NADP+.",
+    "unit": 3
+  },
+  {
+    "name": "Calvin Cycle",
+    "definition": "Dark reactions using ATP/NADPH to fix CO2 via RuBisCO; phases of carbon fixation, reduction, regeneration produce G3P for glucose.",
+    "unit": 3
+  },
+  {
+    "name": "Cellular Respiration",
+    "definition": "Catabolic pathway oxidizing glucose to CO2, yielding ATP; glycolysis in cytosol, then pyruvate oxidation, Krebs cycle, ETC in mitochondria.",
+    "unit": 3
+  },
+  {
+    "name": "Glycolysis",
+    "definition": "Anaerobic breakdown of glucose to pyruvate; net 2 ATP and 2 NADH, in 10 steps with substrate-level phosphorylation, evolutionary ancient.",
+    "unit": 3
+  },
+  {
+    "name": "Krebs Cycle",
+    "definition": "Citric acid cycle in matrix; acetyl-CoA from pyruvate yields 2 CO2, 3 NADH, 1 FADH2, 1 ATP per turn, linking to ETC.",
+    "unit": 3
+  },
+  {
+    "name": "Electron Transport Chain (ETC)",
+    "definition": "Mitochondrial inner membrane complexes transferring electrons from NADH/FADH2 to O2, pumping protons for chemiosmosis, producing ~32 ATP.",
+    "unit": 3
+  },
+  {
+    "name": "Fermentation",
+    "definition": "Anaerobic regeneration of NAD+; lactic acid in muscles recycles pyruvate, alcoholic in yeast produces ethanol/CO2, allowing glycolysis continuation.",
+    "unit": 3
+  },
+  {
+    "name": "Cell Signaling",
+    "definition": "Communication via ligands binding receptors; local (paracrine) or long-distance (endocrine), triggering response pathways like amplification cascades.",
+    "unit": 4
+  },
+  {
+    "name": "Receptors",
+    "definition": "Proteins detecting signals; G-protein coupled activate second messengers, receptor tyrosine kinases phosphorylate, ion channels open for ions.",
+    "unit": 4
+  },
+  {
+    "name": "Second Messengers",
+    "definition": "Intracellular signals like cAMP or Ca2+ amplifying response; produced by enzymes like adenylyl cyclase, activating protein kinases.",
+    "unit": 4
+  },
+  {
+    "name": "Signal Transduction",
+    "definition": "Pathway converting signal to response; phosphorylation cascades alter proteins, leading to gene expression or metabolic changes.",
+    "unit": 4
+  },
+  {
+    "name": "Feedback Mechanisms",
+    "definition": "Regulate pathways; negative feedback inhibits (e.g., insulin/glucagon for blood sugar), positive amplifies (e.g., labor contractions).",
+    "unit": 4
+  },
+  {
+    "name": "Cell Cycle",
+    "definition": "Stages of growth and division; interphase (G1, S, G2) for growth/DNA replication, mitosis for division, regulated to prevent cancer.",
+    "unit": 4
+  },
+  {
+    "name": "Mitosis",
+    "definition": "Asexual division producing identical cells; prophase condenses chromosomes, metaphase aligns, anaphase separates, telophase/cytokinesis divides.",
+    "unit": 4
+  },
+  {
+    "name": "Checkpoints",
+    "definition": "Control points in cell cycle; G1 checks damage, G2 verifies replication, M ensures spindle attachment, cyclin-CDK complexes regulate.",
+    "unit": 4
+  },
+  {
+    "name": "Cancer",
+    "definition": "Uncontrolled division from mutations; oncogenes promote growth, tumor suppressors like p53 inhibit, leading to tumors if unchecked.",
+    "unit": 4
+  },
+  {
+    "name": "Chromosomes",
+    "definition": "DNA-protein structures; humans have 46 in diploids, homologous pairs carry alleles, condense during division.",
+    "unit": 5
+  },
+  {
+    "name": "Meiosis",
+    "definition": "Reduction division for gametes; meiosis I separates homologs with crossing over, II separates sisters, producing haploid cells with variation.",
+    "unit": 5
+  },
+  {
+    "name": "Crossing Over",
+    "definition": "Exchange of segments in prophase I; increases genetic diversity via recombination, at chiasmata between non-sister chromatids.",
+    "unit": 5
+  },
+  {
+    "name": "Independent Assortment",
+    "definition": "Random orientation of homologs in metaphase I; generates variation, Mendel's second law, 2^n possibilities for n chromosomes.",
+    "unit": 5
+  },
+  {
+    "name": "Mendelian Genetics",
+    "definition": "Principles from pea plants; law of segregation (alleles separate), dominance/recessiveness, predicting ratios like 3:1 in monohybrid crosses.",
+    "unit": 5
+  },
+  {
+    "name": "Punnett Squares",
+    "definition": "Diagrams predicting offspring genotypes; for dihybrids show 9:3:3:1 if independent, revealing probabilities.",
+    "unit": 5
+  },
+  {
+    "name": "Non-Mendelian Inheritance",
+    "definition": "Patterns beyond simple dominance; incomplete (blends), codominance (both expressed), multiple alleles (ABO blood), polygenic (continuous traits).",
+    "unit": 5
+  },
+  {
+    "name": "Linked Genes",
+    "definition": "Genes on same chromosome inherited together; recombination frequency maps distance, exceptions to independent assortment.",
+    "unit": 5
+  },
+  {
+    "name": "Sex-Linked Traits",
+    "definition": "Genes on X or Y; X-linked like hemophilia show criss-cross inheritance, males more affected due to hemizygosity.",
+    "unit": 5
+  },
+  {
+    "name": "Nondisjunction",
+    "definition": "Failure of chromosome separation; leads to aneuploidy like Down syndrome (trisomy 21), or sex anomalies like Turner (XO).",
+    "unit": 5
+  },
+  {
+    "name": "DNA Structure",
+    "definition": "Double helix of antiparallel strands; Watson-Crick base pairing (A-T, G-C), sugar-phosphate backbone, discovered via Franklin's X-ray.",
+    "unit": 6
+  },
+  {
+    "name": "DNA Replication",
+    "definition": "Semiconservative process; helicase unwinds, DNA polymerase adds nucleotides 5'-3', leading/lagging strands, Okazaki fragments ligated.",
+    "unit": 6
+  },
+  {
+    "name": "Transcription",
+    "definition": "DNA to RNA synthesis; RNA polymerase binds promoter, elongates 5'-3', introns spliced in eukaryotes, producing mRNA.",
+    "unit": 6
+  },
+  {
+    "name": "Translation",
+    "definition": "mRNA to protein at ribosome; tRNA anticodons match codons, initiation at AUG, elongation adds amino acids, termination at stop codons.",
+    "unit": 6
+  },
+  {
+    "name": "Genetic Code",
+    "definition": "Triplet codons specifying amino acids; universal, redundant, with 64 codons for 20 acids and stops, degenerate to minimize mutations.",
+    "unit": 6
+  },
+  {
+    "name": "Gene Regulation",
+    "definition": "Control of expression; prokaryotes via operons like lac (inducible), eukaryotes through enhancers, transcription factors, epigenetics.",
+    "unit": 6
+  },
+  {
+    "name": "Operons",
+    "definition": "Prokaryotic gene clusters; trp repressible by product, lac inducible by lactose, with operator and repressor proteins.",
+    "unit": 6
+  },
+  {
+    "name": "Epigenetics",
+    "definition": "Heritable changes without DNA sequence alteration; methylation silences genes, histone acetylation activates, influencing development.",
+    "unit": 6
+  },
+  {
+    "name": "Mutations",
+    "definition": "DNA changes; point (substitutions, silent/missense/nonsense), frameshift (insertions/deletions), chromosomal (duplications/translocations), source of variation.",
+    "unit": 6
+  },
+  {
+    "name": "Biotechnology",
+    "definition": "Tools like PCR amplifying DNA, gel electrophoresis separating fragments, recombinant DNA via restriction enzymes and plasmids for GMOs.",
+    "unit": 6
+  },
+  {
+    "name": "Evolution",
+    "definition": "Change in allele frequencies over generations; Darwin's descent with modification via natural selection, supported by fossils, homology.",
+    "unit": 7
+  },
+  {
+    "name": "Natural Selection",
+    "definition": "Mechanism where fitter individuals reproduce more; requires variation, heritability, overproduction, leading to adaptation like antibiotic resistance.",
+    "unit": 7
+  },
+  {
+    "name": "Evidence of Evolution",
+    "definition": "Fossils show transitions, comparative anatomy (homologous/vestigial structures), embryology, molecular (DNA/protein similarities), biogeography.",
+    "unit": 7
+  },
+  {
+    "name": "Hardy-Weinberg Equilibrium",
+    "definition": "Model for non-evolving populations; p^2 + 2pq + q^2 = 1, assumptions no mutation/selection/migration, random mating, large size.",
+    "unit": 7
+  },
+  {
+    "name": "Genetic Drift",
+    "definition": "Random allele frequency changes; bottleneck reduces variation (e.g., cheetahs), founder effect in new populations.",
+    "unit": 7
+  },
+  {
+    "name": "Gene Flow",
+    "definition": "Migration transferring alleles between populations; reduces differences, like pollen dispersal in plants.",
+    "unit": 7
+  },
+  {
+    "name": "Speciation",
+    "definition": "Formation of new species; allopatric via geographic isolation, sympatric via polyploidy or habitat shifts, reproductive barriers prevent interbreeding.",
+    "unit": 7
+  },
+  {
+    "name": "Phylogeny",
+    "definition": "Evolutionary history trees; cladograms show shared derived traits, molecular clocks estimate divergence times.",
+    "unit": 7
+  },
+  {
+    "name": "Extinction",
+    "definition": "Loss of species; background vs mass (e.g., Permian 96% loss), current anthropogenic rate threatens biodiversity.",
+    "unit": 7
+  },
+  {
+    "name": "Populations",
+    "definition": "Groups of interbreeding individuals; density, dispersion (clumped/uniform/random), growth models exponential vs logistic with carrying capacity.",
+    "unit": 8
+  },
+  {
+    "name": "Life History Strategies",
+    "definition": "r-selected (many offspring, little care, e.g., insects) vs K-selected (few offspring, high investment, e.g., elephants), adapted to environments.",
+    "unit": 8
+  },
+  {
+    "name": "Communities",
+    "definition": "Assemblages of populations; interactions like predation, competition, symbiosis (mutualism/commensalism/parasitism), keystone species maintain diversity.",
+    "unit": 8
+  },
+  {
+    "name": "Succession",
+    "definition": "Community change over time; primary on bare rock to climax, secondary after disturbance like fire, pioneer species facilitate.",
+    "unit": 8
+  },
+  {
+    "name": "Ecosystems",
+    "definition": "Biotic and abiotic components; energy flows unidirectionally (10% rule), matter cycles (carbon/nitrogen/water), productivity measured as NPP.",
+    "unit": 8
+  },
+  {
+    "name": "Trophic Levels",
+    "definition": "Feeding positions; producers, primary/secondary/tertiary consumers, decomposers, pyramids show biomass/energy decrease upward.",
+    "unit": 8
+  },
+  {
+    "name": "Biogeochemical Cycles",
+    "definition": "Nutrient recycling; carbon via photosynthesis/respiration, nitrogen fixation by bacteria, phosphorus from weathering, human disruptions cause eutrophication.",
+    "unit": 8
+  },
+  {
+    "name": "Biodiversity",
+    "definition": "Variety of life; genetic/species/ecosystem levels, hotspots like rainforests, provides ecosystem services, threatened by HABITAT loss (habitat, alien species, pollution, overpopulation, overexploitation).",
+    "unit": 8
+  },
+  {
+    "name": "Human Impact",
+    "definition": "Anthropogenic effects; climate change from greenhouse gases, ozone depletion by CFCs, deforestation reducing carbon sinks, sustainable practices mitigate.",
+    "unit": 8
+  },
+  {
+"name": "Electronegativity",
+"definition": "The tendency of an atom to attract a shared pair of electrons towards itself, crucial for determining bond polarity in molecules like water.",
+"unit": 1
+},
+{
+"name": "Polar Covalent Bond",
+"definition": "A type of covalent bond where electrons are unequally shared due to differences in electronegativity, resulting in partial charges, as in H2O.",
+"unit": 1
+},
+{
+"name": "Hydrogen Bond",
+"definition": "Weak electrostatic attraction between a hydrogen atom bonded to N, O, or F and another electronegative atom, responsible for water's unique properties and DNA base pairing.",
+"unit": 1
+},
+{
+"name": "Cohesion",
+"definition": "The attraction between molecules of the same substance, enabling water transport in plants via xylem.",
+"unit": 1
+},
+{
+"name": "Adhesion",
+"definition": "The attraction between different substances, such as water and plant cell walls, contributing to capillary action.",
+"unit": 1
+},
+{
+"name": "Surface Tension",
+"definition": "The property of a liquid's surface to resist external force due to cohesive forces, allowing insects to walk on water.",
+"unit": 1
+},
+{
+"name": "Specific Heat",
+"definition": "The heat required to raise the temperature of 1g of a substance by 1°C, high in water for temperature stability in organisms.",
+"unit": 1
+},
+{
+"name": "Heat of Vaporization",
+"definition": "The energy required to change 1g of liquid to gas, high in water facilitating cooling through sweat.",
+"unit": 1
+},
+{
+"name": "Evaporative Cooling",
+"definition": "The process where the surface cools as high-energy molecules evaporate, regulating body temperature in animals.",
+"unit": 1
+},
+{
+"name": "Hydrophobic",
+"definition": "Substances that repel water, like nonpolar lipids, forming structures like cell membranes.",
+"unit": 1
+},
+{
+"name": "Monomer",
+"definition": "Small molecules that link to form polymers, such as glucose for starch or amino acids for proteins.",
+"unit": 1
+},
+{
+"name": "Polymer",
+"definition": "Large molecules made of repeating monomer units, including polysaccharides, proteins, and nucleic acids.",
+"unit": 1
+},
+{
+"name": "Dehydration Synthesis",
+"definition": "The process of joining monomers by removing water, forming covalent bonds in macromolecules.",
+"unit": 1
+},
+{
+"name": "Hydrolysis",
+"definition": "The breakdown of polymers into monomers by adding water, catalyzed by enzymes in digestion.",
+"unit": 1
+},
+{
+"name": "Trace Elements",
+"definition": "Elements needed in minute amounts, such as iron for hemoglobin or iodine for thyroid hormones.",
+"unit": 1
+},
+{
+"name": "Endomembrane System",
+"definition": "A group of organelles including ER, Golgi, lysosomes, and vesicles that work together to modify, package, and transport proteins and lipids.",
+"unit": 2
+},
+{
+"name": "Cell Wall",
+"definition": "Rigid layer outside the plasma membrane in plants, fungi, and bacteria, providing support and protection, made of cellulose in plants.",
+"unit": 2
+},
+{
+"name": "Plasmodesmata",
+"definition": "Channels between plant cells allowing transport and communication, analogous to gap junctions in animals.",
+"unit": 2
+},
+{
+"name": "Gap Junctions",
+"definition": "Connections between animal cells for direct communication and transfer of small molecules.",
+"unit": 2
+},
+{
+"name": "Osmosis",
+"definition": "Passive diffusion of water across a selectively permeable membrane from low to high solute concentration.",
+"unit": 2
+},
+{
+"name": "Facilitated Diffusion",
+"definition": "Passive transport of molecules across membranes via carrier or channel proteins, without energy input.",
+"unit": 2
+},
+{
+"name": "Tonicity",
+"definition": "The ability of a solution to cause a cell to gain or lose water, described as hypertonic, hypotonic, or isotonic.",
+"unit": 2
+},
+{
+"name": "Chemiosmosis",
+"definition": "Process where proton gradient across membrane drives ATP synthesis, in both photosynthesis and respiration.",
+"unit": 3
+},
+{
+"name": "ATP Synthase",
+"definition": "Enzyme that synthesizes ATP from ADP and Pi using proton flow through it.",
+"unit": 3
+},
+{
+"name": "Oxidative Phosphorylation",
+"definition": "Production of ATP using energy from electron transfer in the ETC, coupled with chemiosmosis.",
+"unit": 3
+},
+{
+"name": "Pyruvate Oxidation",
+"definition": "Conversion of pyruvate to acetyl-CoA in mitochondria, releasing CO2 and producing NADH.",
+"unit": 3
+},
+{
+"name": "RuBisCO",
+"definition": "Enzyme that catalyzes carbon fixation in Calvin cycle, the most abundant protein on Earth.",
+"unit": 3
+},
+{
+"name": "Photorespiration",
+"definition": "Process where RuBisCO fixes O2 instead of CO2, wasting energy in hot conditions.",
+"unit": 3
+},
+{
+"name": "Apoptosis",
+"definition": "Programmed cell death essential for development and eliminating damaged cells, regulated by signaling pathways.",
+"unit": 4
+},
+{
+"name": "Cyclin",
+"definition": "Proteins that regulate the cell cycle by activating cyclin-dependent kinases (CDKs), levels fluctuate throughout the cycle.",
+"unit": 4
+},
+{
+"name": "Allele",
+"definition": "Alternative versions of a gene that occupy the same locus on homologous chromosomes, determining traits.",
+"unit": 5
+},
+{
+"name": "Genotype",
+"definition": "The genetic makeup of an organism, such as homozygous or heterozygous for a trait.",
+"unit": 5
+},
+{
+"name": "Phenotype",
+"definition": "The observable physical or biochemical characteristics of an organism, influenced by genotype and environment.",
+"unit": 5
+},
+{
+"name": "Testcross",
+"definition": "Breeding an organism of unknown genotype with a homozygous recessive to determine the unknown genotype.",
+"unit": 5
+},
+{
+"name": "Pedigree",
+"definition": "A diagram showing the inheritance of a trait through generations, used to analyze genetic patterns.",
+"unit": 5
+},
+{
+"name": "Central Dogma",
+"definition": "The flow of genetic information from DNA to RNA to protein, central to molecular biology.",
+"unit": 6
+},
+{
+"name": "Promoter",
+"definition": "DNA sequence where RNA polymerase binds to initiate transcription.",
+"unit": 6
+},
+{
+"name": "Transcription Factor",
+"definition": "Proteins that bind to DNA to regulate transcription by promoting or blocking RNA polymerase.",
+"unit": 6
+},
+{
+"name": "RNA Splicing",
+"definition": "Process removing introns and joining exons in eukaryotic pre-mRNA to form mature mRNA.",
+"unit": 6
+},
+{
+"name": "Mutagen",
+"definition": "Agents like radiation or chemicals that cause mutations by altering DNA structure.",
+"unit": 6
+},
+{
+"name": "Fitness",
+"definition": "The ability of an organism to survive and reproduce in its environment, measured relative to others.",
+"unit": 7
+},
+{
+"name": "Adaptive Radiation",
+"definition": "Diversification of a group into multiple species adapted to different niches, like Darwin's finches.",
+"unit": 7
+},
+{
+"name": "Convergent Evolution",
+"definition": "Independent evolution of similar traits in unrelated species due to similar environments, like wings in bats and birds.",
+"unit": 7
+},
+{
+"name": "Endosymbiosis",
+"definition": "Theory that mitochondria and chloroplasts originated from engulfed prokaryotes, supported by their own DNA.",
+"unit": 7
+},
+{
+"name": "Density-Dependent Factors",
+"definition": "Limiting factors whose effects intensify with population density, like competition or disease.",
+"unit": 8
+},
+{
+"name": "Keystone Species",
+"definition": "Species with disproportionate impact on community structure, like sea otters controlling kelp forests.",
+"unit": 8
+},
+{
+"name": "Invasive Species",
+"definition": "Non-native species that disrupt ecosystems, often outcompeting natives due to lack of predators.",
+"unit": 8
+},
+{
+"name": "Gross Primary Productivity",
+"definition": "Total energy captured by photosynthesis in an ecosystem before respiration losses.",
+"unit": 8
+},
+{
+"name": "Net Primary Productivity",
+"definition": "Energy available to consumers after producers deduct respiration costs from GPP.",
+"unit": 8
+}
+]

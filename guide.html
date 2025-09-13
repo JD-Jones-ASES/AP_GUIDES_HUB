@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AP Guide</title>
+    <link rel="stylesheet" href="ap-guides-styles.css">
+    <style>
+        /* Loading state */
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 60vh;
+            font-size: 1.2rem;
+            color: var(--text-muted);
+        }
+        
+        .error {
+            text-align: center;
+            padding: 60px 30px;
+            color: var(--text-muted);
+        }
+        
+        .error h3 {
+            font-size: 1.8rem;
+            margin-bottom: 15px;
+            color: var(--text-primary);
+        }
+        
+        .error p {
+            font-size: 1.1rem;
+            margin-bottom: 20px;
+        }
+        
+        .error a {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+        .error a:hover {
+            text-decoration: underline;
+        }
+
+        /* Updated unit badge styles */
+        .unit-badge {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--accent-color), var(--bg-gradient-end));
+            color: white;
+            font-size: 0.85rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+            flex-shrink: 0;
+        }
+
+        [data-theme="dark"] .unit-badge {
+            background: linear-gradient(135deg, var(--accent-color), #4a4a5e);
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <button class="theme-toggle" onclick="toggleTheme()">
+                🌙 Dark Mode
+            </button>
+            <h1 id="courseTitle">📚 Loading...</h1>
+            <p id="courseDescription">Loading course content...</p>
+        </div>
+
+        <!-- Loading/Error States -->
+        <div id="loadingState" class="loading">
+            Loading course data...
+        </div>
+        
+        <div id="errorState" class="error" style="display: none;">
+            <h3>Course Not Found</h3>
+            <p>The requested course could not be loaded.</p>
+            <a href="index.html">← Return to Course Hub</a>
+        </div>
+
+        <!-- Main Content (initially hidden) -->
+        <div id="mainContent" style="display: none;">
+            <!-- Controls -->
+            <div class="controls">
+                <!-- Search and filters -->
+                <div class="controls-row">
+                    <div class="search-container">
+                        <div class="search-box">
+                            <input type="text" id="searchInput" placeholder="Search terms and definitions..." />
+                        </div>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label for="unitFilter">Unit:</label>
+                        <select id="unitFilter">
+                            <option value="all">All Units</option>
+                            <!-- Units will be populated dynamically -->
+                        </select>
+                    </div>
+                    
+                    <div class="filter-group">
+                        <label for="sortFilter">Sort:</label>
+                        <select id="sortFilter">
+                            <option value="alphabetical">A → Z</option>
+                            <option value="reverse-alphabetical">Z → A</option>
+                            <option value="unit">By Unit</option>
+                            <option value="random">Random</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Mode buttons -->
+                <div class="controls-row">
+                    <div class="mode-buttons">
+                        <button class="mode-btn active" data-mode="normal" onclick="setMode('normal')">
+                            📖 Study View
+                        </button>
+                        <button class="mode-btn" data-mode="flashcard" onclick="setMode('flashcard')">
+                            🃏 Flashcard Mode
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Stats -->
+            <div class="stats">
+                <span id="statsDisplay">Loading terms...</span>
+                <button class="shuffle-btn" onclick="shuffleTerms()">🔀 Shuffle</button>
+            </div>
+
+            <!-- Terms grid -->
+            <div class="terms-grid" id="termsContainer">
+                <!-- Terms will be populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Global variables
+        let apTerms = [];
+        let filteredTerms = [];
+        let currentMode = 'normal';
+        let currentTheme = 'light';
+        let courseInfo = null;
+        let availableUnits = new Set();
+
+        // Load course data
+        async function loadCourse() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const courseId = urlParams.get('course');
+            
+            if (!courseId) {
+                showError('No course specified. Please select a course from the main page.');
+                return;
+            }
+            
+            try {
+                // Load course metadata and terms
+                const [coursesResponse, termsResponse] = await Promise.all([
+                    fetch('data/courses.json'),
+                    fetch(`data/${courseId}.json`)
+                ]);
+                
+                if (!coursesResponse.ok) {
+                    throw new Error('Could not load course metadata');
+                }
+                
+                if (!termsResponse.ok) {
+                    throw new Error(`Course "${courseId}" not found`);
+                }
+                
+                const courses = await coursesResponse.json();
+                apTerms = await termsResponse.json();
+                
+                courseInfo = courses[courseId];
+                
+                if (!courseInfo) {
+                    throw new Error(`Course "${courseId}" not found in metadata`);
+                }
+                
+                // Extract available units
+                apTerms.forEach(term => {
+    if (term.unit !== undefined && term.unit !== null) {
+        availableUnits.add(term.unit);
+    }
+});
+                
+                // Update page with course info
+                updatePageContent();
+                
+                // Initialize the guide
+                initializeGuide();
+                
+            } catch (error) {
+                console.error('Error loading course:', error);
+                showError(error.message);
+            }
+        }
+
+        function updatePageContent() {
+            // Update document title
+            document.title = `${courseInfo.title} Guide`;
+            
+            // Update header
+            document.getElementById('courseTitle').innerHTML = `${courseInfo.emoji} ${courseInfo.title} Guide`;
+            document.getElementById('courseDescription').textContent = 'Master essential concepts with interactive study tools';
+            
+            // Apply course color if specified
+            if (courseInfo.color) {
+                document.documentElement.style.setProperty('--accent-color', courseInfo.color);
+            }
+        }
+
+        function initializeGuide() {
+            // Hide loading, show main content
+            document.getElementById('loadingState').style.display = 'none';
+            document.getElementById('mainContent').style.display = 'block';
+            
+            // Load theme and setup
+            loadTheme();
+            setupEventListeners();
+            populateUnitFilter();
+            filterTerms();
+        }
+
+        function populateUnitFilter() {
+            const unitFilter = document.getElementById('unitFilter');
+            const sortedUnits = Array.from(availableUnits).sort((a, b) => {
+                // Handle both numeric and string units
+                const numA = parseInt(a);
+                const numB = parseInt(b);
+                if (!isNaN(numA) && !isNaN(numB)) {
+                    return numA - numB;
+                }
+                return a.toString().localeCompare(b.toString());
+            });
+
+            // Add unit options
+            sortedUnits.forEach(unit => {
+                const option = document.createElement('option');
+                option.value = unit;
+                option.textContent = `Unit ${unit}`;
+                unitFilter.appendChild(option);
+            });
+        }
+
+        function showError(message) {
+            document.getElementById('loadingState').style.display = 'none';
+            const errorDiv = document.getElementById('errorState');
+            errorDiv.style.display = 'block';
+            errorDiv.querySelector('p').textContent = message;
+        }
+
+        // Theme management
+        function toggleTheme() {
+            currentTheme = currentTheme === 'light' ? 'dark' : 'light';
+            document.documentElement.setAttribute('data-theme', currentTheme);
+            
+            const button = document.querySelector('.theme-toggle');
+            button.textContent = currentTheme === 'light' ? '🌙 Dark Mode' : '☀️ Light Mode';
+            
+            localStorage.setItem('theme', currentTheme);
+        }
+
+        function loadTheme() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            currentTheme = savedTheme;
+            document.documentElement.setAttribute('data-theme', currentTheme);
+            
+            const button = document.querySelector('.theme-toggle');
+            button.textContent = currentTheme === 'light' ? '🌙 Dark Mode' : '☀️ Light Mode';
+        }
+
+        // Mode management
+        function setMode(mode) {
+            currentMode = mode;
+            
+            // Update button states
+            document.querySelectorAll('.mode-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            document.querySelector(`[data-mode="${mode}"]`).classList.add('active');
+            
+            // Update container class
+            const container = document.getElementById('termsContainer');
+            if (mode === 'flashcard') {
+                container.classList.add('flashcard-mode');
+            } else {
+                container.classList.remove('flashcard-mode');
+            }
+            
+            // Re-render terms
+            renderTerms(filteredTerms);
+        }
+
+        // Term card creation
+        function createTermCard(term) {
+            const unitDisplay = (term.unit !== undefined && term.unit !== null) ? term.unit : '?';
+            
+            if (currentMode === 'flashcard') {
+                return `
+                    <div class="term-card" onclick="flipCard(this)">
+                        <div class="term-header">
+                            <div class="term-name">${term.name}</div>
+                            <div class="unit-badge">${unitDisplay}</div>
+                        </div>
+                        <div class="term-definition">${term.definition}</div>
+                        <div class="flip-indicator">Click to flip</div>
+                    </div>
+                `;
+            } else {
+                return `
+                    <div class="term-card">
+                        <div class="term-header">
+                            <div class="term-name">${term.name}</div>
+                            <div class="unit-badge">${unitDisplay}</div>
+                        </div>
+                        <div class="term-definition">${term.definition}</div>
+                    </div>
+                `;
+            }
+        }
+
+        // Flashcard flip function
+        function flipCard(card) {
+            card.classList.toggle('flipped');
+        }
+
+        // Render terms
+        function renderTerms(terms) {
+            const container = document.getElementById('termsContainer');
+            const statsDisplay = document.getElementById('statsDisplay');
+            
+            if (terms.length === 0) {
+                container.innerHTML = `
+                    <div class="no-results">
+                        <h3>No terms found</h3>
+                        <p>Try adjusting your search or filter criteria</p>
+                    </div>
+                `;
+            } else {
+                container.innerHTML = terms.map(createTermCard).join('');
+            }
+            
+            statsDisplay.textContent = `Showing ${terms.length} of ${apTerms.length} terms`;
+        }
+
+        // Filter and sort function
+        function filterTerms() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const unitFilter = document.getElementById('unitFilter').value;
+            const sortFilter = document.getElementById('sortFilter').value;
+            
+            // Filter terms
+            let filtered = apTerms.filter(term => {
+                const matchesSearch = searchTerm === '' || 
+                    term.name.toLowerCase().includes(searchTerm) ||
+                    term.definition.toLowerCase().includes(searchTerm);
+                
+                const matchesUnit = unitFilter === 'all' || term.unit == unitFilter;
+                
+                return matchesSearch && matchesUnit;
+            });
+            
+            // Sort terms
+            filtered.sort((a, b) => {
+                switch (sortFilter) {
+                    case 'reverse-alphabetical':
+                        return b.name.localeCompare(a.name);
+                    case 'unit':
+                        // Sort by unit first, then alphabetically
+                        const unitA = parseInt(a.unit) || 999;
+                        const unitB = parseInt(b.unit) || 999;
+                        const unitDiff = unitA - unitB;
+                        return unitDiff !== 0 ? unitDiff : a.name.localeCompare(b.name);
+                    case 'random':
+                        return Math.random() - 0.5;
+                    default: // alphabetical
+                        return a.name.localeCompare(b.name);
+                }
+            });
+            
+            filteredTerms = filtered;
+            renderTerms(filtered);
+        }
+
+        // Shuffle function
+        function shuffleTerms() {
+            const shuffled = [...filteredTerms].sort(() => Math.random() - 0.5);
+            renderTerms(shuffled);
+        }
+
+        // Event listeners
+        function setupEventListeners() {
+            document.getElementById('searchInput').addEventListener('input', filterTerms);
+            document.getElementById('unitFilter').addEventListener('change', filterTerms);
+            document.getElementById('sortFilter').addEventListener('change', filterTerms);
+        }
+
+        // Initialize when page loads
+        document.addEventListener('DOMContentLoaded', loadCourse);
+    </script>
+</body>
+</html>

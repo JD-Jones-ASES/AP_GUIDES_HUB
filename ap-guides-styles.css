@@ -1,0 +1,603 @@
+/* AP Guides Hub - Shared Styles */
+/* Reset and Base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Light theme */
+    --bg-gradient-start: #667eea;
+    --bg-gradient-end: #764ba2;
+    --bg-container: rgba(255, 255, 255, 0.95);
+    --bg-controls: #f8f9fa;
+    --bg-card: white;
+    --bg-stats: #e3f2fd;
+    --border-color: #e9ecef;
+    --text-primary: #2c3e50;
+    --text-secondary: #4a5568;
+    --text-muted: #6c757d;
+    --text-stats: #1976d2;
+    --accent-color: #3498db;
+    --shadow-light: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --shadow-heavy: 0 8px 15px rgba(0, 0, 0, 0.2);
+    --shadow-container: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+    /* Dark theme */
+    --bg-gradient-start: #1a1a2e;
+    --bg-gradient-end: #16213e;
+    --bg-container: rgba(30, 30, 46, 0.95);
+    --bg-controls: #2a2a3e;
+    --bg-card: #353548;
+    --bg-stats: #2a3f5f;
+    --border-color: #4a4a5e;
+    --text-primary: #e2e8f0;
+    --text-secondary: #cbd5e0;
+    --text-muted: #a0aec0;
+    --text-stats: #81c1f5;
+    --accent-color: #4facfe;
+    --shadow-light: 0 4px 6px rgba(0, 0, 0, 0.3);
+    --shadow-heavy: 0 8px 15px rgba(0, 0, 0, 0.4);
+    --shadow-container: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+/* Body and Main Container */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.6;
+    background: linear-gradient(135deg, var(--bg-gradient-start) 0%, var(--bg-gradient-end) 100%);
+    min-height: 100vh;
+    padding: 20px;
+    transition: all 0.3s ease;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: var(--bg-container);
+    border-radius: 15px;
+    box-shadow: var(--shadow-container);
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+/* Header Styles */
+.header {
+    background: linear-gradient(135deg, var(--bg-gradient-start), var(--accent-color));
+    color: white;
+    padding: 40px 30px;
+    text-align: center;
+    position: relative;
+}
+
+.header h1 {
+    font-size: 2.8rem;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.header p {
+    font-size: 1.2rem;
+    opacity: 0.9;
+}
+
+/* Theme Toggle */
+.theme-toggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    border-radius: 25px;
+    padding: 10px 15px;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.theme-toggle:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+/* Controls Section */
+.controls {
+    padding: 30px;
+    background: var(--bg-controls);
+    border-bottom: 1px solid var(--border-color);
+    transition: all 0.3s ease;
+}
+
+.controls-row {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.controls-row:last-child {
+    margin-bottom: 0;
+}
+
+/* Search Box */
+.search-container {
+    flex: 1;
+    min-width: 300px;
+}
+
+.search-box {
+    position: relative;
+}
+
+.search-box input {
+    width: 100%;
+    padding: 15px 20px;
+    border: 2px solid var(--border-color);
+    border-radius: 10px;
+    font-size: 16px;
+    background: var(--bg-card);
+    color: var(--text-primary);
+    transition: all 0.3s ease;
+}
+
+.search-box input:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+}
+
+.search-box input::placeholder {
+    color: var(--text-muted);
+}
+
+/* Filter Groups */
+.filter-group {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.filter-group label {
+    font-weight: 600;
+    color: var(--text-primary);
+    min-width: 60px;
+}
+
+.filter-group select {
+    padding: 12px 16px;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    font-size: 14px;
+    background: var(--bg-card);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-width: 140px;
+}
+
+.filter-group select:focus {
+    outline: none;
+    border-color: var(--accent-color);
+}
+
+/* Mode Buttons */
+.mode-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.mode-btn {
+    padding: 12px 20px;
+    border: 2px solid var(--accent-color);
+    border-radius: 10px;
+    background: var(--bg-card);
+    color: var(--accent-color);
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.mode-btn:hover,
+.mode-btn.active {
+    background: var(--accent-color);
+    color: white;
+    transform: translateY(-1px);
+}
+
+/* Stats Bar */
+.stats {
+    background: var(--bg-stats);
+    padding: 15px 30px;
+    font-weight: 600;
+    color: var(--text-stats);
+    transition: all 0.3s ease;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.shuffle-btn {
+    padding: 8px 16px;
+    border: 1px solid var(--text-stats);
+    border-radius: 6px;
+    background: transparent;
+    color: var(--text-stats);
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.shuffle-btn:hover {
+    background: var(--text-stats);
+    color: white;
+}
+
+/* Terms Grid */
+.terms-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    gap: 25px;
+    padding: 30px;
+}
+
+/* Term Cards */
+.term-card {
+    background: var(--bg-card);
+    border-radius: 12px;
+    padding: 25px;
+    box-shadow: var(--shadow-light);
+    border-left: 4px solid var(--accent-color);
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.term-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-heavy);
+}
+
+.term-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+.term-name {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.3;
+    margin-right: 15px;
+    flex: 1;
+}
+
+.term-definition {
+    color: var(--text-secondary);
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+/* Unit Badges */
+.unit-badge {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent-color) 0%, var(--bg-gradient-end) 100%);
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+    flex-shrink: 0;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.unit-badge::before {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    right: 2px;
+    bottom: 2px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.term-card:hover .unit-badge::before {
+    opacity: 1;
+}
+
+[data-theme="dark"] .unit-badge {
+    background: linear-gradient(135deg, var(--accent-color) 0%, #4a4a5e 100%);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Flashcard Mode Styles */
+.flashcard-mode .term-card {
+    min-height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.flashcard-mode .term-card:hover {
+    transform: translateY(-5px) scale(1.02);
+}
+
+.flashcard-mode .term-name {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-right: 0;
+}
+
+.flashcard-mode .term-definition {
+    font-size: 1.1rem;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.flashcard-mode .term-card:not(.flipped) .term-definition {
+    display: none;
+}
+
+.flashcard-mode .term-card.flipped .term-header {
+    display: none;
+}
+
+.flashcard-mode .term-card.flipped .term-definition {
+    display: block;
+}
+
+.flip-indicator {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    font-size: 12px;
+    color: var(--text-muted);
+    opacity: 0.7;
+}
+
+.flashcard-mode .flip-indicator {
+    position: static;
+    margin-top: 15px;
+    font-style: italic;
+}
+
+/* No Results State */
+.no-results {
+    text-align: center;
+    padding: 80px 30px;
+    color: var(--text-muted);
+}
+
+.no-results h3 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: var(--text-primary);
+}
+
+.no-results p {
+    font-size: 1.1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    body {
+        padding: 15px;
+    }
+
+    .header {
+        padding: 30px 20px;
+    }
+
+    .header h1 {
+        font-size: 2.2rem;
+    }
+
+    .header p {
+        font-size: 1rem;
+    }
+
+    .theme-toggle {
+        position: static;
+        margin-top: 20px;
+    }
+
+    .controls {
+        padding: 20px;
+    }
+
+    .controls-row {
+        flex-direction: column;
+        align-items: stretch;
+        margin-bottom: 15px;
+    }
+
+    .search-container {
+        min-width: unset;
+    }
+
+    .filter-group {
+        justify-content: space-between;
+    }
+
+    .filter-group select {
+        min-width: unset;
+        flex: 1;
+    }
+
+    .mode-buttons {
+        justify-content: center;
+    }
+
+    .mode-btn {
+        flex: 1;
+        text-align: center;
+    }
+
+    .stats {
+        flex-direction: column;
+        gap: 15px;
+        text-align: center;
+    }
+
+    .terms-grid {
+        grid-template-columns: 1fr;
+        padding: 20px;
+        gap: 20px;
+    }
+
+    .term-card {
+        padding: 20px;
+    }
+
+    .term-name {
+        font-size: 1.2rem;
+        margin-right: 10px;
+    }
+
+    .term-definition {
+        font-size: 0.95rem;
+    }
+
+    .unit-badge {
+        width: 32px;
+        height: 32px;
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .header h1 {
+        font-size: 1.8rem;
+    }
+
+    .term-card {
+        padding: 15px;
+    }
+
+    .terms-grid {
+        padding: 15px;
+        gap: 15px;
+    }
+
+    .unit-badge {
+        width: 28px;
+        height: 28px;
+        font-size: 0.8rem;
+    }
+}
+
+/* Smooth Transitions */
+* {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Focus and Accessibility */
+button:focus,
+select:focus,
+input:focus {
+    outline: 2px solid var(--accent-color);
+    outline-offset: 2px;
+}
+
+/* Print Styles */
+@media print {
+    .header,
+    .controls,
+    .stats {
+        display: none;
+    }
+    
+    .term-card {
+        break-inside: avoid;
+        box-shadow: none;
+        border: 1px solid #ddd;
+        margin-bottom: 15px;
+    }
+    
+    .terms-grid {
+        display: block;
+    }
+}
+
+/* Animation Classes */
+.fade-in {
+    animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.slide-in {
+    animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+    from { transform: translateX(-20px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+
+/* Loading States */
+.loading {
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+.skeleton {
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+    0% { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+}
+
+/* Special Subject Color Variants */
+.subject-statistics { --accent-color: #e74c3c; }
+.subject-calculus { --accent-color: #f39c12; }
+.subject-physics { --accent-color: #9b59b6; }
+.subject-chemistry { --accent-color: #27ae60; }
+.subject-biology { --accent-color: #16a085; }
+.subject-psychology { --accent-color: #e67e22; }
+.subject-history { --accent-color: #8e44ad; }
+.subject-english { --accent-color: #34495e; }
+.subject-csp { --accent-color: #3498db; }
+
+/* Additional Utility Classes */
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+
+.mb-1 { margin-bottom: 0.5rem; }
+.mb-2 { margin-bottom: 1rem; }
+.mb-3 { margin-bottom: 1.5rem; }
+
+.mt-1 { margin-top: 0.5rem; }
+.mt-2 { margin-top: 1rem; }
+.mt-3 { margin-top: 1.5rem; }
+
+.font-bold { font-weight: 700; }
+.font-semibold { font-weight: 600; }
+.font-medium { font-weight: 500; }
+
+.hidden { display: none; }
+.visible { display: block; }

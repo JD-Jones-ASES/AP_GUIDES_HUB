@@ -1,0 +1,527 @@
+[
+  {
+    "name": "Limit",
+    "definition": "The value that a function approaches as the input approaches a specific value or infinity, foundational for understanding rates of change and continuity in calculus.",
+    "unit": 1
+  },
+  {
+    "name": "One-Sided Limit",
+    "definition": "The limit of a function as the input approaches a value from either the left (negative side) or the right (positive side), essential for analyzing piecewise functions and discontinuities.",
+    "unit": 1
+  },
+  {
+    "name": "Infinite Limit",
+    "definition": "Occurs when a function grows without bound as the input approaches a finite value, indicating vertical asymptotes, such as in rational functions where the denominator approaches zero.",
+    "unit": 1
+  },
+  {
+    "name": "Limit at Infinity",
+    "definition": "The value a function approaches as the input goes to positive or negative infinity, used to determine horizontal asymptotes, like in the behavior of polynomials over lower-degree terms.",
+    "unit": 1
+  },
+  {
+    "name": "Continuity",
+    "definition": "A function is continuous at a point if the limit exists, the function is defined at that point, and the limit equals the function value, ensuring no breaks, jumps, or holes in the graph.",
+    "unit": 1
+  },
+  {
+    "name": "Removable Discontinuity",
+    "definition": "A type of discontinuity where the limit exists but does not equal the function value (or the function is undefined), which can be 'removed' by redefining the function at that point, such as a hole in the graph.",
+    "unit": 1
+  },
+  {
+    "name": "Jump Discontinuity",
+    "definition": "Occurs when the left-hand and right-hand limits exist but are not equal, resulting in a 'jump' in the graph, common in piecewise functions.",
+    "unit": 1
+  },
+  {
+    "name": "Infinite Discontinuity",
+    "definition": "A discontinuity where the function approaches infinity from one or both sides, associated with vertical asymptotes.",
+    "unit": 1
+  },
+  {
+    "name": "Intermediate Value Theorem",
+    "definition": "States that if a function is continuous on a closed interval [a, b] and k is between f(a) and f(b), then there exists at least one c in (a, b) such that f(c) = k, guaranteeing the existence of roots or specific values.",
+    "unit": 1
+  },
+  {
+    "name": "Squeeze Theorem",
+    "definition": "If g(x) ≤ f(x) ≤ h(x) for x near a (except possibly at a), and the limits of g and h as x approaches a are both L, then the limit of f is also L, useful for proving limits like those involving trigonometric functions.",
+    "unit": 1
+  },
+  {
+    "name": "Derivative",
+    "definition": "The instantaneous rate of change of a function at a point, defined as the limit of the average rate of change over an interval as the interval approaches zero, represented as f'(x) or dy/dx.",
+    "unit": 2
+  },
+  {
+    "name": "Differentiability",
+    "definition": "A function is differentiable at a point if its derivative exists there, implying continuity but with a smooth graph (no corners or cusps), such as polynomials being differentiable everywhere.",
+    "unit": 2
+  },
+  {
+    "name": "Average Rate of Change",
+    "definition": "The change in function value over an interval divided by the change in input, equivalent to the slope of the secant line, contrasting with the instantaneous rate given by the derivative.",
+    "unit": 2
+  },
+  {
+    "name": "Tangent Line",
+    "definition": "The line that touches the graph of a function at a point and has the same slope as the derivative at that point, approximating the function locally.",
+    "unit": 2
+  },
+  {
+    "name": "Power Rule",
+    "definition": "The derivative of x^n is n*x^(n-1) for any real n, a fundamental rule for differentiating polynomials and power functions.",
+    "unit": 2
+  },
+  {
+    "name": "Product Rule",
+    "definition": "The derivative of u*v is u'v + uv', allowing differentiation of products of functions, such as (x^2)(sin x).",
+    "unit": 2
+  },
+  {
+    "name": "Quotient Rule",
+    "definition": "The derivative of u/v is (u'v - uv') / v^2, used for rational functions like (x)/(x+1).",
+    "unit": 2
+  },
+  {
+    "name": "Chain Rule",
+    "definition": "The derivative of f(g(x)) is f'(g(x)) * g'(x), essential for composite functions, like differentiating sin(x^2) as cos(x^2)*2x.",
+    "unit": 3
+  },
+  {
+    "name": "Implicit Differentiation",
+    "definition": "A technique to find dy/dx for equations not solved for y, by differentiating both sides with respect to x and solving for dy/dx, useful for relations like x^2 + y^2 = 1.",
+    "unit": 3
+  },
+  {
+    "name": "Inverse Function Derivative",
+    "definition": "The derivative of the inverse function f^{-1} at y is 1 / f'(x) where y = f(x), such as the derivative of arcsin(x) being 1/sqrt(1-x^2).",
+    "unit": 3
+  },
+  {
+    "name": "Higher-Order Derivatives",
+    "definition": "Derivatives of derivatives, like the second derivative f''(x) representing concavity or acceleration, used in Taylor approximations and motion analysis.",
+    "unit": 3
+  },
+  {
+    "name": "Trigonometric Derivatives",
+    "definition": "Derivatives of sin(x) = cos(x), cos(x) = -sin(x), tan(x) = sec^2(x), and their inverses, foundational for modeling periodic phenomena.",
+    "unit": 3
+  },
+  {
+    "name": "Exponential and Logarithmic Derivatives",
+    "definition": "Derivative of e^x is e^x, and of ln(x) is 1/x, extending to bases like a^x = a^x ln(a), crucial for growth and decay models.",
+    "unit": 3
+  },
+  {
+    "name": "Motion Along a Line",
+    "definition": "Using position s(t), velocity v(t) = s'(t), and acceleration a(t) = v'(t) to analyze particle motion, where speed is |v(t)| and displacement is integral of v(t).",
+    "unit": 4
+  },
+  {
+    "name": "Related Rates",
+    "definition": "Finding the rate of change of one quantity in terms of another using implicit differentiation on equations relating variables, like the expanding radius of a balloon affecting its volume.",
+    "unit": 4
+  },
+  {
+    "name": "Linear Approximation",
+    "definition": "Using the tangent line L(x) = f(a) + f'(a)(x - a) to approximate function values near a, with error analysis for concavity effects.",
+    "unit": 4
+  },
+  {
+    "name": "L'Hôpital's Rule",
+    "definition": "For indeterminate forms 0/0 or ∞/∞, the limit of f/g equals limit of f'/g' if it exists, applicable iteratively for unresolved forms.",
+    "unit": 4
+  },
+  {
+    "name": "Extreme Value Theorem",
+    "definition": "A continuous function on a closed interval [a, b] attains absolute maximum and minimum values, either at critical points or endpoints.",
+    "unit": 5
+  },
+  {
+    "name": "Critical Point",
+    "definition": "A point where f'(x) = 0 or undefined, potential locations for local extrema or inflection points.",
+    "unit": 5
+  },
+  {
+    "name": "First Derivative Test",
+    "definition": "Determines local maxima/minima by sign changes in f' around critical points: positive to negative for max, negative to positive for min.",
+    "unit": 5
+  },
+  {
+    "name": "Second Derivative Test",
+    "definition": "For a critical point where f' = 0, if f'' > 0 then local min (concave up), if f'' < 0 then local max (concave down), inconclusive if f'' = 0.",
+    "unit": 5
+  },
+  {
+    "name": "Concavity",
+    "definition": "The curvature of the graph: concave up if f'' > 0 (holds water), concave down if f'' < 0 (spills water), with inflection points where concavity changes.",
+    "unit": 5
+  },
+  {
+    "name": "Mean Value Theorem",
+    "definition": "If f is continuous on [a, b] and differentiable on (a, b), there exists c where f'(c) = (f(b) - f(a))/(b - a), linking average and instantaneous rates.",
+    "unit": 5
+  },
+  {
+    "name": "Optimization",
+    "definition": "Using derivatives to find maximum/minimum values in applied contexts, like maximizing area with fixed perimeter by setting derivative to zero.",
+    "unit": 5
+  },
+  {
+    "name": "Riemann Sum",
+    "definition": "Approximation of definite integrals using sums of rectangle areas, with left, right, midpoint, or trapezoidal methods for better accuracy.",
+    "unit": 6
+  },
+  {
+    "name": "Definite Integral",
+    "definition": "The limit of Riemann sums representing net area under a curve from a to b, denoted ∫_a^b f(x) dx, fundamental for accumulation.",
+    "unit": 6
+  },
+  {
+    "name": "Antiderivative",
+    "definition": "A function F such that F'(x) = f(x), with indefinite integral ∫ f(x) dx = F(x) + C accounting for the constant.",
+    "unit": 6
+  },
+  {
+    "name": "Fundamental Theorem of Calculus (Part 1)",
+    "definition": "If f is continuous on [a, b] and F(x) = ∫_a^x f(t) dt, then F'(x) = f(x), linking differentiation and integration.",
+    "unit": 6
+  },
+  {
+    "name": "Fundamental Theorem of Calculus (Part 2)",
+    "definition": "∫_a^b f(x) dx = F(b) - F(a) where F' = f, allowing evaluation of definite integrals via antiderivatives.",
+    "unit": 6
+  },
+  {
+    "name": "Integration by Substitution",
+    "definition": "Technique changing variables with u = g(x), du = g'(x) dx, simplifying integrals like ∫ x sqrt(x^2 + 1) dx.",
+    "unit": 6
+  },
+  {
+    "name": "Average Value of a Function",
+    "definition": "(1/(b-a)) ∫_a^b f(x) dx, representing the height of a rectangle with the same area as under the curve.",
+    "unit": 6
+  },
+  {
+    "name": "Integration by Parts",
+    "definition": "∫ u dv = uv - ∫ v du, derived from product rule, useful for products like ∫ x e^x dx.",
+    "unit": 6
+  },
+  {
+    "name": "Partial Fractions",
+    "definition": "(BC) Decomposition of rational functions into sums of simpler fractions for integration, like 1/(x(x+1)) = A/x + B/(x+1).",
+    "unit": 6
+  },
+  {
+    "name": "Improper Integrals",
+    "definition": "(BC) Integrals with infinite limits or discontinuities, evaluated as limits, converging if the limit exists, like ∫_1^∞ 1/x^2 dx = 1.",
+    "unit": 6
+  },
+  {
+    "name": "Differential Equation",
+    "definition": "An equation involving a function and its derivatives, like dy/dx = ky for exponential growth, solved by separation of variables or other methods.",
+    "unit": 7
+  },
+  {
+    "name": "Slope Field",
+    "definition": "A graphical representation of dy/dx at points in the plane, used to sketch solution curves for differential equations without solving analytically.",
+    "unit": 7
+  },
+  {
+    "name": "Separation of Variables",
+    "definition": "Method for solving dy/dx = f(x)g(y) by integrating 1/g(y) dy = f(x) dx, yielding implicit solutions.",
+    "unit": 7
+  },
+  {
+    "name": "Exponential Growth and Decay",
+    "definition": "Models where dy/dt = ky, solution y = y0 e^{kt}, applied to populations, radioactive decay, or compound interest.",
+    "unit": 7
+  },
+  {
+    "name": "Logistic Growth",
+    "definition": "(BC) Model dy/dt = ky(1 - y/L) accounting for carrying capacity L, solution y = L / (1 + Ae^{-kt}), approaching L asymptotically.",
+    "unit": 7
+  },
+  {
+    "name": "Euler's Method",
+    "definition": "(BC) Numerical approximation of solutions to dy/dx = f(x,y) using iterative steps y_{n+1} = y_n + h f(x_n, y_n), with smaller h for better accuracy.",
+    "unit": 7
+  },
+  {
+    "name": "Area Between Curves",
+    "definition": "∫_a^b |f(x) - g(x)| dx for the area between f and g, or similar in terms of y for vertical strips.",
+    "unit": 8
+  },
+  {
+    "name": "Volume of Revolution - Disk Method",
+    "definition": "For solids formed by rotating around an axis, V = π ∫_a^b [R(x)]^2 dx where R is the radius function.",
+    "unit": 8
+  },
+  {
+    "name": "Volume of Revolution - Washer Method",
+    "definition": "V = π ∫_a^b ([R_outer]^2 - [R_inner]^2) dx for regions with holes, like rotating around x-axis.",
+    "unit": 8
+  },
+  {
+    "name": "Volume of Revolution - Shell Method",
+    "definition": "(BC) V = 2π ∫_a^b x f(x) dx for rotation around y-axis, advantageous for certain setups.",
+    "unit": 8
+  },
+  {
+    "name": "Arc Length",
+    "definition": "(BC) Length of curve y = f(x) from a to b is ∫_a^b sqrt(1 + [f'(x)]^2) dx, measuring the 'distance' along the graph.",
+    "unit": 8
+  },
+  {
+    "name": "Average Value Theorem for Integrals",
+    "definition": "If f is continuous on [a, b], there exists c where f(c) = (1/(b-a)) ∫_a^b f(x) dx, the mean value.",
+    "unit": 8
+  },
+  {
+    "name": "Parametric Equations",
+    "definition": "(BC) Curves defined by x = f(t), y = g(t), allowing non-functional relations like circles or trajectories.",
+    "unit": 9
+  },
+  {
+    "name": "Derivative in Parametric Form",
+    "definition": "(BC) dy/dx = (dy/dt) / (dx/dt), with second derivative d²y/dx² = d(dy/dx)/dt / (dx/dt).",
+    "unit": 9
+  },
+  {
+    "name": "Arc Length in Parametric Form",
+    "definition": "(BC) ∫_a^b sqrt( (dx/dt)^2 + (dy/dt)^2 ) dt, generalizing the formula for parametric curves.",
+    "unit": 9
+  },
+  {
+    "name": "Vector-Valued Functions",
+    "definition": "(BC) Functions r(t) = <f(t), g(t)> representing position, with velocity r'(t) and speed ||r'(t)||.",
+    "unit": 9
+  },
+  {
+    "name": "Polar Coordinates",
+    "definition": "(BC) Points (r, θ) where x = r cos θ, y = r sin θ, useful for rotational symmetry like cardioids.",
+    "unit": 9
+  },
+  {
+    "name": "Area in Polar Coordinates",
+    "definition": "(BC) (1/2) ∫_α^β r(θ)^2 dθ for the area enclosed by a polar curve.",
+    "unit": 9
+  },
+  {
+    "name": "Infinite Sequence",
+    "definition": "(BC) A list of numbers a_n for n=1 to ∞, converging to L if lim_{n→∞} a_n = L.",
+    "unit": 10
+  },
+  {
+    "name": "Infinite Series",
+    "definition": "(BC) Sum of sequence terms ∑ a_n, converging if partial sums approach a finite limit.",
+    "unit": 10
+  },
+  {
+    "name": "Geometric Series",
+    "definition": "(BC) ∑ ar^{n-1} converging to a/(1-r) for |r| < 1, fundamental for many tests.",
+    "unit": 10
+  },
+  {
+    "name": "Harmonic Series",
+    "definition": "(BC) ∑ 1/n diverging logarithmically, a key example of slow divergence.",
+    "unit": 10
+  },
+  {
+    "name": "p-Series",
+    "definition": "(BC) ∑ 1/n^p converging for p > 1, diverging otherwise, generalizing harmonic series.",
+    "unit": 10
+  },
+  {
+    "name": "Divergence Test",
+    "definition": "(BC) If lim a_n ≠ 0, the series diverges; necessary but not sufficient for convergence.",
+    "unit": 10
+  },
+  {
+    "name": "Integral Test",
+    "definition": "(BC) For positive, decreasing f(n) = a_n, ∑ a_n converges iff ∫_1^∞ f(x) dx converges.",
+    "unit": 10
+  },
+  {
+    "name": "Comparison Test",
+    "definition": "(BC) If 0 ≤ a_n ≤ b_n and ∑ b_n converges, then ∑ a_n converges; if ∑ a_n diverges, so does ∑ b_n if a_n ≤ b_n.",
+    "unit": 10
+  },
+  {
+    "name": "Limit Comparison Test",
+    "definition": "(BC) For positive a_n, b_n, if lim a_n/b_n = L > 0, then ∑ a_n and ∑ b_n both converge or diverge.",
+    "unit": 10
+  },
+  {
+    "name": "Ratio Test",
+    "definition": "(BC) If lim |a_{n+1}/a_n| = L < 1, converges; L > 1 diverges; L=1 inconclusive.",
+    "unit": 10
+  },
+  {
+    "name": "Root Test",
+    "definition": "(BC) If lim |a_n|^{1/n} = L < 1, converges; L > 1 diverges; L=1 inconclusive.",
+    "unit": 10
+  },
+  {
+    "name": "Alternating Series Test",
+    "definition": "(BC) For alternating (-1)^n b_n with b_n > 0 decreasing to 0, the series converges.",
+    "unit": 10
+  },
+  {
+    "name": "Absolute Convergence",
+    "definition": "(BC) If ∑ |a_n| converges, then ∑ a_n converges absolutely (and thus conditionally if not absolute).",
+    "unit": 10
+  },
+  {
+    "name": "Conditional Convergence",
+    "definition": "(BC) Convergence of ∑ a_n but not ∑ |a_n|, like alternating harmonic series.",
+    "unit": 10
+  },
+  {
+    "name": "Power Series",
+    "definition": "(BC) ∑ c_n (x - a)^n, converging in an interval around a, with radius R where it converges for |x - a| < R.",
+    "unit": 10
+  },
+  {
+    "name": "Taylor Series",
+    "definition": "(BC) Power series ∑ (f^{(n)}(a)/n!) (x - a)^n approximating f near a, like e^x = ∑ x^n / n!.",
+    "unit": 10
+  },
+  {
+    "name": "Maclaurin Series",
+    "definition": "(BC) Taylor series centered at a=0, common for sin x, cos x, and other elementary functions.",
+    "unit": 10
+  },
+  {
+    "name": "Lagrange Error Bound",
+    "definition": "(BC) For Taylor polynomial approximation, |error| ≤ (M/(n+1)!) |x - a|^{n+1} where |f^{(n+1)}| ≤ M.",
+    "unit": 10
+  },
+  {
+    "name": "Alternating Series Error Bound",
+    "definition": "(BC) For alternating series, error after n terms < first omitted term's absolute value.",
+    "unit": 10
+  },
+  {
+"name": "Vertical Asymptote",
+"definition": "A vertical line x = a where the function approaches positive or negative infinity as x approaches a, associated with infinite discontinuities.",
+"unit": 1
+},
+{
+"name": "Horizontal Asymptote",
+"definition": "A horizontal line y = b that the function approaches as x approaches positive or negative infinity, determined by limits at infinity.",
+"unit": 1
+},
+{
+"name": "End Behavior",
+"definition": "Describes how a function behaves as x approaches positive or negative infinity, often indicated by horizontal asymptotes or polynomial degrees.",
+"unit": 1
+},
+{
+"name": "Indeterminate Form",
+"definition": "Expressions like 0/0, ∞/∞, 0·∞, ∞-∞, 1^∞, 0^0, or ∞^0 that require additional techniques like algebraic manipulation or L'Hôpital's Rule to evaluate the limit.",
+"unit": 1
+},
+{
+"name": "Special Trigonometric Limits",
+"definition": "Fundamental limits including lim_{x→0} sin(x)/x = 1, lim_{x→0} (1 - cos(x))/x = 0, and lim_{x→0} (1 - cos(x))/x^2 = 1/2, essential for trigonometric functions.",
+"unit": 1
+},
+{
+"name": "Secant Line",
+"definition": "A straight line connecting two points on a curve, with its slope representing the average rate of change over the interval.",
+"unit": 2
+},
+{
+"name": "Logarithmic Differentiation",
+"definition": "A method involving taking the natural logarithm of both sides to differentiate complex functions, particularly useful for products, quotients, or variable exponents.",
+"unit": 3
+},
+{
+"name": "Rolle's Theorem",
+"definition": "A corollary of the Mean Value Theorem stating that if f is continuous on [a, b], differentiable on (a, b), and f(a) = f(b), then there exists c in (a, b) such that f'(c) = 0.",
+"unit": 5
+},
+{
+"name": "Inflection Point",
+"definition": "A point where the graph changes concavity, occurring where the second derivative changes sign.",
+"unit": 5
+},
+{
+"name": "Absolute Maximum",
+"definition": "The largest value a function attains on a given interval, guaranteed by the Extreme Value Theorem for continuous functions on closed intervals.",
+"unit": 5
+},
+{
+"name": "Absolute Minimum",
+"definition": "The smallest value a function attains on a given interval, guaranteed by the Extreme Value Theorem for continuous functions on closed intervals.",
+"unit": 5
+},
+{
+"name": "Midpoint Rule",
+"definition": "A Riemann sum approximation for definite integrals using the function value at the midpoint of each subinterval.",
+"unit": 6
+},
+{
+"name": "Trapezoidal Rule",
+"definition": "An approximation for definite integrals using trapezoids, calculated as the average of left and right Riemann sums for improved accuracy.",
+"unit": 6
+},
+{
+"name": "Constant of Integration",
+"definition": "The arbitrary constant C added when finding an indefinite integral, representing the family of antiderivatives.",
+"unit": 6
+},
+{
+"name": "Net Change Theorem",
+"definition": "The definite integral of a rate of change over an interval equals the net change in the quantity, a direct application of the Fundamental Theorem of Calculus.",
+"unit": 6
+},
+{
+"name": "Initial Value Problem",
+"definition": "A differential equation together with one or more initial conditions used to find a particular solution.",
+"unit": 7
+},
+{
+"name": "General Solution",
+"definition": "The complete set of solutions to a differential equation, usually including an arbitrary constant.",
+"unit": 7
+},
+{
+"name": "Particular Solution",
+"definition": "A specific solution to a differential equation obtained by applying initial conditions to the general solution.",
+"unit": 7
+},
+{
+"name": "Volume by Cross-Sections",
+"definition": "The volume of a solid formed by known cross-sectional areas perpendicular to an axis, given by the integral of the cross-sectional area function.",
+"unit": 8
+},
+{
+"name": "Tangent to Polar Curve",
+"definition": "(BC) The slope of the tangent line to a polar curve r = f(θ) is given by dy/dx = (dr/dθ sin θ + r cos θ) / (dr/dθ cos θ - r sin θ).",
+"unit": 9
+},
+{
+"name": "Arc Length in Polar Coordinates",
+"definition": "(BC) The length of a polar curve r = f(θ) from θ = α to β is ∫_α^β sqrt(r² + (dr/dθ)²) dθ.",
+"unit": 9
+},
+{
+"name": "Interval of Convergence",
+"definition": "(BC) The interval of x-values for which a power series converges, determined by the radius of convergence and endpoint tests.",
+"unit": 10
+},
+{
+"name": "Taylor Polynomial",
+"definition": "(BC) A polynomial approximation of a function f(x) around a point a, using the first n terms of its Taylor series.",
+"unit": 10
+},
+{
+"name": "Telescoping Series",
+"definition": "(BC) A series where most terms in the partial sums cancel out, leaving a simplified expression for the sum.",
+"unit": 10
+}
+]

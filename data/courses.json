@@ -1,0 +1,122 @@
+{
+  "stats": {
+    "title": "AP Statistics",
+    "emoji": "📊",
+    "description": "Master statistical concepts, probability distributions, hypothesis testing, and data analysis techniques essential for the AP Statistics exam.",
+    "color": "#e74c3c",
+    "status": "available",
+    "meta": "✅ Available • Core Concepts & Methods"
+  },
+  "csp": {
+    "title": "AP Computer Science Principles", 
+    "emoji": "💻",
+    "description": "Comprehensive reference guide covering data representation, programming fundamentals, networking protocols, and the societal impact of computing.",
+    "color": "#3498db",
+    "status": "available", 
+    "meta": "✅ Data • Programming • Networking • Impact of Computing"
+  },
+  "apush": {
+    "title": "AP US History",
+    "emoji": "🏛️", 
+    "description": "Journey through American history from pre-Columbian times to the present, focusing on key themes, historical patterns, and analytical thinking skills.",
+    "color": "#8e44ad",
+    "status": "available",
+    "meta": "✅ Themes • Analysis • Documents"
+  },
+  "chem": {
+    "title": "AP Chemistry",
+    "emoji": "🧪", 
+    "description": "Navigate atomic structure, chemical bonding, thermodynamics, kinetics, and equilibrium with comprehensive explanations and practice examples.",
+    "color": "#27ae60",
+    "status": "available",
+    "meta": "✅ Bonding • Reactions • Equilibrium"
+  },
+  "calc": {
+    "title": "AP Calculus AB/BC",
+    "emoji": "📈",
+    "description": "Explore limits, derivatives, integrals, and the fundamental theorem of calculus with step-by-step explanations and problem-solving strategies.",
+    "color": "#f39c12",
+    "status": "available",
+    "meta": "✅ Derivatives • Integrals • Applications"
+  },
+  "physics": {
+    "title": "AP Physics C: Mechanics, E&M", 
+    "emoji": "⚛️",
+    "description": "Master mechanics, electricity, and magnetism through advanced calculus-based physics concepts and comprehensive problem-solving techniques.",
+    "color": "#9b59b6",
+    "status": "available",
+    "meta": "✅ Mechanics • Electricity • Magnetism"
+  },
+  "bio": {
+    "title": "AP Biology",
+    "emoji": "🧬",
+    "description": "Explore evolution, cellular processes, genetics, and ecological systems with detailed explanations of biological principles and laboratory techniques.", 
+    "color": "#16a085",
+    "status": "available",
+    "meta": "✅ Evolution • Genetics • Ecology"
+  },
+  "psych": {
+    "title": "AP Psychology",
+    "emoji": "🧠",
+    "description": "Study biological bases of behavior, sensation and perception, learning theories, cognitive psychology, and abnormal psychology concepts.",
+    "color": "#e67e22", 
+    "status": "available",
+    "meta": "✅ Cognition • Behavior • Development"
+  },
+  "gov": {
+    "title": "AP United States Government & Politics",
+    "emoji": "⚖️",
+    "description": "Analyze the structure, function, and development of the U.S. governmental system, including constitutional foundations and political processes.",
+    "color": "#34495e", 
+    "status": "available",
+    "meta": "✅ Constitution • Branches • Civil Rights"
+  },
+  "apes": {
+    "title": "AP Environmental Science",
+    "emoji": "🌲",
+    "description": "Examine environmental systems, human impact on ecosystems, pollution control, and sustainability practices through scientific analysis.",
+    "color": "#2ecc71", 
+    "status": "available",
+    "meta": "✅ Ecosystems • Pollution • Sustainability"
+  },
+  "world": {
+    "title": "AP World History",
+    "emoji": "🌎",
+    "description": "Survey global historical developments from ancient civilizations to modern times, emphasizing comparative analysis and cross-cultural connections.",
+    "color": "#d35400", 
+    "status": "available",
+    "meta": "✅ Global Themes • Civilizations • Trade"
+  },
+  "euro": {
+    "title": "AP European History",
+    "emoji": "🏰",
+    "description": "Trace European history from the Renaissance to present, focusing on political, social, economic, and cultural transformations across centuries.",
+    "color": "#7f8c8d", 
+    "status": "available",
+    "meta": "✅ Renaissance • Revolution • Modern Europe"
+  },
+  "geo": {
+    "title": "AP Human Geography",
+    "emoji": "🗺️",
+    "description": "Investigate spatial patterns of human activity, population distribution, cultural landscapes, and the relationship between people and places.",
+    "color": "#1abc9c", 
+    "status": "available",
+    "meta": "✅ Population • Culture • Urban Planning"
+  },
+  "lang": {
+    "title": "AP English Language & Composition",
+    "emoji": "✍️",
+    "description": "Develop advanced writing and rhetorical analysis skills through the study of persuasive writing, argument construction, and stylistic techniques.",
+    "color": "#c0392b", 
+    "status": "coming-soon",
+    "meta": "🚧 Rhetoric • Arguments • Style"
+  },
+  "lit": {
+    "title": "AP English Literature & Composition",
+    "emoji": "📚",
+    "description": "Analyze literary works from various periods and cultures, exploring themes, techniques, and the artistry of poetry, drama, and fiction.",
+    "color": "#8c3b6b", 
+    "status": "coming-soon",
+    "meta": "🚧 Poetry • Drama • Literary Analysis"
+  }
+}

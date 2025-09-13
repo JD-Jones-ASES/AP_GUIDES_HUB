@@ -1,0 +1,872 @@
+[
+  {
+    "name": "Democracy",
+    "definition": "A system of government where power is vested in the people, either directly or through elected representatives, emphasizing majority rule with protections for minority rights, as seen in the U.S. through elections and the Bill of Rights.",
+    "unit": 1
+  },
+  {
+    "name": "Republicanism",
+    "definition": "A form of government where elected representatives make decisions on behalf of the people, rooted in the U.S. Constitution to prevent the excesses of direct democracy, as argued in Federalist No. 10 against factions.",
+    "unit": 1
+  },
+  {
+    "name": "Federalism",
+    "definition": "The division of power between national and state governments, allowing for shared sovereignty, exemplified by the Supremacy Clause and the 10th Amendment, which reserves powers to the states.",
+    "unit": 1
+  },
+  {
+    "name": "Separation of Powers",
+    "definition": "The distribution of government authority among legislative, executive, and judicial branches to prevent any one from dominating, as outlined in Articles I, II, and III of the Constitution.",
+    "unit": 1
+  },
+  {
+    "name": "Checks and Balances",
+    "definition": "Mechanisms allowing each branch of government to limit the powers of the others, such as presidential vetoes, congressional overrides, and judicial review, ensuring no branch becomes tyrannical.",
+    "unit": 1
+  },
+  {
+    "name": "Limited Government",
+    "definition": "The principle that government power is restricted by laws and a constitution to protect individual rights, contrasting with absolute monarchies, and enforced through the Bill of Rights.",
+    "unit": 1
+  },
+  {
+    "name": "Popular Sovereignty",
+    "definition": "The idea that the authority of government derives from the consent of the governed, reflected in the Preamble's 'We the People' and the electoral process.",
+    "unit": 1
+  },
+  {
+    "name": "Natural Rights",
+    "definition": "Inherent rights to life, liberty, and property, as articulated by John Locke, influencing the Declaration of Independence's assertion that governments exist to secure these rights.",
+    "unit": 1
+  },
+  {
+    "name": "Social Contract Theory",
+    "definition": "The philosophical concept, from thinkers like Locke and Rousseau, that individuals consent to form governments for protection of rights, with the right to revolt if the contract is broken.",
+    "unit": 1
+  },
+  {
+    "name": "Declaration of Independence",
+    "definition": "1776 document by Thomas Jefferson declaring the colonies' break from Britain, listing grievances against King George III and asserting natural rights and the right to revolution.",
+    "unit": 1
+  },
+  {
+    "name": "Articles of Confederation",
+    "definition": "The first U.S. constitution (1781-1789), creating a weak national government with no executive or judiciary, leading to issues like Shays' Rebellion and prompting the Constitutional Convention.",
+    "unit": 1
+  },
+  {
+    "name": "Shays' Rebellion",
+    "definition": "1786-1787 uprising by Massachusetts farmers against debt and taxes, exposing the weaknesses of the Articles of Confederation and accelerating calls for a stronger federal government.",
+    "unit": 1
+  },
+  {
+    "name": "Constitutional Convention",
+    "definition": "1787 Philadelphia meeting to revise the Articles, resulting in a new Constitution through compromises like the Great Compromise and Three-Fifths Compromise.",
+    "unit": 1
+  },
+  {
+    "name": "Great Compromise",
+    "definition": "Agreement at the Constitutional Convention creating a bicameral Congress with proportional representation in the House and equal in the Senate, balancing large and small states.",
+    "unit": 1
+  },
+  {
+    "name": "Three-Fifths Compromise",
+    "definition": "Constitutional provision counting enslaved persons as three-fifths for representation and taxation, giving Southern states more power in the House and Electoral College.",
+    "unit": 1
+  },
+  {
+    "name": "Electoral College",
+    "definition": "The body that elects the president, with electors allocated by state population plus senators, designed as a compromise between popular vote and congressional selection.",
+    "unit": 1
+  },
+  {
+    "name": "Federalist Papers",
+    "definition": "Series of 85 essays by Hamilton, Madison, and Jay promoting Constitution ratification, providing insights into framers' intent on issues like federalism and separation of powers.",
+    "unit": 1
+  },
+  {
+    "name": "Federalist No. 10",
+    "definition": "Madison's essay arguing that a large republic best controls factions through diversity and representation, countering Anti-Federalist fears of majority tyranny.",
+    "unit": 1
+  },
+  {
+    "name": "Federalist No. 51",
+    "definition": "Madison's defense of checks and balances, stating 'ambition must be made to counteract ambition' to protect liberty in a compound republic.",
+    "unit": 1
+  },
+  {
+    "name": "Brutus No. 1",
+    "definition": "Anti-Federalist essay warning that a strong national government would threaten state sovereignty and individual liberties, advocating for a Bill of Rights.",
+    "unit": 1
+  },
+  {
+    "name": "Anti-Federalists",
+    "definition": "Opponents of the Constitution, like Patrick Henry, fearing centralized power and demanding a Bill of Rights to protect states and individuals.",
+    "unit": 1
+  },
+  {
+    "name": "Bill of Rights",
+    "definition": "First 10 amendments to the Constitution (1791), guaranteeing freedoms like speech, religion, and due process, added to appease Anti-Federalists.",
+    "unit": 1
+  },
+  {
+    "name": "Enumerated Powers",
+    "definition": "Specific powers granted to Congress in Article I, Section 8, such as taxing, regulating commerce, and declaring war.",
+    "unit": 1
+  },
+  {
+    "name": "Implied Powers",
+    "definition": "Powers not explicitly stated but necessary to carry out enumerated powers, justified by the Necessary and Proper Clause, as in McCulloch v. Maryland.",
+    "unit": 1
+  },
+  {
+    "name": "Reserved Powers",
+    "definition": "Powers not delegated to the federal government nor prohibited to states, reserved to states or people under the 10th Amendment, like education and police.",
+    "unit": 1
+  },
+  {
+    "name": "Concurrent Powers",
+    "definition": "Powers shared by federal and state governments, such as taxation, borrowing money, and establishing courts.",
+    "unit": 1
+  },
+  {
+    "name": "Supremacy Clause",
+    "definition": "Article VI provision making the Constitution and federal laws the 'supreme law of the land,' preempting conflicting state laws.",
+    "unit": 1
+  },
+  {
+    "name": "Necessary and Proper Clause",
+    "definition": "Article I, Section 8 clause allowing Congress to make laws needed to execute its powers, basis for implied powers and elastic interpretation.",
+    "unit": 1
+  },
+  {
+    "name": "Commerce Clause",
+    "definition": "Article I, Section 8 power for Congress to regulate interstate commerce, expanded to cover broad economic activities in cases like Gibbons v. Ogden.",
+    "unit": 1
+  },
+  {
+    "name": "Full Faith and Credit Clause",
+    "definition": "Article IV requirement that states respect public acts, records, and judicial proceedings of other states, like marriages and judgments.",
+    "unit": 1
+  },
+  {
+    "name": "Privileges and Immunities Clause",
+    "definition": "Article IV protection ensuring citizens receive equal treatment in other states, preventing discrimination against out-of-staters.",
+    "unit": 1
+  },
+  {
+    "name": "Extradition Clause",
+    "definition": "Article IV provision requiring states to return fugitives from justice to the state where the crime was committed.",
+    "unit": 1
+  },
+  {
+    "name": "Categorical Grants",
+    "definition": "Federal funds to states for specific purposes with strict conditions, like Medicaid, giving the national government influence over state policies.",
+    "unit": 1
+  },
+  {
+    "name": "Block Grants",
+    "definition": "Federal funds to states for broad purposes with more flexibility, like community development, preferred by states for autonomy.",
+    "unit": 1
+  },
+  {
+    "name": "Unfunded Mandates",
+    "definition": "Federal requirements on states without funding, like Clean Air Act standards, straining state budgets and sparking reform efforts.",
+    "unit": 1
+  },
+  {
+    "name": "Devolution",
+    "definition": "Transfer of power from federal to state governments, as in 1990s welfare reform, reflecting conservative push for local control.",
+    "unit": 1
+  },
+  {
+    "name": "Dual Federalism",
+    "definition": "Layer cake model where federal and state governments operate separately in distinct spheres, dominant pre-New Deal.",
+    "unit": 1
+  },
+  {
+    "name": "Cooperative Federalism",
+    "definition": "Marble cake model of intermingled federal-state responsibilities, expanded during New Deal with shared programs like Social Security.",
+    "unit": 1
+  },
+  {
+    "name": "Marbury v. Madison",
+    "definition": "1803 case establishing judicial review, allowing courts to strike down unconstitutional laws, empowering the judiciary as a co-equal branch.",
+    "unit": 1
+  },
+  {
+    "name": "McCulloch v. Maryland",
+    "definition": "1819 case upholding national bank and federal supremacy, affirming implied powers under Necessary and Proper Clause against state taxation.",
+    "unit": 1
+  },
+  {
+    "name": "United States v. Lopez",
+    "definition": "1995 case striking down Gun-Free School Zones Act as exceeding Commerce Clause, limiting federal power and signaling new federalism.",
+    "unit": 1
+  },
+  {
+    "name": "Congress",
+    "definition": "The legislative branch under Article I, bicameral with House (435 members, 2-year terms) and Senate (100 members, 6-year terms), responsible for lawmaking.",
+    "unit": 2
+  },
+  {
+    "name": "Expressed Powers",
+    "definition": "Powers explicitly granted to Congress in the Constitution, such as declaring war, coining money, and regulating interstate commerce.",
+    "unit": 2
+  },
+  {
+    "name": "Inherent Powers",
+    "definition": "Powers assumed by the national government as necessary for sovereignty, like immigration control, not explicitly listed but derived from nationhood.",
+    "unit": 2
+  },
+  {
+    "name": "Speaker of the House",
+    "definition": "Presiding officer of the House, second in presidential succession, controlling debate and committee assignments, often the majority party's leader.",
+    "unit": 2
+  },
+  {
+    "name": "Senate Majority Leader",
+    "definition": "Leader of the Senate's majority party, scheduling bills and managing floor action, wielding significant influence over legislation.",
+    "unit": 2
+  },
+  {
+    "name": "Filibuster",
+    "definition": "Senate tactic of unlimited debate to delay or block bills, ended by cloture vote requiring 60 senators, protecting minority rights.",
+    "unit": 2
+  },
+  {
+    "name": "Cloture",
+    "definition": "Procedure to end Senate filibuster with three-fifths vote (60 senators), limiting debate to 30 hours per member.",
+    "unit": 2
+  },
+  {
+    "name": "Standing Committees",
+    "definition": "Permanent congressional committees handling specific policy areas, like House Ways and Means for taxes, where most bill work occurs.",
+    "unit": 2
+  },
+  {
+    "name": "Conference Committees",
+    "definition": "Temporary joint committees reconciling House and Senate bill versions, producing compromise legislation for final votes.",
+    "unit": 2
+  },
+  {
+    "name": "Pork Barrel Spending",
+    "definition": "Legislative appropriations for local projects to benefit constituents, often criticized as wasteful but used to secure reelection.",
+    "unit": 2
+  },
+  {
+    "name": "Logrolling",
+    "definition": "Trading votes among legislators to pass favored projects, facilitating passage of bills with narrow support.",
+    "unit": 2
+  },
+  {
+    "name": "Oversight",
+    "definition": "Congressional review of executive implementation of laws, through hearings and investigations, ensuring accountability.",
+    "unit": 2
+  },
+  {
+    "name": "Gerrymandering",
+    "definition": "Drawing district boundaries to favor one party or group, often creating oddly shaped districts, challenged in cases like Shaw v. Reno.",
+    "unit": 2
+  },
+  {
+    "name": "Incumbency Advantage",
+    "definition": "Edge held by sitting members of Congress in reelection, due to name recognition, franking, and fundraising, leading to high reelection rates.",
+    "unit": 2
+  },
+  {
+    "name": "President",
+    "definition": "Executive branch head under Article II, with powers like veto, commander-in-chief, and appointments, serving 4-year terms limited to two.",
+    "unit": 2
+  },
+  {
+    "name": "Veto",
+    "definition": "Presidential rejection of congressional bills, overridden by two-thirds vote in both houses, used as a check on legislation.",
+    "unit": 2
+  },
+  {
+    "name": "Pocket Veto",
+    "definition": "President's indirect veto by not signing a bill within 10 days when Congress adjourns, preventing override.",
+    "unit": 2
+  },
+  {
+    "name": "Executive Orders",
+    "definition": "Directives with force of law issued by the president to manage federal operations, like DACA, subject to judicial review.",
+    "unit": 2
+  },
+  {
+    "name": "Signing Statements",
+    "definition": "Presidential comments when signing bills, sometimes indicating intent not to enforce parts, controversial as line-item veto substitute.",
+    "unit": 2
+  },
+  {
+    "name": "Commander-in-Chief",
+    "definition": "Presidential role leading armed forces, authorizing military actions, though Congress declares war, as in post-9/11 authorizations.",
+    "unit": 2
+  },
+  {
+    "name": "Executive Agreements",
+    "definition": "International pacts made by president without Senate approval, unlike treaties, used for less formal commitments.",
+    "unit": 2
+  },
+  {
+    "name": "State of the Union Address",
+    "definition": "Annual presidential speech to Congress outlining agenda and policy priorities, fulfilling constitutional duty to inform.",
+    "unit": 2
+  },
+  {
+    "name": "Impeachment",
+    "definition": "House process charging officials with 'high crimes and misdemeanors,' followed by Senate trial, as in cases of Clinton and Trump.",
+    "unit": 2
+  },
+  {
+    "name": "25th Amendment",
+    "definition": "1967 amendment addressing presidential disability and succession, allowing VP and cabinet to declare president unfit.",
+    "unit": 2
+  },
+  {
+    "name": "White House Staff",
+    "definition": "Personal aides to the president, like Chief of Staff, providing advice and managing operations without Senate confirmation.",
+    "unit": 2
+  },
+  {
+    "name": "Executive Office of the President (EOP)",
+    "definition": "Agencies like OMB and NSC supporting presidential policy-making, institutionalized in 1939 for complex governance.",
+    "unit": 2
+  },
+  {
+    "name": "Office of Management and Budget (OMB)",
+    "definition": "EOP agency preparing federal budget and reviewing regulations, central to presidential control over bureaucracy.",
+    "unit": 2
+  },
+  {
+    "name": "Bureaucracy",
+    "definition": "Hierarchical executive agencies implementing laws, like EPA, characterized by specialization, rules, and merit-based hiring.",
+    "unit": 2
+  },
+  {
+    "name": "Iron Triangle",
+    "definition": "Alliance among congressional committees, interest groups, and agencies promoting mutual interests, like defense contractors and Pentagon.",
+    "unit": 2
+  },
+  {
+    "name": "Issue Networks",
+    "definition": "Fluid coalitions of experts, officials, and advocates influencing policy, more dynamic than iron triangles in complex issues.",
+    "unit": 2
+  },
+  {
+    "name": "Merit System",
+    "definition": "Civil service hiring based on qualifications, established by Pendleton Act to reduce spoils system corruption.",
+    "unit": 2
+  },
+  {
+    "name": "Judiciary",
+    "definition": "Article III branch interpreting laws, with Supreme Court at apex, lifetime appointments ensuring independence.",
+    "unit": 2
+  },
+  {
+    "name": "Judicial Review",
+    "definition": "Power to declare acts unconstitutional, established in Marbury v. Madison, checking other branches.",
+    "unit": 2
+  },
+  {
+    "name": "Original Jurisdiction",
+    "definition": "Court's authority to hear cases first, like Supreme Court in state disputes or ambassador cases.",
+    "unit": 2
+  },
+  {
+    "name": "Appellate Jurisdiction",
+    "definition": "Authority to review lower court decisions, comprising most Supreme Court cases via certiorari.",
+    "unit": 2
+  },
+  {
+    "name": "Writ of Certiorari",
+    "definition": "Order for lower courts to send records for review, granted by 'rule of four' on Supreme Court.",
+    "unit": 2
+  },
+  {
+    "name": "Amicus Curiae Briefs",
+    "definition": "Friend of the court submissions by non-parties, influencing Supreme Court with arguments and information.",
+    "unit": 2
+  },
+  {
+    "name": "Stare Decisis",
+    "definition": "Principle of following precedents, promoting legal stability, though courts can overrule as in Brown v. Board.",
+    "unit": 2
+  },
+  {
+    "name": "Judicial Activism",
+    "definition": "Approach where judges interpret Constitution broadly to address social issues, criticized as overreach.",
+    "unit": 2
+  },
+  {
+    "name": "Judicial Restraint",
+    "definition": "Philosophy deferring to elected branches, interpreting laws narrowly and avoiding policy-making.",
+    "unit": 2
+  },
+  {
+    "name": "Federalist No. 78",
+    "definition": "Hamilton's essay defending judicial independence and lifetime tenure, calling judiciary the 'least dangerous' branch.",
+    "unit": 2
+  },
+  {
+    "name": "Civil Liberties",
+    "definition": "Protections against government actions, like freedoms in the Bill of Rights, limiting what government can do to individuals.",
+    "unit": 3
+  },
+  {
+    "name": "Civil Rights",
+    "definition": "Protections ensuring equal treatment under law, often requiring government action against discrimination, as in the 14th Amendment.",
+    "unit": 3
+  },
+  {
+    "name": "Selective Incorporation",
+    "definition": "Process applying Bill of Rights to states via 14th Amendment's Due Process Clause, case by case, like Gitlow v. New York for speech.",
+    "unit": 3
+  },
+  {
+    "name": "Due Process Clause",
+    "definition": "14th Amendment prohibition against depriving life, liberty, or property without fair procedures, basis for incorporation.",
+    "unit": 3
+  },
+  {
+    "name": "Equal Protection Clause",
+    "definition": "14th Amendment requirement for states to treat individuals equally, foundation for civil rights cases like Brown v. Board.",
+    "unit": 3
+  },
+  {
+    "name": "Establishment Clause",
+    "definition": "First Amendment ban on government establishing religion, interpreted via Lemon Test to avoid advancing or inhibiting religion.",
+    "unit": 3
+  },
+  {
+    "name": "Free Exercise Clause",
+    "definition": "First Amendment protection for religious practices, balanced against compelling government interests, as in Employment Division v. Smith.",
+    "unit": 3
+  },
+  {
+    "name": "Freedom of Speech",
+    "definition": "First Amendment right to express ideas, protected unless clear and present danger, as in Schenck v. United States.",
+    "unit": 3
+  },
+  {
+    "name": "Prior Restraint",
+    "definition": "Government censorship before publication, rarely allowed, as struck down in New York Times v. United States (Pentagon Papers).",
+    "unit": 3
+  },
+  {
+    "name": "Libel",
+    "definition": "False written statements damaging reputation, protected for public figures unless actual malice, per New York Times v. Sullivan.",
+    "unit": 3
+  },
+  {
+    "name": "Symbolic Speech",
+    "definition": "Non-verbal expression like flag burning, protected if message is clear, as in Texas v. Johnson.",
+    "unit": 3
+  },
+  {
+    "name": "Freedom of the Press",
+    "definition": "First Amendment right for media to publish without censorship, crucial for democracy, limited in cases like national security.",
+    "unit": 3
+  },
+  {
+    "name": "Freedom of Assembly",
+    "definition": "First Amendment right to gather peacefully, subject to time, place, manner restrictions, essential for protests.",
+    "unit": 3
+  },
+  {
+    "name": "Right to Petition",
+    "definition": "First Amendment right to address government grievances, including lobbying and lawsuits.",
+    "unit": 3
+  },
+  {
+    "name": "Second Amendment",
+    "definition": "Right to bear arms, interpreted as individual right in District of Columbia v. Heller, balanced with regulations.",
+    "unit": 3
+  },
+  {
+    "name": "Search and Seizure",
+    "definition": "Fourth Amendment protection against unreasonable searches, requiring warrants based on probable cause, with exceptions like exigent circumstances.",
+    "unit": 3
+  },
+  {
+    "name": "Exclusionary Rule",
+    "definition": "Doctrine barring illegally obtained evidence from trials, established in Mapp v. Ohio to deter police misconduct.",
+    "unit": 3
+  },
+  {
+    "name": "Self-Incrimination",
+    "definition": "Fifth Amendment protection against forced testimony, extended to warnings in Miranda v. Arizona.",
+    "unit": 3
+  },
+  {
+    "name": "Double Jeopardy",
+    "definition": "Fifth Amendment ban on retrying for the same crime after acquittal or conviction.",
+    "unit": 3
+  },
+  {
+    "name": "Eminent Domain",
+    "definition": "Fifth Amendment power to take private property for public use with compensation, expanded in Kelo v. New London.",
+    "unit": 3
+  },
+  {
+    "name": "Right to Counsel",
+    "definition": "Sixth Amendment guarantee of lawyer in criminal trials, extended to state felonies in Gideon v. Wainwright.",
+    "unit": 3
+  },
+  {
+    "name": "Speedy and Public Trial",
+    "definition": "Sixth Amendment rights to prompt and open proceedings, preventing secret justice.",
+    "unit": 3
+  },
+  {
+    "name": "Trial by Jury",
+    "definition": "Sixth and Seventh Amendment rights to impartial jury in criminal and civil cases.",
+    "unit": 3
+  },
+  {
+    "name": "Cruel and Unusual Punishment",
+    "definition": "Eighth Amendment ban on excessive penalties, debated in death penalty cases like Furman v. Georgia.",
+    "unit": 3
+  },
+  {
+    "name": "Right to Privacy",
+    "definition": "Implied right from several amendments, basis for reproductive rights in Roe v. Wade, later modified.",
+    "unit": 3
+  },
+  {
+    "name": "13th Amendment",
+    "definition": "1865 abolition of slavery, except as punishment for crime, ending chattel slavery post-Civil War.",
+    "unit": 3
+  },
+  {
+    "name": "14th Amendment",
+    "definition": "1868 grant of citizenship, due process, and equal protection, pivotal for civil rights and incorporation.",
+    "unit": 3
+  },
+  {
+    "name": "15th Amendment",
+    "definition": "1870 prohibition on denying vote based on race, though circumvented by Jim Crow until Voting Rights Act.",
+    "unit": 3
+  },
+  {
+    "name": "Jim Crow Laws",
+    "definition": "Segregation statutes in South, upheld in Plessy v. Ferguson as 'separate but equal,' dismantled by civil rights movement.",
+    "unit": 3
+  },
+  {
+    "name": "De Jure Segregation",
+    "definition": "Segregation mandated by law, like in schools before Brown v. Board of Education overturned it.",
+    "unit": 3
+  },
+  {
+    "name": "De Facto Segregation",
+    "definition": "Segregation resulting from social practices, like residential patterns, persisting after legal bans.",
+    "unit": 3
+  },
+  {
+    "name": "Affirmative Action",
+    "definition": "Policies favoring underrepresented groups in hiring/education, upheld with limits in Grutter v. Bollinger.",
+    "unit": 3
+  },
+  {
+    "name": "Letter from Birmingham Jail",
+    "definition": "1963 MLK essay defending nonviolent protest against unjust laws, arguing 'injustice anywhere is a threat to justice everywhere.'",
+    "unit": 3
+  },
+  {
+    "name": "Schenck v. United States",
+    "definition": "1919 case upholding Espionage Act conviction, establishing 'clear and present danger' test for speech limits.",
+    "unit": 3
+  },
+  {
+    "name": "Tinker v. Des Moines",
+    "definition": "1969 ruling protecting student symbolic speech (armbands), unless substantial disruption, affirming 'students do not shed rights at schoolhouse gate.'",
+    "unit": 3
+  },
+  {
+    "name": "New York Times v. United States",
+    "definition": "1971 case blocking prior restraint on Pentagon Papers, reinforcing press freedom against national security claims.",
+    "unit": 3
+  },
+  {
+    "name": "Wisconsin v. Yoder",
+    "definition": "1972 ruling exempting Amish children from compulsory education laws on free exercise grounds, balancing state interests.",
+    "unit": 3
+  },
+  {
+    "name": "Roe v. Wade",
+    "definition": "1973 decision legalizing abortion under privacy right, later overturned in Dobbs v. Jackson Women's Health Organization.",
+    "unit": 3
+  },
+  {
+    "name": "Shaw v. Reno",
+    "definition": "1993 case invalidating racial gerrymandering unless narrowly tailored, applying strict scrutiny to race-based districts.",
+    "unit": 3
+  },
+  {
+    "name": "Baker v. Carr",
+    "definition": "1962 ruling allowing federal courts to hear reapportionment cases, leading to 'one person, one vote' principle.",
+    "unit": 3
+  },
+  {
+    "name": "Engel v. Vitale",
+    "definition": "1962 ban on school-sponsored prayer, violating Establishment Clause, separating church and state in education.",
+    "unit": 3
+  },
+  {
+    "name": "Gideon v. Wainwright",
+    "definition": "1963 requiring states to provide counsel for indigent defendants in felonies, incorporating Sixth Amendment.",
+    "unit": 3
+  },
+  {
+    "name": "Miranda v. Arizona",
+    "definition": "1966 mandating warnings of rights before custodial interrogation, protecting against self-incrimination.",
+    "unit": 3
+  },
+  {
+    "name": "Citizens United v. FEC",
+    "definition": "2010 ruling equating corporate political spending with free speech, allowing unlimited independent expenditures.",
+    "unit": 3
+  },
+  {
+    "name": "Political Ideology",
+    "definition": "Set of beliefs about government's role, like liberalism favoring intervention for equality, conservatism emphasizing limited government and tradition.",
+    "unit": 4
+  },
+  {
+    "name": "Liberalism",
+    "definition": "Ideology supporting government action for social welfare, civil rights, and regulation, associated with Democrats.",
+    "unit": 4
+  },
+  {
+    "name": "Conservatism",
+    "definition": "Ideology advocating limited government, free markets, traditional values, and strong defense, linked to Republicans.",
+    "unit": 4
+  },
+  {
+    "name": "Libertarianism",
+    "definition": "Ideology favoring minimal government in economic and personal matters, emphasizing individual liberty and free markets.",
+    "unit": 4
+  },
+  {
+    "name": "Fiscal Policy",
+    "definition": "Government use of taxing and spending to influence economy, like stimulus during recessions.",
+    "unit": 4
+  },
+  {
+    "name": "Monetary Policy",
+    "definition": "Federal Reserve actions controlling money supply and interest rates to manage inflation and unemployment.",
+    "unit": 4
+  },
+  {
+    "name": "Public Opinion",
+    "definition": "Aggregate views of citizens on issues, measured by polls, influencing policy through responsiveness.",
+    "unit": 4
+  },
+  {
+    "name": "Political Socialization",
+    "definition": "Process forming political beliefs through family, schools, media, and peers, shaping ideologies over time.",
+    "unit": 4
+  },
+  {
+    "name": "Demographics",
+    "definition": "Population characteristics like age, race, gender affecting political views, e.g., young voters leaning liberal.",
+    "unit": 4
+  },
+  {
+    "name": "Polling",
+    "definition": "Surveys measuring public opinion, with random sampling for accuracy, but issues like margin of error.",
+    "unit": 4
+  },
+  {
+    "name": "Push Polls",
+    "definition": "Biased surveys spreading misinformation under guise of polling, used in campaigns to sway voters.",
+    "unit": 4
+  },
+  {
+    "name": "Straw Polls",
+    "definition": "Informal, non-scientific surveys gauging opinion, like early party caucuses.",
+    "unit": 4
+  },
+  {
+    "name": "Political Participation",
+    "definition": "Activities like voting, campaigning, protesting influencing government, essential for democracy.",
+    "unit": 5
+  },
+  {
+    "name": "Suffrage",
+    "definition": "Right to vote, expanded through amendments like 19th for women, 26th for 18-year-olds.",
+    "unit": 5
+  },
+  {
+    "name": "Voter Turnout",
+    "definition": "Percentage of eligible voters participating, higher in presidential elections, affected by barriers like registration.",
+    "unit": 5
+  },
+  {
+    "name": "Political Parties",
+    "definition": "Organizations seeking power through elections, like Democrats and Republicans, providing cues and mobilizing voters.",
+    "unit": 5
+  },
+  {
+    "name": "Party Platforms",
+    "definition": "Statements of party principles and policies, adopted at conventions, guiding candidates.",
+    "unit": 5
+  },
+  {
+    "name": "Third Parties",
+    "definition": "Minor parties like Greens or Libertarians, often issue-focused, facing winner-take-all barriers.",
+    "unit": 5
+  },
+  {
+    "name": "Interest Groups",
+    "definition": "Organizations advocating for specific causes, like NRA or Sierra Club, influencing policy through lobbying and PACs.",
+    "unit": 5
+  },
+  {
+    "name": "Lobbying",
+    "definition": "Efforts to influence officials, through direct contact or grassroots, regulated but central to pluralism.",
+    "unit": 5
+  },
+  {
+    "name": "Political Action Committees (PACs)",
+    "definition": "Groups raising funds for candidates, limited in contributions but influential in elections.",
+    "unit": 5
+  },
+  {
+    "name": "Super PACs",
+    "definition": "Independent expenditure committees post-Citizens United, raising unlimited funds without coordinating with candidates.",
+    "unit": 5
+  },
+  {
+    "name": "Media",
+    "definition": "News outlets shaping public opinion and agenda, with roles in watchdog and gatekeeping.",
+    "unit": 5
+  },
+  {
+    "name": "Agenda Setting",
+    "definition": "Media's influence on what issues public considers important, through coverage emphasis.",
+    "unit": 5
+  },
+  {
+    "name": "Framing",
+    "definition": "Media presentation of issues influencing interpretation, like portraying events as crises.",
+    "unit": 5
+  },
+  {
+    "name": "Primaries and Caucuses",
+    "definition": "Methods for selecting party nominees, with open/closed variants affecting participation.",
+    "unit": 5
+  },
+  {
+    "name": "National Conventions",
+    "definition": "Party gatherings nominating candidates, adopting platforms, and unifying for general election.",
+    "unit": 5
+  },
+  {
+    "name": "Campaign Finance",
+    "definition": "Rules on money in elections, reformed by FECA and BCRA, but loosened by Citizens United.",
+    "unit": 5
+  },
+  {
+    "name": "Soft Money",
+    "definition": "Unlimited contributions to parties for 'party-building,' banned by BCRA but revived in forms.",
+    "unit": 5
+  },
+  {
+    "name": "Hard Money",
+    "definition": "Regulated direct contributions to candidates, limited by federal laws.",
+    "unit": 5
+  },
+  {
+    "name": "Winner-Take-All",
+    "definition": "Electoral system awarding all delegates or electors to plurality winner, reinforcing two-party system.",
+    "unit": 5
+  },
+  {
+    "name": "McCutcheon v. FEC",
+    "definition": "2014 ruling striking aggregate contribution limits, allowing more donations to multiple candidates.",
+    "unit": 5
+  },
+{
+"name": "Constitution of the United States",
+"definition": "The foundational document establishing the structure of the federal government, including the three branches, federalism, and individual rights protections, ratified in 1788 and serving as the supreme law of the land.",
+"unit": 1
+},
+{
+"name": "Federalist No. 70",
+"definition": "Alexander Hamilton's essay advocating for a unitary executive with sufficient energy and accountability, arguing against a plural executive to ensure effective governance.",
+"unit": 2
+},
+{
+"name": "Brown v. Board of Education",
+"definition": "1954 Supreme Court decision declaring segregated public schools inherently unequal and unconstitutional under the Equal Protection Clause, overturning Plessy v. Ferguson and advancing desegregation.",
+"unit": 3
+},
+{
+"name": "McDonald v. Chicago",
+"definition": "2010 Supreme Court case incorporating the Second Amendment to the states via the Fourteenth Amendment's Due Process Clause, affirming an individual's right to possess firearms for self-defense.",
+"unit": 3
+},
+{
+"name": "Plessy v. Ferguson",
+"definition": "1896 Supreme Court case establishing the 'separate but equal' doctrine, upholding racial segregation laws and providing legal justification for Jim Crow until overruled by Brown v. Board of Education.",
+"unit": 3
+},
+{
+"name": "Gibbons v. Ogden",
+"definition": "1824 Supreme Court case broadly interpreting the Commerce Clause to include navigation, affirming federal authority over interstate commerce and limiting state powers.",
+"unit": 1
+},
+{
+"name": "New York Times Co. v. Sullivan",
+"definition": "1964 Supreme Court case requiring proof of 'actual malice' for public officials to win libel suits, protecting press freedom and criticism of government.",
+"unit": 3
+},
+{
+"name": "Civil Rights Act of 1964",
+"definition": "Landmark legislation prohibiting discrimination based on race, color, religion, sex, or national origin in public accommodations, employment, and federally funded programs.",
+"unit": 3
+},
+{
+"name": "Voting Rights Act of 1965",
+"definition": "Federal law eliminating barriers to African American voting, such as literacy tests, and requiring preclearance for changes in voting laws in certain jurisdictions, later partially invalidated in Shelby County v. Holder.",
+"unit": 3
+},
+{
+"name": "War Powers Resolution",
+"definition": "1973 act requiring the president to consult Congress before introducing U.S. forces into hostilities and to withdraw them within 60 days without congressional authorization, aiming to check executive war-making.",
+"unit": 2
+},
+{
+"name": "Pluralism",
+"definition": "Theory of democracy where multiple groups compete for influence, leading to compromise and representation of diverse interests through interest groups and elections.",
+"unit": 1
+},
+{
+"name": "Elite Theory",
+"definition": "Perspective that power is concentrated among a small elite group, such as wealthy or educated individuals, who dominate decision-making regardless of democratic processes.",
+"unit": 1
+},
+{
+"name": "Hyperpluralism",
+"definition": "View that too many competing groups lead to policy gridlock and government inability to act effectively, weakening democracy.",
+"unit": 1
+},
+{
+"name": "19th Amendment",
+"definition": "1920 constitutional amendment granting women the right to vote, marking a major expansion of suffrage after the women's rights movement.",
+"unit": 5
+},
+{
+"name": "24th Amendment",
+"definition": "1964 amendment prohibiting poll taxes in federal elections, removing a barrier to voting particularly affecting low-income and minority voters.",
+"unit": 5
+},
+{
+"name": "26th Amendment",
+"definition": "1971 amendment lowering the voting age to 18, in response to arguments that those old enough to be drafted should vote.",
+"unit": 5
+}
+]
