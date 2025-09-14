@@ -318,6 +318,130 @@ body {
     opacity: 1;
 }
 
+
+/* Enhanced Footer Styles */
+.enhanced-footer {
+    background: linear-gradient(135deg, var(--bg-gradient-start), var(--accent-color));
+    color: white;
+    padding: 40px 30px 25px;
+    position: relative;
+    overflow: hidden;
+    margin-top: 40px;
+}
+
+.enhanced-footer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+}
+
+.footer-content {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 40px;
+    align-items: start;
+}
+
+.footer-section {
+    text-align: center;
+}
+
+.footer-section h4 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.disclaimer-text {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    opacity: 0.9;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+}
+
+.footer-link {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+    font-size: 0.95rem;
+}
+
+.footer-link:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+    text-decoration: none;
+}
+
+.footer-emoji {
+    font-size: 1.1em;
+}
+
+.paypal-note {
+    font-size: 0.85rem;
+    opacity: 0.8;
+    margin-top: 8px;
+    font-style: italic;
+}
+
+.copyright-text {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    opacity: 0.9;
+    background: rgba(255, 255, 255, 0.08);
+    padding: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Footer Responsive Design */
+@media (max-width: 768px) {
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+
+    .enhanced-footer {
+        padding: 30px 20px 20px;
+    }
+
+    .disclaimer-text {
+        font-size: 0.9rem;
+        padding: 16px;
+    }
+
+    .footer-section h4 {
+        font-size: 1rem;
+    }
+}
+
+
 [data-theme="dark"] .unit-badge {
     background: linear-gradient(135deg, var(--accent-color) 0%, #4a4a5e 100%);
     box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
