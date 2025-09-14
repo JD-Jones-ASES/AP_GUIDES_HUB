@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AP Guides Hub</title>
+    <link rel="stylesheet" href="ap-guides-styles.css">
     <style>
         * {
             margin: 0;
@@ -243,21 +244,6 @@
             font-weight: 600;
         }
 
-        .enhanced-footer * {
-            text-align: center !important;
-        }
-
-        .footer {
-            background: var(--bg-gradient-start);
-            color: white;
-            text-align: center;
-            padding: 30px;
-            transition: all 0.3s ease;
-        }
-
-        .footer p {
-            opacity: 0.8;
-        }
 
         @media (max-width: 768px) {
             .header {
@@ -373,43 +359,50 @@
             <!-- Guides will be populated by JavaScript -->
         </div>
 
-        <div class="enhanced-footer">
-        <div class="footer-content">
-            <!-- AI Disclaimer Section -->
-            <div class="footer-section">
-                <h4>🤖 AI Generation Disclaimer</h4>
-                <div class="disclaimer-text">
-                    <strong>Important:</strong> This site was created using <strong>Super Grok</strong> and <strong>Claude Sonnet 4</strong> generative AI tools. While we strive for accuracy, AI-generated content may contain errors or incorrectly labeled information. <strong>Always verify information with multiple sources</strong> and consult your textbooks, teachers, and official AP resources for your studies.
+<div class="enhanced-footer">
+            <div class="footer-content">
+                <!-- AI Disclaimer Section -->
+                <div class="footer-section">
+                    <h4>🤖 AI Generation Disclaimer</h4>
+                    <div class="disclaimer-text">
+                        <strong>Important:</strong> This site was created using <strong>Super Grok</strong> and <strong>Claude Sonnet 4</strong> generative AI tools. While we strive for accuracy, AI-generated content may contain errors or incorrectly labeled information. 
+                        <br><br>
+                        <strong>Always verify information with multiple sources</strong> and consult your textbooks, teachers, and official AP resources for your studies.
+                    </div>
                 </div>
-            </div>
 
-            <!-- Links Section -->
-            <div class="footer-section">
-                <h4>🔗 Project Resources</h4>
-                <div class="footer-links">
-                    <a href="https://github.com/JD-Jones-ASES/AP_GUIDES_HUB/releases/tag/ap_guides_hub" target="_blank" class="footer-link">
-                        <span class="footer-emoji">📚</span>
-                        View README & License
-                    </a><br>
-                    <a href="https://paypal.me/jdjonestexas" target="_blank" class="footer-link">
-                        <span class="footer-emoji">☕</span>
-                        Support my Work
-                    </a>
+                <!-- Links Section -->
+                <div class="footer-section">
+                    <h4>🔗 Project Resources</h4>
+                    <div class="footer-links">
+                        <a href="https://github.com/JD-Jones-ASES/AP_GUIDES_HUB/releases/tag/ap_guides_hub" target="_blank" class="footer-link">
+                            <span class="footer-emoji">📚</span>
+                            View README & License
+                        </a>
+                        <a href="https://paypal.me/jdjonestexas" target="_blank" class="footer-link">
+                            <span class="footer-emoji">☕</span>
+                            Support My Work
+                        </a>
+                    </div>
+                    <div class="paypal-note">
+                        Tips are never expected, but always appreciated.
+                    </div>
                 </div>
-                <div class="paypal-note">
-                    Tips are never expected, but always appreciated.
-                </div>
-            </div>
 
-            <!-- Copyright Section -->
-            <div class="footer-section">
-                <div class="copyright-text">
-                    <strong>© 2025 JD Jones</strong> • Released under <strong>MIT License</strong><br>
-                    Free to use, share, and modify • Designed for student success
+                <!-- Copyright Section -->
+                <div class="footer-section">
+                    <h4>📄 License & Credits</h4>
+                    <div class="copyright-text">
+                        <strong>© 2025 JD Jones</strong><br>
+                        Released under <strong>MIT License</strong><br>
+                        <br>
+                        Free to use, share, and modify<br>
+                        Designed for student success
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+
     </div>
 
     <script>
